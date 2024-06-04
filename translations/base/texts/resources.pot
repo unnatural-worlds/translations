@@ -1,0 +1,97 @@
+msgid "unnatural/base/resources/aether.proto/title"
+msgstr "Aether"
+
+msgid "unnatural/base/resources/alloys.proto/title"
+msgstr "Alloys"
+
+msgid "unnatural/base/resources/armor_plates.proto/title"
+msgstr "Armor Plates"
+
+msgid "unnatural/base/resources/atomic_forge.proto/title"
+msgstr "Atomic Forge"
+
+msgid "unnatural/base/resources/blaster.proto/title"
+msgstr "Blaster"
+
+msgid "unnatural/base/resources/crystals.proto/title"
+msgstr "Crystals"
+
+msgid "unnatural/base/resources/metal.proto/title"
+msgstr "Metal"
+
+msgid "unnatural/base/resources/oil.proto/title"
+msgstr "Oil"
+
+msgid "unnatural/base/resources/plasma_emitter.proto/title"
+msgstr "Plasma Emitter"
+
+msgid "unnatural/base/resources/power_cell.proto/title"
+msgstr "Power Cell"
+
+msgid "unnatural/base/resources/quantum_ray.proto/title"
+msgstr "Quantum Ray"
+
+msgid "unnatural/base/resources/quark_foam.proto/title"
+msgstr "Quark Foam"
+
+msgid "unnatural/base/resources/rail_gun.proto/title"
+msgstr "Rail Gun"
+
+msgid "unnatural/base/resources/rebars.proto/title"
+msgstr "Rebars"
+
+msgid "unnatural/base/resources/reinforced_plates.proto/title"
+msgstr "Reinforced Plates"
+
+msgid "unnatural/base/resources/shield_projector.proto/title"
+msgstr "Shield Projector"
+
+
+
+msgid "unnatural/base/resources/aether.proto/description"
+msgstr "Gaseous substance that defies scientific understanding."
+
+msgid "unnatural/base/resources/alloys.proto/description"
+msgstr "Refined metals."
+
+msgid "unnatural/base/resources/armor_plates.proto/description"
+msgstr "Layered metal plates offering protection against kinetic weapons."
+
+msgid "unnatural/base/resources/atomic_forge.proto/description"
+msgstr "Box full of atoms hammered together."
+
+msgid "unnatural/base/resources/blaster.proto/description"
+msgstr "Long-range weapon. Used to make holes in architecture."
+
+msgid "unnatural/base/resources/crystals.proto/description"
+msgstr "Regular structure at molecular level makes very sturdy material. Also has some weird optical reflections."
+
+msgid "unnatural/base/resources/metal.proto/description"
+msgstr "Humans were obsessed with gold. But the best metal is iron."
+
+msgid "unnatural/base/resources/oil.proto/description"
+msgstr "Viscous liquid packed with energy."
+
+msgid "unnatural/base/resources/plasma_emitter.proto/description"
+msgstr "Its like a stove, cooking gas into plasma, compacted to fit into a gun. Good at melting through plated armor."
+
+msgid "unnatural/base/resources/power_cell.proto/description"
+msgstr "Soft green light turns tiny hamsters into overdrive. They tirelessly run in their tiny wheels making electricity."
+
+msgid "unnatural/base/resources/quantum_ray.proto/description"
+msgstr "If plasma emitter is like a stove, then quantum ray is like a whole kitchen and bathroom in one. It washes, spins, and cooks quantum-entangled pairs of molecules, and flushes them down the muzzle. Universally effective gun. The muzzle has red stripes - make sure you are pointing it in the right direction."
+
+msgid "unnatural/base/resources/quark_foam.proto/description"
+msgstr "Technobabble term that is not used anywhere else."
+
+msgid "unnatural/base/resources/rail_gun.proto/description"
+msgstr "Gunpowder is lame. This gun is powered by electricity. It shoots hundreds of small nails in a rapid succession. Good at penetrating energy shields."
+
+msgid "unnatural/base/resources/rebars.proto/description"
+msgstr "Ancient Romans used concrete and it was great. We use metal beams and its greater."
+
+msgid "unnatural/base/resources/reinforced_plates.proto/description"
+msgstr "Extra durable armor plates. Very sturdy, but also very heavy."
+
+msgid "unnatural/base/resources/shield_projector.proto/description"
+msgstr "Uses crystals to bent lasers into a bubble, offering good protection from plasma weapons."

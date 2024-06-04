@@ -1,0 +1,10 @@
+[]
+scheme = pack
+texts.pack
+
+[]
+scheme = texts
+buildings.pot
+miscellaneous.pot
+resources.pot
+units.pot
