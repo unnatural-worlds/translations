@@ -2,127 +2,126 @@ msgid ""
 msgstr ""
 "Project-Id-Version: unnatural-worlds\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2024-06-05 19:56\n"
+"PO-Revision-Date: 2024-06-05 20:22\n"
 "Last-Translator: translations <translations@unnatural-worlds.com>\n"
-"Language-Team: English\n"
+"Language-Team: Czech\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: en_US\n"
+"Language: cs_CZ\n"
 "X-Crowdin-SourceKey: msgstr\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 3;\n"
 "X-Crowdin-Project: unnatural-worlds\n"
 "X-Crowdin-Project-ID: 677934\n"
-"X-Crowdin-Language: en\n"
+"X-Crowdin-Language: cs\n"
 "X-Crowdin-File: /base/texts/buildings.pot\n"
 "X-Crowdin-File-ID: 54\n"
 
 msgid "unnatural/base/buildings/air_plant.proto/title"
-msgstr "Air Plant"
+msgstr "Hangár"
 
 msgid "unnatural/base/buildings/arsenal.proto/title"
-msgstr "Arsenal"
+msgstr "Zbrojovka"
 
 msgid "unnatural/base/buildings/bot_assembler.proto/title"
-msgstr "Bot Assembler"
+msgstr "Továrna na Roboty"
 
 msgid "unnatural/base/buildings/brick.proto/title"
-msgstr "Brick"
+msgstr "Cihla"
 
 msgid "unnatural/base/buildings/drill.proto/title"
-msgstr "Drill"
+msgstr "Vrták"
 
 msgid "unnatural/base/buildings/experimental_assembler.proto/title"
-msgstr "Experimental Assembler"
+msgstr "Experimentální Továrna"
 
 msgid "unnatural/base/buildings/fabricator.proto/title"
-msgstr "Fabricator"
+msgstr "Fabrikátor"
 
 msgid "unnatural/base/buildings/generator.proto/title"
-msgstr "Generator"
+msgstr "Generátor"
 
 msgid "unnatural/base/buildings/heimdall.proto/title"
 msgstr "Heimdall"
 
 msgid "unnatural/base/buildings/infuser.proto/title"
-msgstr "Infuser"
+msgstr "Electrolyzér"
 
 msgid "unnatural/base/buildings/laboratory.proto/title"
-msgstr "Laboratory"
+msgstr "Laboratoř"
 
 msgid "unnatural/base/buildings/nucleus.proto/title"
-msgstr "Nucleus"
+msgstr "Nukleus"
 
 msgid "unnatural/base/buildings/pump.proto/title"
-msgstr "Pump"
+msgstr "Pumpa"
 
 msgid "unnatural/base/buildings/reactor.proto/title"
-msgstr "Reactor"
+msgstr "Reaktor"
 
 msgid "unnatural/base/buildings/refinery.proto/title"
-msgstr "Refinery"
+msgstr "Rafinérie"
 
 msgid "unnatural/base/buildings/talos.proto/title"
 msgstr "Talos"
 
 msgid "unnatural/base/buildings/thor.proto/title"
-msgstr "Thor"
+msgstr "Thór"
 
 msgid "unnatural/base/buildings/vehicle_factory.proto/title"
-msgstr "Vehicle Factory"
+msgstr "Továrna na Vozidla"
 
 msgid "unnatural/base/buildings/air_plant.proto/description"
-msgstr "Assembles aircrafts and hovercrafts."
+msgstr "Sestavuje letadla a vznášedla."
 
 msgid "unnatural/base/buildings/arsenal.proto/description"
-msgstr "Produces most weapons."
+msgstr "Vyrábí většinu zbraní."
 
 msgid "unnatural/base/buildings/bot_assembler.proto/description"
-msgstr "Assembles bipedal and multipedal robots."
+msgstr "Sestavuje dvojnohé a vícenohé roboty."
 
 msgid "unnatural/base/buildings/brick.proto/description"
-msgstr "Build a wall. Literally."
+msgstr "Staví zeď. Doslova."
 
 msgid "unnatural/base/buildings/drill.proto/description"
-msgstr "Extracts solid resources from deposits."
+msgstr "Extrahuje pevnou surovinu z ložiska."
 
 msgid "unnatural/base/buildings/experimental_assembler.proto/description"
-msgstr "Assembles most powerful robots."
+msgstr "Sestavuje nejsilnější roboty."
 
 msgid "unnatural/base/buildings/fabricator.proto/description"
-msgstr "Produces rebars - good for building buildings."
+msgstr "Vyrábí výztuže - nutné na stavění budov."
 
 msgid "unnatural/base/buildings/generator.proto/description"
-msgstr "Makes batteries - charging is free."
+msgstr "Vyrábí baterky - nabíjení je zdarma."
 
 msgid "unnatural/base/buildings/heimdall.proto/description"
-msgstr "Powerful defensive tower."
+msgstr "Silná obranná věž."
 
 msgid "unnatural/base/buildings/infuser.proto/description"
-msgstr "Submerges armor plates in liquid crystals to improve their durability.\n"
-"Used for defensive buildings."
+msgstr "Zlepšuje výdrž pancéřových desek napuštěním tekutými krystaly."
 
 msgid "unnatural/base/buildings/laboratory.proto/description"
-msgstr "Mad scientist with a microscope."
+msgstr "Šílený vědec s mikroskopem."
 
 msgid "unnatural/base/buildings/nucleus.proto/description"
-msgstr "Your home. Keep it safe."
+msgstr "Tvůj domov. Udržuj ho v bezpečí."
 
 msgid "unnatural/base/buildings/pump.proto/description"
-msgstr "Extracts liquid or gaseous resources from deposits."
+msgstr "Extrahuje kapalinu nebo plyn z ložiska."
 
 msgid "unnatural/base/buildings/reactor.proto/description"
-msgstr "Fusion will be available in 30 years. So alchemy it is for now."
+msgstr "Jaderná fůze bude dostupná za 30 let. Do té doby máme alchymii."
 
 msgid "unnatural/base/buildings/refinery.proto/description"
-msgstr "Refines metals into alloys."
+msgstr "Rafinuje kovy na slitiny."
 
 msgid "unnatural/base/buildings/talos.proto/description"
-msgstr "Cheap defensive tower."
+msgstr "Levná obranná věž."
 
 msgid "unnatural/base/buildings/thor.proto/description"
-msgstr "Casts lightning on distant enemies. Because throwing a hammer would have annoyingly long cooldown."
+msgstr "Vrhá blesky na vzdálené nepřátele. Protože vrženému kladivu by trvalo otravně dlouho než se vrátí."
 
 msgid "unnatural/base/buildings/vehicle_factory.proto/description"
-msgstr "Assembles wheeled and tracked vehicles."
+msgstr "Sestavuje kolová a pásová vozidla."
 
