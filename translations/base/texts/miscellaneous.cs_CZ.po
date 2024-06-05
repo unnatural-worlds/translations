@@ -2,18 +2,18 @@ msgid ""
 msgstr ""
 "Project-Id-Version: unnatural-worlds\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2024-06-05 12:06\n"
+"PO-Revision-Date: 2024-06-05 11:58\n"
 "Last-Translator: translations <translations@unnatural-worlds.com>\n"
-"Language-Team: English\n"
+"Language-Team: Czech\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: en_US\n"
+"Language: cs_CZ\n"
 "X-Crowdin-SourceKey: msgstr\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 3;\n"
 "X-Crowdin-Project: unnatural-worlds\n"
 "X-Crowdin-Project-ID: 677934\n"
-"X-Crowdin-Language: en\n"
+"X-Crowdin-Language: cs\n"
 "X-Crowdin-File: /base/texts/miscellaneous.pot\n"
 "X-Crowdin-File-ID: 58\n"
 
@@ -21,50 +21,50 @@ msgid "unnatural/base/damageTypes/laser"
 msgstr "Laser"
 
 msgid "unnatural/base/damageTypes/kinetic"
-msgstr "Kinetic"
+msgstr "Kinetický"
 
 msgid "unnatural/base/damageTypes/plasma"
-msgstr "Plasma"
+msgstr "Plasmový"
 
 msgid "unnatural/base/damageTypes/blaster"
 msgstr "Blaster"
 
 msgid "unnatural/base/damageTypes/quantum"
-msgstr "Quantum"
+msgstr "Kvantový"
 
 msgid "unnatural/base/armorTypes/none"
-msgstr "None"
+msgstr "Žádný"
 
 msgid "unnatural/base/armorTypes/armor_plates"
-msgstr "Armor Plates"
+msgstr "Pancéřové Desky"
 
 msgid "unnatural/base/armorTypes/energy_shield"
-msgstr "Energy Shield"
+msgstr "Energetický Štít"
 
 msgid "unnatural/base/armorTypes/building"
-msgstr "Building"
+msgstr "Budova"
 
 msgid "unnatural/base/armorTypes/barrier"
-msgstr "Barrier"
+msgstr "Bariéra"
 
 msgid "unnatural/base/armorTypes/invulnerable"
-msgstr "Invulnerable"
+msgstr "Nezranitelný"
 
 msgid "unnatural/base/terrainTypes/road"
-msgstr "Road"
+msgstr "Silnice"
 
 msgid "unnatural/base/terrainTypes/flat"
-msgstr "Flat"
+msgstr "Plochý"
 
 msgid "unnatural/base/terrainTypes/rough"
-msgstr "Rough"
+msgstr "Hrubý"
 
 msgid "unnatural/base/terrainTypes/cliffs"
-msgstr "Cliffs"
+msgstr "Útes"
 
 msgid "unnatural/base/terrainTypes/shallow_water"
-msgstr "Shallow Water"
+msgstr "Mělká voda"
 
 msgid "unnatural/base/terrainTypes/deep_water"
-msgstr "Deep Water"
+msgstr "Hluboká voda"
 

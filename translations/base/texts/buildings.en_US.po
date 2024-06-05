@@ -1,17 +1,21 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: unnatural-worlds\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2024-06-05 12:06\n"
 "Last-Translator: translations <translations@unnatural-worlds.com>\n"
-"Language-Team: translations <translations@unnatural-worlds.com>\n"
+"Language-Team: English\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: en_US\n"
 "X-Crowdin-SourceKey: msgstr\n"
-
-
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: unnatural-worlds\n"
+"X-Crowdin-Project-ID: 677934\n"
+"X-Crowdin-Language: en\n"
+"X-Crowdin-File: /base/texts/buildings.pot\n"
+"X-Crowdin-File-ID: 54\n"
 
 msgid "unnatural/base/buildings/air_plant.proto/title"
 msgstr "Air Plant"
@@ -67,8 +71,6 @@ msgstr "Thor"
 msgid "unnatural/base/buildings/vehicle_factory.proto/title"
 msgstr "Vehicle Factory"
 
-
-
 msgid "unnatural/base/buildings/air_plant.proto/description"
 msgstr "Assembles aircrafts and hovercrafts."
 
@@ -97,8 +99,7 @@ msgid "unnatural/base/buildings/heimdall.proto/description"
 msgstr "Powerful defensive tower."
 
 msgid "unnatural/base/buildings/infuser.proto/description"
-msgstr ""
-"Submerges armor plates in liquid crystals to improve their durability.\n"
+msgstr "Submerges armor plates in liquid crystals to improve their durability.\n"
 "Used for defensive buildings."
 
 msgid "unnatural/base/buildings/laboratory.proto/description"
@@ -124,3 +125,4 @@ msgstr "Casts lightning on distant enemies. Because throwing a hammer would have
 
 msgid "unnatural/base/buildings/vehicle_factory.proto/description"
 msgstr "Assembles wheeled and tracked vehicles."
+

@@ -2,114 +2,115 @@ msgid ""
 msgstr ""
 "Project-Id-Version: unnatural-worlds\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2024-06-05 12:06\n"
+"PO-Revision-Date: 2024-06-05 11:58\n"
 "Last-Translator: translations <translations@unnatural-worlds.com>\n"
-"Language-Team: English\n"
+"Language-Team: Czech\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: en_US\n"
+"Language: cs_CZ\n"
 "X-Crowdin-SourceKey: msgstr\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 3;\n"
 "X-Crowdin-Project: unnatural-worlds\n"
 "X-Crowdin-Project-ID: 677934\n"
-"X-Crowdin-Language: en\n"
+"X-Crowdin-Language: cs\n"
 "X-Crowdin-File: /base/texts/resources.pot\n"
 "X-Crowdin-File-ID: 60\n"
 
 msgid "unnatural/base/resources/aether.proto/title"
-msgstr "Aether"
+msgstr "Éter"
 
 msgid "unnatural/base/resources/alloys.proto/title"
-msgstr "Alloys"
+msgstr "Slitiny"
 
 msgid "unnatural/base/resources/armor_plates.proto/title"
-msgstr "Armor Plates"
+msgstr "Pancéřové Desky"
 
 msgid "unnatural/base/resources/atomic_forge.proto/title"
-msgstr "Atomic Forge"
+msgstr "Atomová Výheň"
 
 msgid "unnatural/base/resources/blaster.proto/title"
 msgstr "Blaster"
 
 msgid "unnatural/base/resources/crystals.proto/title"
-msgstr "Crystals"
+msgstr "Krystaly"
 
 msgid "unnatural/base/resources/metal.proto/title"
-msgstr "Metal"
+msgstr "Kov"
 
 msgid "unnatural/base/resources/oil.proto/title"
-msgstr "Oil"
+msgstr "Ropa"
 
 msgid "unnatural/base/resources/plasma_emitter.proto/title"
-msgstr "Plasma Emitter"
+msgstr "Plasmový Vrhač"
 
 msgid "unnatural/base/resources/power_cell.proto/title"
-msgstr "Power Cell"
+msgstr "Napájecí Článek"
 
 msgid "unnatural/base/resources/quantum_ray.proto/title"
-msgstr "Quantum Ray"
+msgstr "Kvantový Paprsek"
 
 msgid "unnatural/base/resources/quark_foam.proto/title"
-msgstr "Quark Foam"
+msgstr "Kvarková Pěna"
 
 msgid "unnatural/base/resources/rail_gun.proto/title"
-msgstr "Rail Gun"
+msgstr "Railgun"
 
 msgid "unnatural/base/resources/rebars.proto/title"
-msgstr "Rebars"
+msgstr "Výztuže"
 
 msgid "unnatural/base/resources/reinforced_plates.proto/title"
-msgstr "Reinforced Plates"
+msgstr "Tvrzené Pláty"
 
 msgid "unnatural/base/resources/shield_projector.proto/title"
-msgstr "Shield Projector"
+msgstr "Projektor Štítu"
 
 msgid "unnatural/base/resources/aether.proto/description"
-msgstr "Gaseous substance that defies scientific understanding."
+msgstr "Plynná látka, která se vzpírá vědeckému porozumění."
 
 msgid "unnatural/base/resources/alloys.proto/description"
-msgstr "Refined metals."
+msgstr "Rafinované kovy."
 
 msgid "unnatural/base/resources/armor_plates.proto/description"
-msgstr "Layered metal plates offering protection against kinetic weapons."
+msgstr "Vrstvené kovové desky poskytující ochranu proti kinetickým zbraním."
 
 msgid "unnatural/base/resources/atomic_forge.proto/description"
-msgstr "Box full of atoms hammered together."
+msgstr "Krabice plná atomů stlučených dohromady."
 
 msgid "unnatural/base/resources/blaster.proto/description"
-msgstr "Long-range weapon. Used to make holes in architecture."
+msgstr "Zbraň dlouhého dosahu. Používá se na dělání děr v architektuře."
 
 msgid "unnatural/base/resources/crystals.proto/description"
-msgstr "Regular structure at molecular level makes very sturdy material. Also has some weird optical reflections."
+msgstr "Pravidelná struktura na molekulární úrovni dělá tento materiál velmi odolným. Také má bizarní optické odrazy."
 
 msgid "unnatural/base/resources/metal.proto/description"
-msgstr "Humans were obsessed with gold. But the best metal is iron."
+msgstr "Lidé byli posedlí zlatem. Ale nejlepší kov je železo."
 
 msgid "unnatural/base/resources/oil.proto/description"
-msgstr "Viscous liquid packed with energy."
+msgstr "Viskózní kapalina plná energie."
 
 msgid "unnatural/base/resources/plasma_emitter.proto/description"
-msgstr "Its like a stove, cooking gas into plasma, compacted to fit into a gun. Good at melting through plated armor."
+msgstr "Je to jako sporák, převaří plyn na plazmu, a zmenšené aby se to vešlo do zbraně.\n"
+"Vhodné na propalování skrz tvrzené desky."
 
 msgid "unnatural/base/resources/power_cell.proto/description"
-msgstr "Soft green light turns tiny hamsters into overdrive. They tirelessly run in their tiny wheels making electricity."
+msgstr "Měkké zelené světlo nutí malé křečky k rychloběhu. Neúnavně ve svých malých kolech vyrábějí elektřinu."
 
 msgid "unnatural/base/resources/quantum_ray.proto/description"
-msgstr "If plasma emitter is like a stove, then quantum ray is like a whole kitchen and bathroom in one. It washes, spins, and cooks quantum-entangled pairs of molecules, and flushes them down the muzzle. Universally effective gun. The muzzle has red stripes - make sure you are pointing it in the right direction."
+msgstr "Je-li plazmový emitor jako kamna, kvantový paprsek je jako celá kuchyň a koupelna v jednom. Oplachuje, roztáčí, a vaří kvantově svázané páry molekul a nakonec je spláchne hlavní ven. Univerzálně účinné dělo. Na hlavni jsou červené pruhy - ujistěte se, že tím míříte správným směrem."
 
 msgid "unnatural/base/resources/quark_foam.proto/description"
-msgstr "Technobabble term that is not used anywhere else."
+msgstr "Technoblábol, který se nepoužívá nikde jinde."
 
 msgid "unnatural/base/resources/rail_gun.proto/description"
-msgstr "Gunpowder is lame. This gun is powered by electricity. It shoots hundreds of small nails in a rapid succession. Good at penetrating energy shields."
+msgstr "Střelný prach je trapný. Tahle zbraň používá elektřinu. Vystřelí stovky malých hřebíků v rychlé salvě. Vhodné na prorážení energetických štítů."
 
 msgid "unnatural/base/resources/rebars.proto/description"
-msgstr "Ancient Romans used concrete and it was great. We use metal beams and its greater."
+msgstr "Starodávní římané používali beton a bylo to super. My používáme kovové tyče a je to ještě lepší."
 
 msgid "unnatural/base/resources/reinforced_plates.proto/description"
-msgstr "Extra durable armor plates. Very sturdy, but also very heavy."
+msgstr "Extra odolný pancíř. Velmi robustní, ale taky velmi těžký."
 
 msgid "unnatural/base/resources/shield_projector.proto/description"
-msgstr "Uses crystals to bent lasers into a bubble, offering good protection from plasma weapons."
+msgstr "Používá krystaly k ohýbání laserů do bubliny, poskytuje dobrou ochranu před plazmatickými zbraněmi."
 

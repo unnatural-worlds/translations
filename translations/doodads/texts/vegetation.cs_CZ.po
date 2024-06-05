@@ -2,78 +2,78 @@ msgid ""
 msgstr ""
 "Project-Id-Version: unnatural-worlds\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2024-06-05 12:06\n"
+"PO-Revision-Date: 2024-06-05 11:58\n"
 "Last-Translator: translations <translations@unnatural-worlds.com>\n"
-"Language-Team: English\n"
+"Language-Team: Czech\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: en_US\n"
+"Language: cs_CZ\n"
 "X-Crowdin-SourceKey: msgstr\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 3;\n"
 "X-Crowdin-Project: unnatural-worlds\n"
 "X-Crowdin-Project-ID: 677934\n"
-"X-Crowdin-Language: en\n"
+"X-Crowdin-Language: cs\n"
 "X-Crowdin-File: /doodads/texts/vegetation.pot\n"
 "X-Crowdin-File-ID: 56\n"
 
 msgid "unnatural/doodads/vegetation/plant_1.proto/title"
-msgstr "Plant 1"
+msgstr "Rostlina 1"
 
 msgid "unnatural/doodads/vegetation/plant_2.proto/title"
-msgstr "Plant 2"
+msgstr "Rostlina 2"
 
 msgid "unnatural/doodads/vegetation/plant_3.proto/title"
-msgstr "Plant 3"
+msgstr "Rostlina 3"
 
 msgid "unnatural/doodads/vegetation/plant_4.proto/title"
-msgstr "Plant 4"
+msgstr "Rostlina 4"
 
 msgid "unnatural/doodads/vegetation/plant_5.proto/title"
-msgstr "Plant 5"
+msgstr "Rostlina 5"
 
 msgid "unnatural/doodads/vegetation/plant_6.proto/title"
-msgstr "Plant 6"
+msgstr "Rostlina 6"
 
 msgid "unnatural/doodads/vegetation/tree_1.proto/title"
-msgstr "Tree 1"
+msgstr "Strom 1"
 
 msgid "unnatural/doodads/vegetation/tree_2.proto/title"
-msgstr "Tree 2"
+msgstr "Strom 2"
 
 msgid "unnatural/doodads/vegetation/tree_3.proto/title"
-msgstr "Tree 3"
+msgstr "Strom 3"
 
 msgid "unnatural/doodads/vegetation/tree_4.proto/title"
-msgstr "Tree 4"
+msgstr "Strom 4"
 
 msgid "unnatural/doodads/vegetation/plant_1.proto/description"
-msgstr "Native flora."
+msgstr "Domácí flóra."
 
 msgid "unnatural/doodads/vegetation/plant_2.proto/description"
-msgstr "Native flora."
+msgstr "Domácí flóra."
 
 msgid "unnatural/doodads/vegetation/plant_3.proto/description"
-msgstr "Native flora."
+msgstr "Domácí flóra."
 
 msgid "unnatural/doodads/vegetation/plant_4.proto/description"
-msgstr "Native flora."
+msgstr "Domácí flóra."
 
 msgid "unnatural/doodads/vegetation/plant_5.proto/description"
-msgstr "Native flora."
+msgstr "Domácí flóra."
 
 msgid "unnatural/doodads/vegetation/plant_6.proto/description"
-msgstr "Native flora."
+msgstr "Domácí flóra."
 
 msgid "unnatural/doodads/vegetation/tree_1.proto/description"
-msgstr "Native flora."
+msgstr "Domácí flóra."
 
 msgid "unnatural/doodads/vegetation/tree_2.proto/description"
-msgstr "Native flora."
+msgstr "Domácí flóra."
 
 msgid "unnatural/doodads/vegetation/tree_3.proto/description"
-msgstr "Native flora."
+msgstr "Domácí flóra."
 
 msgid "unnatural/doodads/vegetation/tree_4.proto/description"
-msgstr "Native flora."
+msgstr "Domácí flóra."
 
