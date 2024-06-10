@@ -56,8 +56,8 @@ msgstr "Quark Foam"
 msgid "unnatural/base/resources/rail_gun.proto/title"
 msgstr "Rail Gun"
 
-msgid "unnatural/base/resources/rebars.proto/title"
-msgstr "Rebars"
+msgid "unnatural/base/resources/reinforced_concrete.proto/title"
+msgstr "Reinforced Concrete"
 
 msgid "unnatural/base/resources/reinforced_plates.proto/title"
 msgstr "Reinforced Plates"
@@ -104,8 +104,8 @@ msgstr "Technobabble term that is not used anywhere else."
 msgid "unnatural/base/resources/rail_gun.proto/description"
 msgstr "Gunpowder is lame. This gun is powered by electricity. It shoots hundreds of small nails in a rapid succession. Good at penetrating energy shields."
 
-msgid "unnatural/base/resources/rebars.proto/description"
-msgstr "Ancient Romans used concrete and it was great. We use metal beams and its greater."
+msgid "unnatural/base/resources/reinforced_concrete.proto/description"
+msgstr "Building buildings with metal."
 
 msgid "unnatural/base/resources/reinforced_plates.proto/description"
 msgstr "Extra durable armor plates. Very sturdy, but also very heavy."

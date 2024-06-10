@@ -56,8 +56,8 @@ msgstr "Kvarková Pěna"
 msgid "unnatural/base/resources/rail_gun.proto/title"
 msgstr "Railgun"
 
-msgid "unnatural/base/resources/rebars.proto/title"
-msgstr "Výztuže"
+msgid "unnatural/base/resources/reinforced_concrete.proto/title"
+msgstr "Tvrzený Beton"
 
 msgid "unnatural/base/resources/reinforced_plates.proto/title"
 msgstr "Tvrzené Pláty"
@@ -105,8 +105,8 @@ msgstr "Technoblábol, který se nepoužívá nikde jinde."
 msgid "unnatural/base/resources/rail_gun.proto/description"
 msgstr "Střelný prach je trapný. Tahle zbraň používá elektřinu. Vystřelí stovky malých hřebíků v rychlé salvě. Vhodné na prorážení energetických štítů."
 
-msgid "unnatural/base/resources/rebars.proto/description"
-msgstr "Starodávní římané používali beton a bylo to super. My používáme kovové tyče a je to ještě lepší."
+msgid "unnatural/base/resources/reinforced_concrete.proto/description"
+msgstr "Stavební materiál obohacený železem."
 
 msgid "unnatural/base/resources/reinforced_plates.proto/description"
 msgstr "Extra odolný pancíř. Velmi robustní, ale taky velmi těžký."

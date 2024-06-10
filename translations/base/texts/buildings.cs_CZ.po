@@ -35,8 +35,8 @@ msgstr "Vrták"
 msgid "unnatural/base/buildings/experimental_assembler.proto/title"
 msgstr "Experimentální Továrna"
 
-msgid "unnatural/base/buildings/fabricator.proto/title"
-msgstr "Fabrikátor"
+msgid "unnatural/base/buildings/concrete_plant.proto/title"
+msgstr "Betonárka"
 
 msgid "unnatural/base/buildings/generator.proto/title"
 msgstr "Generátor"
@@ -44,8 +44,8 @@ msgstr "Generátor"
 msgid "unnatural/base/buildings/heimdall.proto/title"
 msgstr "Heimdall"
 
-msgid "unnatural/base/buildings/infuser.proto/title"
-msgstr "Electrolyzér"
+msgid "unnatural/base/buildings/blender.proto/title"
+msgstr "Míchačka"
 
 msgid "unnatural/base/buildings/laboratory.proto/title"
 msgstr "Laboratoř"
@@ -56,11 +56,11 @@ msgstr "Nukleus"
 msgid "unnatural/base/buildings/pump.proto/title"
 msgstr "Pumpa"
 
-msgid "unnatural/base/buildings/reactor.proto/title"
-msgstr "Reaktor"
+msgid "unnatural/base/buildings/forgepress.proto/title"
+msgstr "Kovací lis"
 
-msgid "unnatural/base/buildings/refinery.proto/title"
-msgstr "Rafinérie"
+msgid "unnatural/base/buildings/smelter.proto/title"
+msgstr "Vysoká pec"
 
 msgid "unnatural/base/buildings/talos.proto/title"
 msgstr "Talos"
@@ -89,8 +89,8 @@ msgstr "Extrahuje pevnou surovinu z ložiska."
 msgid "unnatural/base/buildings/experimental_assembler.proto/description"
 msgstr "Sestavuje nejsilnější roboty."
 
-msgid "unnatural/base/buildings/fabricator.proto/description"
-msgstr "Vyrábí výztuže - nutné na stavění budov."
+msgid "unnatural/base/buildings/concrete_plant.proto/description"
+msgstr "Vyrábí vyztužený beton - nutné na stavění budov."
 
 msgid "unnatural/base/buildings/generator.proto/description"
 msgstr "Vyrábí baterky - nabíjení je zdarma."
@@ -98,8 +98,8 @@ msgstr "Vyrábí baterky - nabíjení je zdarma."
 msgid "unnatural/base/buildings/heimdall.proto/description"
 msgstr "Silná obranná věž."
 
-msgid "unnatural/base/buildings/infuser.proto/description"
-msgstr "Zlepšuje výdrž pancéřových desek napuštěním tekutými krystaly."
+msgid "unnatural/base/buildings/blender.proto/description"
+msgstr "Míchání, vypařování, usazování. Bůh ví co tam dělají."
 
 msgid "unnatural/base/buildings/laboratory.proto/description"
 msgstr "Šílený vědec s mikroskopem."
@@ -110,10 +110,10 @@ msgstr "Tvůj domov. Udržuj ho v bezpečí."
 msgid "unnatural/base/buildings/pump.proto/description"
 msgstr "Extrahuje kapalinu nebo plyn z ložiska."
 
-msgid "unnatural/base/buildings/reactor.proto/description"
-msgstr "Jaderná fůze bude dostupná za 30 let. Do té doby máme alchymii."
+msgid "unnatural/base/buildings/forgepress.proto/description"
+msgstr "Těžké údery za vysoké teploty mění slitiny na pancíř."
 
-msgid "unnatural/base/buildings/refinery.proto/description"
+msgid "unnatural/base/buildings/smelter.proto/description"
 msgstr "Rafinuje kovy na slitiny."
 
 msgid "unnatural/base/buildings/talos.proto/description"
