@@ -62,8 +62,5 @@ msgstr "Rough"
 msgid "unnatural/base/terrainTypes/cliffs"
 msgstr "Cliffs"
 
-msgid "unnatural/base/terrainTypes/shallow_water"
-msgstr "Shallow Water"
-
-msgid "unnatural/base/terrainTypes/deep_water"
-msgstr "Deep Water"
+msgid "unnatural/base/terrainTypes/water"
+msgstr "Water"

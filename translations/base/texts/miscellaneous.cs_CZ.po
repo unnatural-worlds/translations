@@ -62,9 +62,5 @@ msgstr "Hrubý"
 msgid "unnatural/base/terrainTypes/cliffs"
 msgstr "Útes"
 
-msgid "unnatural/base/terrainTypes/shallow_water"
-msgstr "Mělká voda"
-
-msgid "unnatural/base/terrainTypes/deep_water"
-msgstr "Hluboká voda"
-
+msgid "unnatural/base/terrainTypes/water"
+msgstr "Voda"
