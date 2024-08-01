@@ -93,7 +93,7 @@ msgid "unnatural/base/resources/plasma_emitter.proto/description"
 msgstr "Its like a stove, cooking gas into plasma, compacted to fit into a gun. Good at melting through plated armor."
 
 msgid "unnatural/base/resources/power_cell.proto/description"
-msgstr "Soft green light turns tiny hamsters into overdrive. They tirelessly run in their tiny wheels making electricity."
+msgstr "Compact energy storage. Very dense (both energy and character)."
 
 msgid "unnatural/base/resources/quantum_ray.proto/description"
 msgstr "If plasma emitter is like a stove, then quantum ray is like a whole kitchen and bathroom in one. It washes, spins, and cooks quantum-entangled pairs of molecules, and flushes them down the muzzle. Universally effective gun. The muzzle has red stripes - make sure you are pointing it in the right direction."

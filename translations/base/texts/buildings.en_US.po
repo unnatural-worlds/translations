@@ -17,8 +17,10 @@ msgstr ""
 "X-Crowdin-File: /base/texts/buildings.pot\n"
 "X-Crowdin-File-ID: 54\n"
 
-msgid "unnatural/base/buildings/air_plant.proto/title"
-msgstr "Air Plant"
+
+
+msgid "unnatural/base/buildings/factory.proto/title"
+msgstr "Factory"
 
 msgid "unnatural/base/buildings/arsenal.proto/title"
 msgstr "Arsenal"
@@ -68,17 +70,19 @@ msgstr "Talos"
 msgid "unnatural/base/buildings/thor.proto/title"
 msgstr "Thor"
 
-msgid "unnatural/base/buildings/vehicle_factory.proto/title"
-msgstr "Vehicle Factory"
+msgid "unnatural/base/buildings/vehicle_assembler.proto/title"
+msgstr "Vehicle Assembler"
 
-msgid "unnatural/base/buildings/air_plant.proto/description"
-msgstr "Assembles aircrafts and hovercrafts."
+
+
+msgid "unnatural/base/buildings/factory.proto/description"
+msgstr "T1 units production."
 
 msgid "unnatural/base/buildings/arsenal.proto/description"
 msgstr "Produces most weapons."
 
 msgid "unnatural/base/buildings/bot_assembler.proto/description"
-msgstr "Assembles bipedal and multipedal robots."
+msgstr "T2 units production. Specializes in bipedal and multipedal robots."
 
 msgid "unnatural/base/buildings/brick.proto/description"
 msgstr "Build a wall. Literally."
@@ -87,7 +91,7 @@ msgid "unnatural/base/buildings/drill.proto/description"
 msgstr "Extracts solid resources from deposits."
 
 msgid "unnatural/base/buildings/experimental_assembler.proto/description"
-msgstr "Assembles most powerful robots."
+msgstr "T3 units production. Assembles most powerful robots."
 
 msgid "unnatural/base/buildings/concrete_plant.proto/description"
 msgstr "Produces reinforced concrete - good for building buildings."
@@ -122,6 +126,5 @@ msgstr "Cheap defensive tower."
 msgid "unnatural/base/buildings/thor.proto/description"
 msgstr "Casts lightning on distant enemies. Because throwing a hammer would have annoyingly long cooldown."
 
-msgid "unnatural/base/buildings/vehicle_factory.proto/description"
-msgstr "Assembles wheeled and tracked vehicles."
-
+msgid "unnatural/base/buildings/vehicle_assembler.proto/description"
+msgstr "T2 units production. Specializes in wheeled and tracked vehicles and hovercrafts."

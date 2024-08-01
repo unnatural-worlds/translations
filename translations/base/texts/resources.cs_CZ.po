@@ -94,7 +94,7 @@ msgstr "Je to jako sporák, převaří plyn na plazmu, a zmenšené aby se to ve
 "Vhodné na propalování skrz tvrzené desky."
 
 msgid "unnatural/base/resources/power_cell.proto/description"
-msgstr "Měkké zelené světlo nutí malé křečky k rychloběhu. Neúnavně ve svých malých kolech vyrábějí elektřinu."
+msgstr "Přenosná baterka. Hodně energie."
 
 msgid "unnatural/base/resources/quantum_ray.proto/description"
 msgstr "Je-li plazmový emitor jako kamna, kvantový paprsek je jako celá kuchyň a koupelna v jednom. Oplachuje, roztáčí, a vaří kvantově svázané páry molekul a nakonec je spláchne hlavní ven. Univerzálně účinné dělo. Na hlavni jsou červené pruhy - ujistěte se, že tím míříte správným směrem."

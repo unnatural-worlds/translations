@@ -17,8 +17,8 @@ msgstr ""
 "X-Crowdin-File: /base/texts/buildings.pot\n"
 "X-Crowdin-File-ID: 54\n"
 
-msgid "unnatural/base/buildings/air_plant.proto/title"
-msgstr "Hangár"
+msgid "unnatural/base/buildings/factory.proto/title"
+msgstr "Továrna"
 
 msgid "unnatural/base/buildings/arsenal.proto/title"
 msgstr "Zbrojovka"
@@ -68,17 +68,17 @@ msgstr "Talos"
 msgid "unnatural/base/buildings/thor.proto/title"
 msgstr "Thór"
 
-msgid "unnatural/base/buildings/vehicle_factory.proto/title"
+msgid "unnatural/base/buildings/vehicle_assembler.proto/title"
 msgstr "Továrna na Vozidla"
 
-msgid "unnatural/base/buildings/air_plant.proto/description"
-msgstr "Sestavuje letadla a vznášedla."
+msgid "unnatural/base/buildings/factory.proto/description"
+msgstr "Vyrábí T1 jednotky."
 
 msgid "unnatural/base/buildings/arsenal.proto/description"
 msgstr "Vyrábí většinu zbraní."
 
 msgid "unnatural/base/buildings/bot_assembler.proto/description"
-msgstr "Sestavuje dvojnohé a vícenohé roboty."
+msgstr "Vyrábí T2 jednotky. Zaměřuje se na dvojnohé a vícenohé roboty."
 
 msgid "unnatural/base/buildings/brick.proto/description"
 msgstr "Staví zeď. Doslova."
@@ -87,7 +87,7 @@ msgid "unnatural/base/buildings/drill.proto/description"
 msgstr "Extrahuje pevnou surovinu z ložiska."
 
 msgid "unnatural/base/buildings/experimental_assembler.proto/description"
-msgstr "Sestavuje nejsilnější roboty."
+msgstr "Vyrábí T3 jednotky. Sestavuje nejsilnější roboty."
 
 msgid "unnatural/base/buildings/concrete_plant.proto/description"
 msgstr "Vyrábí vyztužený beton - nutné na stavění budov."
@@ -105,7 +105,7 @@ msgid "unnatural/base/buildings/laboratory.proto/description"
 msgstr "Šílený vědec s mikroskopem."
 
 msgid "unnatural/base/buildings/nucleus.proto/description"
-msgstr "Tvůj domov. Udržuj ho v bezpečí."
+msgstr "Tvůj domov. Drž ho v bezpečí."
 
 msgid "unnatural/base/buildings/pump.proto/description"
 msgstr "Extrahuje kapalinu nebo plyn z ložiska."
@@ -122,6 +122,6 @@ msgstr "Levná obranná věž."
 msgid "unnatural/base/buildings/thor.proto/description"
 msgstr "Vrhá blesky na vzdálené nepřátele. Protože vrženému kladivu by trvalo otravně dlouho než se vrátí."
 
-msgid "unnatural/base/buildings/vehicle_factory.proto/description"
-msgstr "Sestavuje kolová a pásová vozidla."
+msgid "unnatural/base/buildings/vehicle_assembler.proto/description"
+msgstr "Vyrábí T2 jednotky. Zaměřuje se na kolová a pásová vozidla."
 

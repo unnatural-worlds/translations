@@ -50,25 +50,32 @@ msgstr "Paladin"
 msgid "unnatural/base/units/twinfire.proto/title"
 msgstr "Twinfire"
 
+
+
 msgid "unnatural/base/units/ATV.proto/description"
-msgstr "Automated transfer vehicle. Moves resources from A to B."
+msgstr "Automated transfer vehicle. Moves goods from A to B."
 
 msgid "unnatural/base/units/colossus.proto/description"
 msgstr "Mighty robot. Todo: mighty description."
 
 msgid "unnatural/base/units/cyclops.proto/description"
-msgstr "Focuses its one eye as a scope.\n"
-"Strong vs. buildings and walls."
+msgstr ""
+"Focuses its one eye as a scope.\n"
+"Long range artillery.\n"
+"Good vs. all armored units."
 
 msgid "unnatural/base/units/eagle.proto/description"
 msgstr "All-terrain scout."
 
 msgid "unnatural/base/units/golem.proto/description"
-msgstr "Sniper.\n"
-"Strong vs. energy shields."
+msgstr ""
+"Siege unit.\n"
+"Strong vs. buildings."
 
 msgid "unnatural/base/units/juggernaut.proto/description"
-msgstr "Tanking robot. Great defenses."
+msgstr ""
+"Assault bot.\n"
+"Strong vs. armor plates."
 
 msgid "unnatural/base/units/kitsune.proto/description"
 msgstr "Quick as a fox. Good for harassing weak units."
@@ -77,13 +84,12 @@ msgid "unnatural/base/units/lurker.proto/description"
 msgstr "Ambusher. Can walk over cliffs."
 
 msgid "unnatural/base/units/mermaid.proto/description"
-msgstr "Hovercraft."
+msgstr "Ambusher hovercraft."
 
 msgid "unnatural/base/units/paladin.proto/description"
-msgstr "Assault bot.\n"
-"Strong vs. armored plates."
+msgstr "Tanking robot. Great defenses."
 
 msgid "unnatural/base/units/twinfire.proto/description"
-msgstr "Assault vehicle.\n"
+msgstr ""
+"Assault vehicle.\n"
 "Strong vs. energy shields."
-

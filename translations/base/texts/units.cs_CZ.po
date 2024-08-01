@@ -50,6 +50,8 @@ msgstr "Paladin"
 msgid "unnatural/base/units/twinfire.proto/title"
 msgstr "Dvojdělo"
 
+
+
 msgid "unnatural/base/units/ATV.proto/description"
 msgstr "Automatizované přepravní vozidlo. Přesunuje suroviny z A do B."
 
@@ -58,17 +60,18 @@ msgstr "Mocný robot. Zaslouží si mocný popisek."
 
 msgid "unnatural/base/units/cyclops.proto/description"
 msgstr "Používá svůj jeden kanón jako hledí.\n"
-"Silný proti budovám a zdem."
+"Silný proti všem obrněným jednotkám."
 
 msgid "unnatural/base/units/eagle.proto/description"
 msgstr "Průzkumník vhodný do jakéhokoli terénu."
 
 msgid "unnatural/base/units/golem.proto/description"
-msgstr "Sniper.\n"
-"Silný proti energetickým štítům."
+msgstr "Obléhací jednotka.\n"
+"Silný proti budovám."
 
 msgid "unnatural/base/units/juggernaut.proto/description"
-msgstr "Obranný robot."
+msgstr "Útočný robot.\n"
+"Silný proti vozidlům s plátovaným brněním."
 
 msgid "unnatural/base/units/kitsune.proto/description"
 msgstr "Rychlý jako liška. Vhodný pro obtěžování slabých jednotek."
@@ -77,11 +80,10 @@ msgid "unnatural/base/units/lurker.proto/description"
 msgstr "Přepadávač. Chodí i přes útesy."
 
 msgid "unnatural/base/units/mermaid.proto/description"
-msgstr "Vznášedlo."
+msgstr "Přepadové vznášedlo."
 
 msgid "unnatural/base/units/paladin.proto/description"
-msgstr "Útočný robot.\n"
-"Silný proti obrněným vozidlům."
+msgstr "Obranný robot."
 
 msgid "unnatural/base/units/twinfire.proto/description"
 msgstr "Útočné vozidlo.\n"
