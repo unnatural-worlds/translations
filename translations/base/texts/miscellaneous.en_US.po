@@ -44,9 +44,6 @@ msgstr "Energy Shield"
 msgid "unnatural/base/armorTypes/building"
 msgstr "Building"
 
-msgid "unnatural/base/armorTypes/barrier"
-msgstr "Barrier"
-
 msgid "unnatural/base/armorTypes/invulnerable"
 msgstr "Invulnerable"
 

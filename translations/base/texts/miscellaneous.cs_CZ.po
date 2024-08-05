@@ -44,9 +44,6 @@ msgstr "Energetický Štít"
 msgid "unnatural/base/armorTypes/building"
 msgstr "Budova"
 
-msgid "unnatural/base/armorTypes/barrier"
-msgstr "Bariéra"
-
 msgid "unnatural/base/armorTypes/invulnerable"
 msgstr "Nezranitelný"
 
