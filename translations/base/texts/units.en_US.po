@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: unnatural-worlds\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2024-06-05 19:56\n"
+"PO-Revision-Date: 2024-08-09 22:26\n"
 "Last-Translator: translations <translations@unnatural-worlds.com>\n"
 "Language-Team: English\n"
 "MIME-Version: 1.0\n"
@@ -50,8 +50,6 @@ msgstr "Paladin"
 msgid "unnatural/base/units/twinfire.proto/title"
 msgstr "Twinfire"
 
-
-
 msgid "unnatural/base/units/ATV.proto/description"
 msgstr "Automated transfer vehicle. Moves goods from A to B."
 
@@ -59,8 +57,7 @@ msgid "unnatural/base/units/colossus.proto/description"
 msgstr "Mighty robot. Todo: mighty description."
 
 msgid "unnatural/base/units/cyclops.proto/description"
-msgstr ""
-"Focuses its one eye as a scope.\n"
+msgstr "Focuses its one eye as a scope.\n"
 "Long range artillery.\n"
 "Good vs. all armored units."
 
@@ -68,13 +65,11 @@ msgid "unnatural/base/units/eagle.proto/description"
 msgstr "All-terrain scout."
 
 msgid "unnatural/base/units/golem.proto/description"
-msgstr ""
-"Siege unit.\n"
+msgstr "Siege unit.\n"
 "Strong vs. buildings."
 
 msgid "unnatural/base/units/juggernaut.proto/description"
-msgstr ""
-"Assault bot.\n"
+msgstr "Assault bot.\n"
 "Strong vs. armor plates."
 
 msgid "unnatural/base/units/kitsune.proto/description"
@@ -90,6 +85,6 @@ msgid "unnatural/base/units/paladin.proto/description"
 msgstr "Tanking robot. Great defenses."
 
 msgid "unnatural/base/units/twinfire.proto/description"
-msgstr ""
-"Assault vehicle.\n"
+msgstr "Assault vehicle.\n"
 "Strong vs. energy shields."
+

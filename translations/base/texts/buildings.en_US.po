@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: unnatural-worlds\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2024-06-05 19:56\n"
+"PO-Revision-Date: 2024-08-09 22:26\n"
 "Last-Translator: translations <translations@unnatural-worlds.com>\n"
 "Language-Team: English\n"
 "MIME-Version: 1.0\n"
@@ -16,8 +16,6 @@ msgstr ""
 "X-Crowdin-Language: en\n"
 "X-Crowdin-File: /base/texts/buildings.pot\n"
 "X-Crowdin-File-ID: 54\n"
-
-
 
 msgid "unnatural/base/buildings/factory.proto/title"
 msgstr "Factory"
@@ -73,8 +71,6 @@ msgstr "Thor"
 msgid "unnatural/base/buildings/vehicle_assembler.proto/title"
 msgstr "Vehicle Assembler"
 
-
-
 msgid "unnatural/base/buildings/factory.proto/description"
 msgstr "T1 units production."
 
@@ -128,3 +124,4 @@ msgstr "Casts lightning on distant enemies. Because throwing a hammer would have
 
 msgid "unnatural/base/buildings/vehicle_assembler.proto/description"
 msgstr "T2 units production. Specializes in wheeled and tracked vehicles and hovercrafts."
+
