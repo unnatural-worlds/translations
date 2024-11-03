@@ -1,0 +1,936 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: translations <translations@unnatural-worlds.com>\n"
+"Language-Team: translations <translations@unnatural-worlds.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_US\n"
+"X-Crowdin-SourceKey: msgstr\n"
+
+
+
+msgid "unnatural/abort"
+msgstr "Abort"
+
+msgid "unnatural/about/aboutUnnaturalWorlds"
+msgstr "About Unnatural Worlds"
+
+msgid "unnatural/about/madeByTomasMaly"
+msgstr "Made by Tomáš Malý, 2024."
+
+msgid "unnatural/cancel"
+msgstr "Cancel"
+
+msgid "unnatural/chat/chat"
+msgstr "Chat"
+
+msgid "unnatural/chat/messageTemplate"
+msgstr "message"
+
+msgid "unnatural/close"
+msgstr "Close"
+
+msgid "unnatural/commonGame/chat"
+msgstr "Chat"
+
+msgid "unnatural/commonGame/defeated"
+msgstr "Defeated"
+
+msgid "unnatural/commonGame/diplomacy"
+msgstr "Diplomacy"
+
+msgid "unnatural/commonGame/earlyDevelopmentVersion"
+msgstr "Early development version "
+
+msgid "unnatural/commonGame/lexicon"
+msgstr "Lexicon"
+
+msgid "unnatural/commonGame/menu"
+msgstr "Menu"
+
+msgid "unnatural/commonGame/resources"
+msgstr "Resources"
+
+msgid "unnatural/commonGame/units"
+msgstr "Units"
+
+msgid "unnatural/commonGame/uwTitle1"
+msgstr "Unnatural"
+
+msgid "unnatural/commonGame/uwTitle2"
+msgstr "Worlds"
+
+msgid "unnatural/controls/camera"
+msgstr "Camera"
+
+msgid "unnatural/controls/cameraMovement"
+msgstr "Camera movement"
+
+msgid "unnatural/controls/cameraOrientation"
+msgstr "Camera orientation"
+
+msgid "unnatural/controls/cancelDrawing"
+msgstr "Cancel drawing"
+
+msgid "unnatural/controls/cancelPlacing"
+msgstr "Cancel placing"
+
+msgid "unnatural/controls/cancelSelecting"
+msgstr "Cancel selecting"
+
+msgid "unnatural/controls/changeGamma"
+msgstr "Change gamma"
+
+msgid "unnatural/controls/changeSpeed"
+msgstr "Change speed"
+
+msgid "unnatural/controls/cinematicMode"
+msgstr "Cinematic Mode"
+
+msgid "unnatural/controls/colorCodedTerrainTypes"
+msgstr "Color-coded terrain types"
+
+msgid "unnatural/controls/colorCodedTileOccupation"
+msgstr "Color-coded tile occupation"
+
+msgid "unnatural/controls/commands"
+msgstr "Commands"
+
+msgid "unnatural/controls/commitPlacing"
+msgstr "Commit placing"
+
+msgid "unnatural/controls/controls"
+msgstr "Controls"
+
+msgid "unnatural/controls/debugging"
+msgstr "Debugging"
+
+msgid "unnatural/controls/defaultRoll"
+msgstr "Default roll"
+
+msgid "unnatural/controls/defaultZoom"
+msgstr "Default zoom"
+
+msgid "unnatural/controls/deleteWaypoint"
+msgstr "Delete waypoint"
+
+msgid "unnatural/controls/drawFormation"
+msgstr "Draw formation"
+
+msgid "unnatural/controls/enqueueCommands"
+msgstr "Enqueue commands"
+
+msgid "unnatural/controls/fightAttackMove"
+msgstr "Fight (attack-move)"
+
+msgid "unnatural/controls/followSelectedUnit"
+msgstr "Follow selected unit"
+
+msgid "unnatural/controls/guardHoldPosition"
+msgstr "Guard (hold position)"
+
+msgid "unnatural/controls/insertWaypointAfter"
+msgstr "Insert waypoint after"
+
+msgid "unnatural/controls/insertWaypointBefore"
+msgstr "Insert waypoint before"
+
+msgid "unnatural/controls/jumpToCursor"
+msgstr "Jump to cursor"
+
+msgid "unnatural/controls/loadResource"
+msgstr "Load resource"
+
+msgid "unnatural/controls/miscellaneous"
+msgstr "Miscellaneous"
+
+msgid "unnatural/controls/move"
+msgstr "Move"
+
+msgid "unnatural/controls/openChat"
+msgstr "Open chat"
+
+msgid "unnatural/controls/openDiplomacy"
+msgstr "Open diplomacy"
+
+msgid "unnatural/controls/openLexicon"
+msgstr "Open lexicon"
+
+msgid "unnatural/controls/openMenu"
+msgstr "Open menu"
+
+msgid "unnatural/controls/openResources"
+msgstr "Open resources"
+
+msgid "unnatural/controls/openUnits"
+msgstr "Open units"
+
+msgid "unnatural/controls/overwriteWaypoint"
+msgstr "Overwrite waypoint"
+
+msgid "unnatural/controls/repeatCommands"
+msgstr "Repeat commands"
+
+msgid "unnatural/controls/restoreCamera"
+msgstr "Restore camera"
+
+msgid "unnatural/controls/restoreSelection"
+msgstr "Restore selection"
+
+msgid "unnatural/controls/roll"
+msgstr "Roll"
+
+msgid "unnatural/controls/runMove"
+msgstr "Run (move)"
+
+msgid "unnatural/controls/saveCamera"
+msgstr "Save camera"
+
+msgid "unnatural/controls/saveSelection"
+msgstr "Save selection"
+
+msgid "unnatural/controls/selectAllArmy"
+msgstr "Select all army"
+
+msgid "unnatural/controls/selectFirstLastWaypoint"
+msgstr "Select first/last waypoint"
+
+msgid "unnatural/controls/selectIdleArmy"
+msgstr "Select idle army"
+
+msgid "unnatural/controls/selectInvertConfig"
+msgstr "Select (invert config)"
+
+msgid "unnatural/controls/selection"
+msgstr "Selection"
+
+msgid "unnatural/controls/selectMerge"
+msgstr "Select (merge)"
+
+msgid "unnatural/controls/selectPreviousNextWaypoint"
+msgstr "Select previous/next waypoint"
+
+msgid "unnatural/controls/selectReplace"
+msgstr "Select (replace)"
+
+msgid "unnatural/controls/selectSubtract"
+msgstr "Select (subtract)"
+
+msgid "unnatural/controls/selfDestructAll"
+msgstr "Self-destruct all"
+
+msgid "unnatural/controls/selfDestructOne"
+msgstr "Self-destruct one"
+
+msgid "unnatural/controls/showCommands"
+msgstr "Show commands"
+
+msgid "unnatural/controls/showPaths"
+msgstr "Show paths"
+
+msgid "unnatural/controls/showResourcesTrend"
+msgstr "Show resources trend"
+
+msgid "unnatural/controls/showTileNeighbors"
+msgstr "Show tile neighbors"
+
+msgid "unnatural/controls/smartCommand"
+msgstr "Smart command"
+
+msgid "unnatural/controls/smartCommandInvertConfig"
+msgstr "Smart command (invert config)"
+
+msgid "unnatural/controls/startFlyThrough"
+msgstr "Start fly-through"
+
+msgid "unnatural/controls/stop"
+msgstr "Stop"
+
+msgid "unnatural/controls/tileClusters"
+msgstr "Tile clusters"
+
+msgid "unnatural/controls/toggleCinematicMode"
+msgstr "Toggle cinematic mode"
+
+msgid "unnatural/controls/toggleFpsCounter"
+msgstr "Toggle FPS counter"
+
+msgid "unnatural/controls/toggleFullscreen"
+msgstr "Toggle fullscreen"
+
+msgid "unnatural/controls/unloadResource"
+msgstr "Unload resource"
+
+msgid "unnatural/controls/zoom"
+msgstr "Zoom"
+
+msgid "unnatural/createGame/create"
+msgstr "Create"
+
+msgid "unnatural/createGame/createMultiplayerGame"
+msgstr "Create Multiplayer Game"
+
+msgid "unnatural/createGame/gameName"
+msgstr "Game name:"
+
+msgid "unnatural/createGame/visibility"
+msgstr "Visibility:"
+
+msgid "unnatural/createGame/visibility/lan"
+msgstr "LAN"
+
+msgid "unnatural/createGame/visibility/localhost"
+msgstr "Localhost"
+
+msgid "unnatural/createGame/visibility/private"
+msgstr "Private"
+
+msgid "unnatural/createGame/visibility/public"
+msgstr "Public"
+
+msgid "unnatural/dangerMeter/tooltip"
+msgstr "Closest enemy"
+
+msgid "unnatural/dangerMeter/value"
+msgstr "{0} m"
+
+msgid "unnatural/diplomacy/detailDesktop/force"
+msgstr "Force"
+
+msgid "unnatural/diplomacy/detailDesktop/player"
+msgstr "Player"
+
+msgid "unnatural/diplomacy/detailDesktop/policy"
+msgstr "Policy"
+
+msgid "unnatural/diplomacy/detailDesktop/score"
+msgstr "Score"
+
+msgid "unnatural/diplomacy/detailObserver/force"
+msgstr "Force"
+
+msgid "unnatural/diplomacy/detailObserver/player"
+msgstr "Player"
+
+msgid "unnatural/diplomacy/detailObserver/score"
+msgstr "Score"
+
+msgid "unnatural/diplomacy/diplomacy"
+msgstr "Diplomacy"
+
+msgid "unnatural/diplomacy/forceTooltip/kills"
+msgstr "Kills: "
+
+msgid "unnatural/diplomacy/forceTooltip/losses"
+msgstr "Losses: "
+
+msgid "unnatural/diplomacy/forceTooltip/score"
+msgstr "Score: "
+
+msgid "unnatural/diplomacy/military"
+msgstr "Military"
+
+msgid "unnatural/diplomacy/playerFlags/admin"
+msgstr "Admin"
+
+msgid "unnatural/diplomacy/playerFlags/defeated"
+msgstr "Defeated"
+
+msgid "unnatural/diplomacy/playerFlags/disconnected"
+msgstr "Disconnected"
+
+msgid "unnatural/diplomacy/playerFlags/pause"
+msgstr "Pause"
+
+msgid "unnatural/diplomacy/playerFlags/winner"
+msgstr "Winner"
+
+msgid "unnatural/diplomacy/playerTooltip/ping"
+msgstr "Ping: "
+
+msgid "unnatural/diplomacy/workers"
+msgstr "Workers"
+
+msgid "unnatural/findGame/address"
+msgstr "Address"
+
+msgid "unnatural/findGame/connectToLobbyWithIdFromClipboard"
+msgstr "Connect to lobby with ID from clipboard"
+
+msgid "unnatural/findGame/findMultiplayerGame"
+msgstr "Find Multiplayer Game"
+
+msgid "unnatural/findGame/gameName"
+msgstr "Game name"
+
+msgid "unnatural/findGame/join"
+msgstr "Join"
+
+msgid "unnatural/findGame/lanGames"
+msgstr "LAN Games"
+
+msgid "unnatural/findGame/mapName"
+msgstr "Map name"
+
+msgid "unnatural/findGame/playerName"
+msgstr "Player name"
+
+msgid "unnatural/findGame/players"
+msgstr "Players"
+
+msgid "unnatural/findGame/publicGames"
+msgstr "Public Games"
+
+msgid "unnatural/findGame/search"
+msgstr "Search"
+
+msgid "unnatural/findGame/searching"
+msgstr "Searching..."
+
+msgid "unnatural/findGame/serverIpOrAddress"
+msgstr "Server IP or address"
+
+msgid "unnatural/finishPlayers/defeated"
+msgstr "Defeated"
+
+msgid "unnatural/finishPlayers/force"
+msgstr "Force"
+
+msgid "unnatural/finishPlayers/kills"
+msgstr "Kills"
+
+msgid "unnatural/finishPlayers/losses"
+msgstr "Losses"
+
+msgid "unnatural/finishPlayers/player"
+msgstr "Player"
+
+msgid "unnatural/finishPlayers/score"
+msgstr "Score"
+
+msgid "unnatural/finishPlayers/undecided"
+msgstr "Undecided"
+
+msgid "unnatural/finishPlayers/winners"
+msgstr "Winners"
+
+msgid "unnatural/game/followCamera"
+msgstr "Follow Camera"
+
+msgid "unnatural/game/observer"
+msgstr "Observer"
+
+msgid "unnatural/game/selection"
+msgstr "Selection"
+
+msgid "unnatural/gameMenu/continue"
+msgstr "Continue"
+
+msgid "unnatural/gameMenu/controls"
+msgstr "Controls"
+
+msgid "unnatural/gameMenu/options"
+msgstr "Options"
+
+msgid "unnatural/groupsIcons/selectAllArmy"
+msgstr "Select all army"
+
+msgid "unnatural/inviteFriends/invite"
+msgstr "Invite"
+
+msgid "unnatural/inviteFriends/inviteFriends"
+msgstr "Invite Friends"
+
+msgid "unnatural/lexicon/lexicoInnaturale"
+msgstr "Lexico Innaturale"
+
+msgid "unnatural/lexicon/search"
+msgstr "Search..."
+
+msgid "unnatural/mainMenu/bigTitle/demo"
+msgstr "Unnatural Worlds Demo"
+
+msgid "unnatural/mainMenu/bigTitle/playtest"
+msgstr "Unnatural Worlds Playtest"
+
+msgid "unnatural/mainMenu/bigTitle/regular"
+msgstr "Unnatural Worlds"
+
+msgid "unnatural/mainMenu/bigTitle/unknown"
+msgstr "Unnatural Worlds (unknown variant)"
+
+msgid "unnatural/mainMenu/demo/demoVersion"
+msgstr "Demo version"
+
+msgid "unnatural/mainMenu/demo/thisIsNotFullVersion"
+msgstr "This is not full version of the game. Some features are restricted or omitted."
+
+msgid "unnatural/mainMenu/earlyDevelopment/earlyDevelopmentVersion"
+msgstr "Early development version "
+
+msgid "unnatural/mainMenu/earlyDevelopment/itMayNotBeRepresentative"
+msgstr "It may not be representative of the final product."
+
+msgid "unnatural/mainMenu/earlyDevelopment/thisVersionOfGameWasMadeAvailable"
+msgstr "This version of the game was made available to check for technical issues, and to collect feedback."
+
+msgid "unnatural/mainMenu/giveFeedback"
+msgstr "Give feedback (opens Discord)"
+
+msgid "unnatural/mainMenu/linux/linuxVersion"
+msgstr "Linux version"
+
+msgid "unnatural/mainMenu/linux/supportForLinuxIsExperimental"
+msgstr "Support for linux is experimental. Please excuse potential difficulties."
+
+msgid "unnatural/mainMenu/menu/about"
+msgstr "About"
+
+msgid "unnatural/mainMenu/menu/controls"
+msgstr "Controls"
+
+msgid "unnatural/mainMenu/menu/createMp"
+msgstr "Create MP"
+
+msgid "unnatural/mainMenu/menu/findMp"
+msgstr "Find MP"
+
+msgid "unnatural/mainMenu/menu/options"
+msgstr "Options"
+
+msgid "unnatural/mainMenu/menu/quit"
+msgstr "Quit"
+
+msgid "unnatural/mainMenu/menu/replays"
+msgstr "Replays"
+
+msgid "unnatural/mainMenu/menu/singlePlayer"
+msgstr "Single Player"
+
+msgid "unnatural/mainMenu/playtest/playtestVersion"
+msgstr "Playtest version"
+
+msgid "unnatural/mainMenu/playtest/thisIsNotFullVersion"
+msgstr "This is not full version of the game. Some features are restricted or omitted."
+
+msgid "unnatural/mapDescription/maxPlayers"
+msgstr "Max players: {0}"
+
+msgid "unnatural/mapDescription/tiles"
+msgstr "Tiles: {0}"
+
+msgid "unnatural/mapDescription/version"
+msgstr "Version: {0}"
+
+msgid "unnatural/mapSelection/chooseMap"
+msgstr "Choose Map"
+
+msgid "unnatural/mapSelection/selectMap"
+msgstr "Select"
+
+msgid "unnatural/mapSelection/upFolder"
+msgstr "Up Folder"
+
+msgid "unnatural/mapSelection/versionMismatch"
+msgstr "Version mismatch"
+
+msgid "unnatural/options/camera"
+msgstr "Camera Controls"
+
+msgid "unnatural/options/camera/borderScrollSpeed"
+msgstr "Border scroll speed:"
+
+msgid "unnatural/options/camera/enableBorderScrolling"
+msgstr "Enable border scrolling:"
+
+msgid "unnatural/options/camera/enableBorderScrolling/description"
+msgstr "(Fullscreen only)"
+
+msgid "unnatural/options/camera/invertMousePanning"
+msgstr "Invert mouse panning:"
+
+msgid "unnatural/options/camera/keybordPanningSpeed"
+msgstr "Keyboard panning speed:"
+
+msgid "unnatural/options/camera/keybordRollSpeed"
+msgstr "Keyboard roll speed:"
+
+msgid "unnatural/options/camera/mousePanningSpeed"
+msgstr "Mouse panning speed:"
+
+msgid "unnatural/options/camera/mouseRollSpeed"
+msgstr "Mouse roll speed:"
+
+msgid "unnatural/options/camera/mouseZoomSpeed"
+msgstr "Mouse zoom speed:"
+
+msgid "unnatural/options/gameplay"
+msgstr "Gameplay"
+
+msgid "unnatural/options/gameplay/chatMessageDuration"
+msgstr "Chat message duration:"
+
+msgid "unnatural/options/gameplay/guiScale"
+msgstr "Gui scale:"
+
+msgid "unnatural/options/gameplay/preventAccidentalDeselection"
+msgstr "Prevent accidental deselection:"
+
+msgid "unnatural/options/gameplay/preventAccidentalDeselection/description"
+msgstr "Keep previous selection if new selection is empty"
+
+msgid "unnatural/options/gameplay/selectedInfoLevel"
+msgstr "Selected info level:"
+
+msgid "unnatural/options/gameplay/selectedInfoLevel/extra"
+msgstr "Extra"
+
+msgid "unnatural/options/gameplay/selectedInfoLevel/off"
+msgstr "Off"
+
+msgid "unnatural/options/gameplay/selectedInfoLevel/on"
+msgstr "On"
+
+msgid "unnatural/options/gameplay/shootingRange"
+msgstr "Shooting range:"
+
+msgid "unnatural/options/gameplay/shootingRange/description"
+msgstr "Show approximate shooting range of a selected unit."
+
+msgid "unnatural/options/gameplay/showNames"
+msgstr "Show names:"
+
+msgid "unnatural/options/gameplay/showNames/description"
+msgstr "Names shown over icons"
+
+msgid "unnatural/options/gameplay/smartOrderPrefersFight"
+msgstr "Smart order prefers fight:"
+
+msgid "unnatural/options/gameplay/smartOrderPrefersFight/description"
+msgstr "Prefer Fight order when ordering units with RMB."
+
+msgid "unnatural/options/gameplay/smartSelectionFilter"
+msgstr "Smart selection filter:"
+
+msgid "unnatural/options/gameplay/smartSelectionFilter/description"
+msgstr "Prefer selecting units over resources, military over civilian, etc."
+
+msgid "unnatural/options/gameplay/strategicIconsDistance"
+msgstr "Strategic icons distance:"
+
+msgid "unnatural/options/gameplay/strategicIconsScale"
+msgstr "Strategic icons scale:"
+
+msgid "unnatural/options/gameplay/tooltipDelay"
+msgstr "Tooltip delay:"
+
+msgid "unnatural/options/gameplay/tutorialMode"
+msgstr "Tutorial mode:"
+
+msgid "unnatural/options/gameplay/tutorialMode/description"
+msgstr "Enforces beginner-friendly build order"
+
+msgid "unnatural/options/graphics"
+msgstr "Graphics"
+
+msgid "unnatural/options/graphics/enableSsao"
+msgstr "Enable SSAO:"
+
+msgid "unnatural/options/graphics/enableSsao/description"
+msgstr "(Screen space ambient occlusion)"
+
+msgid "unnatural/options/options"
+msgstr "Options"
+
+msgid "unnatural/options/player"
+msgstr "Player"
+
+msgid "unnatural/options/player/language"
+msgstr "Language:"
+
+msgid "unnatural/options/player/yourColor"
+msgstr "Your color:"
+
+msgid "unnatural/options/player/yourName"
+msgstr "Your name:"
+
+msgid "unnatural/options/save"
+msgstr "Save"
+
+msgid "unnatural/options/sound"
+msgstr "Sound"
+
+msgid "unnatural/options/sound/effectsVolume"
+msgstr "Effects volume:"
+
+msgid "unnatural/options/sound/masterVolume"
+msgstr "Master volume:"
+
+msgid "unnatural/options/sound/musicVolume"
+msgstr "Music volume:"
+
+msgid "unnatural/options/sound/voicesVolume"
+msgstr "Voices volume:"
+
+msgid "unnatural/performanceTooltip/engineObjectsAvgPeak"
+msgstr "Engine objects (avg | peak):"
+
+msgid "unnatural/performanceTooltip/frameTimeAvgPeak"
+msgstr "Frame time (avg | peak):"
+
+msgid "unnatural/performanceTooltip/gameObjects"
+msgstr "Game objects:"
+
+msgid "unnatural/performanceTooltip/gameSpeed"
+msgstr "Game speed:"
+
+msgid "unnatural/performanceTooltip/mainThreadUtilization"
+msgstr "Main thread utilization:"
+
+msgid "unnatural/performanceTooltip/networkUpDown"
+msgstr "Network (up | down):"
+
+msgid "unnatural/performanceTooltip/ping"
+msgstr "Ping:"
+
+msgid "unnatural/recipeSelection/nothing"
+msgstr "<nothing>"
+
+msgid "unnatural/replay/selectReplay"
+msgstr "Select Replay"
+
+msgid "unnatural/replayControls/backward"
+msgstr "Backward"
+
+msgid "unnatural/replayControls/faster"
+msgstr "Faster"
+
+msgid "unnatural/replayControls/forward"
+msgstr "Forward"
+
+msgid "unnatural/replayControls/normal"
+msgstr "Normal"
+
+msgid "unnatural/replayControls/replay"
+msgstr "Replay"
+
+msgid "unnatural/replayControls/restart"
+msgstr "Restart"
+
+msgid "unnatural/replayControls/slower"
+msgstr "Slower"
+
+msgid "unnatural/replaySelection/mapNotFound"
+msgstr "Map not found"
+
+msgid "unnatural/replaySelection/select"
+msgstr "Select"
+
+msgid "unnatural/replaySelection/upFolder"
+msgstr "Up Folder"
+
+msgid "unnatural/replaySelection/versionMismatch"
+msgstr "Version mismatch"
+
+msgid "unnatural/resources/resources"
+msgstr "Resources"
+
+msgid "unnatural/resources/resourceTooltip/available"
+msgstr "Available: "
+
+msgid "unnatural/resources/resourceTooltip/consumption"
+msgstr "Consumption: "
+
+msgid "unnatural/resources/resourceTooltip/needed"
+msgstr "Needed: "
+
+msgid "unnatural/resources/resourceTooltip/production"
+msgstr "Production: "
+
+msgid "unnatural/resources/updateDetailsPlayer/available"
+msgstr "Available"
+
+msgid "unnatural/resources/updateDetailsPlayer/consumption"
+msgstr "Consumption"
+
+msgid "unnatural/resources/updateDetailsPlayer/needed"
+msgstr "Needed"
+
+msgid "unnatural/resources/updateDetailsPlayer/production"
+msgstr "Production"
+
+msgid "unnatural/selectedInfo/aim"
+msgstr "Aim: {0}"
+
+msgid "unnatural/selectedInfo/aimId"
+msgstr "Aim id: {0}"
+
+msgid "unnatural/selectedInfo/aimPos"
+msgstr "Aim pos: {0}"
+
+msgid "unnatural/selectedInfo/attached"
+msgstr "Attached: {0}"
+
+msgid "unnatural/selectedInfo/completed"
+msgstr "Completed: {0}"
+
+msgid "unnatural/selectedInfo/controller"
+msgstr "Controller: {0}"
+
+msgid "unnatural/selectedInfo/etc"
+msgstr "ETC: {0}"
+
+msgid "unnatural/selectedInfo/id"
+msgstr "Id: {0}"
+
+msgid "unnatural/selectedInfo/kills"
+msgstr "Kills: {0}"
+
+msgid "unnatural/selectedInfo/missingResources"
+msgstr "Missing resources:"
+
+msgid "unnatural/selectedInfo/order"
+msgstr "Order: {0}"
+
+msgid "unnatural/selectedInfo/owner"
+msgstr "Owner: "
+
+msgid "unnatural/selectedInfo/path"
+msgstr "Path: {0}"
+
+msgid "unnatural/selectedInfo/position"
+msgstr "Position: {0}"
+
+msgid "unnatural/selectedInfo/recipe"
+msgstr "Recipe: {0}"
+
+msgid "unnatural/selectedInfo/statusProcessing"
+msgstr "Status: processing"
+
+msgid "unnatural/selectedInfo/statusRebuilding"
+msgstr "Status: rebuilding"
+
+msgid "unnatural/selectedInfo/statusShooting"
+msgstr "Status: shooting"
+
+msgid "unnatural/selectedInfo/uptime"
+msgstr "Uptime {0} %"
+
+msgid "unnatural/session/addAi"
+msgstr "Add AI"
+
+msgid "unnatural/session/chat"
+msgstr "Chat"
+
+msgid "unnatural/session/chooseMap"
+msgstr "Choose Map"
+
+msgid "unnatural/session/copyLobbyId"
+msgstr "Copy Lobby ID"
+
+msgid "unnatural/session/inviteFriends"
+msgstr "Invite Friends"
+
+msgid "unnatural/session/map"
+msgstr "Map"
+
+msgid "unnatural/session/newForce"
+msgstr "New Force"
+
+msgid "unnatural/session/observer"
+msgstr "Observer"
+
+msgid "unnatural/session/players"
+msgstr "Players"
+
+msgid "unnatural/session/previewMap"
+msgstr "Preview Map"
+
+msgid "unnatural/sessionMap/waitForAdminToSelectMap"
+msgstr "Wait for admin to select a map"
+
+msgid "unnatural/sessionPlayers/admin"
+msgstr "Admin"
+
+msgid "unnatural/sessionPlayers/aiPlayer"
+msgstr "AI player"
+
+msgid "unnatural/sessionPlayers/apiPlayer"
+msgstr "API player"
+
+msgid "unnatural/sessionPlayers/joinTeam"
+msgstr "Join team"
+
+msgid "unnatural/sessionPlayers/kickPlayer"
+msgstr "Kick player"
+
+msgid "unnatural/sessionPlayers/plPLayer"
+msgstr "PC player"
+
+msgid "unnatural/sessionPlayers/ready"
+msgstr "Ready"
+
+msgid "unnatural/sessionPlayers/shareControl"
+msgstr "Share control"
+
+msgid "unnatural/sessionPlayers/startGame"
+msgstr "Start Game"
+
+msgid "unnatural/sessionPlayers/unknownConnectionClass"
+msgstr "Unknown connection class"
+
+msgid "unnatural/sessionPlayers/vrPlayer"
+msgstr "VR player"
+
+msgid "unnatural/sessionPlayers/waitForAdminToStartGame"
+msgstr "Wait for admin to start the game"
+
+msgid "unnatural/sessionPlayers/waiting"
+msgstr "Waiting"
+
+msgid "unnatural/statusConnecting/connecting"
+msgstr "Connecting"
+
+msgid "unnatural/statusConnecting/pleaseWaitMoment"
+msgstr "Please wait a moment."
+
+msgid "unnatural/statusConnecting/youAreBeingConnectedToGameServer"
+msgstr "You are being connected to the game server."
+
+msgid "unnatural/statusDisconnected/disconnected"
+msgstr "Disconnected"
+
+msgid "unnatural/statusDisconnected/seeGameLogsToFindMoreInformation"
+msgstr "See game logs to find more information."
+
+msgid "unnatural/statusDisconnected/youHaveBeenDisconnectedFromGameServer"
+msgstr "You have been disconnected from the game server."
+
+msgid "unnatural/statusError/error"
+msgstr "Error"
+
+msgid "unnatural/statusError/errorHasOccured"
+msgstr "An error has occurred."
+
+msgid "unnatural/statusError/seeGameLogsToFindMoreInformation"
+msgstr "See game logs to find more information."
+
+msgid "unnatural/statusFinish/gameOver"
+msgstr "Game over"
+
+msgid "unnatural/statusPreparation/getReady"
+msgstr "Get ready"
+
+msgid "unnatural/units/units"
+msgstr "Units"
+
+msgid "unnatural/unitsStats/idleTotalMilitary"
+msgstr "Idle/total military"
+
+msgid "unnatural/unitsStats/idleTotalWorkers"
+msgstr "Idle/total workers"
+
