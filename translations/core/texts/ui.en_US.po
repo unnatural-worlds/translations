@@ -64,6 +64,18 @@ msgstr "Unnatural"
 msgid "unnatural/commonGame/uwTitle2"
 msgstr "Worlds"
 
+msgid "unnatural/commonGame/vr/build"
+msgstr "Build"
+
+msgid "unnatural/commonGame/vr/diplomacy"
+msgstr "Diplomacy"
+
+msgid "unnatural/commonGame/vr/resources"
+msgstr "Resources"
+
+msgid "unnatural/commonGame/vr/selection"
+msgstr "Selection"
+
 msgid "unnatural/controls/camera"
 msgstr "Camera"
 
@@ -339,6 +351,9 @@ msgstr "Winner"
 
 msgid "unnatural/diplomacy/playerTooltip/ping"
 msgstr "Ping: "
+
+msgid "unnatural/diplomacy/vr/abortGame"
+msgstr "Abort Game"
 
 msgid "unnatural/diplomacy/workers"
 msgstr "Workers"
@@ -954,6 +969,12 @@ msgstr "Players"
 
 msgid "unnatural/session/previewMap"
 msgstr "Preview Map"
+
+msgid "unnatural/session/vr/addAi"
+msgstr "AI"
+
+msgid "unnatural/session/vr/newForce"
+msgstr "New"
 
 msgid "unnatural/sessionMap/waitForAdminToSelectMap"
 msgstr "Wait for admin to select a map"
