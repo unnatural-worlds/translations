@@ -280,18 +280,6 @@ msgstr "Game name:"
 msgid "unnatural/createGame/visibility"
 msgstr "Visibility:"
 
-msgid "unnatural/createGame/visibility/lan"
-msgstr "LAN"
-
-msgid "unnatural/createGame/visibility/localhost"
-msgstr "Localhost"
-
-msgid "unnatural/createGame/visibility/private"
-msgstr "Private"
-
-msgid "unnatural/createGame/visibility/public"
-msgstr "Public"
-
 msgid "unnatural/dangerMeter/tooltip"
 msgstr "Closest enemy"
 
@@ -417,6 +405,21 @@ msgstr "Undecided"
 
 msgid "unnatural/finishPlayers/winners"
 msgstr "Winners"
+
+msgid "unnatural/foreignPolicyEnum/ally"
+msgstr "Ally"
+
+msgid "unnatural/foreignPolicyEnum/enemy"
+msgstr "Enemy"
+
+msgid "unnatural/foreignPolicyEnum/neutral"
+msgstr "Neutral"
+
+msgid "unnatural/foreignPolicyEnum/none"
+msgstr "None"
+
+msgid "unnatural/foreignPolicyEnum/self"
+msgstr "Self"
 
 msgid "unnatural/game/followCamera"
 msgstr "Follow Camera"
@@ -676,6 +679,51 @@ msgstr "Music volume:"
 msgid "unnatural/options/sound/voicesVolume"
 msgstr "Voices volume:"
 
+msgid "unnatural/orderTypeEnum/fight"
+msgstr "fight"
+
+msgid "unnatural/orderTypeEnum/guard"
+msgstr "guard"
+
+msgid "unnatural/orderTypeEnum/load"
+msgstr "load"
+
+msgid "unnatural/orderTypeEnum/none"
+msgstr "none"
+
+msgid "unnatural/orderTypeEnum/run"
+msgstr "run"
+
+msgid "unnatural/orderTypeEnum/selfDestruct"
+msgstr "self destruct"
+
+msgid "unnatural/orderTypeEnum/stop"
+msgstr "stop"
+
+msgid "unnatural/orderTypeEnum/unload"
+msgstr "unload"
+
+msgid "unnatural/pathStateEnum/finished"
+msgstr "Finished"
+
+msgid "unnatural/pathStateEnum/found"
+msgstr "Found"
+
+msgid "unnatural/pathStateEnum/impossible"
+msgstr "Impossible"
+
+msgid "unnatural/pathStateEnum/none"
+msgstr "None"
+
+msgid "unnatural/pathStateEnum/notFound"
+msgstr "Not found"
+
+msgid "unnatural/pathStateEnum/recompute"
+msgstr "Recompute"
+
+msgid "unnatural/pathStateEnum/searching"
+msgstr "Searching"
+
 msgid "unnatural/performanceTooltip/engineObjectsAvgPeak"
 msgstr "Engine objects (avg | peak):"
 
@@ -696,6 +744,45 @@ msgstr "Network (up | down):"
 
 msgid "unnatural/performanceTooltip/ping"
 msgstr "Ping:"
+
+msgid "unnatural/playerConnectionClassEnum/computer"
+msgstr "PC player"
+
+msgid "unnatural/playerConnectionClassEnum/none"
+msgstr "None"
+
+msgid "unnatural/playerConnectionClassEnum/robot"
+msgstr "AI player"
+
+msgid "unnatural/playerConnectionClassEnum/uwapi"
+msgstr "API program"
+
+msgid "unnatural/playerConnectionClassEnum/virtualReality"
+msgstr "Virtual reality player"
+
+msgid "unnatural/priorityEnum/disabled"
+msgstr "Disabled"
+
+msgid "unnatural/priorityEnum/highPriority"
+msgstr "High priority"
+
+msgid "unnatural/priorityEnum/normalPriority"
+msgstr "Normal priority"
+
+msgid "unnatural/protoTypeEnum/construction"
+msgstr "construction"
+
+msgid "unnatural/protoTypeEnum/none"
+msgstr "none"
+
+msgid "unnatural/protoTypeEnum/recipe"
+msgstr "recipe"
+
+msgid "unnatural/protoTypeEnum/resource"
+msgstr "resource"
+
+msgid "unnatural/protoTypeEnum/unit"
+msgstr "unit"
 
 msgid "unnatural/recipeSelection/nothing"
 msgstr "<nothing>"
@@ -820,6 +907,24 @@ msgstr "Status: shooting"
 msgid "unnatural/selectedInfo/uptime"
 msgstr "Uptime {0} %"
 
+msgid "unnatural/serverVisibilityEnum/friends"
+msgstr "Friends"
+
+msgid "unnatural/serverVisibilityEnum/lan"
+msgstr "LAN"
+
+msgid "unnatural/serverVisibilityEnum/localhost"
+msgstr "Localhost"
+
+msgid "unnatural/serverVisibilityEnum/private"
+msgstr "Private"
+
+msgid "unnatural/serverVisibilityEnum/public"
+msgstr "Public"
+
+msgid "unnatural/serverVisibilityEnum/unknown"
+msgstr "Unknown"
+
 msgid "unnatural/session/addAi"
 msgstr "Add AI"
 
@@ -856,20 +961,11 @@ msgstr "Wait for admin to select a map"
 msgid "unnatural/sessionPlayers/admin"
 msgstr "Admin"
 
-msgid "unnatural/sessionPlayers/aiPlayer"
-msgstr "AI player"
-
-msgid "unnatural/sessionPlayers/apiPlayer"
-msgstr "API player"
-
 msgid "unnatural/sessionPlayers/joinTeam"
 msgstr "Join team"
 
 msgid "unnatural/sessionPlayers/kickPlayer"
 msgstr "Kick player"
-
-msgid "unnatural/sessionPlayers/plPLayer"
-msgstr "PC player"
 
 msgid "unnatural/sessionPlayers/ready"
 msgstr "Ready"
@@ -879,12 +975,6 @@ msgstr "Share control"
 
 msgid "unnatural/sessionPlayers/startGame"
 msgstr "Start Game"
-
-msgid "unnatural/sessionPlayers/unknownConnectionClass"
-msgstr "Unknown connection class"
-
-msgid "unnatural/sessionPlayers/vrPlayer"
-msgstr "VR player"
 
 msgid "unnatural/sessionPlayers/waitForAdminToStartGame"
 msgstr "Wait for admin to start the game"
@@ -924,6 +1014,87 @@ msgstr "Game over"
 
 msgid "unnatural/statusPreparation/getReady"
 msgstr "Get ready"
+
+msgid "unnatural/tooltips/allowsPlacement"
+msgstr "Allows placement"
+
+msgid "unnatural/tooltips/armor"
+msgstr "Armor: "
+
+msgid "unnatural/tooltips/attack"
+msgstr "Attack"
+
+msgid "unnatural/tooltips/buildingRequiresAtLeastOneRecipe"
+msgstr "The building requires at least one recipe. See below."
+
+msgid "unnatural/tooltips/constructedBy"
+msgstr "Constructed by"
+
+msgid "unnatural/tooltips/construction"
+msgstr "Construction"
+
+msgid "unnatural/tooltips/consumedBy"
+msgstr "Consumed by"
+
+msgid "unnatural/tooltips/damagePerSecond"
+msgstr "{0} damage/s"
+
+msgid "unnatural/tooltips/defense"
+msgstr "Defense"
+
+msgid "unnatural/tooltips/dps"
+msgstr "DPS: "
+
+msgid "unnatural/tooltips/dpsAtLowLife"
+msgstr "DPS at low life: "
+
+msgid "unnatural/tooltips/hitChancesTable"
+msgstr "Hit Chances % Table"
+
+msgid "unnatural/tooltips/life"
+msgstr "Life: "
+
+msgid "unnatural/tooltips/meters"
+msgstr "{0} m"
+
+msgid "unnatural/tooltips/metersPerSecond"
+msgstr "{0} m/s"
+
+msgid "unnatural/tooltips/movement"
+msgstr "Movement"
+
+msgid "unnatural/tooltips/perSecond"
+msgstr "{0} / s"
+
+msgid "unnatural/tooltips/placeOver"
+msgstr "Place over"
+
+msgid "unnatural/tooltips/producedIn"
+msgstr "Produced in"
+
+msgid "unnatural/tooltips/range"
+msgstr "Range: "
+
+msgid "unnatural/tooltips/rateOfFire"
+msgstr "Rate of fire: "
+
+msgid "unnatural/tooltips/recipe"
+msgstr "Recipe"
+
+msgid "unnatural/tooltips/recipes"
+msgstr "Recipes"
+
+msgid "unnatural/tooltips/requirementsToUnlock"
+msgstr "Requirements to unlock"
+
+msgid "unnatural/tooltips/seconds"
+msgstr "{0} s"
+
+msgid "unnatural/tooltips/shotsPerSecond"
+msgstr "{0} shots/s"
+
+msgid "unnatural/tooltips/weapon"
+msgstr "Weapon: "
 
 msgid "unnatural/units/units"
 msgstr "Units"
