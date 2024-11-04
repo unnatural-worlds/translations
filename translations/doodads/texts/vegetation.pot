@@ -13,64 +13,63 @@ msgstr ""
 
 
 
-msgid "unnatural/doodads/vegetation/plant_1.proto/title"
-msgstr "Plant 1"
-
-msgid "unnatural/doodads/vegetation/plant_2.proto/title"
-msgstr "Plant 2"
-
-msgid "unnatural/doodads/vegetation/plant_3.proto/title"
-msgstr "Plant 3"
-
-msgid "unnatural/doodads/vegetation/plant_4.proto/title"
-msgstr "Plant 4"
-
-msgid "unnatural/doodads/vegetation/plant_5.proto/title"
-msgstr "Plant 5"
-
-msgid "unnatural/doodads/vegetation/plant_6.proto/title"
-msgstr "Plant 6"
-
-msgid "unnatural/doodads/vegetation/tree_1.proto/title"
-msgstr "Tree 1"
-
-msgid "unnatural/doodads/vegetation/tree_2.proto/title"
-msgstr "Tree 2"
-
-msgid "unnatural/doodads/vegetation/tree_3.proto/title"
-msgstr "Tree 3"
-
-msgid "unnatural/doodads/vegetation/tree_4.proto/title"
-msgstr "Tree 4"
-
-
-
 msgid "unnatural/doodads/vegetation/plant_1.proto/description"
 msgstr "Native flora."
+
+msgid "unnatural/doodads/vegetation/plant_1.proto/title"
+msgstr "Plant 1"
 
 msgid "unnatural/doodads/vegetation/plant_2.proto/description"
 msgstr "Native flora."
 
+msgid "unnatural/doodads/vegetation/plant_2.proto/title"
+msgstr "Plant 2"
+
 msgid "unnatural/doodads/vegetation/plant_3.proto/description"
 msgstr "Native flora."
+
+msgid "unnatural/doodads/vegetation/plant_3.proto/title"
+msgstr "Plant 3"
 
 msgid "unnatural/doodads/vegetation/plant_4.proto/description"
 msgstr "Native flora."
 
+msgid "unnatural/doodads/vegetation/plant_4.proto/title"
+msgstr "Plant 4"
+
 msgid "unnatural/doodads/vegetation/plant_5.proto/description"
 msgstr "Native flora."
+
+msgid "unnatural/doodads/vegetation/plant_5.proto/title"
+msgstr "Plant 5"
 
 msgid "unnatural/doodads/vegetation/plant_6.proto/description"
 msgstr "Native flora."
 
+msgid "unnatural/doodads/vegetation/plant_6.proto/title"
+msgstr "Plant 6"
+
 msgid "unnatural/doodads/vegetation/tree_1.proto/description"
 msgstr "Native flora."
+
+msgid "unnatural/doodads/vegetation/tree_1.proto/title"
+msgstr "Tree 1"
 
 msgid "unnatural/doodads/vegetation/tree_2.proto/description"
 msgstr "Native flora."
 
+msgid "unnatural/doodads/vegetation/tree_2.proto/title"
+msgstr "Tree 2"
+
 msgid "unnatural/doodads/vegetation/tree_3.proto/description"
 msgstr "Native flora."
 
+msgid "unnatural/doodads/vegetation/tree_3.proto/title"
+msgstr "Tree 3"
+
 msgid "unnatural/doodads/vegetation/tree_4.proto/description"
 msgstr "Native flora."
+
+msgid "unnatural/doodads/vegetation/tree_4.proto/title"
+msgstr "Tree 4"
+
