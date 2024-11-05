@@ -1,0 +1,316 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: translations <translations@unnatural-worlds.com>\n"
+"Language-Team: translations <translations@unnatural-worlds.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_US\n"
+"X-Crowdin-SourceKey: msgstr\n"
+
+
+msgid "unnatural/base/resources/aether.proto/title"
+msgstr "Éter"
+
+msgid "unnatural/base/resources/alloys.proto/title"
+msgstr "Slitiny"
+
+msgid "unnatural/base/resources/armor_plates.proto/title"
+msgstr "Pancéřové Desky"
+
+msgid "unnatural/base/resources/atomic_forge.proto/title"
+msgstr "Atomová Výheň"
+
+msgid "unnatural/base/resources/blaster.proto/title"
+msgstr "Blaster"
+
+msgid "unnatural/base/resources/crystals.proto/title"
+msgstr "Krystaly"
+
+msgid "unnatural/base/resources/metal.proto/title"
+msgstr "Kov"
+
+msgid "unnatural/base/resources/oil.proto/title"
+msgstr "Ropa"
+
+msgid "unnatural/base/resources/plasma_emitter.proto/title"
+msgstr "Plasmový Vrhač"
+
+msgid "unnatural/base/resources/power_cell.proto/title"
+msgstr "Napájecí Článek"
+
+msgid "unnatural/base/resources/quantum_ray.proto/title"
+msgstr "Kvantový Paprsek"
+
+msgid "unnatural/base/resources/quark_foam.proto/title"
+msgstr "Kvarková Pěna"
+
+msgid "unnatural/base/resources/rail_gun.proto/title"
+msgstr "Railgun"
+
+msgid "unnatural/base/resources/reinforced_concrete.proto/title"
+msgstr "Tvrzený Beton"
+
+msgid "unnatural/base/resources/reinforced_plates.proto/title"
+msgstr "Tvrzené Pláty"
+
+msgid "unnatural/base/resources/shield_projector.proto/title"
+msgstr "Projektor Štítu"
+
+msgid "unnatural/base/resources/aether.proto/description"
+msgstr "Plynná látka, která se vzpírá vědeckému porozumění."
+
+msgid "unnatural/base/resources/alloys.proto/description"
+msgstr "Rafinované kovy."
+
+msgid "unnatural/base/resources/armor_plates.proto/description"
+msgstr "Vrstvené kovové desky poskytující ochranu proti kinetickým zbraním."
+
+msgid "unnatural/base/resources/atomic_forge.proto/description"
+msgstr "Krabice plná atomů stlučených dohromady."
+
+msgid "unnatural/base/resources/blaster.proto/description"
+msgstr "Zbraň dlouhého dosahu. Používá se na dělání děr v architektuře."
+
+msgid "unnatural/base/resources/crystals.proto/description"
+msgstr "Pravidelná struktura na molekulární úrovni dělá tento materiál velmi odolným. Také má bizarní optické odrazy."
+
+msgid "unnatural/base/resources/metal.proto/description"
+msgstr "Lidé byli posedlí zlatem. Ale nejlepší kov je železo."
+
+msgid "unnatural/base/resources/oil.proto/description"
+msgstr "Viskózní kapalina plná energie."
+
+msgid "unnatural/base/resources/plasma_emitter.proto/description"
+msgstr "Je to jako sporák, převaří plyn na plazmu, a zmenšené aby se to vešlo do zbraně.\n"
+"Vhodné na propalování skrz tvrzené desky."
+
+msgid "unnatural/base/resources/power_cell.proto/description"
+msgstr "Přenosná baterka. Hodně energie."
+
+msgid "unnatural/base/resources/quantum_ray.proto/description"
+msgstr "Je-li plazmový emitor jako kamna, kvantový paprsek je jako celá kuchyň a koupelna v jednom. Oplachuje, roztáčí, a vaří kvantově svázané páry molekul a nakonec je spláchne hlavní ven. Univerzálně účinné dělo. Na hlavni jsou červené pruhy - ujistěte se, že tím míříte správným směrem."
+
+msgid "unnatural/base/resources/quark_foam.proto/description"
+msgstr "Technoblábol, který se nepoužívá nikde jinde."
+
+msgid "unnatural/base/resources/rail_gun.proto/description"
+msgstr "Střelný prach je trapný. Tahle zbraň používá elektřinu. Vystřelí stovky malých hřebíků v rychlé salvě. Vhodné na prorážení energetických štítů."
+
+msgid "unnatural/base/resources/reinforced_concrete.proto/description"
+msgstr "Stavební materiál obohacený železem."
+
+msgid "unnatural/base/resources/reinforced_plates.proto/description"
+msgstr "Extra odolný pancíř. Velmi robustní, ale taky velmi těžký."
+
+msgid "unnatural/base/resources/shield_projector.proto/description"
+msgstr "Používá krystaly k ohýbání laserů do bubliny, poskytuje dobrou ochranu před plazmatickými zbraněmi."
+
+
+msgid "unnatural/base/units/ATV.proto/title"
+msgstr "A.T.V."
+
+msgid "unnatural/base/units/colossus.proto/title"
+msgstr "Kolos"
+
+msgid "unnatural/base/units/cyclops.proto/title"
+msgstr "Kyklop"
+
+msgid "unnatural/base/units/eagle.proto/title"
+msgstr "Orel"
+
+msgid "unnatural/base/units/golem.proto/title"
+msgstr "Golem"
+
+msgid "unnatural/base/units/juggernaut.proto/title"
+msgstr "Juggernaut"
+
+msgid "unnatural/base/units/kitsune.proto/title"
+msgstr "Kitsune"
+
+msgid "unnatural/base/units/lurker.proto/title"
+msgstr "Číhač"
+
+msgid "unnatural/base/units/mermaid.proto/title"
+msgstr "Mořská Panna"
+
+msgid "unnatural/base/units/paladin.proto/title"
+msgstr "Paladin"
+
+msgid "unnatural/base/units/twinfire.proto/title"
+msgstr "Dvojdělo"
+
+msgid "unnatural/base/units/ATV.proto/description"
+msgstr "Automatizované přepravní vozidlo. Přesunuje suroviny z A do B."
+
+msgid "unnatural/base/units/colossus.proto/description"
+msgstr "Mocný robot. Zaslouží si mocný popisek."
+
+msgid "unnatural/base/units/cyclops.proto/description"
+msgstr "Používá svůj jeden kanón jako hledí.\n"
+"Silný proti všem obrněným jednotkám."
+
+msgid "unnatural/base/units/eagle.proto/description"
+msgstr "Průzkumník vhodný do jakéhokoli terénu."
+
+msgid "unnatural/base/units/golem.proto/description"
+msgstr "Obléhací jednotka.\n"
+"Silný proti budovám."
+
+msgid "unnatural/base/units/juggernaut.proto/description"
+msgstr "Útočný robot.\n"
+"Silný proti vozidlům s plátovaným brněním."
+
+msgid "unnatural/base/units/kitsune.proto/description"
+msgstr "Rychlý jako liška. Vhodný pro obtěžování slabých jednotek."
+
+msgid "unnatural/base/units/lurker.proto/description"
+msgstr "Přepadávač. Chodí i přes útesy."
+
+msgid "unnatural/base/units/mermaid.proto/description"
+msgstr "Přepadové vznášedlo."
+
+msgid "unnatural/base/units/paladin.proto/description"
+msgstr "Obranný robot."
+
+msgid "unnatural/base/units/twinfire.proto/description"
+msgstr "Útočné vozidlo.\n"
+"Silné proti energetickým štítům."
+
+
+msgid "unnatural/base/buildings/factory.proto/title"
+msgstr "Továrna"
+
+msgid "unnatural/base/buildings/arsenal.proto/title"
+msgstr "Zbrojovka"
+
+msgid "unnatural/base/buildings/bot_assembler.proto/title"
+msgstr "Továrna na Roboty"
+
+msgid "unnatural/base/buildings/brick.proto/title"
+msgstr "Cihla"
+
+msgid "unnatural/base/buildings/drill.proto/title"
+msgstr "Vrták"
+
+msgid "unnatural/base/buildings/experimental_assembler.proto/title"
+msgstr "Experimentální Továrna"
+
+msgid "unnatural/base/buildings/concrete_plant.proto/title"
+msgstr "Betonárka"
+
+msgid "unnatural/base/buildings/generator.proto/title"
+msgstr "Generátor"
+
+msgid "unnatural/base/buildings/heimdall.proto/title"
+msgstr "Heimdall"
+
+msgid "unnatural/base/buildings/blender.proto/title"
+msgstr "Míchačka"
+
+msgid "unnatural/base/buildings/laboratory.proto/title"
+msgstr "Laboratoř"
+
+msgid "unnatural/base/buildings/nucleus.proto/title"
+msgstr "Nukleus"
+
+msgid "unnatural/base/buildings/pump.proto/title"
+msgstr "Pumpa"
+
+msgid "unnatural/base/buildings/forgepress.proto/title"
+msgstr "Kovací lis"
+
+msgid "unnatural/base/buildings/smelter.proto/title"
+msgstr "Vysoká pec"
+
+msgid "unnatural/base/buildings/talos.proto/title"
+msgstr "Talos"
+
+msgid "unnatural/base/buildings/thor.proto/title"
+msgstr "Thór"
+
+msgid "unnatural/base/buildings/vehicle_assembler.proto/title"
+msgstr "Továrna na Vozidla"
+
+msgid "unnatural/base/buildings/factory.proto/description"
+msgstr "Vyrábí T1 jednotky."
+
+msgid "unnatural/base/buildings/arsenal.proto/description"
+msgstr "Vyrábí většinu zbraní."
+
+msgid "unnatural/base/buildings/bot_assembler.proto/description"
+msgstr "Vyrábí T2 jednotky. Zaměřuje se na dvojnohé a vícenohé roboty."
+
+msgid "unnatural/base/buildings/brick.proto/description"
+msgstr "Staví zeď. Doslova."
+
+msgid "unnatural/base/buildings/drill.proto/description"
+msgstr "Extrahuje pevnou surovinu z ložiska."
+
+msgid "unnatural/base/buildings/experimental_assembler.proto/description"
+msgstr "Vyrábí T3 jednotky. Sestavuje nejsilnější roboty."
+
+msgid "unnatural/base/buildings/concrete_plant.proto/description"
+msgstr "Vyrábí vyztužený beton - nutné na stavění budov."
+
+msgid "unnatural/base/buildings/generator.proto/description"
+msgstr "Vyrábí baterky - nabíjení je zdarma."
+
+msgid "unnatural/base/buildings/heimdall.proto/description"
+msgstr "Silná obranná věž."
+
+msgid "unnatural/base/buildings/blender.proto/description"
+msgstr "Míchání, vypařování, usazování. Bůh ví co tam dělají."
+
+msgid "unnatural/base/buildings/laboratory.proto/description"
+msgstr "Šílený vědec s mikroskopem."
+
+msgid "unnatural/base/buildings/nucleus.proto/description"
+msgstr "Tvůj domov. Udržuj ho v bezpečí."
+
+msgid "unnatural/base/buildings/pump.proto/description"
+msgstr "Extrahuje kapalinu nebo plyn z ložiska."
+
+msgid "unnatural/base/buildings/forgepress.proto/description"
+msgstr "Těžké údery za vysoké teploty mění slitiny na pancíř."
+
+msgid "unnatural/base/buildings/smelter.proto/description"
+msgstr "Rafinuje kovy na slitiny."
+
+msgid "unnatural/base/buildings/talos.proto/description"
+msgstr "Levná obranná věž."
+
+msgid "unnatural/base/buildings/thor.proto/description"
+msgstr "Vrhá blesky na vzdálené nepřátele. Protože vrženému kladivu by trvalo otravně dlouho než se vrátí."
+
+msgid "unnatural/base/buildings/vehicle_assembler.proto/description"
+msgstr "Vyrábí T2 jednotky. Zaměřuje se na kolová a pásová vozidla."
+
+
+msgid "unnatural/base/ores/aether_deposit.proto/title"
+msgstr "Éterové Ložisko"
+
+msgid "unnatural/base/ores/crystals_deposit.proto/title"
+msgstr "Krystalové Ložisko"
+
+msgid "unnatural/base/ores/metal_deposit.proto/title"
+msgstr "Kovové Ložisko"
+
+msgid "unnatural/base/ores/oil_deposit.proto/title"
+msgstr "Ropné Ložisko"
+
+msgid "unnatural/base/ores/aether_deposit.proto/description"
+msgstr "Plynná látka, která se vzpírá vědeckému porozumění."
+
+msgid "unnatural/base/ores/crystals_deposit.proto/description"
+msgstr "Pravidelná struktura na molekulární úrovni dělá tento materiál velmi odolným. Také má bizarní optické odrazy."
+
+msgid "unnatural/base/ores/metal_deposit.proto/description"
+msgstr "Lidé byli posedlí zlatem. Ale nejlepší kov je železo."
+
+msgid "unnatural/base/ores/oil_deposit.proto/description"
+msgstr "Viskózní kapalina plná energie."
+

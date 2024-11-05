@@ -472,6 +472,9 @@ msgstr "Constructions"
 msgid "unnatural/lexicon/lexicoInnaturale"
 msgstr "Lexico Innaturale"
 
+msgid "unnatural/lexicon/neutral"
+msgstr "Neutral"
+
 msgid "unnatural/lexicon/recipes"
 msgstr "Recipes"
 
