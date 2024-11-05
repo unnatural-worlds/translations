@@ -463,11 +463,26 @@ msgstr "Invite"
 msgid "unnatural/inviteFriends/inviteFriends"
 msgstr "Invite Friends"
 
+msgid "unnatural/lexicon/buildings"
+msgstr "Buildings"
+
+msgid "unnatural/lexicon/constructions"
+msgstr "Constructions"
+
 msgid "unnatural/lexicon/lexicoInnaturale"
 msgstr "Lexico Innaturale"
 
+msgid "unnatural/lexicon/recipes"
+msgstr "Recipes"
+
+msgid "unnatural/lexicon/resources"
+msgstr "Resources"
+
 msgid "unnatural/lexicon/search"
 msgstr "Search..."
+
+msgid "unnatural/lexicon/units"
+msgstr "Units"
 
 msgid "unnatural/mainMenu/bigTitle/demo"
 msgstr "Unnatural Worlds Demo"
