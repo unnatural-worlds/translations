@@ -59,3 +59,8 @@ msgstr "Hrubý"
 msgid "unnatural/base/terrainTypes/cliffs"
 msgstr "Útes"
 
+msgid "unnatural/base/category/economy"
+msgstr "Ekonomické"
+
+msgid "unnatural/base/category/military"
+msgstr "Vojenské"

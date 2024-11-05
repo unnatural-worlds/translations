@@ -61,3 +61,11 @@ msgstr "Cliffs"
 
 msgid "unnatural/base/terrainTypes/water"
 msgstr "Water"
+
+
+
+msgid "unnatural/base/category/economy"
+msgstr "Economy"
+
+msgid "unnatural/base/category/military"
+msgstr "Military"

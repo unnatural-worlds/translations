@@ -59,3 +59,8 @@ msgstr "Rough"
 msgid "unnatural/base/terrainTypes/cliffs"
 msgstr "Cliffs"
 
+msgid "unnatural/base/category/economy"
+msgstr "Economy"
+
+msgid "unnatural/base/category/military"
+msgstr "Military"
