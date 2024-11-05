@@ -4,63 +4,63 @@ msgstr ""
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "PO-Revision-Date: 2024-11-05 17:30\n"
 "Last-Translator: translations <translations@unnatural-worlds.com>\n"
-"Language-Team: English\n"
+"Language-Team: Czech\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: en_US\n"
+"Language: cs_CZ\n"
 "X-Crowdin-SourceKey: msgstr\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 3;\n"
 "X-Crowdin-Project: unnatural-worlds\n"
 "X-Crowdin-Project-ID: 677934\n"
-"X-Crowdin-Language: en\n"
+"X-Crowdin-Language: cs\n"
 "X-Crowdin-File: /core/texts/ui.pot\n"
 "X-Crowdin-File-ID: 68\n"
 
 msgid "unnatural/abort"
-msgstr "Abort"
+msgstr "Zrušit"
 
 msgid "unnatural/about/aboutUnnaturalWorlds"
-msgstr "About Unnatural Worlds"
+msgstr "O Unnatural Worlds"
 
 msgid "unnatural/about/madeByTomasMaly"
-msgstr "Made by Tomáš Malý, 2024."
+msgstr "Vytvořil Tomáš Malý, 2024."
 
 msgid "unnatural/cancel"
-msgstr "Cancel"
+msgstr "Zrušit"
 
 msgid "unnatural/chat/chat"
-msgstr "Chat"
+msgstr "Zprávy"
 
 msgid "unnatural/chat/messageTemplate"
-msgstr "message"
+msgstr "zpráva"
 
 msgid "unnatural/close"
-msgstr "Close"
+msgstr "Zavřít"
 
 msgid "unnatural/commonGame/chat"
-msgstr "Chat"
+msgstr "Zprávy"
 
 msgid "unnatural/commonGame/defeated"
-msgstr "Defeated"
+msgstr "Poražený"
 
 msgid "unnatural/commonGame/diplomacy"
-msgstr "Diplomacy"
+msgstr "Diplomacie"
 
 msgid "unnatural/commonGame/earlyDevelopmentVersion"
-msgstr "Early development version "
+msgstr "Verze v počátku vývoje "
 
 msgid "unnatural/commonGame/lexicon"
-msgstr "Lexicon"
+msgstr "Lexikon"
 
 msgid "unnatural/commonGame/menu"
-msgstr "Menu"
+msgstr "Nabídka"
 
 msgid "unnatural/commonGame/resources"
-msgstr "Resources"
+msgstr "Suroviny"
 
 msgid "unnatural/commonGame/units"
-msgstr "Units"
+msgstr "Jednotky"
 
 msgid "unnatural/commonGame/uwTitle1"
 msgstr "Unnatural"
@@ -69,427 +69,427 @@ msgid "unnatural/commonGame/uwTitle2"
 msgstr "Worlds"
 
 msgid "unnatural/commonGame/vr/build"
-msgstr "Build"
+msgstr "Stavět"
 
 msgid "unnatural/commonGame/vr/diplomacy"
-msgstr "Diplomacy"
+msgstr "Diplomacie"
 
 msgid "unnatural/commonGame/vr/resources"
-msgstr "Resources"
+msgstr "Suroviny"
 
 msgid "unnatural/commonGame/vr/selection"
-msgstr "Selection"
+msgstr "Výběr"
 
 msgid "unnatural/controls/camera"
-msgstr "Camera"
+msgstr "Kamera"
 
 msgid "unnatural/controls/cameraMovement"
-msgstr "Camera movement"
+msgstr "Pohyb kamery"
 
 msgid "unnatural/controls/cameraOrientation"
-msgstr "Camera orientation"
+msgstr "Orientace kamery"
 
 msgid "unnatural/controls/cancelDrawing"
-msgstr "Cancel drawing"
+msgstr "Zrušit kreslení"
 
 msgid "unnatural/controls/cancelPlacing"
-msgstr "Cancel placing"
+msgstr "Zrušit umísťování"
 
 msgid "unnatural/controls/cancelSelecting"
-msgstr "Cancel selecting"
+msgstr "Zrušit vybírání"
 
 msgid "unnatural/controls/changeGamma"
-msgstr "Change gamma"
+msgstr "Změnit gamma"
 
 msgid "unnatural/controls/changeSpeed"
-msgstr "Change speed"
+msgstr "Změnit rychlost"
 
 msgid "unnatural/controls/cinematicMode"
-msgstr "Cinematic Mode"
+msgstr "Kinematický režim"
 
 msgid "unnatural/controls/colorCodedTerrainTypes"
-msgstr "Color-coded terrain types"
+msgstr "Barevné znázornění typů terénu"
 
 msgid "unnatural/controls/colorCodedTileOccupation"
-msgstr "Color-coded tile occupation"
+msgstr "Barevné znázornění obsazenosti políček"
 
 msgid "unnatural/controls/commands"
-msgstr "Commands"
+msgstr "Příkazy"
 
 msgid "unnatural/controls/commitPlacing"
-msgstr "Commit placing"
+msgstr "Dokončit umisťování"
 
 msgid "unnatural/controls/controls"
-msgstr "Controls"
+msgstr "Ovládání"
 
 msgid "unnatural/controls/debugging"
-msgstr "Debugging"
+msgstr "Ladění"
 
 msgid "unnatural/controls/defaultRoll"
-msgstr "Default roll"
+msgstr "Výchozí rolování"
 
 msgid "unnatural/controls/defaultZoom"
-msgstr "Default zoom"
+msgstr "Výchozí přiblížení"
 
 msgid "unnatural/controls/deleteWaypoint"
-msgstr "Delete waypoint"
+msgstr "Smazat waypoint"
 
 msgid "unnatural/controls/drawFormation"
-msgstr "Draw formation"
+msgstr "Nakreslit formaci"
 
 msgid "unnatural/controls/enqueueCommands"
-msgstr "Enqueue commands"
+msgstr "Příkazy do fronty"
 
 msgid "unnatural/controls/fightAttackMove"
-msgstr "Fight (attack-move)"
+msgstr "Bojovat (útočný pohyb)"
 
 msgid "unnatural/controls/followSelectedUnit"
-msgstr "Follow selected unit"
+msgstr "Následovat vybranou jednotku"
 
 msgid "unnatural/controls/guardHoldPosition"
-msgstr "Guard (hold position)"
+msgstr "Chránit (držet pozici)"
 
 msgid "unnatural/controls/insertWaypointAfter"
-msgstr "Insert waypoint after"
+msgstr "Vložit waypoint za"
 
 msgid "unnatural/controls/insertWaypointBefore"
-msgstr "Insert waypoint before"
+msgstr "Vložit waypoint před"
 
 msgid "unnatural/controls/jumpToCursor"
-msgstr "Jump to cursor"
+msgstr "Skočit na kurzor"
 
 msgid "unnatural/controls/loadResource"
-msgstr "Load resource"
+msgstr "Naložit surovinu"
 
 msgid "unnatural/controls/miscellaneous"
-msgstr "Miscellaneous"
+msgstr "Různé"
 
 msgid "unnatural/controls/move"
-msgstr "Move"
+msgstr "Pohyb"
 
 msgid "unnatural/controls/openChat"
-msgstr "Open chat"
+msgstr "Otevřít zprávy"
 
 msgid "unnatural/controls/openDiplomacy"
-msgstr "Open diplomacy"
+msgstr "Otevřít diplomacii"
 
 msgid "unnatural/controls/openLexicon"
-msgstr "Open lexicon"
+msgstr "Otevřít lexikon"
 
 msgid "unnatural/controls/openMenu"
-msgstr "Open menu"
+msgstr "Otevřít nabídku"
 
 msgid "unnatural/controls/openResources"
-msgstr "Open resources"
+msgstr "Otevřít suroviny"
 
 msgid "unnatural/controls/openUnits"
-msgstr "Open units"
+msgstr "Otevřít jednotky"
 
 msgid "unnatural/controls/overwriteWaypoint"
-msgstr "Overwrite waypoint"
+msgstr "Přepsat waypoint"
 
 msgid "unnatural/controls/repeatCommands"
-msgstr "Repeat commands"
+msgstr "Opakovat příkazy"
 
 msgid "unnatural/controls/restoreCamera"
-msgstr "Restore camera"
+msgstr "Obnovit kameru"
 
 msgid "unnatural/controls/restoreSelection"
-msgstr "Restore selection"
+msgstr "Obnovit výběr"
 
 msgid "unnatural/controls/roll"
-msgstr "Roll"
+msgstr "Náklon"
 
 msgid "unnatural/controls/runMove"
-msgstr "Run (move)"
+msgstr "Pohyb"
 
 msgid "unnatural/controls/saveCamera"
-msgstr "Save camera"
+msgstr "Uložit kameru"
 
 msgid "unnatural/controls/saveSelection"
-msgstr "Save selection"
+msgstr "Uložit výběr"
 
 msgid "unnatural/controls/selectAllArmy"
-msgstr "Select all army"
+msgstr "Vybrat všechnu armádu"
 
 msgid "unnatural/controls/selectFirstLastWaypoint"
-msgstr "Select first/last waypoint"
+msgstr "Vybrat první/poslední waypoint"
 
 msgid "unnatural/controls/selectIdleArmy"
-msgstr "Select idle army"
+msgstr "Vybrat nečinnou armádu"
 
 msgid "unnatural/controls/selectInvertConfig"
-msgstr "Select (invert config)"
+msgstr "Vybrat (opačná konfigurace)"
 
 msgid "unnatural/controls/selection"
-msgstr "Selection"
+msgstr "Výběr"
 
 msgid "unnatural/controls/selectMerge"
-msgstr "Select (merge)"
+msgstr "Vybrat (přidat)"
 
 msgid "unnatural/controls/selectPreviousNextWaypoint"
-msgstr "Select previous/next waypoint"
+msgstr "Vybrat předchozí/následující waypoint"
 
 msgid "unnatural/controls/selectReplace"
-msgstr "Select (replace)"
+msgstr "Vybrat (nahradit)"
 
 msgid "unnatural/controls/selectSubtract"
-msgstr "Select (subtract)"
+msgstr "Vybrat (odebrat)"
 
 msgid "unnatural/controls/selfDestructAll"
-msgstr "Self-destruct all"
+msgstr "Sebezničení všech"
 
 msgid "unnatural/controls/selfDestructOne"
-msgstr "Self-destruct one"
+msgstr "Sebezničení jedné"
 
 msgid "unnatural/controls/showCommands"
-msgstr "Show commands"
+msgstr "Zobrazit příkazy"
 
 msgid "unnatural/controls/showPaths"
-msgstr "Show paths"
+msgstr "Zobrazit cesty"
 
 msgid "unnatural/controls/showResourcesTrend"
-msgstr "Show resources trend"
+msgstr "Zobrazit trend surovin"
 
 msgid "unnatural/controls/showTileNeighbors"
-msgstr "Show tile neighbors"
+msgstr "Zobrazit sousedy políček"
 
 msgid "unnatural/controls/smartCommand"
-msgstr "Smart command"
+msgstr "Chytrý příkaz"
 
 msgid "unnatural/controls/smartCommandInvertConfig"
-msgstr "Smart command (invert config)"
+msgstr "Chytrý příkaz (opačné nastavení)"
 
 msgid "unnatural/controls/startFlyThrough"
-msgstr "Start fly-through"
+msgstr "Zahájit průlet"
 
 msgid "unnatural/controls/stop"
-msgstr "Stop"
+msgstr "Zastavit"
 
 msgid "unnatural/controls/tileClusters"
-msgstr "Tile clusters"
+msgstr "Seskupení políček"
 
 msgid "unnatural/controls/toggleCinematicMode"
-msgstr "Toggle cinematic mode"
+msgstr "Přepnout kinematický režim"
 
 msgid "unnatural/controls/toggleFpsCounter"
-msgstr "Toggle FPS counter"
+msgstr "Přepnout FPS"
 
 msgid "unnatural/controls/toggleFullscreen"
-msgstr "Toggle fullscreen"
+msgstr "Celá obrazovka"
 
 msgid "unnatural/controls/unloadResource"
-msgstr "Unload resource"
+msgstr "Vyložit surovinu"
 
 msgid "unnatural/controls/zoom"
-msgstr "Zoom"
+msgstr "Přiblížení"
 
 msgid "unnatural/createGame/create"
-msgstr "Create"
+msgstr "Vytvořit"
 
 msgid "unnatural/createGame/createMultiplayerGame"
-msgstr "Create Multiplayer Game"
+msgstr "Vytvořit hru pro více hráčů"
 
 msgid "unnatural/createGame/gameName"
-msgstr "Game name:"
+msgstr "Jméno hry:"
 
 msgid "unnatural/createGame/visibility"
-msgstr "Visibility:"
+msgstr "Viditelnost:"
 
 msgid "unnatural/dangerMeter/tooltip"
-msgstr "Closest enemy"
+msgstr "Nejbližší nepřítel"
 
 msgid "unnatural/dangerMeter/value"
 msgstr "{0} m"
 
 msgid "unnatural/diplomacy/detailDesktop/force"
-msgstr "Force"
+msgstr "Síla"
 
 msgid "unnatural/diplomacy/detailDesktop/player"
-msgstr "Player"
+msgstr "Hráč"
 
 msgid "unnatural/diplomacy/detailDesktop/policy"
-msgstr "Policy"
+msgstr "Vazba"
 
 msgid "unnatural/diplomacy/detailDesktop/score"
-msgstr "Score"
+msgstr "Skóre"
 
 msgid "unnatural/diplomacy/detailObserver/force"
-msgstr "Force"
+msgstr "Síla"
 
 msgid "unnatural/diplomacy/detailObserver/player"
-msgstr "Player"
+msgstr "Hráč"
 
 msgid "unnatural/diplomacy/detailObserver/score"
-msgstr "Score"
+msgstr "Skóre"
 
 msgid "unnatural/diplomacy/diplomacy"
-msgstr "Diplomacy"
+msgstr "Diplomacie"
 
 msgid "unnatural/diplomacy/forceTooltip/kills"
-msgstr "Kills: "
+msgstr "Zabití: "
 
 msgid "unnatural/diplomacy/forceTooltip/losses"
-msgstr "Losses: "
+msgstr "Ztráty: "
 
 msgid "unnatural/diplomacy/forceTooltip/score"
-msgstr "Score: "
+msgstr "Skóre: "
 
 msgid "unnatural/diplomacy/military"
-msgstr "Military"
+msgstr "Vojenské"
 
 msgid "unnatural/diplomacy/playerFlags/admin"
-msgstr "Admin"
+msgstr "Administrátor"
 
 msgid "unnatural/diplomacy/playerFlags/defeated"
-msgstr "Defeated"
+msgstr "Poražený"
 
 msgid "unnatural/diplomacy/playerFlags/disconnected"
-msgstr "Disconnected"
+msgstr "Odpojen"
 
 msgid "unnatural/diplomacy/playerFlags/pause"
-msgstr "Pause"
+msgstr "Pauza"
 
 msgid "unnatural/diplomacy/playerFlags/winner"
-msgstr "Winner"
+msgstr "Vítěz"
 
 msgid "unnatural/diplomacy/playerTooltip/ping"
 msgstr "Ping: "
 
 msgid "unnatural/diplomacy/vr/abortGame"
-msgstr "Abort Game"
+msgstr "Ukončit hru"
 
 msgid "unnatural/diplomacy/workers"
-msgstr "Workers"
+msgstr "Pracovníci"
 
 msgid "unnatural/findGame/address"
-msgstr "Address"
+msgstr "Adresa"
 
 msgid "unnatural/findGame/connectToLobbyWithIdFromClipboard"
-msgstr "Connect to lobby with ID from clipboard"
+msgstr "Připojit k lobby s ID ze schránky"
 
 msgid "unnatural/findGame/findMultiplayerGame"
-msgstr "Find Multiplayer Game"
+msgstr "Najít hru více hráčů"
 
 msgid "unnatural/findGame/gameName"
-msgstr "Game name"
+msgstr "Jméno hry"
 
 msgid "unnatural/findGame/join"
-msgstr "Join"
+msgstr "Připojit se"
 
 msgid "unnatural/findGame/lanGames"
-msgstr "LAN Games"
+msgstr "Hry v místní síti"
 
 msgid "unnatural/findGame/mapName"
-msgstr "Map name"
+msgstr "Název mapy"
 
 msgid "unnatural/findGame/playerName"
-msgstr "Player name"
+msgstr "Jméno hráče"
 
 msgid "unnatural/findGame/players"
-msgstr "Players"
+msgstr "Hráči"
 
 msgid "unnatural/findGame/publicGames"
-msgstr "Public Games"
+msgstr "Veřejné hry"
 
 msgid "unnatural/findGame/search"
-msgstr "Search"
+msgstr "Hledat"
 
 msgid "unnatural/findGame/searching"
-msgstr "Searching..."
+msgstr "Hledání..."
 
 msgid "unnatural/findGame/serverIpOrAddress"
-msgstr "Server IP or address"
+msgstr "IP nebo adresa serveru"
 
 msgid "unnatural/finishPlayers/defeated"
-msgstr "Defeated"
+msgstr "Poražený"
 
 msgid "unnatural/finishPlayers/force"
-msgstr "Force"
+msgstr "Síla"
 
 msgid "unnatural/finishPlayers/kills"
-msgstr "Kills"
+msgstr "Zabití"
 
 msgid "unnatural/finishPlayers/losses"
-msgstr "Losses"
+msgstr "Ztráty"
 
 msgid "unnatural/finishPlayers/player"
-msgstr "Player"
+msgstr "Hráč"
 
 msgid "unnatural/finishPlayers/score"
-msgstr "Score"
+msgstr "Skóre"
 
 msgid "unnatural/finishPlayers/undecided"
-msgstr "Undecided"
+msgstr "Nerozhodnutý"
 
 msgid "unnatural/finishPlayers/winners"
-msgstr "Winners"
+msgstr "Vítězové"
 
 msgid "unnatural/foreignPolicyEnum/ally"
-msgstr "Ally"
+msgstr "Spojenec"
 
 msgid "unnatural/foreignPolicyEnum/enemy"
-msgstr "Enemy"
+msgstr "Nepřítel"
 
 msgid "unnatural/foreignPolicyEnum/neutral"
-msgstr "Neutral"
+msgstr "Neutrální"
 
 msgid "unnatural/foreignPolicyEnum/none"
-msgstr "None"
+msgstr "Žádný"
 
 msgid "unnatural/foreignPolicyEnum/self"
-msgstr "Self"
+msgstr "Vlastní"
 
 msgid "unnatural/game/followCamera"
-msgstr "Follow Camera"
+msgstr "Následovat kameru"
 
 msgid "unnatural/game/observer"
-msgstr "Observer"
+msgstr "Pozorovatel"
 
 msgid "unnatural/game/selection"
-msgstr "Selection"
+msgstr "Výběr"
 
 msgid "unnatural/gameMenu/continue"
-msgstr "Continue"
+msgstr "Pokračovat"
 
 msgid "unnatural/gameMenu/controls"
-msgstr "Controls"
+msgstr "Ovládání"
 
 msgid "unnatural/gameMenu/options"
-msgstr "Options"
+msgstr "Nastavení"
 
 msgid "unnatural/groupsIcons/selectAllArmy"
-msgstr "Select all army"
+msgstr "Vybrat všechnu armádu"
 
 msgid "unnatural/inviteFriends/invite"
-msgstr "Invite"
+msgstr "Pozvat"
 
 msgid "unnatural/inviteFriends/inviteFriends"
-msgstr "Invite Friends"
+msgstr "Pozvat přátele"
 
 msgid "unnatural/lexicon/buildings"
-msgstr "Buildings"
+msgstr "Budovy"
 
 msgid "unnatural/lexicon/constructions"
-msgstr "Constructions"
+msgstr "Výstavby"
 
 msgid "unnatural/lexicon/lexicoInnaturale"
 msgstr "Lexico Innaturale"
 
 msgid "unnatural/lexicon/neutral"
-msgstr "Neutral"
+msgstr "Neutrální"
 
 msgid "unnatural/lexicon/recipes"
-msgstr "Recipes"
+msgstr "Recepty"
 
 msgid "unnatural/lexicon/resources"
-msgstr "Resources"
+msgstr "Suroviny"
 
 msgid "unnatural/lexicon/search"
-msgstr "Search..."
+msgstr "Hledat..."
 
 msgid "unnatural/lexicon/units"
-msgstr "Units"
+msgstr "Jednotky"
 
 msgid "unnatural/mainMenu/bigTitle/demo"
 msgstr "Unnatural Worlds Demo"
@@ -501,409 +501,409 @@ msgid "unnatural/mainMenu/bigTitle/regular"
 msgstr "Unnatural Worlds"
 
 msgid "unnatural/mainMenu/bigTitle/unknown"
-msgstr "Unnatural Worlds (unknown variant)"
+msgstr "Unnatural Worlds (neznámá verze)"
 
 msgid "unnatural/mainMenu/demo/demoVersion"
-msgstr "Demo version"
+msgstr "Demo verze"
 
 msgid "unnatural/mainMenu/demo/thisIsNotFullVersion"
-msgstr "This is not full version of the game. Some features are restricted or omitted."
+msgstr "Toto není plná verze hry. Některé funkce jsou omezeny nebo vynechány."
 
 msgid "unnatural/mainMenu/earlyDevelopment/earlyDevelopmentVersion"
-msgstr "Early development version "
+msgstr "Verze v počátku vývoje "
 
 msgid "unnatural/mainMenu/earlyDevelopment/itMayNotBeRepresentative"
-msgstr "It may not be representative of the final product."
+msgstr "Nemusí být reprezentativní pro konečný výrobek."
 
 msgid "unnatural/mainMenu/earlyDevelopment/thisVersionOfGameWasMadeAvailable"
-msgstr "This version of the game was made available to check for technical issues, and to collect feedback."
+msgstr "Tato verze hry je poskytována za účelem ověření technické funkčnosti a sbírání zpětné vazby."
 
 msgid "unnatural/mainMenu/giveFeedback"
-msgstr "Give feedback (opens Discord)"
+msgstr "Dát zpětnou vazbu (otevře Discord)"
 
 msgid "unnatural/mainMenu/linux/linuxVersion"
-msgstr "Linux version"
+msgstr "Verze pro Linux"
 
 msgid "unnatural/mainMenu/linux/supportForLinuxIsExperimental"
-msgstr "Support for linux is experimental. Please excuse potential difficulties."
+msgstr "Podpora pro linux je experimentální. Promiňte prosím možné potíže."
 
 msgid "unnatural/mainMenu/menu/about"
-msgstr "About"
+msgstr "O hře"
 
 msgid "unnatural/mainMenu/menu/controls"
-msgstr "Controls"
+msgstr "Ovládání"
 
 msgid "unnatural/mainMenu/menu/createMp"
-msgstr "Create MP"
+msgstr "Vytvořit MP"
 
 msgid "unnatural/mainMenu/menu/findMp"
-msgstr "Find MP"
+msgstr "Najít MP"
 
 msgid "unnatural/mainMenu/menu/options"
-msgstr "Options"
+msgstr "Nastavení"
 
 msgid "unnatural/mainMenu/menu/quit"
-msgstr "Quit"
+msgstr "Ukončit"
 
 msgid "unnatural/mainMenu/menu/replays"
-msgstr "Replays"
+msgstr "Záznamy"
 
 msgid "unnatural/mainMenu/menu/singlePlayer"
-msgstr "Single Player"
+msgstr "Jeden hráč"
 
 msgid "unnatural/mainMenu/playtest/playtestVersion"
-msgstr "Playtest version"
+msgstr "Playtest verze"
 
 msgid "unnatural/mainMenu/playtest/thisIsNotFullVersion"
-msgstr "This is not full version of the game. Some features are restricted or omitted."
+msgstr "Toto není plná verze hry. Některé funkce jsou omezeny nebo vynechány."
 
 msgid "unnatural/mapDescription/maxPlayers"
-msgstr "Max players: {0}"
+msgstr "Maximální počet hráčů: {0}"
 
 msgid "unnatural/mapDescription/tiles"
-msgstr "Tiles: {0}"
+msgstr "Políčka: {0}"
 
 msgid "unnatural/mapDescription/version"
-msgstr "Version: {0}"
+msgstr "Verze: {0}"
 
 msgid "unnatural/mapSelection/chooseMap"
-msgstr "Choose Map"
+msgstr "Vybrat mapu"
 
 msgid "unnatural/mapSelection/selectMap"
-msgstr "Select"
+msgstr "Vybrat"
 
 msgid "unnatural/mapSelection/upFolder"
-msgstr "Up Folder"
+msgstr "Složka nahoru"
 
 msgid "unnatural/mapSelection/versionMismatch"
-msgstr "Version mismatch"
+msgstr "Nesprávná verze"
 
 msgid "unnatural/options/camera"
-msgstr "Camera Controls"
+msgstr "Ovládání kamery"
 
 msgid "unnatural/options/camera/borderScrollSpeed"
-msgstr "Border scroll speed:"
+msgstr "Rychlost posunu na okraji:"
 
 msgid "unnatural/options/camera/enableBorderScrolling"
-msgstr "Enable border scrolling:"
+msgstr "Povolit posun na okraji:"
 
 msgid "unnatural/options/camera/enableBorderScrolling/description"
-msgstr "(Fullscreen only)"
+msgstr "(Pouze na celé obrazovce)"
 
 msgid "unnatural/options/camera/invertMousePanning"
-msgstr "Invert mouse panning:"
+msgstr "Převrátit tahání myší:"
 
 msgid "unnatural/options/camera/keybordPanningSpeed"
-msgstr "Keyboard panning speed:"
+msgstr "Rychlost posouvání na klávesnici:"
 
 msgid "unnatural/options/camera/keybordRollSpeed"
-msgstr "Keyboard roll speed:"
+msgstr "Rychlost otáčení na klávesnici:"
 
 msgid "unnatural/options/camera/mousePanningSpeed"
-msgstr "Mouse panning speed:"
+msgstr "Rychlost tažení myší:"
 
 msgid "unnatural/options/camera/mouseRollSpeed"
-msgstr "Mouse roll speed:"
+msgstr "Rychlost otáčení myší:"
 
 msgid "unnatural/options/camera/mouseZoomSpeed"
-msgstr "Mouse zoom speed:"
+msgstr "Rychlost přiblížení myší:"
 
 msgid "unnatural/options/gameplay"
-msgstr "Gameplay"
+msgstr "Hra"
 
 msgid "unnatural/options/gameplay/chatMessageDuration"
-msgstr "Chat message duration:"
+msgstr "Doba zobrazení zprávy:"
 
 msgid "unnatural/options/gameplay/guiScale"
-msgstr "Gui scale:"
+msgstr "Zvětšení grafického rozhraní:"
 
 msgid "unnatural/options/gameplay/preventAccidentalDeselection"
-msgstr "Prevent accidental deselection:"
+msgstr "Zabránit náhodnému zrušení výběru:"
 
 msgid "unnatural/options/gameplay/preventAccidentalDeselection/description"
-msgstr "Keep previous selection if new selection is empty"
+msgstr "Zachová předchozí výběr, pokud je nový výběr prázdný"
 
 msgid "unnatural/options/gameplay/selectedInfoLevel"
-msgstr "Selected info level:"
+msgstr "Úroveň informací pro výběr:"
 
 msgid "unnatural/options/gameplay/selectedInfoLevel/extra"
 msgstr "Extra"
 
 msgid "unnatural/options/gameplay/selectedInfoLevel/off"
-msgstr "Off"
+msgstr "Vypnuto"
 
 msgid "unnatural/options/gameplay/selectedInfoLevel/on"
-msgstr "On"
+msgstr "Zapnuto"
 
 msgid "unnatural/options/gameplay/shootingRange"
-msgstr "Shooting range:"
+msgstr "Dostřel:"
 
 msgid "unnatural/options/gameplay/shootingRange/description"
-msgstr "Show approximate shooting range of a selected unit."
+msgstr "Zobrazit přibližný dosah střelby vybrané jednotky."
 
 msgid "unnatural/options/gameplay/showNames"
-msgstr "Show names:"
+msgstr "Zobrazit názvy:"
 
 msgid "unnatural/options/gameplay/showNames/description"
-msgstr "Names shown over icons"
+msgstr "Názvy zobrazené přes ikony"
 
 msgid "unnatural/options/gameplay/smartOrderPrefersFight"
-msgstr "Smart order prefers fight:"
+msgstr "Chytrý příkaz preferuje boj:"
 
 msgid "unnatural/options/gameplay/smartOrderPrefersFight/description"
-msgstr "Prefer Fight order when ordering units with RMB."
+msgstr "Příkaz pravým tlačítkem myši preferuje souboj před pohybem."
 
 msgid "unnatural/options/gameplay/smartSelectionFilter"
-msgstr "Smart selection filter:"
+msgstr "Chytrý filtr výběru:"
 
 msgid "unnatural/options/gameplay/smartSelectionFilter/description"
-msgstr "Prefer selecting units over resources, military over civilian, etc."
+msgstr "Upřednostňuje výběr jednotek před surovinami, armádou před civilisty atd."
 
 msgid "unnatural/options/gameplay/strategicIconsDistance"
-msgstr "Strategic icons distance:"
+msgstr "Vzdálenost strategických ikon:"
 
 msgid "unnatural/options/gameplay/strategicIconsScale"
-msgstr "Strategic icons scale:"
+msgstr "Zvětšení strategických ikon:"
 
 msgid "unnatural/options/gameplay/tooltipDelay"
-msgstr "Tooltip delay:"
+msgstr "Prodleva zobrazení nápovědy:"
 
 msgid "unnatural/options/gameplay/tutorialMode"
-msgstr "Tutorial mode:"
+msgstr "Režim průvodce:"
 
 msgid "unnatural/options/gameplay/tutorialMode/description"
-msgstr "Enforces beginner-friendly build order"
+msgstr "Vynucuje pořadí staveb, které je vhodné pro začátečniky"
 
 msgid "unnatural/options/graphics"
-msgstr "Graphics"
+msgstr "Grafika"
 
 msgid "unnatural/options/graphics/enableSsao"
-msgstr "Enable SSAO:"
+msgstr "Povolit SSAO:"
 
 msgid "unnatural/options/graphics/enableSsao/description"
 msgstr "(Screen space ambient occlusion)"
 
 msgid "unnatural/options/options"
-msgstr "Options"
+msgstr "Nastavení"
 
 msgid "unnatural/options/player"
-msgstr "Player"
+msgstr "Hráč"
 
 msgid "unnatural/options/player/language"
-msgstr "Language:"
+msgstr "Jazyk:"
 
 msgid "unnatural/options/player/yourColor"
-msgstr "Your color:"
+msgstr "Vaše barva:"
 
 msgid "unnatural/options/player/yourName"
-msgstr "Your name:"
+msgstr "Vaše jméno:"
 
 msgid "unnatural/options/save"
-msgstr "Save"
+msgstr "Uložit"
 
 msgid "unnatural/options/sound"
-msgstr "Sound"
+msgstr "Zvuky"
 
 msgid "unnatural/options/sound/effectsVolume"
-msgstr "Effects volume:"
+msgstr "Hlasitost efektů:"
 
 msgid "unnatural/options/sound/masterVolume"
-msgstr "Master volume:"
+msgstr "Celková hlasitost:"
 
 msgid "unnatural/options/sound/musicVolume"
-msgstr "Music volume:"
+msgstr "Hlasitost hudby:"
 
 msgid "unnatural/options/sound/voicesVolume"
-msgstr "Voices volume:"
+msgstr "Hlasitost hlasů:"
 
 msgid "unnatural/orderTypeEnum/fight"
-msgstr "fight"
+msgstr "boj"
 
 msgid "unnatural/orderTypeEnum/guard"
-msgstr "guard"
+msgstr "hlídat"
 
 msgid "unnatural/orderTypeEnum/load"
-msgstr "load"
+msgstr "naložit"
 
 msgid "unnatural/orderTypeEnum/none"
-msgstr "none"
+msgstr "žádný"
 
 msgid "unnatural/orderTypeEnum/run"
-msgstr "run"
+msgstr "běh"
 
 msgid "unnatural/orderTypeEnum/selfDestruct"
-msgstr "self destruct"
+msgstr "sebezničení"
 
 msgid "unnatural/orderTypeEnum/stop"
-msgstr "stop"
+msgstr "zastavit"
 
 msgid "unnatural/orderTypeEnum/unload"
-msgstr "unload"
+msgstr "vyložit"
 
 msgid "unnatural/pathStateEnum/finished"
-msgstr "Finished"
+msgstr "Dokončeno"
 
 msgid "unnatural/pathStateEnum/found"
-msgstr "Found"
+msgstr "Nalezeno"
 
 msgid "unnatural/pathStateEnum/impossible"
-msgstr "Impossible"
+msgstr "Nemožné"
 
 msgid "unnatural/pathStateEnum/none"
-msgstr "None"
+msgstr "Žádné"
 
 msgid "unnatural/pathStateEnum/notFound"
-msgstr "Not found"
+msgstr "Nenalezeno"
 
 msgid "unnatural/pathStateEnum/recompute"
-msgstr "Recompute"
+msgstr "Přepočítat"
 
 msgid "unnatural/pathStateEnum/searching"
-msgstr "Searching"
+msgstr "Vyhledávání"
 
 msgid "unnatural/performanceTooltip/engineObjectsAvgPeak"
-msgstr "Engine objects (avg | peak):"
+msgstr "Objekty motoru (prům. | špička):"
 
 msgid "unnatural/performanceTooltip/frameTimeAvgPeak"
-msgstr "Frame time (avg | peak):"
+msgstr "Čas snímku (prům. | špička):"
 
 msgid "unnatural/performanceTooltip/gameObjects"
-msgstr "Game objects:"
+msgstr "Herní objekty:"
 
 msgid "unnatural/performanceTooltip/gameSpeed"
-msgstr "Game speed:"
+msgstr "Rychlost hry:"
 
 msgid "unnatural/performanceTooltip/mainThreadUtilization"
-msgstr "Main thread utilization:"
+msgstr "Využití hlavního vlákna:"
 
 msgid "unnatural/performanceTooltip/networkUpDown"
-msgstr "Network (up | down):"
+msgstr "Síť (nahoru | dolů):"
 
 msgid "unnatural/performanceTooltip/ping"
 msgstr "Ping:"
 
 msgid "unnatural/playerConnectionClassEnum/computer"
-msgstr "PC player"
+msgstr "PC hráč"
 
 msgid "unnatural/playerConnectionClassEnum/none"
-msgstr "None"
+msgstr "Žádný"
 
 msgid "unnatural/playerConnectionClassEnum/robot"
-msgstr "AI player"
+msgstr "AI hráč"
 
 msgid "unnatural/playerConnectionClassEnum/uwapi"
 msgstr "API program"
 
 msgid "unnatural/playerConnectionClassEnum/virtualReality"
-msgstr "Virtual reality player"
+msgstr "VR hráč"
 
 msgid "unnatural/priorityEnum/disabled"
-msgstr "Disabled"
+msgstr "Vypnuto"
 
 msgid "unnatural/priorityEnum/highPriority"
-msgstr "High priority"
+msgstr "Vysoká priorita"
 
 msgid "unnatural/priorityEnum/normalPriority"
-msgstr "Normal priority"
+msgstr "Normální priorita"
 
 msgid "unnatural/protoTypeEnum/construction"
-msgstr "construction"
+msgstr "výstavba"
 
 msgid "unnatural/protoTypeEnum/none"
-msgstr "none"
+msgstr "žádný"
 
 msgid "unnatural/protoTypeEnum/recipe"
-msgstr "recipe"
+msgstr "recept"
 
 msgid "unnatural/protoTypeEnum/resource"
-msgstr "resource"
+msgstr "surovina"
 
 msgid "unnatural/protoTypeEnum/unit"
-msgstr "unit"
+msgstr "jednotka"
 
 msgid "unnatural/recipeSelection/nothing"
-msgstr "<nothing>"
+msgstr "<nic>"
 
 msgid "unnatural/replay/selectReplay"
-msgstr "Select Replay"
+msgstr "Vybrat záznam"
 
 msgid "unnatural/replayControls/backward"
-msgstr "Backward"
+msgstr "Dozadu"
 
 msgid "unnatural/replayControls/faster"
-msgstr "Faster"
+msgstr "Rychleji"
 
 msgid "unnatural/replayControls/forward"
-msgstr "Forward"
+msgstr "Dopředu"
 
 msgid "unnatural/replayControls/normal"
-msgstr "Normal"
+msgstr "Normálně"
 
 msgid "unnatural/replayControls/replay"
-msgstr "Replay"
+msgstr "Záznam"
 
 msgid "unnatural/replayControls/restart"
-msgstr "Restart"
+msgstr "Restartovat"
 
 msgid "unnatural/replayControls/slower"
-msgstr "Slower"
+msgstr "Pomaleji"
 
 msgid "unnatural/replaySelection/mapNotFound"
-msgstr "Map not found"
+msgstr "Mapa nenalezena"
 
 msgid "unnatural/replaySelection/select"
-msgstr "Select"
+msgstr "Vybrat"
 
 msgid "unnatural/replaySelection/upFolder"
-msgstr "Up Folder"
+msgstr "Složka nahoru"
 
 msgid "unnatural/replaySelection/versionMismatch"
-msgstr "Version mismatch"
+msgstr "Nesprávná verze"
 
 msgid "unnatural/resources/resources"
-msgstr "Resources"
+msgstr "Suroviny"
 
 msgid "unnatural/resources/resourceTooltip/available"
-msgstr "Available: "
+msgstr "K dispozici: "
 
 msgid "unnatural/resources/resourceTooltip/consumption"
-msgstr "Consumption: "
+msgstr "Spotřeba: "
 
 msgid "unnatural/resources/resourceTooltip/needed"
-msgstr "Needed: "
+msgstr "Potřeba: "
 
 msgid "unnatural/resources/resourceTooltip/production"
-msgstr "Production: "
+msgstr "Výroba: "
 
 msgid "unnatural/resources/updateDetailsPlayer/available"
-msgstr "Available"
+msgstr "K dispozici"
 
 msgid "unnatural/resources/updateDetailsPlayer/consumption"
-msgstr "Consumption"
+msgstr "Spotřeba"
 
 msgid "unnatural/resources/updateDetailsPlayer/needed"
-msgstr "Needed"
+msgstr "Potřeba"
 
 msgid "unnatural/resources/updateDetailsPlayer/production"
-msgstr "Production"
+msgstr "Výroba"
 
 msgid "unnatural/selectedInfo/aim"
-msgstr "Aim: {0}"
+msgstr "Míření: {0}"
 
 msgid "unnatural/selectedInfo/aimId"
-msgstr "Aim id: {0}"
+msgstr "Id míření: {0}"
 
 msgid "unnatural/selectedInfo/aimPos"
-msgstr "Aim pos: {0}"
+msgstr "Pozice míření: {0}"
 
 msgid "unnatural/selectedInfo/attached"
-msgstr "Attached: {0}"
+msgstr "Připojeno: {0}"
 
 msgid "unnatural/selectedInfo/completed"
-msgstr "Completed: {0}"
+msgstr "Dokončeno: {0}"
 
 msgid "unnatural/selectedInfo/controller"
-msgstr "Controller: {0}"
+msgstr "Ovladač: {0}"
 
 msgid "unnatural/selectedInfo/etc"
 msgstr "ETC: {0}"
@@ -912,190 +912,190 @@ msgid "unnatural/selectedInfo/id"
 msgstr "Id: {0}"
 
 msgid "unnatural/selectedInfo/kills"
-msgstr "Kills: {0}"
+msgstr "Zabití: {0}"
 
 msgid "unnatural/selectedInfo/missingResources"
-msgstr "Missing resources:"
+msgstr "Chybějící suroviny:"
 
 msgid "unnatural/selectedInfo/order"
-msgstr "Order: {0}"
+msgstr "Příkaz: {0}"
 
 msgid "unnatural/selectedInfo/owner"
-msgstr "Owner: "
+msgstr "Vlastník: "
 
 msgid "unnatural/selectedInfo/path"
-msgstr "Path: {0}"
+msgstr "Cesta: {0}"
 
 msgid "unnatural/selectedInfo/position"
-msgstr "Position: {0}"
+msgstr "Pozice: {0}"
 
 msgid "unnatural/selectedInfo/recipe"
-msgstr "Recipe: {0}"
+msgstr "Recept: {0}"
 
 msgid "unnatural/selectedInfo/statusProcessing"
-msgstr "Status: processing"
+msgstr "Stav: zpracovávání"
 
 msgid "unnatural/selectedInfo/statusRebuilding"
-msgstr "Status: rebuilding"
+msgstr "Stav: přestavba"
 
 msgid "unnatural/selectedInfo/statusShooting"
-msgstr "Status: shooting"
+msgstr "Stav: střelba"
 
 msgid "unnatural/selectedInfo/uptime"
-msgstr "Uptime {0} %"
+msgstr "Doba provozu {0} %"
 
 msgid "unnatural/serverVisibilityEnum/friends"
-msgstr "Friends"
+msgstr "Přátelé"
 
 msgid "unnatural/serverVisibilityEnum/lan"
 msgstr "LAN"
 
 msgid "unnatural/serverVisibilityEnum/localhost"
-msgstr "Localhost"
+msgstr "Místní host"
 
 msgid "unnatural/serverVisibilityEnum/private"
-msgstr "Private"
+msgstr "Soukromý"
 
 msgid "unnatural/serverVisibilityEnum/public"
-msgstr "Public"
+msgstr "Veřejný"
 
 msgid "unnatural/serverVisibilityEnum/unknown"
-msgstr "Unknown"
+msgstr "Neznámý"
 
 msgid "unnatural/session/addAi"
-msgstr "Add AI"
+msgstr "Přidat AI"
 
 msgid "unnatural/session/chat"
-msgstr "Chat"
+msgstr "Zprávy"
 
 msgid "unnatural/session/chooseMap"
-msgstr "Choose Map"
+msgstr "Vybrat mapu"
 
 msgid "unnatural/session/copyLobbyId"
-msgstr "Copy Lobby ID"
+msgstr "Kopírovat ID lobby"
 
 msgid "unnatural/session/inviteFriends"
-msgstr "Invite Friends"
+msgstr "Pozvat přátele"
 
 msgid "unnatural/session/map"
-msgstr "Map"
+msgstr "Mapa"
 
 msgid "unnatural/session/newForce"
-msgstr "New Force"
+msgstr "Nová síla"
 
 msgid "unnatural/session/observer"
-msgstr "Observer"
+msgstr "Pozorovatel"
 
 msgid "unnatural/session/players"
-msgstr "Players"
+msgstr "Hráči"
 
 msgid "unnatural/session/previewMap"
-msgstr "Preview Map"
+msgstr "Náhled mapy"
 
 msgid "unnatural/session/vr/addAi"
 msgstr "AI"
 
 msgid "unnatural/session/vr/newForce"
-msgstr "New"
+msgstr "Nový"
 
 msgid "unnatural/sessionMap/waitForAdminToSelectMap"
-msgstr "Wait for admin to select a map"
+msgstr "Počkejte, až správce vybere mapu"
 
 msgid "unnatural/sessionPlayers/admin"
-msgstr "Admin"
+msgstr "Administrátor"
 
 msgid "unnatural/sessionPlayers/joinTeam"
-msgstr "Join team"
+msgstr "Připojit se k týmu"
 
 msgid "unnatural/sessionPlayers/kickPlayer"
-msgstr "Kick player"
+msgstr "Vyhodit hráče"
 
 msgid "unnatural/sessionPlayers/ready"
-msgstr "Ready"
+msgstr "Připraven"
 
 msgid "unnatural/sessionPlayers/shareControl"
-msgstr "Share control"
+msgstr "Sdílet ovládání"
 
 msgid "unnatural/sessionPlayers/startGame"
-msgstr "Start Game"
+msgstr "Spustit hru"
 
 msgid "unnatural/sessionPlayers/waitForAdminToStartGame"
-msgstr "Wait for admin to start the game"
+msgstr "Počkejte na spuštění hry administrátorem"
 
 msgid "unnatural/sessionPlayers/waiting"
-msgstr "Waiting"
+msgstr "Čekání"
 
 msgid "unnatural/statusConnecting/connecting"
-msgstr "Connecting"
+msgstr "Připojování"
 
 msgid "unnatural/statusConnecting/pleaseWaitMoment"
-msgstr "Please wait a moment."
+msgstr "Počkejte chvíli, prosím."
 
 msgid "unnatural/statusConnecting/youAreBeingConnectedToGameServer"
-msgstr "You are being connected to the game server."
+msgstr "Probíhá připojování k hernímu serveru."
 
 msgid "unnatural/statusDisconnected/disconnected"
-msgstr "Disconnected"
+msgstr "Odpojen"
 
 msgid "unnatural/statusDisconnected/seeGameLogsToFindMoreInformation"
-msgstr "See game logs to find more information."
+msgstr "Pro více informací shlédněte herní logy."
 
 msgid "unnatural/statusDisconnected/youHaveBeenDisconnectedFromGameServer"
-msgstr "You have been disconnected from the game server."
+msgstr "Byli jste odpojeni od herního serveru."
 
 msgid "unnatural/statusError/error"
-msgstr "Error"
+msgstr "Chyba"
 
 msgid "unnatural/statusError/errorHasOccured"
-msgstr "An error has occurred."
+msgstr "Vyskytla se chyba."
 
 msgid "unnatural/statusError/seeGameLogsToFindMoreInformation"
-msgstr "See game logs to find more information."
+msgstr "Pro více informací shlédněte herní logy."
 
 msgid "unnatural/statusFinish/gameOver"
-msgstr "Game over"
+msgstr "Konec hry"
 
 msgid "unnatural/statusPreparation/getReady"
-msgstr "Get ready"
+msgstr "Připrav se"
 
 msgid "unnatural/tooltips/allowsPlacement"
-msgstr "Allows placement"
+msgstr "Umožňuje umístění"
 
 msgid "unnatural/tooltips/armor"
-msgstr "Armor: "
+msgstr "Brnění: "
 
 msgid "unnatural/tooltips/attack"
-msgstr "Attack"
+msgstr "Útok"
 
 msgid "unnatural/tooltips/buildingRequiresAtLeastOneRecipe"
-msgstr "The building requires at least one recipe. See below."
+msgstr "Budova vyžaduje alespoň jeden recept. Viz níže."
 
 msgid "unnatural/tooltips/constructedBy"
-msgstr "Constructed by"
+msgstr "Postaveno z"
 
 msgid "unnatural/tooltips/construction"
-msgstr "Construction"
+msgstr "Výstavba"
 
 msgid "unnatural/tooltips/consumedBy"
-msgstr "Consumed by"
+msgstr "Použito v"
 
 msgid "unnatural/tooltips/damagePerSecond"
-msgstr "{0} damage/s"
+msgstr "{0} poškození/s"
 
 msgid "unnatural/tooltips/defense"
-msgstr "Defense"
+msgstr "Obrana"
 
 msgid "unnatural/tooltips/dps"
-msgstr "DPS: "
+msgstr "Poškození:"
 
 msgid "unnatural/tooltips/dpsAtLowLife"
-msgstr "DPS at low life: "
+msgstr "Poškození při málo životech: "
 
 msgid "unnatural/tooltips/hitChancesTable"
-msgstr "Hit Chances % Table"
+msgstr "Tabulka šance zásahu %"
 
 msgid "unnatural/tooltips/life"
-msgstr "Life: "
+msgstr "Životy: "
 
 msgid "unnatural/tooltips/meters"
 msgstr "{0} m"
@@ -1104,47 +1104,47 @@ msgid "unnatural/tooltips/metersPerSecond"
 msgstr "{0} m/s"
 
 msgid "unnatural/tooltips/movement"
-msgstr "Movement"
+msgstr "Pohyb"
 
 msgid "unnatural/tooltips/perSecond"
 msgstr "{0} / s"
 
 msgid "unnatural/tooltips/placeOver"
-msgstr "Place over"
+msgstr "Umístit přes"
 
 msgid "unnatural/tooltips/producedIn"
-msgstr "Produced in"
+msgstr "Vyrobeno v"
 
 msgid "unnatural/tooltips/range"
-msgstr "Range: "
+msgstr "Dostřel: "
 
 msgid "unnatural/tooltips/rateOfFire"
-msgstr "Rate of fire: "
+msgstr "Rychlost střelby: "
 
 msgid "unnatural/tooltips/recipe"
-msgstr "Recipe"
+msgstr "Recept"
 
 msgid "unnatural/tooltips/recipes"
-msgstr "Recipes"
+msgstr "Recepty"
 
 msgid "unnatural/tooltips/requirementsToUnlock"
-msgstr "Requirements to unlock"
+msgstr "Požadavky na odemknutí"
 
 msgid "unnatural/tooltips/seconds"
 msgstr "{0} s"
 
 msgid "unnatural/tooltips/shotsPerSecond"
-msgstr "{0} shots/s"
+msgstr "{0} výstřelů/s"
 
 msgid "unnatural/tooltips/weapon"
-msgstr "Weapon: "
+msgstr "Zbraň: "
 
 msgid "unnatural/units/units"
-msgstr "Units"
+msgstr "Jednotky"
 
 msgid "unnatural/unitsStats/idleTotalMilitary"
-msgstr "Idle/total military"
+msgstr "Nicnedělající / celková armáda"
 
 msgid "unnatural/unitsStats/idleTotalWorkers"
-msgstr "Idle/total workers"
+msgstr "Nicnedělající / celkový dělníci"
 
