@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: unnatural-worlds\n"
-"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2024-11-05 17:30\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI\n"
 "Last-Translator: translations <translations@unnatural-worlds.com>\n"
 "Language-Team: English\n"
 "MIME-Version: 1.0\n"
@@ -14,8 +14,6 @@ msgstr ""
 "X-Crowdin-Project: unnatural-worlds\n"
 "X-Crowdin-Project-ID: 677934\n"
 "X-Crowdin-Language: en\n"
-"X-Crowdin-File: /core/texts/ui.pot\n"
-"X-Crowdin-File-ID: 68\n"
 
 msgid "unnatural/abort"
 msgstr "Abort"
@@ -588,7 +586,7 @@ msgid "unnatural/options/camera/enableBorderScrolling"
 msgstr "Enable border scrolling:"
 
 msgid "unnatural/options/camera/enableBorderScrolling/description"
-msgstr "(Fullscreen only)"
+msgstr "Fullscreen only."
 
 msgid "unnatural/options/camera/invertMousePanning"
 msgstr "Invert mouse panning:"
@@ -621,7 +619,7 @@ msgid "unnatural/options/gameplay/preventAccidentalDeselection"
 msgstr "Prevent accidental deselection:"
 
 msgid "unnatural/options/gameplay/preventAccidentalDeselection/description"
-msgstr "Keep previous selection if new selection is empty"
+msgstr "Keep previous selection if new selection is empty."
 
 msgid "unnatural/options/gameplay/selectedInfoLevel"
 msgstr "Selected info level:"
@@ -645,7 +643,7 @@ msgid "unnatural/options/gameplay/showNames"
 msgstr "Show names:"
 
 msgid "unnatural/options/gameplay/showNames/description"
-msgstr "Names shown over icons"
+msgstr "Names shown over icons."
 
 msgid "unnatural/options/gameplay/smartOrderPrefersFight"
 msgstr "Smart order prefers fight:"
@@ -672,16 +670,25 @@ msgid "unnatural/options/gameplay/tutorialMode"
 msgstr "Tutorial mode:"
 
 msgid "unnatural/options/gameplay/tutorialMode/description"
-msgstr "Enforces beginner-friendly build order"
+msgstr "Enforces beginner-friendly build order."
 
 msgid "unnatural/options/graphics"
 msgstr "Graphics"
+
+msgid "unnatural/options/graphics/enableDynamicResolution"
+msgstr "Enable dynamic resolution:"
 
 msgid "unnatural/options/graphics/enableSsao"
 msgstr "Enable SSAO:"
 
 msgid "unnatural/options/graphics/enableSsao/description"
-msgstr "(Screen space ambient occlusion)"
+msgstr "Screen space ambient occlusion."
+
+msgid "unnatural/options/graphics/minimumScale"
+msgstr "Minimum scale:"
+
+msgid "unnatural/options/graphics/targetFps"
+msgstr "Target FPS:"
 
 msgid "unnatural/options/options"
 msgstr "Options"
