@@ -300,9 +300,6 @@ msgstr "Closest enemy"
 msgid "unnatural/dangerMeter/value"
 msgstr "{0} m"
 
-msgid "unnatural/diplomacy/detailDesktop/force"
-msgstr "Force"
-
 msgid "unnatural/diplomacy/detailDesktop/player"
 msgstr "Player"
 
@@ -311,9 +308,6 @@ msgstr "Policy"
 
 msgid "unnatural/diplomacy/detailDesktop/score"
 msgstr "Score"
-
-msgid "unnatural/diplomacy/detailObserver/force"
-msgstr "Force"
 
 msgid "unnatural/diplomacy/detailObserver/player"
 msgstr "Player"
@@ -402,17 +396,11 @@ msgstr "Server IP or address"
 msgid "unnatural/finishPlayers/defeated"
 msgstr "Defeated"
 
-msgid "unnatural/finishPlayers/force"
-msgstr "Force"
-
 msgid "unnatural/finishPlayers/kills"
 msgstr "Kills"
 
 msgid "unnatural/finishPlayers/losses"
 msgstr "Losses"
-
-msgid "unnatural/finishPlayers/player"
-msgstr "Player"
 
 msgid "unnatural/finishPlayers/score"
 msgstr "Score"
