@@ -1,23 +1,19 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Project-Id-Version: unnatural-worlds\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI\n"
 "Last-Translator: translations <translations@unnatural-worlds.com>\n"
-"Language-Team: translations <translations@unnatural-worlds.com>\n"
+"Language-Team: English\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: en_US\n"
 "X-Crowdin-SourceKey: msgstr\n"
-
-
-
-msgid "unnatural/base/buildings/arsenal.proto/description"
-msgstr "Produces most weapons."
-
-msgid "unnatural/base/buildings/arsenal.proto/title"
-msgstr "Arsenal"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: unnatural-worlds\n"
+"X-Crowdin-Project-ID: 677934\n"
+"X-Crowdin-Language: en\n"
 
 msgid "unnatural/base/buildings/blender.proto/description"
 msgstr "Mixing, evaporation, sedimentation. God knows how they make that."
@@ -26,46 +22,34 @@ msgid "unnatural/base/buildings/blender.proto/title"
 msgstr "Blender"
 
 msgid "unnatural/base/buildings/bot_assembler.proto/description"
-msgstr "T2 units production. Specializes in bipedal and multipedal robots."
+msgstr "Specializes in bipedal and multipedal robots."
 
 msgid "unnatural/base/buildings/bot_assembler.proto/title"
-msgstr "Bot Assembler"
-
-msgid "unnatural/base/buildings/brick.proto/description"
-msgstr "Build a wall. Literally."
-
-msgid "unnatural/base/buildings/brick.proto/title"
-msgstr "Brick"
+msgstr "Bot assembler"
 
 msgid "unnatural/base/buildings/concrete_plant.proto/description"
-msgstr "Produces reinforced concrete - good for building buildings."
+msgstr "Produces concrete - good for building buildings."
 
 msgid "unnatural/base/buildings/concrete_plant.proto/title"
-msgstr "Concrete Plant"
+msgstr "Concrete plant"
 
 msgid "unnatural/base/buildings/drill.proto/description"
-msgstr "Extracts solid resources from deposits."
+msgstr "Extracts resources from deposits."
 
 msgid "unnatural/base/buildings/drill.proto/title"
 msgstr "Drill"
 
 msgid "unnatural/base/buildings/experimental_assembler.proto/description"
-msgstr "T3 units production. Assembles most powerful robots."
+msgstr "Assembles most powerful robots."
 
 msgid "unnatural/base/buildings/experimental_assembler.proto/title"
-msgstr "Experimental Assembler"
+msgstr "Experimental assembler"
 
 msgid "unnatural/base/buildings/factory.proto/description"
-msgstr "T1 units production."
+msgstr "Basic units production."
 
 msgid "unnatural/base/buildings/factory.proto/title"
 msgstr "Factory"
-
-msgid "unnatural/base/buildings/forgepress.proto/description"
-msgstr "Heavy impacts at high temperature turns alloys into armor."
-
-msgid "unnatural/base/buildings/forgepress.proto/title"
-msgstr "Forgepress"
 
 msgid "unnatural/base/buildings/generator.proto/description"
 msgstr "Makes batteries - charging is free."
@@ -85,23 +69,29 @@ msgstr "Mad scientist with a microscope."
 msgid "unnatural/base/buildings/laboratory.proto/title"
 msgstr "Laboratory"
 
-msgid "unnatural/base/buildings/nucleus.proto/description"
+msgid "unnatural/base/buildings/nanoforge.proto/description"
+msgstr "Some small stuff."
+
+msgid "unnatural/base/buildings/nanoforge.proto/title"
+msgstr "Nanoforge"
+
+msgid "unnatural/base/buildings/origin.proto/description"
 msgstr "Your home. Keep it safe."
 
-msgid "unnatural/base/buildings/nucleus.proto/title"
-msgstr "Nucleus"
-
-msgid "unnatural/base/buildings/pump.proto/description"
-msgstr "Extracts liquid or gaseous resources from deposits."
-
-msgid "unnatural/base/buildings/pump.proto/title"
-msgstr "Pump"
+msgid "unnatural/base/buildings/origin.proto/title"
+msgstr "Origin"
 
 msgid "unnatural/base/buildings/smelter.proto/description"
 msgstr "Refines metals into alloys."
 
 msgid "unnatural/base/buildings/smelter.proto/title"
 msgstr "Smelter"
+
+msgid "unnatural/base/buildings/synthesizer.proto/description"
+msgstr "Synthesizes polymer coating. It grows under large lamps."
+
+msgid "unnatural/base/buildings/synthesizer.proto/title"
+msgstr "Synthesizer"
 
 msgid "unnatural/base/buildings/talos.proto/description"
 msgstr "Cheap defensive tower."
@@ -115,35 +105,47 @@ msgstr "Casts lightning on distant enemies. Because throwing a hammer would have
 msgid "unnatural/base/buildings/thor.proto/title"
 msgstr "Thor"
 
+msgid "unnatural/base/buildings/tokamak.proto/description"
+msgstr "Fusion in less than 50 years. I promise."
+
+msgid "unnatural/base/buildings/tokamak.proto/title"
+msgstr "Tokamak"
+
 msgid "unnatural/base/buildings/vehicle_assembler.proto/description"
-msgstr "T2 units production. Specializes in wheeled and tracked vehicles and hovercrafts."
+msgstr "Specializes in wheeled and tracked vehicles and hovercrafts."
 
 msgid "unnatural/base/buildings/vehicle_assembler.proto/title"
-msgstr "Vehicle Assembler"
+msgstr "Vehicle assembler"
+
+msgid "unnatural/base/buildings/wall.proto/description"
+msgstr "Build a wall. Literally."
+
+msgid "unnatural/base/buildings/wall.proto/title"
+msgstr "Wall"
 
 msgid "unnatural/base/ores/aether_deposit.proto/description"
 msgstr "Gaseous substance that defies scientific understanding."
 
 msgid "unnatural/base/ores/aether_deposit.proto/title"
-msgstr "Aether Deposit"
+msgstr "Aether deposit"
 
 msgid "unnatural/base/ores/crystals_deposit.proto/description"
 msgstr "Regular structure at molecular level makes very sturdy material. Also has some weird optical reflections."
 
 msgid "unnatural/base/ores/crystals_deposit.proto/title"
-msgstr "Crystals Deposit"
+msgstr "Crystals deposit"
 
 msgid "unnatural/base/ores/metal_deposit.proto/description"
 msgstr "Humans were obsessed with gold. But the best metal is iron."
 
 msgid "unnatural/base/ores/metal_deposit.proto/title"
-msgstr "Metal Deposit"
+msgstr "Metal deposit"
 
 msgid "unnatural/base/ores/oil_deposit.proto/description"
 msgstr "Viscous liquid packed with energy."
 
 msgid "unnatural/base/ores/oil_deposit.proto/title"
-msgstr "Oil Deposit"
+msgstr "Oil deposit"
 
 msgid "unnatural/base/resources/aether.proto/description"
 msgstr "Gaseous substance that defies scientific understanding."
@@ -157,23 +159,23 @@ msgstr "Refined metals."
 msgid "unnatural/base/resources/alloys.proto/title"
 msgstr "Alloys"
 
+msgid "unnatural/base/resources/antimatter_ejector.proto/description"
+msgstr "Long-range weapon. Used to make holes in architecture."
+
+msgid "unnatural/base/resources/antimatter_ejector.proto/title"
+msgstr "Antimatter ejector"
+
 msgid "unnatural/base/resources/armor_plates.proto/description"
 msgstr "Layered metal plates offering protection against kinetic weapons."
 
 msgid "unnatural/base/resources/armor_plates.proto/title"
-msgstr "Armor Plates"
+msgstr "Armor plates"
 
-msgid "unnatural/base/resources/atomic_forge.proto/description"
-msgstr "Box full of atoms hammered together."
+msgid "unnatural/base/resources/concrete.proto/description"
+msgstr "Building buildings."
 
-msgid "unnatural/base/resources/atomic_forge.proto/title"
-msgstr "Atomic Forge"
-
-msgid "unnatural/base/resources/blaster.proto/description"
-msgstr "Long-range weapon. Used to make holes in architecture."
-
-msgid "unnatural/base/resources/blaster.proto/title"
-msgstr "Blaster"
+msgid "unnatural/base/resources/concrete.proto/title"
+msgstr "Concrete"
 
 msgid "unnatural/base/resources/crystals.proto/description"
 msgstr "Regular structure at molecular level makes very sturdy material. Also has some weird optical reflections."
@@ -193,53 +195,53 @@ msgstr "Viscous liquid packed with energy."
 msgid "unnatural/base/resources/oil.proto/title"
 msgstr "Oil"
 
+msgid "unnatural/base/resources/particle_accelerator.proto/description"
+msgstr "Box full of atoms hammered together."
+
+msgid "unnatural/base/resources/particle_accelerator.proto/title"
+msgstr "Particle accelerator"
+
 msgid "unnatural/base/resources/plasma_emitter.proto/description"
 msgstr "Its like a stove, cooking gas into plasma, compacted to fit into a gun. Good at melting through plated armor."
 
 msgid "unnatural/base/resources/plasma_emitter.proto/title"
-msgstr "Plasma Emitter"
+msgstr "Plasma emitter"
+
+msgid "unnatural/base/resources/polymer_coating.proto/description"
+msgstr "Extra durable armor plates. Very sturdy, but also very heavy."
+
+msgid "unnatural/base/resources/polymer_coating.proto/title"
+msgstr "Polymer coating"
 
 msgid "unnatural/base/resources/power_cell.proto/description"
 msgstr "Compact energy storage. Very dense (both energy and character)."
 
 msgid "unnatural/base/resources/power_cell.proto/title"
-msgstr "Power Cell"
+msgstr "Power cell"
 
-msgid "unnatural/base/resources/quantum_ray.proto/description"
+msgid "unnatural/base/resources/quantum_array.proto/description"
 msgstr "If plasma emitter is like a stove, then quantum ray is like a whole kitchen and bathroom in one. It washes, spins, and cooks quantum-entangled pairs of molecules, and flushes them down the muzzle. Universally effective gun. The muzzle has red stripes - make sure you are pointing it in the right direction."
 
-msgid "unnatural/base/resources/quantum_ray.proto/title"
-msgstr "Quantum Ray"
+msgid "unnatural/base/resources/quantum_array.proto/title"
+msgstr "Quantum array"
 
 msgid "unnatural/base/resources/quark_foam.proto/description"
 msgstr "Technobabble term that is not used anywhere else."
 
 msgid "unnatural/base/resources/quark_foam.proto/title"
-msgstr "Quark Foam"
+msgstr "Quark foam"
 
 msgid "unnatural/base/resources/rail_gun.proto/description"
 msgstr "Gunpowder is lame. This gun is powered by electricity. It shoots hundreds of small nails in a rapid succession. Good at penetrating energy shields."
 
 msgid "unnatural/base/resources/rail_gun.proto/title"
-msgstr "Rail Gun"
-
-msgid "unnatural/base/resources/reinforced_concrete.proto/description"
-msgstr "Building buildings with metal."
-
-msgid "unnatural/base/resources/reinforced_concrete.proto/title"
-msgstr "Reinforced Concrete"
-
-msgid "unnatural/base/resources/reinforced_plates.proto/description"
-msgstr "Extra durable armor plates. Very sturdy, but also very heavy."
-
-msgid "unnatural/base/resources/reinforced_plates.proto/title"
-msgstr "Reinforced Plates"
+msgstr "Rail gun"
 
 msgid "unnatural/base/resources/shield_projector.proto/description"
 msgstr "Uses crystals to bent lasers into a bubble, offering good protection from plasma weapons."
 
 msgid "unnatural/base/resources/shield_projector.proto/title"
-msgstr "Shield Projector"
+msgstr "Shield projector"
 
 msgid "unnatural/base/units/ATV.proto/description"
 msgstr "Automated transfer vehicle. Moves goods from A to B."

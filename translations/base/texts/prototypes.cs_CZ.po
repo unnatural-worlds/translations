@@ -17,10 +17,10 @@ msgstr ""
 "X-Crowdin-File: /base/texts/prototypes.pot\n"
 "X-Crowdin-File-ID: 70\n"
 
-msgid "unnatural/base/buildings/arsenal.proto/description"
+msgid "unnatural/base/buildings/synthesizer.proto/description"
 msgstr "Vyrábí většinu zbraní."
 
-msgid "unnatural/base/buildings/arsenal.proto/title"
+msgid "unnatural/base/buildings/synthesizer.proto/title"
 msgstr "Zbrojovka"
 
 msgid "unnatural/base/buildings/blender.proto/description"
@@ -35,10 +35,10 @@ msgstr "Vyrábí T2 jednotky. Zaměřuje se na dvojnohé a vícenohé roboty."
 msgid "unnatural/base/buildings/bot_assembler.proto/title"
 msgstr "Továrna na Roboty"
 
-msgid "unnatural/base/buildings/brick.proto/description"
+msgid "unnatural/base/buildings/wall.proto/description"
 msgstr "Staví zeď. Doslova."
 
-msgid "unnatural/base/buildings/brick.proto/title"
+msgid "unnatural/base/buildings/wall.proto/title"
 msgstr "Cihla"
 
 msgid "unnatural/base/buildings/concrete_plant.proto/description"
@@ -65,10 +65,10 @@ msgstr "Vyrábí T1 jednotky."
 msgid "unnatural/base/buildings/factory.proto/title"
 msgstr "Továrna"
 
-msgid "unnatural/base/buildings/forgepress.proto/description"
+msgid "unnatural/base/buildings/smelter.proto/description"
 msgstr "Těžké údery za vysoké teploty mění slitiny na pancíř."
 
-msgid "unnatural/base/buildings/forgepress.proto/title"
+msgid "unnatural/base/buildings/smelter.proto/title"
 msgstr "Kovací lis"
 
 msgid "unnatural/base/buildings/generator.proto/description"
@@ -89,22 +89,22 @@ msgstr "Šílený vědec s mikroskopem."
 msgid "unnatural/base/buildings/laboratory.proto/title"
 msgstr "Laboratoř"
 
-msgid "unnatural/base/buildings/nucleus.proto/description"
+msgid "unnatural/base/buildings/origin.proto/description"
 msgstr "Tvůj domov. Udržuj ho v bezpečí."
 
-msgid "unnatural/base/buildings/nucleus.proto/title"
+msgid "unnatural/base/buildings/origin.proto/title"
 msgstr "Nukleus"
 
-msgid "unnatural/base/buildings/pump.proto/description"
+msgid "unnatural/base/buildings/tokamak.proto/description"
 msgstr "Extrahuje kapalinu nebo plyn z ložiska."
 
-msgid "unnatural/base/buildings/pump.proto/title"
+msgid "unnatural/base/buildings/tokamak.proto/title"
 msgstr "Pumpa"
 
-msgid "unnatural/base/buildings/smelter.proto/description"
+msgid "unnatural/base/buildings/nanoforge.proto/description"
 msgstr "Rafinuje kovy na slitiny."
 
-msgid "unnatural/base/buildings/smelter.proto/title"
+msgid "unnatural/base/buildings/nanoforge.proto/title"
 msgstr "Vysoká pec"
 
 msgid "unnatural/base/buildings/talos.proto/description"
@@ -167,16 +167,16 @@ msgstr "Vrstvené kovové desky poskytující ochranu proti kinetickým zbraním
 msgid "unnatural/base/resources/armor_plates.proto/title"
 msgstr "Pancéřové Desky"
 
-msgid "unnatural/base/resources/atomic_forge.proto/description"
+msgid "unnatural/base/resources/particle_accelerator.proto/description"
 msgstr "Krabice plná atomů stlučených dohromady."
 
-msgid "unnatural/base/resources/atomic_forge.proto/title"
+msgid "unnatural/base/resources/particle_accelerator.proto/title"
 msgstr "Atomová Výheň"
 
-msgid "unnatural/base/resources/blaster.proto/description"
+msgid "unnatural/base/resources/antimatter_ejector.proto/description"
 msgstr "Zbraň dlouhého dosahu. Používá se na dělání děr v architektuře."
 
-msgid "unnatural/base/resources/blaster.proto/title"
+msgid "unnatural/base/resources/antimatter_ejector.proto/title"
 msgstr "Blaster"
 
 msgid "unnatural/base/resources/crystals.proto/description"
@@ -210,10 +210,10 @@ msgstr "Přenosná baterka. Hodně energie."
 msgid "unnatural/base/resources/power_cell.proto/title"
 msgstr "Napájecí Článek"
 
-msgid "unnatural/base/resources/quantum_ray.proto/description"
+msgid "unnatural/base/resources/quantum_array.proto/description"
 msgstr "Je-li plazmový emitor jako kamna, kvantový paprsek je jako celá kuchyň a koupelna v jednom. Oplachuje, roztáčí, a vaří kvantově svázané páry molekul a nakonec je spláchne hlavní ven. Univerzálně účinné dělo. Na hlavni jsou červené pruhy - ujistěte se, že tím míříte správným směrem."
 
-msgid "unnatural/base/resources/quantum_ray.proto/title"
+msgid "unnatural/base/resources/quantum_array.proto/title"
 msgstr "Kvantový Paprsek"
 
 msgid "unnatural/base/resources/quark_foam.proto/description"
@@ -228,16 +228,16 @@ msgstr "Střelný prach je trapný. Tahle zbraň používá elektřinu. Vystřel
 msgid "unnatural/base/resources/rail_gun.proto/title"
 msgstr "Railgun"
 
-msgid "unnatural/base/resources/reinforced_concrete.proto/description"
+msgid "unnatural/base/resources/concrete.proto/description"
 msgstr "Stavební materiál obohacený železem."
 
-msgid "unnatural/base/resources/reinforced_concrete.proto/title"
+msgid "unnatural/base/resources/concrete.proto/title"
 msgstr "Tvrzený Beton"
 
-msgid "unnatural/base/resources/reinforced_plates.proto/description"
+msgid "unnatural/base/resources/polymer_coating.proto/description"
 msgstr "Extra odolný pancíř. Velmi robustní, ale taky velmi těžký."
 
-msgid "unnatural/base/resources/reinforced_plates.proto/title"
+msgid "unnatural/base/resources/polymer_coating.proto/title"
 msgstr "Tvrzené Pláty"
 
 msgid "unnatural/base/resources/shield_projector.proto/description"

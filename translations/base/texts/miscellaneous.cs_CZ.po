@@ -26,7 +26,7 @@ msgstr "Kinetický"
 msgid "unnatural/base/damageTypes/plasma"
 msgstr "Plasmový"
 
-msgid "unnatural/base/damageTypes/blaster"
+msgid "unnatural/base/damageTypes/antimatter_ejector"
 msgstr "Blaster"
 
 msgid "unnatural/base/damageTypes/quantum"

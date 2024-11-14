@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: unnatural-worlds\n"
-"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2024-11-05 17:30\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI\n"
 "Last-Translator: translations <translations@unnatural-worlds.com>\n"
 "Language-Team: English\n"
 "MIME-Version: 1.0\n"
@@ -14,38 +14,45 @@ msgstr ""
 "X-Crowdin-Project: unnatural-worlds\n"
 "X-Crowdin-Project-ID: 677934\n"
 "X-Crowdin-Language: en\n"
-"X-Crowdin-File: /base/texts/miscellaneous.pot\n"
-"X-Crowdin-File-ID: 58\n"
 
-msgid "unnatural/base/damageTypes/laser"
-msgstr "Laser"
+
+
+msgid "unnatural/base/damageTypes/antimatter"
+msgstr "Antimatter"
 
 msgid "unnatural/base/damageTypes/kinetic"
 msgstr "Kinetic"
 
+msgid "unnatural/base/damageTypes/laser"
+msgstr "Laser"
+
+msgid "unnatural/base/damageTypes/particle_beam"
+msgstr "Particle beam"
+
 msgid "unnatural/base/damageTypes/plasma"
 msgstr "Plasma"
 
-msgid "unnatural/base/damageTypes/blaster"
-msgstr "Blaster"
 
-msgid "unnatural/base/damageTypes/quantum"
-msgstr "Quantum"
-
-msgid "unnatural/base/armorTypes/none"
-msgstr "None"
 
 msgid "unnatural/base/armorTypes/armor_plates"
 msgstr "Armor Plates"
 
-msgid "unnatural/base/armorTypes/energy_shield"
-msgstr "Energy Shield"
-
 msgid "unnatural/base/armorTypes/building"
 msgstr "Building"
 
+msgid "unnatural/base/armorTypes/energy_shield"
+msgstr "Energy Shield"
+
 msgid "unnatural/base/armorTypes/invulnerable"
 msgstr "Invulnerable"
+
+msgid "unnatural/base/armorTypes/polymer"
+msgstr "Polymer"
+
+msgid "unnatural/base/armorTypes/quantum"
+msgstr "Quantum"
+
+
 
 msgid "unnatural/base/terrainTypes/road"
 msgstr "Road"
@@ -62,9 +69,10 @@ msgstr "Cliffs"
 msgid "unnatural/base/terrainTypes/water"
 msgstr "Water"
 
+
+
 msgid "unnatural/base/category/economy"
 msgstr "Economy"
 
 msgid "unnatural/base/category/military"
 msgstr "Military"
-
