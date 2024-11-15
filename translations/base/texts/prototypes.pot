@@ -147,6 +147,18 @@ msgstr "Viscous liquid packed with energy."
 msgid "unnatural/base/ores/oil_deposit.proto/title"
 msgstr "Oil deposit"
 
+msgid "unnatural/base/recipes/crystallization.proto/description"
+msgstr "Spins quark foam under extreme temperature to put it into crystalline structure."
+
+msgid "unnatural/base/recipes/crystallization.proto/title"
+msgstr "Crystallization"
+
+msgid "unnatural/base/recipes/metallic_fusion.proto/description"
+msgstr "Fuses atoms at high velocities, forming more metal."
+
+msgid "unnatural/base/recipes/metallic_fusion.proto/title"
+msgstr "Metallic fusion"
+
 msgid "unnatural/base/resources/aether.proto/description"
 msgstr "Gaseous substance that defies scientific understanding."
 

@@ -444,6 +444,12 @@ msgstr "Controls"
 msgid "unnatural/gameMenu/options"
 msgstr "Options"
 
+msgid "unnatural/groupsIcons/armyGroup"
+msgstr "Army group"
+
+msgid "unnatural/groupsIcons/camera"
+msgstr "Camera"
+
 msgid "unnatural/groupsIcons/selectAllArmy"
 msgstr "Select all army"
 
