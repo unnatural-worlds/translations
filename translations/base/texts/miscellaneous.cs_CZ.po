@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: unnatural-worlds\n"
-"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2024-11-05 17:30\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI\n"
+"PO-Revision-Date: 2024-11-18 18:10\n"
 "Last-Translator: translations <translations@unnatural-worlds.com>\n"
 "Language-Team: Czech\n"
 "MIME-Version: 1.0\n"
@@ -17,35 +17,38 @@ msgstr ""
 "X-Crowdin-File: /base/texts/miscellaneous.pot\n"
 "X-Crowdin-File-ID: 58\n"
 
-msgid "unnatural/base/damageTypes/laser"
-msgstr "Laser"
+msgid "unnatural/base/damageTypes/antimatter"
+msgstr "Antihmota"
 
 msgid "unnatural/base/damageTypes/kinetic"
 msgstr "Kinetický"
 
+msgid "unnatural/base/damageTypes/laser"
+msgstr "Laser"
+
+msgid "unnatural/base/damageTypes/particle_beam"
+msgstr "Částicový paprsek"
+
 msgid "unnatural/base/damageTypes/plasma"
 msgstr "Plasmový"
-
-msgid "unnatural/base/damageTypes/antimatter_ejector"
-msgstr "Blaster"
-
-msgid "unnatural/base/damageTypes/quantum"
-msgstr "Kvantový"
-
-msgid "unnatural/base/armorTypes/none"
-msgstr "Žádný"
 
 msgid "unnatural/base/armorTypes/armor_plates"
 msgstr "Pancéřové Desky"
 
-msgid "unnatural/base/armorTypes/energy_shield"
-msgstr "Energetický Štít"
-
 msgid "unnatural/base/armorTypes/building"
 msgstr "Budova"
 
+msgid "unnatural/base/armorTypes/energy_shield"
+msgstr "Energetický Štít"
+
 msgid "unnatural/base/armorTypes/invulnerable"
 msgstr "Nezranitelný"
+
+msgid "unnatural/base/armorTypes/polymer"
+msgstr "Polymer"
+
+msgid "unnatural/base/armorTypes/quantum"
+msgstr "Kvantový"
 
 msgid "unnatural/base/terrainTypes/road"
 msgstr "Silnice"
