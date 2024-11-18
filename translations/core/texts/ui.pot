@@ -678,6 +678,9 @@ msgstr "Enable SSAO:"
 msgid "unnatural/options/graphics/enableSsao/description"
 msgstr "Screen space ambient occlusion."
 
+msgid "unnatural/options/graphics/lightsLimit"
+msgstr "Lights limit:"
+
 msgid "unnatural/options/graphics/minimumScale"
 msgstr "Minimum scale:"
 
