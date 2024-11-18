@@ -82,7 +82,7 @@ msgid "unnatural/base/buildings/origin.proto/title"
 msgstr "Origin"
 
 msgid "unnatural/base/buildings/smelter.proto/description"
-msgstr "Refines metals into alloys."
+msgstr "Refines alloys."
 
 msgid "unnatural/base/buildings/smelter.proto/title"
 msgstr "Smelter"
@@ -130,7 +130,7 @@ msgid "unnatural/base/ores/aether_deposit.proto/title"
 msgstr "Aether deposit"
 
 msgid "unnatural/base/ores/crystals_deposit.proto/description"
-msgstr "Regular structure at molecular level makes very sturdy material. Also has some weird optical reflections."
+msgstr "Regular structure at molecular level makes sturdy materials."
 
 msgid "unnatural/base/ores/crystals_deposit.proto/title"
 msgstr "Crystals deposit"
@@ -172,13 +172,13 @@ msgid "unnatural/base/resources/alloys.proto/title"
 msgstr "Alloys"
 
 msgid "unnatural/base/resources/antimatter_ejector.proto/description"
-msgstr "Long-range weapon. Used to make holes in architecture."
+msgstr "Whenever antimatter touches regular matter, they are both annihilated. Good weapon against buildings."
 
 msgid "unnatural/base/resources/antimatter_ejector.proto/title"
 msgstr "Antimatter ejector"
 
 msgid "unnatural/base/resources/armor_plates.proto/description"
-msgstr "Layered metal plates offering protection against kinetic weapons."
+msgstr "Layered metal plates offers good protection."
 
 msgid "unnatural/base/resources/armor_plates.proto/title"
 msgstr "Armor plates"
@@ -190,7 +190,7 @@ msgid "unnatural/base/resources/concrete.proto/title"
 msgstr "Concrete"
 
 msgid "unnatural/base/resources/crystals.proto/description"
-msgstr "Regular structure at molecular level makes very sturdy material. Also has some weird optical reflections."
+msgstr "Regular structure at molecular level makes sturdy materials."
 
 msgid "unnatural/base/resources/crystals.proto/title"
 msgstr "Crystals"
@@ -208,19 +208,19 @@ msgid "unnatural/base/resources/oil.proto/title"
 msgstr "Oil"
 
 msgid "unnatural/base/resources/particle_accelerator.proto/description"
-msgstr "Box full of atoms hammered together."
+msgstr "Tool to accelerate some particles. Also good gun against quantum armor."
 
 msgid "unnatural/base/resources/particle_accelerator.proto/title"
 msgstr "Particle accelerator"
 
 msgid "unnatural/base/resources/plasma_emitter.proto/description"
-msgstr "Its like a stove, cooking gas into plasma, compacted to fit into a gun. Good at melting through plated armor."
+msgstr "Cooks oil to form plasma. Good weapon against armor plates."
 
 msgid "unnatural/base/resources/plasma_emitter.proto/title"
 msgstr "Plasma emitter"
 
 msgid "unnatural/base/resources/polymer_coating.proto/description"
-msgstr "Extra durable armor plates. Very sturdy, but also very heavy."
+msgstr "Simple, light coating. Provides basic protection."
 
 msgid "unnatural/base/resources/polymer_coating.proto/title"
 msgstr "Polymer coating"
@@ -232,7 +232,7 @@ msgid "unnatural/base/resources/power_cell.proto/title"
 msgstr "Power cell"
 
 msgid "unnatural/base/resources/quantum_array.proto/description"
-msgstr "If plasma emitter is like a stove, then quantum ray is like a whole kitchen and bathroom in one. It washes, spins, and cooks quantum-entangled pairs of molecules, and flushes them down the muzzle. Universally effective gun. The muzzle has red stripes - make sure you are pointing it in the right direction."
+msgstr "Elements with quantum properties - randomly jumps between existence and shadows."
 
 msgid "unnatural/base/resources/quantum_array.proto/title"
 msgstr "Quantum array"
@@ -244,13 +244,13 @@ msgid "unnatural/base/resources/quark_foam.proto/title"
 msgstr "Quark foam"
 
 msgid "unnatural/base/resources/rail_gun.proto/description"
-msgstr "Gunpowder is lame. This gun is powered by electricity. It shoots hundreds of small nails in a rapid succession. Good at penetrating energy shields."
+msgstr "Shoots hundreds of small nails in a rapid succession. Good at penetrating energy shields."
 
 msgid "unnatural/base/resources/rail_gun.proto/title"
 msgstr "Rail gun"
 
 msgid "unnatural/base/resources/shield_projector.proto/description"
-msgstr "Uses crystals to bent lasers into a bubble, offering good protection from plasma weapons."
+msgstr "Uses crystals to bend lasers into a protective bubble."
 
 msgid "unnatural/base/resources/shield_projector.proto/title"
 msgstr "Shield projector"
@@ -270,21 +270,21 @@ msgstr "Colossus"
 msgid "unnatural/base/units/cyclops.proto/description"
 msgstr ""
 "Focuses its one eye as a scope.\n"
-"Long range artillery.\n"
-"Good vs. all armored units."
+"Long range siege unit.\n"
+"Good vs. buildings."
 
 msgid "unnatural/base/units/cyclops.proto/title"
 msgstr "Cyclops"
 
 msgid "unnatural/base/units/eagle.proto/description"
-msgstr "All-terrain scout."
+msgstr "All-terrain scout and harassment unit."
 
 msgid "unnatural/base/units/eagle.proto/title"
 msgstr "Eagle"
 
 msgid "unnatural/base/units/golem.proto/description"
 msgstr ""
-"Siege unit.\n"
+"Powerful siege unit, but short range.\n"
 "Strong vs. buildings."
 
 msgid "unnatural/base/units/golem.proto/title"
@@ -293,7 +293,7 @@ msgstr "Golem"
 msgid "unnatural/base/units/juggernaut.proto/description"
 msgstr ""
 "Assault bot.\n"
-"Strong vs. armor plates."
+"Strong vs. energy shield."
 
 msgid "unnatural/base/units/juggernaut.proto/title"
 msgstr "Juggernaut"
@@ -317,7 +317,7 @@ msgid "unnatural/base/units/mermaid.proto/title"
 msgstr "Mermaid"
 
 msgid "unnatural/base/units/paladin.proto/description"
-msgstr "Tanking robot. Great defenses."
+msgstr "Tanking robot. Good defenses."
 
 msgid "unnatural/base/units/paladin.proto/title"
 msgstr "Paladin"
@@ -325,7 +325,7 @@ msgstr "Paladin"
 msgid "unnatural/base/units/twinfire.proto/description"
 msgstr ""
 "Assault vehicle.\n"
-"Strong vs. energy shields."
+"Strong vs. armor plates."
 
 msgid "unnatural/base/units/twinfire.proto/title"
 msgstr "Twinfire"
