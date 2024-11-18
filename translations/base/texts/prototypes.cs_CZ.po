@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: unnatural-worlds\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI\n"
-"PO-Revision-Date: 2024-11-18 18:10\n"
+"PO-Revision-Date: 2024-11-18 18:44\n"
 "Last-Translator: translations <translations@unnatural-worlds.com>\n"
 "Language-Team: Czech\n"
 "MIME-Version: 1.0\n"
@@ -84,7 +84,7 @@ msgid "unnatural/base/buildings/origin.proto/title"
 msgstr "Počátek"
 
 msgid "unnatural/base/buildings/smelter.proto/description"
-msgstr "Rafinuje kovy na slitiny."
+msgstr "Rafinuje slitiny."
 
 msgid "unnatural/base/buildings/smelter.proto/title"
 msgstr "Vysoká pec"
@@ -132,7 +132,7 @@ msgid "unnatural/base/ores/aether_deposit.proto/title"
 msgstr "Éterové ložisko"
 
 msgid "unnatural/base/ores/crystals_deposit.proto/description"
-msgstr "Pravidelná struktura na molekulární úrovni dělá tento materiál velmi odolným. Také má bizarní optické odrazy."
+msgstr "Pravidelná struktura na molekulární úrovni dělá tento materiál velmi odolným."
 
 msgid "unnatural/base/ores/crystals_deposit.proto/title"
 msgstr "Krystalové ložisko"
@@ -174,13 +174,13 @@ msgid "unnatural/base/resources/alloys.proto/title"
 msgstr "Slitiny"
 
 msgid "unnatural/base/resources/antimatter_ejector.proto/description"
-msgstr "Zbraň dlouhého dosahu. Používá se na dělání děr v architektuře."
+msgstr "Když antihmota potká normální hmotu, tak obě prostě zmizí. Dobrá zbraň proti budovám."
 
 msgid "unnatural/base/resources/antimatter_ejector.proto/title"
 msgstr "Vyhazovač antihmoty"
 
 msgid "unnatural/base/resources/armor_plates.proto/description"
-msgstr "Vrstvené kovové desky poskytující ochranu proti kinetickým zbraním."
+msgstr "Vrstvené kovové desky poskytující ochranu."
 
 msgid "unnatural/base/resources/armor_plates.proto/title"
 msgstr "Pancéřové desky"
@@ -192,7 +192,7 @@ msgid "unnatural/base/resources/concrete.proto/title"
 msgstr "Beton"
 
 msgid "unnatural/base/resources/crystals.proto/description"
-msgstr "Pravidelná struktura na molekulární úrovni dělá tento materiál velmi odolným. Také má bizarní optické odrazy."
+msgstr "Pravidelná struktura na molekulární úrovni dělá tento materiál velmi odolným."
 
 msgid "unnatural/base/resources/crystals.proto/title"
 msgstr "Krystaly"
@@ -210,20 +210,19 @@ msgid "unnatural/base/resources/oil.proto/title"
 msgstr "Ropa"
 
 msgid "unnatural/base/resources/particle_accelerator.proto/description"
-msgstr "Krabice plná atomů stlučených dohromady."
+msgstr "Nástroj na urychlování částic. A taky dobrá zbraň proti kvantovýmu brnění."
 
 msgid "unnatural/base/resources/particle_accelerator.proto/title"
 msgstr "Částicový urychlovač"
 
 msgid "unnatural/base/resources/plasma_emitter.proto/description"
-msgstr "Je to jako sporák, převaří plyn na plazmu, a zmenšené aby se to vešlo do zbraně.\n"
-"Vhodné na propalování skrz tvrzené desky."
+msgstr "Vyvaří ropu na plasmu. Dobrá zbraň proti pancéřovým deskám."
 
 msgid "unnatural/base/resources/plasma_emitter.proto/title"
 msgstr "Plasmový vrhač"
 
 msgid "unnatural/base/resources/polymer_coating.proto/description"
-msgstr "Extra odolný pancíř. Velmi robustní, ale taky velmi těžký."
+msgstr "Jednoduchý lehký nátěr. Poskytuje základní ochranu."
 
 msgid "unnatural/base/resources/polymer_coating.proto/title"
 msgstr "Tvrzené pláty"
@@ -235,7 +234,7 @@ msgid "unnatural/base/resources/power_cell.proto/title"
 msgstr "Napájecí článek"
 
 msgid "unnatural/base/resources/quantum_array.proto/description"
-msgstr "Je-li plazmový emitor jako kamna, kvantový paprsek je jako celá kuchyň a koupelna v jednom. Oplachuje, roztáčí, a vaří kvantově svázané páry molekul a nakonec je spláchne hlavní ven. Univerzálně účinné dělo. Na hlavni jsou červené pruhy - ujistěte se, že tím míříte správným směrem."
+msgstr "Prvky s kvantovými vlastnostmi. Náhodně přeskakuje mezi existencí a stíny."
 
 msgid "unnatural/base/resources/quantum_array.proto/title"
 msgstr "Kvantové pole"
@@ -247,13 +246,13 @@ msgid "unnatural/base/resources/quark_foam.proto/title"
 msgstr "Kvarková pěna"
 
 msgid "unnatural/base/resources/rail_gun.proto/description"
-msgstr "Střelný prach je trapný. Tahle zbraň používá elektřinu. Vystřelí stovky malých hřebíků v rychlé salvě. Vhodné na prorážení energetických štítů."
+msgstr "Vystřelí stovky malých hřebíků v rychlé salvě. Vhodné na prorážení energetických štítů."
 
 msgid "unnatural/base/resources/rail_gun.proto/title"
 msgstr "Railgun"
 
 msgid "unnatural/base/resources/shield_projector.proto/description"
-msgstr "Používá krystaly k ohýbání laserů do bubliny, poskytuje dobrou ochranu před plazmatickými zbraněmi."
+msgstr "Používá krystaly k ohýbání laserů do tvaru ochranné bubliny."
 
 msgid "unnatural/base/resources/shield_projector.proto/title"
 msgstr "Projektor štítu"
@@ -272,7 +271,8 @@ msgstr "Kolos"
 
 msgid "unnatural/base/units/cyclops.proto/description"
 msgstr "Používá svůj jeden kanón jako hledí.\n"
-"Silný proti všem obrněným jednotkám."
+"Obléhací jednotka s dlouhým dostřelem.\n"
+"Dobrá proti budovám."
 
 msgid "unnatural/base/units/cyclops.proto/title"
 msgstr "Kyklop"
@@ -284,7 +284,7 @@ msgid "unnatural/base/units/eagle.proto/title"
 msgstr "Orel"
 
 msgid "unnatural/base/units/golem.proto/description"
-msgstr "Obléhací jednotka.\n"
+msgstr "Silná obléhací jednotka, ale s krátkým dostřelem.\n"
 "Silný proti budovám."
 
 msgid "unnatural/base/units/golem.proto/title"
@@ -292,7 +292,7 @@ msgstr "Golem"
 
 msgid "unnatural/base/units/juggernaut.proto/description"
 msgstr "Útočný robot.\n"
-"Silný proti vozidlům s plátovaným brněním."
+"Silný proti energetickému štítu."
 
 msgid "unnatural/base/units/juggernaut.proto/title"
 msgstr "Juggernaut"
@@ -323,7 +323,7 @@ msgstr "Paladin"
 
 msgid "unnatural/base/units/twinfire.proto/description"
 msgstr "Útočné vozidlo.\n"
-"Silné proti energetickým štítům."
+"Silný proti pancéřovým deskám."
 
 msgid "unnatural/base/units/twinfire.proto/title"
 msgstr "Dvojdělo"
