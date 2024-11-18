@@ -141,6 +141,9 @@ msgstr "Enqueue commands"
 msgid "unnatural/controls/fightAttackMove"
 msgstr "Fight (attack-move)"
 
+msgid "unnatural/controls/focusEnemy"
+msgstr "Focus enemy"
+
 msgid "unnatural/controls/followSelectedUnit"
 msgstr "Follow selected unit"
 
@@ -541,7 +544,7 @@ msgid "unnatural/mainMenu/menu/replays"
 msgstr "Replays"
 
 msgid "unnatural/mainMenu/menu/singlePlayer"
-msgstr "Single Player"
+msgstr "Single player"
 
 msgid "unnatural/mainMenu/playtest/playtestVersion"
 msgstr "Playtest version"
@@ -565,7 +568,7 @@ msgid "unnatural/mapSelection/selectMap"
 msgstr "Select"
 
 msgid "unnatural/mapSelection/upFolder"
-msgstr "Up Folder"
+msgstr "Up folder"
 
 msgid "unnatural/mapSelection/versionMismatch"
 msgstr "Version mismatch"
@@ -859,7 +862,7 @@ msgid "unnatural/replaySelection/select"
 msgstr "Select"
 
 msgid "unnatural/replaySelection/upFolder"
-msgstr "Up Folder"
+msgstr "Up folder"
 
 msgid "unnatural/replaySelection/versionMismatch"
 msgstr "Version mismatch"
@@ -976,19 +979,19 @@ msgid "unnatural/session/chat"
 msgstr "Chat"
 
 msgid "unnatural/session/chooseMap"
-msgstr "Choose Map"
+msgstr "Choose map"
 
 msgid "unnatural/session/copyLobbyId"
-msgstr "Copy Lobby ID"
+msgstr "Copy lobby ID"
 
 msgid "unnatural/session/inviteFriends"
-msgstr "Invite Friends"
+msgstr "Invite friends"
 
 msgid "unnatural/session/map"
 msgstr "Map"
 
 msgid "unnatural/session/newForce"
-msgstr "New Force"
+msgstr "New force"
 
 msgid "unnatural/session/observer"
 msgstr "Observer"
@@ -997,7 +1000,7 @@ msgid "unnatural/session/players"
 msgstr "Players"
 
 msgid "unnatural/session/previewMap"
-msgstr "Preview Map"
+msgstr "Preview map"
 
 msgid "unnatural/session/vr/addAi"
 msgstr "AI"
@@ -1024,7 +1027,7 @@ msgid "unnatural/sessionPlayers/shareControl"
 msgstr "Share control"
 
 msgid "unnatural/sessionPlayers/startGame"
-msgstr "Start Game"
+msgstr "Start game"
 
 msgid "unnatural/sessionPlayers/waitForAdminToStartGame"
 msgstr "Wait for admin to start the game"
@@ -1060,7 +1063,7 @@ msgid "unnatural/statusError/seeGameLogsToFindMoreInformation"
 msgstr "See game logs to find more information."
 
 msgid "unnatural/statusFinish/gameOver"
-msgstr "Game over"
+msgstr "Game Over"
 
 msgid "unnatural/statusPreparation/getReady"
 msgstr "Get ready"
