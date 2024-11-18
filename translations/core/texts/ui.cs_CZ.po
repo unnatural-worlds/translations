@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: unnatural-worlds\n"
-"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2024-11-05 17:30\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI\n"
+"PO-Revision-Date: 2024-11-18 18:10\n"
 "Last-Translator: translations <translations@unnatural-worlds.com>\n"
 "Language-Team: Czech\n"
 "MIME-Version: 1.0\n"
@@ -142,6 +142,9 @@ msgstr "Příkazy do fronty"
 
 msgid "unnatural/controls/fightAttackMove"
 msgstr "Bojovat (útočný pohyb)"
+
+msgid "unnatural/controls/focusEnemy"
+msgstr "Zobrazit nepřítele"
 
 msgid "unnatural/controls/followSelectedUnit"
 msgstr "Následovat vybranou jednotku"
@@ -302,9 +305,6 @@ msgstr "Nejbližší nepřítel"
 msgid "unnatural/dangerMeter/value"
 msgstr "{0} m"
 
-msgid "unnatural/diplomacy/detailDesktop/force"
-msgstr "Síla"
-
 msgid "unnatural/diplomacy/detailDesktop/player"
 msgstr "Hráč"
 
@@ -313,9 +313,6 @@ msgstr "Vazba"
 
 msgid "unnatural/diplomacy/detailDesktop/score"
 msgstr "Skóre"
-
-msgid "unnatural/diplomacy/detailObserver/force"
-msgstr "Síla"
 
 msgid "unnatural/diplomacy/detailObserver/player"
 msgstr "Hráč"
@@ -404,17 +401,11 @@ msgstr "IP nebo adresa serveru"
 msgid "unnatural/finishPlayers/defeated"
 msgstr "Poražený"
 
-msgid "unnatural/finishPlayers/force"
-msgstr "Síla"
-
 msgid "unnatural/finishPlayers/kills"
 msgstr "Zabití"
 
 msgid "unnatural/finishPlayers/losses"
 msgstr "Ztráty"
-
-msgid "unnatural/finishPlayers/player"
-msgstr "Hráč"
 
 msgid "unnatural/finishPlayers/score"
 msgstr "Skóre"
@@ -457,6 +448,12 @@ msgstr "Ovládání"
 
 msgid "unnatural/gameMenu/options"
 msgstr "Nastavení"
+
+msgid "unnatural/groupsIcons/armyGroup"
+msgstr "Skupina armády"
+
+msgid "unnatural/groupsIcons/camera"
+msgstr "Kamera"
 
 msgid "unnatural/groupsIcons/selectAllArmy"
 msgstr "Vybrat všechnu armádu"
@@ -588,7 +585,7 @@ msgid "unnatural/options/camera/enableBorderScrolling"
 msgstr "Povolit posun na okraji:"
 
 msgid "unnatural/options/camera/enableBorderScrolling/description"
-msgstr "(Pouze na celé obrazovce)"
+msgstr "Pouze na celé obrazovce."
 
 msgid "unnatural/options/camera/invertMousePanning"
 msgstr "Převrátit tahání myší:"
@@ -621,7 +618,7 @@ msgid "unnatural/options/gameplay/preventAccidentalDeselection"
 msgstr "Zabránit náhodnému zrušení výběru:"
 
 msgid "unnatural/options/gameplay/preventAccidentalDeselection/description"
-msgstr "Zachová předchozí výběr, pokud je nový výběr prázdný"
+msgstr "Zachová předchozí výběr, pokud je nový výběr prázdný."
 
 msgid "unnatural/options/gameplay/selectedInfoLevel"
 msgstr "Úroveň informací pro výběr:"
@@ -645,7 +642,7 @@ msgid "unnatural/options/gameplay/showNames"
 msgstr "Zobrazit názvy:"
 
 msgid "unnatural/options/gameplay/showNames/description"
-msgstr "Názvy zobrazené přes ikony"
+msgstr "Názvy zobrazené přes ikony."
 
 msgid "unnatural/options/gameplay/smartOrderPrefersFight"
 msgstr "Chytrý příkaz preferuje boj:"
@@ -672,16 +669,28 @@ msgid "unnatural/options/gameplay/tutorialMode"
 msgstr "Režim průvodce:"
 
 msgid "unnatural/options/gameplay/tutorialMode/description"
-msgstr "Vynucuje pořadí staveb, které je vhodné pro začátečniky"
+msgstr "Vynucuje pořadí staveb, které je vhodné pro začátečníky."
 
 msgid "unnatural/options/graphics"
 msgstr "Grafika"
+
+msgid "unnatural/options/graphics/enableDynamicResolution"
+msgstr "Povolit dynamické rozlišení:"
 
 msgid "unnatural/options/graphics/enableSsao"
 msgstr "Povolit SSAO:"
 
 msgid "unnatural/options/graphics/enableSsao/description"
-msgstr "(Screen space ambient occlusion)"
+msgstr "Screen space ambient occlusion."
+
+msgid "unnatural/options/graphics/lightsLimit"
+msgstr "Limit světel:"
+
+msgid "unnatural/options/graphics/minimumScale"
+msgstr "Minimální poměr:"
+
+msgid "unnatural/options/graphics/targetFps"
+msgstr "Cílové FPS:"
 
 msgid "unnatural/options/options"
 msgstr "Nastavení"
@@ -940,6 +949,9 @@ msgstr "Stav: přestavba"
 
 msgid "unnatural/selectedInfo/statusShooting"
 msgstr "Stav: střelba"
+
+msgid "unnatural/selectedInfo/statusStalling"
+msgstr "Stav: zablokováno"
 
 msgid "unnatural/selectedInfo/uptime"
 msgstr "Doba provozu {0} %"
