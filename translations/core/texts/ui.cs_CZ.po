@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: unnatural-worlds\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI\n"
-"PO-Revision-Date: 2024-11-18 18:10\n"
+"PO-Revision-Date: 2024-11-20 20:17\n"
 "Last-Translator: translations <translations@unnatural-worlds.com>\n"
 "Language-Team: Czech\n"
 "MIME-Version: 1.0\n"
@@ -454,6 +454,9 @@ msgstr "Skupina armády"
 
 msgid "unnatural/groupsIcons/camera"
 msgstr "Kamera"
+
+msgid "unnatural/groupsIcons/home"
+msgstr "Domov"
 
 msgid "unnatural/groupsIcons/selectAllArmy"
 msgstr "Vybrat všechnu armádu"
@@ -992,8 +995,8 @@ msgstr "Pozvat přátele"
 msgid "unnatural/session/map"
 msgstr "Mapa"
 
-msgid "unnatural/session/newForce"
-msgstr "Nová síla"
+msgid "unnatural/session/newTeam"
+msgstr "Nový tým"
 
 msgid "unnatural/session/observer"
 msgstr "Pozorovatel"
@@ -1103,9 +1106,6 @@ msgstr "Poškození:"
 msgid "unnatural/tooltips/dpsAtLowLife"
 msgstr "Poškození při málo životech: "
 
-msgid "unnatural/tooltips/hitChancesTable"
-msgstr "Tabulka šance zásahu %"
-
 msgid "unnatural/tooltips/life"
 msgstr "Životy: "
 
@@ -1117,6 +1117,9 @@ msgstr "{0} m/s"
 
 msgid "unnatural/tooltips/movement"
 msgstr "Pohyb"
+
+msgid "unnatural/tooltips/percentDamageTable"
+msgstr "Tabulka % poškození"
 
 msgid "unnatural/tooltips/perSecond"
 msgstr "{0} / s"
