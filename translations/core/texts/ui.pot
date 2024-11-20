@@ -453,6 +453,9 @@ msgstr "Army group"
 msgid "unnatural/groupsIcons/camera"
 msgstr "Camera"
 
+msgid "unnatural/groupsIcons/home"
+msgstr "Home"
+
 msgid "unnatural/groupsIcons/selectAllArmy"
 msgstr "Select all army"
 
@@ -990,8 +993,8 @@ msgstr "Invite friends"
 msgid "unnatural/session/map"
 msgstr "Map"
 
-msgid "unnatural/session/newForce"
-msgstr "New force"
+msgid "unnatural/session/newTeam"
+msgstr "New team"
 
 msgid "unnatural/session/observer"
 msgstr "Observer"
@@ -1101,9 +1104,6 @@ msgstr "DPS: "
 msgid "unnatural/tooltips/dpsAtLowLife"
 msgstr "DPS at low life: "
 
-msgid "unnatural/tooltips/hitChancesTable"
-msgstr "Hit Chances % Table"
-
 msgid "unnatural/tooltips/life"
 msgstr "Life: "
 
@@ -1115,6 +1115,9 @@ msgstr "{0} m/s"
 
 msgid "unnatural/tooltips/movement"
 msgstr "Movement"
+
+msgid "unnatural/tooltips/percentDamageTable"
+msgstr "% Damage Table"
 
 msgid "unnatural/tooltips/perSecond"
 msgstr "{0} / s"
