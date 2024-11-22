@@ -955,7 +955,7 @@ msgid "unnatural/selectedInfo/statusStalling"
 msgstr "Status: stalling"
 
 msgid "unnatural/selectedInfo/uptime"
-msgstr "Uptime {0} %"
+msgstr "Uptime: {0} %"
 
 msgid "unnatural/serverVisibilityEnum/friends"
 msgstr "Friends"
