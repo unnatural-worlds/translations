@@ -831,8 +831,8 @@ msgstr "resource"
 msgid "unnatural/protoTypeEnum/unit"
 msgstr "unit"
 
-msgid "unnatural/recipeSelection/nothing"
-msgstr "<nothing>"
+msgid "unnatural/recipeSelection/noRecipe"
+msgstr "No recipe"
 
 msgid "unnatural/replay/selectReplay"
 msgstr "Select Replay"
