@@ -1119,6 +1119,9 @@ msgstr "Movement"
 msgid "unnatural/tooltips/percentDamageTable"
 msgstr "% Damage Table"
 
+msgid "unnatural/tooltips/percents"
+msgstr "{0} %"
+
 msgid "unnatural/tooltips/perSecond"
 msgstr "{0} / s"
 
