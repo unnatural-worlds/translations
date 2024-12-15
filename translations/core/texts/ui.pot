@@ -414,6 +414,15 @@ msgstr "Undecided"
 msgid "unnatural/finishPlayers/winners"
 msgstr "Winners"
 
+msgid "unnatural/firstGameMode/buildingNeedsRecipe"
+msgstr "Building needs a recipe."
+
+msgid "unnatural/firstGameMode/truckAutonomousStartConstruction"
+msgstr "Trucks are autonomous. Start by placing a construction."
+
+msgid "unnatural/firstGameMode/waitTrucksDeliverResources"
+msgstr "Wait for the trucks to deliver resources to the construction."
+
 msgid "unnatural/foreignPolicyEnum/ally"
 msgstr "Ally"
 
@@ -434,9 +443,6 @@ msgstr "Follow Camera"
 
 msgid "unnatural/game/observer"
 msgstr "Observer"
-
-msgid "unnatural/game/selection"
-msgstr "Selection"
 
 msgid "unnatural/gameMenu/continue"
 msgstr "Continue"
@@ -611,6 +617,12 @@ msgstr "Gameplay"
 
 msgid "unnatural/options/gameplay/chatMessageDuration"
 msgstr "Chat message duration:"
+
+msgid "unnatural/options/gameplay/firstGameMode"
+msgstr "First game mode:"
+
+msgid "unnatural/options/gameplay/firstGameMode/description"
+msgstr "Prevents controlling trucks before building."
 
 msgid "unnatural/options/gameplay/guiScale"
 msgstr "Gui scale:"
@@ -816,6 +828,9 @@ msgstr "High priority"
 msgid "unnatural/priorityEnum/normalPriority"
 msgstr "Normal priority"
 
+msgid "unnatural/prioritySelection/priority"
+msgstr "Priority"
+
 msgid "unnatural/protoTypeEnum/construction"
 msgstr "construction"
 
@@ -833,6 +848,9 @@ msgstr "unit"
 
 msgid "unnatural/recipeSelection/noRecipe"
 msgstr "No recipe"
+
+msgid "unnatural/recipeSelection/recipe"
+msgstr "Recipe"
 
 msgid "unnatural/replay/selectReplay"
 msgstr "Select Replay"
@@ -915,6 +933,9 @@ msgstr "Completed: {0}"
 msgid "unnatural/selectedInfo/controller"
 msgstr "Controller: {0}"
 
+msgid "unnatural/selectedInfo/details"
+msgstr "Details"
+
 msgid "unnatural/selectedInfo/etc"
 msgstr "ETC: {0}"
 
@@ -956,6 +977,9 @@ msgstr "Status: stalling"
 
 msgid "unnatural/selectedInfo/uptime"
 msgstr "Uptime: {0} %"
+
+msgid "unnatural/selectionList/selection"
+msgstr "Selection"
 
 msgid "unnatural/serverVisibilityEnum/friends"
 msgstr "Friends"
@@ -1004,12 +1028,6 @@ msgstr "Players"
 
 msgid "unnatural/session/previewMap"
 msgstr "Preview map"
-
-msgid "unnatural/session/vr/addAi"
-msgstr "AI"
-
-msgid "unnatural/session/vr/newForce"
-msgstr "New"
 
 msgid "unnatural/sessionMap/waitForAdminToSelectMap"
 msgstr "Wait for admin to select a map"
