@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: unnatural-worlds\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI\n"
-"PO-Revision-Date: 2024-12-04 08:33\n"
+"PO-Revision-Date: 2024-12-15 22:15\n"
 "Last-Translator: translations <translations@unnatural-worlds.com>\n"
 "Language-Team: Czech\n"
 "MIME-Version: 1.0\n"
@@ -416,6 +416,15 @@ msgstr "Nerozhodnutý"
 msgid "unnatural/finishPlayers/winners"
 msgstr "Vítězové"
 
+msgid "unnatural/firstGameMode/buildingNeedsRecipe"
+msgstr "Stavba potřebuje recept."
+
+msgid "unnatural/firstGameMode/truckAutonomousStartConstruction"
+msgstr "Nákladní vozidla jsou autonomní. Začněte umístěním stavby."
+
+msgid "unnatural/firstGameMode/waitTrucksDeliverResources"
+msgstr "Počkejte na nákladní vozidla až dovezou suroviny na stavbu."
+
 msgid "unnatural/foreignPolicyEnum/ally"
 msgstr "Spojenec"
 
@@ -436,9 +445,6 @@ msgstr "Následovat kameru"
 
 msgid "unnatural/game/observer"
 msgstr "Pozorovatel"
-
-msgid "unnatural/game/selection"
-msgstr "Výběr"
 
 msgid "unnatural/gameMenu/continue"
 msgstr "Pokračovat"
@@ -613,6 +619,12 @@ msgstr "Hra"
 
 msgid "unnatural/options/gameplay/chatMessageDuration"
 msgstr "Doba zobrazení zprávy:"
+
+msgid "unnatural/options/gameplay/firstGameMode"
+msgstr "Režim první hry:"
+
+msgid "unnatural/options/gameplay/firstGameMode/description"
+msgstr "Zabraňuje ovládání nákladních automobilů před stavbou."
 
 msgid "unnatural/options/gameplay/guiScale"
 msgstr "Zvětšení grafického rozhraní:"
@@ -818,6 +830,9 @@ msgstr "Vysoká priorita"
 msgid "unnatural/priorityEnum/normalPriority"
 msgstr "Normální priorita"
 
+msgid "unnatural/prioritySelection/priority"
+msgstr "Priorita"
+
 msgid "unnatural/protoTypeEnum/construction"
 msgstr "výstavba"
 
@@ -835,6 +850,9 @@ msgstr "jednotka"
 
 msgid "unnatural/recipeSelection/noRecipe"
 msgstr "Žádný recept"
+
+msgid "unnatural/recipeSelection/recipe"
+msgstr "Recept"
 
 msgid "unnatural/replay/selectReplay"
 msgstr "Vybrat záznam"
@@ -917,6 +935,9 @@ msgstr "Dokončeno: {0}"
 msgid "unnatural/selectedInfo/controller"
 msgstr "Ovladač: {0}"
 
+msgid "unnatural/selectedInfo/details"
+msgstr "Detaily"
+
 msgid "unnatural/selectedInfo/etc"
 msgstr "ETC: {0}"
 
@@ -958,6 +979,9 @@ msgstr "Stav: zablokováno"
 
 msgid "unnatural/selectedInfo/uptime"
 msgstr "Doba provozu: {0} %"
+
+msgid "unnatural/selectionList/selection"
+msgstr "Výběr"
 
 msgid "unnatural/serverVisibilityEnum/friends"
 msgstr "Přátelé"
@@ -1006,12 +1030,6 @@ msgstr "Hráči"
 
 msgid "unnatural/session/previewMap"
 msgstr "Náhled mapy"
-
-msgid "unnatural/session/vr/addAi"
-msgstr "AI"
-
-msgid "unnatural/session/vr/newForce"
-msgstr "Nový"
 
 msgid "unnatural/sessionMap/waitForAdminToSelectMap"
 msgstr "Počkejte, až správce vybere mapu"
