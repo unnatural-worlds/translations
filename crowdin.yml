@@ -5,8 +5,6 @@ preserve_hierarchy: true
 files:
   - source: "/**/*.pot"
     translation: "%original_path%/%file_name%.%locale_with_underscore%.po"
-    ignore:
-      "/steam"
 
   - source: "/steam/storepage_550961_english.json"
     translation: "%original_path%/%file_name%_%language%.json"
