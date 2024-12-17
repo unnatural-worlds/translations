@@ -9,4 +9,4 @@ files:
   - source: "/steam/storepage_550961_english.json"
     translation: "%original_path%/%file_name%_%language%.json"
     translation_replace:
-      - _english: ""
+      "_english": ""
