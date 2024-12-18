@@ -961,7 +961,7 @@ msgid "unnatural/selectedInfo/position"
 msgstr "Position: {0}"
 
 msgid "unnatural/selectedInfo/recipe"
-msgstr "Recipe: {0}"
+msgstr "Recipe:"
 
 msgid "unnatural/selectedInfo/statusProcessing"
 msgstr "Status: processing"
@@ -1055,6 +1055,27 @@ msgstr "Wait for admin to start the game"
 
 msgid "unnatural/sessionPlayers/waiting"
 msgstr "Waiting"
+
+msgid "unnatural/startGameConditionEnum/invalidGameState"
+msgstr "Invalid game state"
+
+msgid "unnatural/startGameConditionEnum/loadingMap"
+msgstr "Loading map"
+
+msgid "unnatural/startGameConditionEnum/noMap"
+msgstr "No map"
+
+msgid "unnatural/startGameConditionEnum/noPlayers"
+msgstr "No players"
+
+msgid "unnatural/startGameConditionEnum/playersLoadingMap"
+msgstr "Players are loading"
+
+msgid "unnatural/startGameConditionEnum/ready"
+msgstr "Ready"
+
+msgid "unnatural/startGameConditionEnum/tooManyPlayers"
+msgstr "Too many players"
 
 msgid "unnatural/statusConnecting/connecting"
 msgstr "Connecting"
