@@ -12,6 +12,5 @@
     "app[content][sysreqs][linux][min][processor]": "x64, 4 vlákna",
     "app[content][sysreqs][linux][min][graphics]": "OpenGL 4.5, vram 4 GB",
     "app[content][sysreqs][linux][min][vrsupport]": "VR je k dispozici pouze na windows",
-    "app[content][sysreqs][linux][min][notes]": "Podpora linuxu je experimentální",
-    "app[content][sysreqs][linux][req][osversion]": ""
+    "app[content][sysreqs][linux][min][notes]": "Podpora linuxu je experimentální"
 }
