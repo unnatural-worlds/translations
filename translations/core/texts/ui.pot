@@ -1203,3 +1203,12 @@ msgstr "Idle/total military"
 msgid "unnatural/unitsStats/idleTotalWorkers"
 msgstr "Idle/total workers"
 
+msgid "unnatural/vrControls/pressBOnLeftController"
+msgstr "Press B on left controller"
+
+msgid "unnatural/vrControls/recenterHeadPosition"
+msgstr "Recenter head position"
+
+msgid "unnatural/vrControls/sitComfortablyAndLookForward"
+msgstr "Sit or stand comfortably and look straight forward"
+
