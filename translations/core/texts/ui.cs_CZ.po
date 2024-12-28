@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: unnatural-worlds\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI\n"
-"PO-Revision-Date: 2024-12-18 23:54\n"
+"PO-Revision-Date: 2024-12-28 22:45\n"
 "Last-Translator: translations <translations@unnatural-worlds.com>\n"
 "Language-Team: Czech\n"
 "MIME-Version: 1.0\n"
@@ -1204,4 +1204,13 @@ msgstr "Nicnedělající / celková armáda"
 
 msgid "unnatural/unitsStats/idleTotalWorkers"
 msgstr "Nicnedělající / celkový dělníci"
+
+msgid "unnatural/vrControls/pressBOnLeftController"
+msgstr "Stiskněte B na levém ovladači"
+
+msgid "unnatural/vrControls/recenterHeadPosition"
+msgstr "Centrování pozice hlavy"
+
+msgid "unnatural/vrControls/sitComfortablyAndLookForward"
+msgstr "Seď nebo stůj pohodlně, a dívej se zpříma dopředu"
 
