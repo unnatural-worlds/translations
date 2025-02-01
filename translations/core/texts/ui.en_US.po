@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: unnatural-worlds\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI\n"
-"PO-Revision-Date: 2024-12-28 22:45\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI\n"
 "Last-Translator: translations <translations@unnatural-worlds.com>\n"
 "Language-Team: English\n"
 "MIME-Version: 1.0\n"
@@ -14,8 +14,18 @@ msgstr ""
 "X-Crowdin-Project: unnatural-worlds\n"
 "X-Crowdin-Project-ID: 677934\n"
 "X-Crowdin-Language: en\n"
-"X-Crowdin-File: /core/texts/ui.pot\n"
-"X-Crowdin-File-ID: 68\n"
+
+msgid "cage/keybinds/add"
+msgstr "Add one"
+
+msgid "cage/keybinds/clear"
+msgstr "Clear all"
+
+msgid "cage/keybinds/remove"
+msgstr "Remove one"
+
+msgid "cage/keybinds/reset"
+msgstr "Reset to default"
 
 msgid "unnatural/abort"
 msgstr "Abort"
@@ -56,11 +66,11 @@ msgstr "Lexicon"
 msgid "unnatural/commonGame/menu"
 msgstr "Menu"
 
-msgid "unnatural/commonGame/resources"
-msgstr "Resources"
+msgid "unnatural/commonGame/resourcesOverview"
+msgstr "Resources overview"
 
-msgid "unnatural/commonGame/units"
-msgstr "Units"
+msgid "unnatural/commonGame/unitsOverview"
+msgstr "Units overview"
 
 msgid "unnatural/commonGame/uwTitle1"
 msgstr "Unnatural"
@@ -83,41 +93,8 @@ msgstr "Selection"
 msgid "unnatural/controls/camera"
 msgstr "Camera"
 
-msgid "unnatural/controls/cameraMovement"
-msgstr "Camera movement"
-
-msgid "unnatural/controls/cameraOrientation"
-msgstr "Camera orientation"
-
-msgid "unnatural/controls/cancelDrawing"
-msgstr "Cancel drawing"
-
-msgid "unnatural/controls/cancelPlacing"
-msgstr "Cancel placing"
-
-msgid "unnatural/controls/cancelSelecting"
-msgstr "Cancel selecting"
-
-msgid "unnatural/controls/changeGamma"
-msgstr "Change gamma"
-
-msgid "unnatural/controls/changeSpeed"
-msgstr "Change speed"
-
 msgid "unnatural/controls/cinematicMode"
-msgstr "Cinematic Mode"
-
-msgid "unnatural/controls/colorCodedTerrainTypes"
-msgstr "Color-coded terrain types"
-
-msgid "unnatural/controls/colorCodedTileOccupation"
-msgstr "Color-coded tile occupation"
-
-msgid "unnatural/controls/commands"
-msgstr "Commands"
-
-msgid "unnatural/controls/commitPlacing"
-msgstr "Commit placing"
+msgstr "Cinematic mode"
 
 msgid "unnatural/controls/controls"
 msgstr "Controls"
@@ -125,167 +102,38 @@ msgstr "Controls"
 msgid "unnatural/controls/debugging"
 msgstr "Debugging"
 
-msgid "unnatural/controls/defaultRoll"
-msgstr "Default roll"
+msgid "unnatural/controls/loadI"
+msgstr "Load {0}"
 
-msgid "unnatural/controls/defaultZoom"
-msgstr "Default zoom"
+msgid "unnatural/controls/loadLast"
+msgstr "Load last"
 
-msgid "unnatural/controls/deleteWaypoint"
-msgstr "Delete waypoint"
+msgid "unnatural/controls/orders"
+msgstr "Orders"
 
-msgid "unnatural/controls/drawFormation"
-msgstr "Draw formation"
+msgid "unnatural/controls/presets"
+msgstr "Presets"
 
-msgid "unnatural/controls/enqueueCommands"
-msgstr "Enqueue commands"
+msgid "unnatural/controls/presetsAreSynchronized"
+msgstr "Controls presets are synchronized between devices with same Steam account."
 
-msgid "unnatural/controls/fightAttackMove"
-msgstr "Fight (attack-move)"
+msgid "unnatural/controls/resetAll"
+msgstr "Reset all"
 
-msgid "unnatural/controls/focusEnemy"
-msgstr "Focus enemy"
+msgid "unnatural/controls/saveI"
+msgstr "Save {0}"
 
-msgid "unnatural/controls/followSelectedUnit"
-msgstr "Follow selected unit"
-
-msgid "unnatural/controls/guardHoldPosition"
-msgstr "Guard (hold position)"
-
-msgid "unnatural/controls/insertWaypointAfter"
-msgstr "Insert waypoint after"
-
-msgid "unnatural/controls/insertWaypointBefore"
-msgstr "Insert waypoint before"
-
-msgid "unnatural/controls/jumpToCursor"
-msgstr "Jump to cursor"
-
-msgid "unnatural/controls/loadResource"
-msgstr "Load resource"
-
-msgid "unnatural/controls/miscellaneous"
-msgstr "Miscellaneous"
-
-msgid "unnatural/controls/move"
-msgstr "Move"
-
-msgid "unnatural/controls/openChat"
-msgstr "Open chat"
-
-msgid "unnatural/controls/openDiplomacy"
-msgstr "Open diplomacy"
-
-msgid "unnatural/controls/openLexicon"
-msgstr "Open lexicon"
-
-msgid "unnatural/controls/openMenu"
-msgstr "Open menu"
-
-msgid "unnatural/controls/openResources"
-msgstr "Open resources"
-
-msgid "unnatural/controls/openUnits"
-msgstr "Open units"
-
-msgid "unnatural/controls/overwriteWaypoint"
-msgstr "Overwrite waypoint"
-
-msgid "unnatural/controls/repeatCommands"
-msgstr "Repeat commands"
-
-msgid "unnatural/controls/restoreCamera"
-msgstr "Restore camera"
-
-msgid "unnatural/controls/restoreSelection"
-msgstr "Restore selection"
-
-msgid "unnatural/controls/roll"
-msgstr "Roll"
-
-msgid "unnatural/controls/runMove"
-msgstr "Run (move)"
-
-msgid "unnatural/controls/saveCamera"
-msgstr "Save camera"
-
-msgid "unnatural/controls/saveSelection"
-msgstr "Save selection"
-
-msgid "unnatural/controls/selectAllArmy"
-msgstr "Select all army"
-
-msgid "unnatural/controls/selectFirstLastWaypoint"
-msgstr "Select first/last waypoint"
-
-msgid "unnatural/controls/selectIdleArmy"
-msgstr "Select idle army"
-
-msgid "unnatural/controls/selectInvertConfig"
-msgstr "Select (invert config)"
+msgid "unnatural/controls/savingCameras"
+msgstr "Saving cameras"
 
 msgid "unnatural/controls/selection"
 msgstr "Selection"
 
-msgid "unnatural/controls/selectMerge"
-msgstr "Select (merge)"
+msgid "unnatural/controls/selectionGroups"
+msgstr "Selection groups"
 
-msgid "unnatural/controls/selectPreviousNextWaypoint"
-msgstr "Select previous/next waypoint"
-
-msgid "unnatural/controls/selectReplace"
-msgstr "Select (replace)"
-
-msgid "unnatural/controls/selectSubtract"
-msgstr "Select (subtract)"
-
-msgid "unnatural/controls/selfDestructAll"
-msgstr "Self-destruct all"
-
-msgid "unnatural/controls/selfDestructOne"
-msgstr "Self-destruct one"
-
-msgid "unnatural/controls/showCommands"
-msgstr "Show commands"
-
-msgid "unnatural/controls/showPaths"
-msgstr "Show paths"
-
-msgid "unnatural/controls/showResourcesTrend"
-msgstr "Show resources trend"
-
-msgid "unnatural/controls/showTileNeighbors"
-msgstr "Show tile neighbors"
-
-msgid "unnatural/controls/smartCommand"
-msgstr "Smart command"
-
-msgid "unnatural/controls/smartCommandInvertConfig"
-msgstr "Smart command (invert config)"
-
-msgid "unnatural/controls/startFlyThrough"
-msgstr "Start fly-through"
-
-msgid "unnatural/controls/stop"
-msgstr "Stop"
-
-msgid "unnatural/controls/tileClusters"
-msgstr "Tile clusters"
-
-msgid "unnatural/controls/toggleCinematicMode"
-msgstr "Toggle cinematic mode"
-
-msgid "unnatural/controls/toggleFpsCounter"
-msgstr "Toggle FPS counter"
-
-msgid "unnatural/controls/toggleFullscreen"
-msgstr "Toggle fullscreen"
-
-msgid "unnatural/controls/unloadResource"
-msgstr "Unload resource"
-
-msgid "unnatural/controls/zoom"
-msgstr "Zoom"
+msgid "unnatural/controls/userInterface"
+msgstr "User interface"
 
 msgid "unnatural/createGame/create"
 msgstr "Create"
@@ -358,6 +206,9 @@ msgstr "Abort Game"
 
 msgid "unnatural/diplomacy/workers"
 msgstr "Workers"
+
+msgid "unnatural/enum/unknown"
+msgstr "Unknown"
 
 msgid "unnatural/findGame/address"
 msgstr "Address"
@@ -473,6 +324,339 @@ msgstr "Invite"
 msgid "unnatural/inviteFriends/inviteFriends"
 msgstr "Invite Friends"
 
+msgid "unnatural/key/camera/defaultRoll"
+msgstr "Default roll"
+
+msgid "unnatural/key/camera/defaultZoom"
+msgstr "Default zoom"
+
+msgid "unnatural/key/camera/dragging"
+msgstr "Dragging"
+
+msgid "unnatural/key/camera/focusEnemy"
+msgstr "Focus enemy"
+
+msgid "unnatural/key/camera/followSelectedUnits"
+msgstr "Follow selected units"
+
+msgid "unnatural/key/camera/jumpToCursor"
+msgstr "Jump to cursor"
+
+msgid "unnatural/key/camera/moveBackwards"
+msgstr "Move backwards"
+
+msgid "unnatural/key/camera/moveForward"
+msgstr "Move forward"
+
+msgid "unnatural/key/camera/moveLeft"
+msgstr "Move left"
+
+msgid "unnatural/key/camera/moveRight"
+msgstr "Move right"
+
+msgid "unnatural/key/camera/rollLeft"
+msgstr "Roll left"
+
+msgid "unnatural/key/camera/rollRight"
+msgstr "Roll right"
+
+msgid "unnatural/key/camera/zoomIn"
+msgstr "Zoom in"
+
+msgid "unnatural/key/camera/zoomOut"
+msgstr "Zoom out"
+
+msgid "unnatural/key/cameraStore/restoreCamera0"
+msgstr "Restore camera 0"
+
+msgid "unnatural/key/cameraStore/restoreCamera1"
+msgstr "Restore camera 1"
+
+msgid "unnatural/key/cameraStore/restoreCamera2"
+msgstr "Restore camera 2"
+
+msgid "unnatural/key/cameraStore/restoreCamera3"
+msgstr "Restore camera 3"
+
+msgid "unnatural/key/cameraStore/restoreCamera4"
+msgstr "Restore camera 4"
+
+msgid "unnatural/key/cameraStore/restoreCamera5"
+msgstr "Restore camera 5"
+
+msgid "unnatural/key/cameraStore/restoreCamera6"
+msgstr "Restore camera 6"
+
+msgid "unnatural/key/cameraStore/restoreCamera7"
+msgstr "Restore camera 7"
+
+msgid "unnatural/key/cameraStore/restoreCamera8"
+msgstr "Restore camera 8"
+
+msgid "unnatural/key/cameraStore/restoreCamera9"
+msgstr "Restore camera 9"
+
+msgid "unnatural/key/cameraStore/saveCamera0"
+msgstr "Save camera 0"
+
+msgid "unnatural/key/cameraStore/saveCamera1"
+msgstr "Save camera 1"
+
+msgid "unnatural/key/cameraStore/saveCamera2"
+msgstr "Save camera 2"
+
+msgid "unnatural/key/cameraStore/saveCamera3"
+msgstr "Save camera 3"
+
+msgid "unnatural/key/cameraStore/saveCamera4"
+msgstr "Save camera 4"
+
+msgid "unnatural/key/cameraStore/saveCamera5"
+msgstr "Save camera 5"
+
+msgid "unnatural/key/cameraStore/saveCamera6"
+msgstr "Save camera 6"
+
+msgid "unnatural/key/cameraStore/saveCamera7"
+msgstr "Save camera 7"
+
+msgid "unnatural/key/cameraStore/saveCamera8"
+msgstr "Save camera 8"
+
+msgid "unnatural/key/cameraStore/saveCamera9"
+msgstr "Save camera 9"
+
+msgid "unnatural/key/cinematic/cameraControls"
+msgstr "Camera controls"
+
+msgid "unnatural/key/cinematic/cameraControlsKeys"
+msgstr "WSADEQ, Mmb"
+
+msgid "unnatural/key/cinematic/deleteWaypoint"
+msgstr "Delete waypoint"
+
+msgid "unnatural/key/cinematic/insertAfter"
+msgstr "Insert waypoint after"
+
+msgid "unnatural/key/cinematic/insertBefore"
+msgstr "Insert waypoint before"
+
+msgid "unnatural/key/cinematic/overwriteWaypoint"
+msgstr "Overwrite waypoint"
+
+msgid "unnatural/key/cinematic/selectFirst"
+msgstr "Select first waypoint"
+
+msgid "unnatural/key/cinematic/selectLast"
+msgstr "Select last waypoint"
+
+msgid "unnatural/key/cinematic/selectNext"
+msgstr "Select next waypoint"
+
+msgid "unnatural/key/cinematic/selectPrevious"
+msgstr "Select previous waypoint"
+
+msgid "unnatural/key/cinematic/speedDown"
+msgstr "Fly slower"
+
+msgid "unnatural/key/cinematic/speedUp"
+msgstr "Fly faster"
+
+msgid "unnatural/key/cinematic/startPlaying"
+msgstr "Start fly-through"
+
+msgid "unnatural/key/cinematic/toggleCinematicMode"
+msgstr "Toggle cinematic mode"
+
+msgid "unnatural/key/debug/enableProfiling"
+msgstr "Enable profiling"
+
+msgid "unnatural/key/debug/renderMissingModels"
+msgstr "Render missing models"
+
+msgid "unnatural/key/debug/renderSkeletonBones"
+msgstr "Render skeleton bones"
+
+msgid "unnatural/key/debug/showClusters"
+msgstr "Show Clusters"
+
+msgid "unnatural/key/debug/showOverviewFlags"
+msgstr "Show Overview Flags"
+
+msgid "unnatural/key/debug/showTerrainTypes"
+msgstr "Show Terrain Types"
+
+msgid "unnatural/key/debug/showTileNeighbors"
+msgstr "Show Tile Neighbors"
+
+msgid "unnatural/key/debug/showUnitsPaths"
+msgstr "Show Units Paths"
+
+msgid "unnatural/key/orders/cancelDrawingFormation"
+msgstr "Cancel drawing formation"
+
+msgid "unnatural/key/orders/cancelPlacement"
+msgstr "Cancel placement"
+
+msgid "unnatural/key/orders/constructionPlacement"
+msgstr "Construction placement"
+
+msgid "unnatural/key/orders/enqueueOrder"
+msgstr "Enqueue order"
+
+msgid "unnatural/key/orders/fightOrderAttackMove"
+msgstr "Fight order (attack-move)"
+
+msgid "unnatural/key/orders/guardOrderHoldPosition"
+msgstr "Guard order (hold position)"
+
+msgid "unnatural/key/orders/invertPreference"
+msgstr "Invert preference"
+
+msgid "unnatural/key/orders/loadResource"
+msgstr "Load resource"
+
+msgid "unnatural/key/orders/repeatOrder"
+msgstr "Repeat order"
+
+msgid "unnatural/key/orders/runOrderMove"
+msgstr "Run order (move)"
+
+msgid "unnatural/key/orders/selfDestructMultiple"
+msgstr "Self-destruct all"
+
+msgid "unnatural/key/orders/selfDestructSingle"
+msgstr "Self-destruct one"
+
+msgid "unnatural/key/orders/smartOrderDrawFormation"
+msgstr "Smart order (draw formation)"
+
+msgid "unnatural/key/orders/stopOrder"
+msgstr "Stop order"
+
+msgid "unnatural/key/orders/unloadResource"
+msgstr "Unload resource"
+
+msgid "unnatural/key/screens/closeWindow"
+msgstr "Close window"
+
+msgid "unnatural/key/screens/gammaMinus"
+msgstr "Decrease gamma"
+
+msgid "unnatural/key/screens/gammaPlus"
+msgstr "Increase gamma"
+
+msgid "unnatural/key/screens/openChat"
+msgstr "Open chat"
+
+msgid "unnatural/key/screens/openChatEnter"
+msgstr "Open chat (enter)"
+
+msgid "unnatural/key/screens/openDiplomacy"
+msgstr "Open diplomacy"
+
+msgid "unnatural/key/screens/openLexicon"
+msgstr "Open lexicon"
+
+msgid "unnatural/key/screens/openMenu"
+msgstr "Open menu"
+
+msgid "unnatural/key/screens/openResourcesOverview"
+msgstr "Open resources overview"
+
+msgid "unnatural/key/screens/openUnitsOverview"
+msgstr "Open units overview"
+
+msgid "unnatural/key/screens/toggleFullscreen"
+msgstr "Toggle fullscreen"
+
+msgid "unnatural/key/selection/cancelSelection"
+msgstr "Cancel selection"
+
+msgid "unnatural/key/selection/clearSelection"
+msgstr "Clear selection"
+
+msgid "unnatural/key/selection/invertPreference"
+msgstr "Invert preference"
+
+msgid "unnatural/key/selection/mergeWithSelection"
+msgstr "Merge with selection"
+
+msgid "unnatural/key/selection/selectAllArmy"
+msgstr "Select all army"
+
+msgid "unnatural/key/selection/selectIdleArmy"
+msgstr "Select idle army"
+
+msgid "unnatural/key/selection/selectionSphere"
+msgstr "Selection sphere"
+
+msgid "unnatural/key/selection/selectSameDoubleClick"
+msgstr "Select same (double click)"
+
+msgid "unnatural/key/selection/subtractFromSelection"
+msgstr "Subtract from selection"
+
+msgid "unnatural/key/selectionStore/restoreSelection0"
+msgstr "Restore selection 0"
+
+msgid "unnatural/key/selectionStore/restoreSelection1"
+msgstr "Restore selection 1"
+
+msgid "unnatural/key/selectionStore/restoreSelection2"
+msgstr "Restore selection 2"
+
+msgid "unnatural/key/selectionStore/restoreSelection3"
+msgstr "Restore selection 3"
+
+msgid "unnatural/key/selectionStore/restoreSelection4"
+msgstr "Restore selection 4"
+
+msgid "unnatural/key/selectionStore/restoreSelection5"
+msgstr "Restore selection 5"
+
+msgid "unnatural/key/selectionStore/restoreSelection6"
+msgstr "Restore selection 6"
+
+msgid "unnatural/key/selectionStore/restoreSelection7"
+msgstr "Restore selection 7"
+
+msgid "unnatural/key/selectionStore/restoreSelection8"
+msgstr "Restore selection 8"
+
+msgid "unnatural/key/selectionStore/restoreSelection9"
+msgstr "Restore selection 9"
+
+msgid "unnatural/key/selectionStore/saveSelection0"
+msgstr "Save selection 0"
+
+msgid "unnatural/key/selectionStore/saveSelection1"
+msgstr "Save selection 1"
+
+msgid "unnatural/key/selectionStore/saveSelection2"
+msgstr "Save selection 2"
+
+msgid "unnatural/key/selectionStore/saveSelection3"
+msgstr "Save selection 3"
+
+msgid "unnatural/key/selectionStore/saveSelection4"
+msgstr "Save selection 4"
+
+msgid "unnatural/key/selectionStore/saveSelection5"
+msgstr "Save selection 5"
+
+msgid "unnatural/key/selectionStore/saveSelection6"
+msgstr "Save selection 6"
+
+msgid "unnatural/key/selectionStore/saveSelection7"
+msgstr "Save selection 7"
+
+msgid "unnatural/key/selectionStore/saveSelection8"
+msgstr "Save selection 8"
+
+msgid "unnatural/key/selectionStore/saveSelection9"
+msgstr "Save selection 9"
+
 msgid "unnatural/lexicon/buildings"
 msgstr "Buildings"
 
@@ -525,7 +709,7 @@ msgid "unnatural/mainMenu/earlyDevelopment/thisVersionOfGameWasMadeAvailable"
 msgstr "This version of the game was made available to check for technical issues, and to collect feedback."
 
 msgid "unnatural/mainMenu/giveFeedback"
-msgstr "Give feedback (opens Discord)"
+msgstr "Give feedback (opens browser with Discord)"
 
 msgid "unnatural/mainMenu/linux/linuxVersion"
 msgstr "Linux version"
@@ -599,20 +783,17 @@ msgstr "Fullscreen only."
 msgid "unnatural/options/camera/invertMousePanning"
 msgstr "Invert mouse panning:"
 
-msgid "unnatural/options/camera/keybordPanningSpeed"
+msgid "unnatural/options/camera/keyboardPanningSpeed"
 msgstr "Keyboard panning speed:"
 
-msgid "unnatural/options/camera/keybordRollSpeed"
+msgid "unnatural/options/camera/keyboardRollSpeed"
 msgstr "Keyboard roll speed:"
+
+msgid "unnatural/options/camera/keyboardZoomSpeed"
+msgstr "Keyboard zoom speed:"
 
 msgid "unnatural/options/camera/mousePanningSpeed"
 msgstr "Mouse panning speed:"
-
-msgid "unnatural/options/camera/mouseRollSpeed"
-msgstr "Mouse roll speed:"
-
-msgid "unnatural/options/camera/mouseZoomSpeed"
-msgstr "Mouse zoom speed:"
 
 msgid "unnatural/options/gameplay"
 msgstr "Gameplay"
@@ -624,7 +805,7 @@ msgid "unnatural/options/gameplay/firstGameMode"
 msgstr "First game mode:"
 
 msgid "unnatural/options/gameplay/firstGameMode/description"
-msgstr "Prevents controlling trucks before building."
+msgstr "Provides hints for beginners."
 
 msgid "unnatural/options/gameplay/guiScale"
 msgstr "Gui scale:"
@@ -634,6 +815,12 @@ msgstr "Prevent accidental deselection:"
 
 msgid "unnatural/options/gameplay/preventAccidentalDeselection/description"
 msgstr "Keep previous selection if new selection is empty."
+
+msgid "unnatural/options/gameplay/restrictedBuildOrder"
+msgstr "Restricted build order:"
+
+msgid "unnatural/options/gameplay/restrictedBuildOrder/description"
+msgstr "Enforces build order that avoids getting stuck."
 
 msgid "unnatural/options/gameplay/selectedInfoLevel"
 msgstr "Selected info level:"
@@ -679,12 +866,6 @@ msgstr "Strategic icons scale:"
 
 msgid "unnatural/options/gameplay/tooltipDelay"
 msgstr "Tooltip delay:"
-
-msgid "unnatural/options/gameplay/tutorialMode"
-msgstr "Tutorial mode:"
-
-msgid "unnatural/options/gameplay/tutorialMode/description"
-msgstr "Enforces beginner-friendly build order."
 
 msgid "unnatural/options/graphics"
 msgstr "Graphics"
@@ -998,9 +1179,6 @@ msgstr "Private"
 msgid "unnatural/serverVisibilityEnum/public"
 msgstr "Public"
 
-msgid "unnatural/serverVisibilityEnum/unknown"
-msgstr "Unknown"
-
 msgid "unnatural/session/addAi"
 msgstr "Add AI"
 
@@ -1121,8 +1299,8 @@ msgstr "Armor: "
 msgid "unnatural/tooltips/attack"
 msgstr "Attack"
 
-msgid "unnatural/tooltips/buildingRequiresAtLeastOneRecipe"
-msgstr "The building requires at least one recipe. See below."
+msgid "unnatural/tooltips/buildingNeedsPrerequisitesForAtLeastOneRecipe"
+msgstr "The building needs prerequisites for at least one recipe. See below."
 
 msgid "unnatural/tooltips/constructedBy"
 msgstr "Constructed by"
