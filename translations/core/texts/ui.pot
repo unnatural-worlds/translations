@@ -576,6 +576,12 @@ msgstr "Cancel selection"
 msgid "unnatural/key/selection/clearSelection"
 msgstr "Clear selection"
 
+msgid "unnatural/key/selection/guiFilterOthers"
+msgstr "Filter others from selection"
+
+msgid "unnatural/key/selection/guiFilterThis"
+msgstr "Filter this from selection"
+
 msgid "unnatural/key/selection/invertPreference"
 msgstr "Invert preference"
 
@@ -830,6 +836,12 @@ msgstr "Keyboard zoom speed:"
 
 msgid "unnatural/options/camera/mousePanningSpeed"
 msgstr "Mouse panning speed:"
+
+msgid "unnatural/options/camera/mouseRollSpeed"
+msgstr "Mouse roll speed:"
+
+msgid "unnatural/options/camera/mouseZoomSpeed"
+msgstr "Mouse zoom speed:"
 
 msgid "unnatural/options/gameplay"
 msgstr "Gameplay"

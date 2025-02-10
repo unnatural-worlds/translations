@@ -17,112 +17,112 @@ msgstr ""
 "X-Crowdin-File: /base/texts/prototypes.pot\n"
 "X-Crowdin-File-ID: 70\n"
 
-msgid "unnatural/base/buildings/blender.proto/description"
+msgid "unnatural/base/technocracy/buildings/blender.proto/description"
 msgstr "Míchání, vypařování, usazování. Bůh ví co tam dělají."
 
-msgid "unnatural/base/buildings/blender.proto/title"
+msgid "unnatural/base/technocracy/buildings/blender.proto/title"
 msgstr "Míchačka"
 
-msgid "unnatural/base/buildings/bot_assembler.proto/description"
+msgid "unnatural/base/technocracy/buildings/bot_assembler.proto/description"
 msgstr "Zaměřuje se na dvojnohé a vícenohé roboty."
 
-msgid "unnatural/base/buildings/bot_assembler.proto/title"
+msgid "unnatural/base/technocracy/buildings/bot_assembler.proto/title"
 msgstr "Továrna na roboty"
 
-msgid "unnatural/base/buildings/concrete_plant.proto/description"
+msgid "unnatural/base/technocracy/buildings/concrete_plant.proto/description"
 msgstr "Vyrábí beton - nutné na stavění budov."
 
-msgid "unnatural/base/buildings/concrete_plant.proto/title"
+msgid "unnatural/base/technocracy/buildings/concrete_plant.proto/title"
 msgstr "Betonárka"
 
-msgid "unnatural/base/buildings/drill.proto/description"
+msgid "unnatural/base/technocracy/buildings/drill.proto/description"
 msgstr "Extrahuje suroviny z ložisek."
 
-msgid "unnatural/base/buildings/drill.proto/title"
+msgid "unnatural/base/technocracy/buildings/drill.proto/title"
 msgstr "Vrták"
 
-msgid "unnatural/base/buildings/experimental_assembler.proto/description"
+msgid "unnatural/base/technocracy/buildings/experimental_assembler.proto/description"
 msgstr "Sestavuje nejsilnější roboty."
 
-msgid "unnatural/base/buildings/experimental_assembler.proto/title"
+msgid "unnatural/base/technocracy/buildings/experimental_assembler.proto/title"
 msgstr "Experimentální továrna"
 
-msgid "unnatural/base/buildings/factory.proto/description"
+msgid "unnatural/base/technocracy/buildings/factory.proto/description"
 msgstr "Vyrábí základní jednotky."
 
-msgid "unnatural/base/buildings/factory.proto/title"
+msgid "unnatural/base/technocracy/buildings/factory.proto/title"
 msgstr "Továrna"
 
-msgid "unnatural/base/buildings/generator.proto/description"
+msgid "unnatural/base/technocracy/buildings/generator.proto/description"
 msgstr "Vyrábí baterky - nabíjení je zdarma."
 
-msgid "unnatural/base/buildings/generator.proto/title"
+msgid "unnatural/base/technocracy/buildings/generator.proto/title"
 msgstr "Generátor"
 
-msgid "unnatural/base/buildings/heimdall.proto/description"
+msgid "unnatural/base/technocracy/buildings/heimdall.proto/description"
 msgstr "Silná obranná věž."
 
-msgid "unnatural/base/buildings/heimdall.proto/title"
+msgid "unnatural/base/technocracy/buildings/heimdall.proto/title"
 msgstr "Heimdall"
 
-msgid "unnatural/base/buildings/laboratory.proto/description"
+msgid "unnatural/base/technocracy/buildings/laboratory.proto/description"
 msgstr "Šílený vědec s mikroskopem."
 
-msgid "unnatural/base/buildings/laboratory.proto/title"
+msgid "unnatural/base/technocracy/buildings/laboratory.proto/title"
 msgstr "Laboratoř"
 
-msgid "unnatural/base/buildings/nanoforge.proto/description"
+msgid "unnatural/base/technocracy/buildings/nanoforge.proto/description"
 msgstr "Nějaké drobné věci."
 
-msgid "unnatural/base/buildings/nanoforge.proto/title"
+msgid "unnatural/base/technocracy/buildings/nanoforge.proto/title"
 msgstr "Nanopec"
 
-msgid "unnatural/base/buildings/origin.proto/description"
+msgid "unnatural/base/technocracy/buildings/origin.proto/description"
 msgstr "Tvůj domov. Udržuj ho v bezpečí."
 
-msgid "unnatural/base/buildings/origin.proto/title"
+msgid "unnatural/base/technocracy/buildings/origin.proto/title"
 msgstr "Počátek"
 
-msgid "unnatural/base/buildings/smelter.proto/description"
+msgid "unnatural/base/technocracy/buildings/smelter.proto/description"
 msgstr "Rafinuje slitiny."
 
-msgid "unnatural/base/buildings/smelter.proto/title"
+msgid "unnatural/base/technocracy/buildings/smelter.proto/title"
 msgstr "Vysoká pec"
 
-msgid "unnatural/base/buildings/synthesizer.proto/description"
+msgid "unnatural/base/technocracy/buildings/synthesizer.proto/description"
 msgstr "Syntézy polymerových povlaků, které rostou pod velkými lampami."
 
-msgid "unnatural/base/buildings/synthesizer.proto/title"
+msgid "unnatural/base/technocracy/buildings/synthesizer.proto/title"
 msgstr "Syntetizér"
 
-msgid "unnatural/base/buildings/talos.proto/description"
+msgid "unnatural/base/technocracy/buildings/talos.proto/description"
 msgstr "Levná obranná věž."
 
-msgid "unnatural/base/buildings/talos.proto/title"
+msgid "unnatural/base/technocracy/buildings/talos.proto/title"
 msgstr "Talos"
 
-msgid "unnatural/base/buildings/thor.proto/description"
+msgid "unnatural/base/technocracy/buildings/thor.proto/description"
 msgstr "Vrhá blesky na vzdálené nepřátele. Protože vrženému kladivu by trvalo otravně dlouho než se vrátí."
 
-msgid "unnatural/base/buildings/thor.proto/title"
+msgid "unnatural/base/technocracy/buildings/thor.proto/title"
 msgstr "Thór"
 
-msgid "unnatural/base/buildings/tokamak.proto/description"
+msgid "unnatural/base/technocracy/buildings/tokamak.proto/description"
 msgstr "Jaderná fůze do 50 let. Slibuji."
 
-msgid "unnatural/base/buildings/tokamak.proto/title"
+msgid "unnatural/base/technocracy/buildings/tokamak.proto/title"
 msgstr "Tokamak"
 
-msgid "unnatural/base/buildings/vehicle_assembler.proto/description"
+msgid "unnatural/base/technocracy/buildings/vehicle_assembler.proto/description"
 msgstr "Zaměřuje se na kolová a pásová vozidla."
 
-msgid "unnatural/base/buildings/vehicle_assembler.proto/title"
+msgid "unnatural/base/technocracy/buildings/vehicle_assembler.proto/title"
 msgstr "Továrna na vozidla"
 
-msgid "unnatural/base/buildings/wall.proto/description"
+msgid "unnatural/base/technocracy/buildings/wall.proto/description"
 msgstr "Staví zeď. Doslova."
 
-msgid "unnatural/base/buildings/wall.proto/title"
+msgid "unnatural/base/technocracy/buildings/wall.proto/title"
 msgstr "Zeď"
 
 msgid "unnatural/base/ores/aether_deposit.proto/description"
@@ -149,182 +149,182 @@ msgstr "Viskózní kapalina plná energie."
 msgid "unnatural/base/ores/oil_deposit.proto/title"
 msgstr "Ropné ložisko"
 
-msgid "unnatural/base/recipes/crystallization.proto/description"
+msgid "unnatural/base/technocracy/recipes/crystallization.proto/description"
 msgstr "Roztáčí kvarkovou pěnu za extrémně vysoké teploty a dostane ji do krystalové mřížky."
 
-msgid "unnatural/base/recipes/crystallization.proto/title"
+msgid "unnatural/base/technocracy/recipes/crystallization.proto/title"
 msgstr "Krystalizace"
 
-msgid "unnatural/base/recipes/metallic_fusion.proto/description"
+msgid "unnatural/base/technocracy/recipes/metallic_fusion.proto/description"
 msgstr "Slučuje atomy ve vysokých rychlostech a vytvoří kov."
 
-msgid "unnatural/base/recipes/metallic_fusion.proto/title"
+msgid "unnatural/base/technocracy/recipes/metallic_fusion.proto/title"
 msgstr "Kovová fúze"
 
-msgid "unnatural/base/resources/aether.proto/description"
+msgid "unnatural/base/technocracy/resources/aether.proto/description"
 msgstr "Plynná látka, která se vzpírá vědeckému porozumění."
 
-msgid "unnatural/base/resources/aether.proto/title"
+msgid "unnatural/base/technocracy/resources/aether.proto/title"
 msgstr "Éter"
 
-msgid "unnatural/base/resources/alloys.proto/description"
+msgid "unnatural/base/technocracy/resources/alloys.proto/description"
 msgstr "Rafinované kovy."
 
-msgid "unnatural/base/resources/alloys.proto/title"
+msgid "unnatural/base/technocracy/resources/alloys.proto/title"
 msgstr "Slitiny"
 
-msgid "unnatural/base/resources/antimatter_ejector.proto/description"
+msgid "unnatural/base/technocracy/resources/antimatter_ejector.proto/description"
 msgstr "Když antihmota potká normální hmotu, tak obě prostě zmizí. Dobrá zbraň proti budovám."
 
-msgid "unnatural/base/resources/antimatter_ejector.proto/title"
+msgid "unnatural/base/technocracy/resources/antimatter_ejector.proto/title"
 msgstr "Vyhazovač antihmoty"
 
-msgid "unnatural/base/resources/armor_plates.proto/description"
+msgid "unnatural/base/technocracy/resources/armor_plates.proto/description"
 msgstr "Vrstvené kovové desky poskytující ochranu."
 
-msgid "unnatural/base/resources/armor_plates.proto/title"
+msgid "unnatural/base/technocracy/resources/armor_plates.proto/title"
 msgstr "Pancéřové desky"
 
-msgid "unnatural/base/resources/concrete.proto/description"
+msgid "unnatural/base/technocracy/resources/concrete.proto/description"
 msgstr "Stavění staveb."
 
-msgid "unnatural/base/resources/concrete.proto/title"
+msgid "unnatural/base/technocracy/resources/concrete.proto/title"
 msgstr "Beton"
 
-msgid "unnatural/base/resources/crystals.proto/description"
+msgid "unnatural/base/technocracy/resources/crystals.proto/description"
 msgstr "Pravidelná struktura na molekulární úrovni dělá tento materiál velmi odolným."
 
-msgid "unnatural/base/resources/crystals.proto/title"
+msgid "unnatural/base/technocracy/resources/crystals.proto/title"
 msgstr "Krystaly"
 
-msgid "unnatural/base/resources/metal.proto/description"
+msgid "unnatural/base/technocracy/resources/metal.proto/description"
 msgstr "Lidé byli posedlí zlatem. Ale nejlepší kov je železo."
 
-msgid "unnatural/base/resources/metal.proto/title"
+msgid "unnatural/base/technocracy/resources/metal.proto/title"
 msgstr "Kov"
 
-msgid "unnatural/base/resources/oil.proto/description"
+msgid "unnatural/base/technocracy/resources/oil.proto/description"
 msgstr "Viskózní kapalina plná energie."
 
-msgid "unnatural/base/resources/oil.proto/title"
+msgid "unnatural/base/technocracy/resources/oil.proto/title"
 msgstr "Ropa"
 
-msgid "unnatural/base/resources/particle_accelerator.proto/description"
+msgid "unnatural/base/technocracy/resources/particle_accelerator.proto/description"
 msgstr "Nástroj na urychlování částic. A taky dobrá zbraň proti kvantovýmu brnění."
 
-msgid "unnatural/base/resources/particle_accelerator.proto/title"
+msgid "unnatural/base/technocracy/resources/particle_accelerator.proto/title"
 msgstr "Částicový urychlovač"
 
-msgid "unnatural/base/resources/plasma_emitter.proto/description"
+msgid "unnatural/base/technocracy/resources/plasma_emitter.proto/description"
 msgstr "Vyvaří ropu na plasmu. Dobrá zbraň proti pancéřovým deskám."
 
-msgid "unnatural/base/resources/plasma_emitter.proto/title"
+msgid "unnatural/base/technocracy/resources/plasma_emitter.proto/title"
 msgstr "Plasmový vrhač"
 
-msgid "unnatural/base/resources/polymer_coating.proto/description"
+msgid "unnatural/base/technocracy/resources/polymer_coating.proto/description"
 msgstr "Jednoduchý lehký nátěr. Poskytuje základní ochranu."
 
-msgid "unnatural/base/resources/polymer_coating.proto/title"
+msgid "unnatural/base/technocracy/resources/polymer_coating.proto/title"
 msgstr "Polymerový nátěr"
 
-msgid "unnatural/base/resources/power_cell.proto/description"
+msgid "unnatural/base/technocracy/resources/power_cell.proto/description"
 msgstr "Přenosná baterka. Hodně energie."
 
-msgid "unnatural/base/resources/power_cell.proto/title"
+msgid "unnatural/base/technocracy/resources/power_cell.proto/title"
 msgstr "Napájecí článek"
 
-msgid "unnatural/base/resources/quantum_array.proto/description"
+msgid "unnatural/base/technocracy/resources/quantum_array.proto/description"
 msgstr "Prvky s kvantovými vlastnostmi. Náhodně přeskakuje mezi existencí a stíny."
 
-msgid "unnatural/base/resources/quantum_array.proto/title"
+msgid "unnatural/base/technocracy/resources/quantum_array.proto/title"
 msgstr "Kvantové pole"
 
-msgid "unnatural/base/resources/quark_foam.proto/description"
+msgid "unnatural/base/technocracy/resources/quark_foam.proto/description"
 msgstr "Technoblábol, který se nepoužívá nikde jinde."
 
-msgid "unnatural/base/resources/quark_foam.proto/title"
+msgid "unnatural/base/technocracy/resources/quark_foam.proto/title"
 msgstr "Kvarková pěna"
 
-msgid "unnatural/base/resources/rail_gun.proto/description"
+msgid "unnatural/base/technocracy/resources/rail_gun.proto/description"
 msgstr "Vystřelí stovky malých hřebíků v rychlé salvě. Vhodné na prorážení energetických štítů."
 
-msgid "unnatural/base/resources/rail_gun.proto/title"
+msgid "unnatural/base/technocracy/resources/rail_gun.proto/title"
 msgstr "Railgun"
 
-msgid "unnatural/base/resources/shield_projector.proto/description"
+msgid "unnatural/base/technocracy/resources/shield_projector.proto/description"
 msgstr "Používá krystaly k ohýbání laserů do tvaru ochranné bubliny."
 
-msgid "unnatural/base/resources/shield_projector.proto/title"
+msgid "unnatural/base/technocracy/resources/shield_projector.proto/title"
 msgstr "Projektor štítu"
 
-msgid "unnatural/base/units/ATV.proto/description"
+msgid "unnatural/base/technocracy/units/ATV.proto/description"
 msgstr "Automatizované přepravní vozidlo. Přesunuje suroviny z A do B."
 
-msgid "unnatural/base/units/ATV.proto/title"
+msgid "unnatural/base/technocracy/units/ATV.proto/title"
 msgstr "A.T.V."
 
-msgid "unnatural/base/units/colossus.proto/description"
+msgid "unnatural/base/technocracy/units/colossus.proto/description"
 msgstr "Mocný robot. Zaslouží si mocný popisek."
 
-msgid "unnatural/base/units/colossus.proto/title"
+msgid "unnatural/base/technocracy/units/colossus.proto/title"
 msgstr "Kolos"
 
-msgid "unnatural/base/units/cyclops.proto/description"
+msgid "unnatural/base/technocracy/units/cyclops.proto/description"
 msgstr "Používá svůj jeden kanón jako hledí.\n"
 "Obléhací jednotka s dlouhým dostřelem.\n"
 "Dobrá proti budovám."
 
-msgid "unnatural/base/units/cyclops.proto/title"
+msgid "unnatural/base/technocracy/units/cyclops.proto/title"
 msgstr "Kyklop"
 
-msgid "unnatural/base/units/eagle.proto/description"
+msgid "unnatural/base/technocracy/units/eagle.proto/description"
 msgstr "Průzkumník vhodný do jakéhokoli terénu."
 
-msgid "unnatural/base/units/eagle.proto/title"
+msgid "unnatural/base/technocracy/units/eagle.proto/title"
 msgstr "Orel"
 
-msgid "unnatural/base/units/golem.proto/description"
+msgid "unnatural/base/technocracy/units/golem.proto/description"
 msgstr "Silná obléhací jednotka, ale s krátkým dostřelem.\n"
 "Silný proti budovám."
 
-msgid "unnatural/base/units/golem.proto/title"
+msgid "unnatural/base/technocracy/units/golem.proto/title"
 msgstr "Golem"
 
-msgid "unnatural/base/units/juggernaut.proto/description"
+msgid "unnatural/base/technocracy/units/juggernaut.proto/description"
 msgstr "Útočný robot.\n"
 "Silný proti energetickému štítu."
 
-msgid "unnatural/base/units/juggernaut.proto/title"
+msgid "unnatural/base/technocracy/units/juggernaut.proto/title"
 msgstr "Juggernaut"
 
-msgid "unnatural/base/units/kitsune.proto/description"
+msgid "unnatural/base/technocracy/units/kitsune.proto/description"
 msgstr "Rychlý jako liška. Vhodný pro obtěžování slabých jednotek."
 
-msgid "unnatural/base/units/kitsune.proto/title"
+msgid "unnatural/base/technocracy/units/kitsune.proto/title"
 msgstr "Kitsune"
 
-msgid "unnatural/base/units/lurker.proto/description"
+msgid "unnatural/base/technocracy/units/lurker.proto/description"
 msgstr "Přepadávač. Chodí i přes útesy."
 
-msgid "unnatural/base/units/lurker.proto/title"
+msgid "unnatural/base/technocracy/units/lurker.proto/title"
 msgstr "Číhač"
 
-msgid "unnatural/base/units/mermaid.proto/description"
+msgid "unnatural/base/technocracy/units/mermaid.proto/description"
 msgstr "Přepadové vznášedlo."
 
-msgid "unnatural/base/units/mermaid.proto/title"
+msgid "unnatural/base/technocracy/units/mermaid.proto/title"
 msgstr "Mořská Panna"
 
-msgid "unnatural/base/units/paladin.proto/description"
+msgid "unnatural/base/technocracy/units/paladin.proto/description"
 msgstr "Obranný robot."
 
-msgid "unnatural/base/units/paladin.proto/title"
+msgid "unnatural/base/technocracy/units/paladin.proto/title"
 msgstr "Paladin"
 
-msgid "unnatural/base/units/twinfire.proto/description"
+msgid "unnatural/base/technocracy/units/twinfire.proto/description"
 msgstr "Útočné vozidlo.\n"
 "Silný proti pancéřovým deskám."
 
-msgid "unnatural/base/units/twinfire.proto/title"
+msgid "unnatural/base/technocracy/units/twinfire.proto/title"
 msgstr "Dvojdělo"
 
