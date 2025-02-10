@@ -478,19 +478,19 @@ msgid "unnatural/key/debug/renderSkeletonBones"
 msgstr "Render skeleton bones"
 
 msgid "unnatural/key/debug/showClusters"
-msgstr "Show Clusters"
+msgstr "Show clusters"
 
 msgid "unnatural/key/debug/showOverviewFlags"
-msgstr "Show Overview Flags"
+msgstr "Show overview flags"
 
 msgid "unnatural/key/debug/showTerrainTypes"
-msgstr "Show Terrain Types"
+msgstr "Show terrain types"
 
 msgid "unnatural/key/debug/showTileNeighbors"
-msgstr "Show Tile Neighbors"
+msgstr "Show tile neighbors"
 
 msgid "unnatural/key/debug/showUnitsPaths"
-msgstr "Show Units Paths"
+msgstr "Show units paths"
 
 msgid "unnatural/key/orders/cancelDrawingFormation"
 msgstr "Cancel drawing formation"

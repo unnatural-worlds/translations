@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: unnatural-worlds\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI\n"
-"PO-Revision-Date: 2025-02-10 16:03\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI\n"
 "Last-Translator: translations <translations@unnatural-worlds.com>\n"
 "Language-Team: English\n"
 "MIME-Version: 1.0\n"
@@ -14,8 +14,330 @@ msgstr ""
 "X-Crowdin-Project: unnatural-worlds\n"
 "X-Crowdin-Project-ID: 677934\n"
 "X-Crowdin-Language: en\n"
-"X-Crowdin-File: /base/texts/prototypes.pot\n"
-"X-Crowdin-File-ID: 70\n"
+
+msgid "unnatural/base/archaics/archaics.proto/description"
+msgstr "Archaics"
+
+msgid "unnatural/base/archaics/archaics.proto/title"
+msgstr "Archaics"
+
+msgid "unnatural/base/archaics/buildings/assembly_yard.proto/description"
+msgstr "Assembly yard"
+
+msgid "unnatural/base/archaics/buildings/assembly_yard.proto/title"
+msgstr "Assembly yard"
+
+msgid "unnatural/base/archaics/buildings/barracks.proto/description"
+msgstr "Barracks"
+
+msgid "unnatural/base/archaics/buildings/barracks.proto/title"
+msgstr "Barracks"
+
+msgid "unnatural/base/archaics/buildings/bunker.proto/description"
+msgstr "Bunker"
+
+msgid "unnatural/base/archaics/buildings/bunker.proto/title"
+msgstr "Bunker"
+
+msgid "unnatural/base/archaics/buildings/chemical_plant.proto/description"
+msgstr "Chemical plant"
+
+msgid "unnatural/base/archaics/buildings/chemical_plant.proto/title"
+msgstr "Chemical plant"
+
+msgid "unnatural/base/archaics/buildings/concrete_plant.proto/description"
+msgstr "Concrete plant"
+
+msgid "unnatural/base/archaics/buildings/concrete_plant.proto/title"
+msgstr "Concrete plant"
+
+msgid "unnatural/base/archaics/buildings/factory.proto/description"
+msgstr "Factory"
+
+msgid "unnatural/base/archaics/buildings/factory.proto/title"
+msgstr "Factory"
+
+msgid "unnatural/base/archaics/buildings/field.proto/description"
+msgstr "Field"
+
+msgid "unnatural/base/archaics/buildings/field.proto/title"
+msgstr "Field"
+
+msgid "unnatural/base/archaics/buildings/foundry.proto/description"
+msgstr "Foundry"
+
+msgid "unnatural/base/archaics/buildings/foundry.proto/title"
+msgstr "Foundry"
+
+msgid "unnatural/base/archaics/buildings/hedgehog.proto/description"
+msgstr "Hedgehog"
+
+msgid "unnatural/base/archaics/buildings/hedgehog.proto/title"
+msgstr "Hedgehog"
+
+msgid "unnatural/base/archaics/buildings/house.proto/description"
+msgstr "House"
+
+msgid "unnatural/base/archaics/buildings/house.proto/title"
+msgstr "House"
+
+msgid "unnatural/base/archaics/buildings/laboratory.proto/description"
+msgstr "Laboratory"
+
+msgid "unnatural/base/archaics/buildings/laboratory.proto/title"
+msgstr "Laboratory"
+
+msgid "unnatural/base/archaics/buildings/lumber_mill.proto/description"
+msgstr "Lumber mill"
+
+msgid "unnatural/base/archaics/buildings/lumber_mill.proto/title"
+msgstr "Lumber mill"
+
+msgid "unnatural/base/archaics/buildings/mine.proto/description"
+msgstr "Mine"
+
+msgid "unnatural/base/archaics/buildings/mine.proto/title"
+msgstr "Mine"
+
+msgid "unnatural/base/archaics/buildings/oil_refinery.proto/description"
+msgstr "Oil refinery"
+
+msgid "unnatural/base/archaics/buildings/oil_refinery.proto/title"
+msgstr "Oil refinery"
+
+msgid "unnatural/base/archaics/buildings/plantation.proto/description"
+msgstr "Plantation"
+
+msgid "unnatural/base/archaics/buildings/plantation.proto/title"
+msgstr "Plantation"
+
+msgid "unnatural/base/archaics/buildings/pumpjack.proto/description"
+msgstr "Pumpjack"
+
+msgid "unnatural/base/archaics/buildings/pumpjack.proto/title"
+msgstr "Pumpjack"
+
+msgid "unnatural/base/archaics/buildings/shipyard.proto/description"
+msgstr "Shipyard"
+
+msgid "unnatural/base/archaics/buildings/shipyard.proto/title"
+msgstr "Shipyard"
+
+msgid "unnatural/base/archaics/buildings/vineyard.proto/description"
+msgstr "Vineyard"
+
+msgid "unnatural/base/archaics/buildings/vineyard.proto/title"
+msgstr "Vineyard"
+
+msgid "unnatural/base/archaics/buildings/workshop.proto/description"
+msgstr "Workshop"
+
+msgid "unnatural/base/archaics/buildings/workshop.proto/title"
+msgstr "Workshop"
+
+msgid "unnatural/base/archaics/resources/appliance.proto/description"
+msgstr "Appliance"
+
+msgid "unnatural/base/archaics/resources/appliance.proto/title"
+msgstr "Appliance"
+
+msgid "unnatural/base/archaics/resources/cannon.proto/description"
+msgstr "Cannon"
+
+msgid "unnatural/base/archaics/resources/cannon.proto/title"
+msgstr "Cannon"
+
+msgid "unnatural/base/archaics/resources/civilian.proto/description"
+msgstr "Civilian"
+
+msgid "unnatural/base/archaics/resources/civilian.proto/title"
+msgstr "Civilian"
+
+msgid "unnatural/base/archaics/resources/composite_plating.proto/description"
+msgstr "Composite plating"
+
+msgid "unnatural/base/archaics/resources/composite_plating.proto/title"
+msgstr "Composite plating"
+
+msgid "unnatural/base/archaics/resources/computer.proto/description"
+msgstr "Computer"
+
+msgid "unnatural/base/archaics/resources/computer.proto/title"
+msgstr "Computer"
+
+msgid "unnatural/base/archaics/resources/concrete.proto/description"
+msgstr "Concrete"
+
+msgid "unnatural/base/archaics/resources/concrete.proto/title"
+msgstr "Concrete"
+
+msgid "unnatural/base/archaics/resources/crude_oil.proto/description"
+msgstr "Crude oil"
+
+msgid "unnatural/base/archaics/resources/crude_oil.proto/title"
+msgstr "Crude oil"
+
+msgid "unnatural/base/archaics/resources/engine.proto/description"
+msgstr "Engine"
+
+msgid "unnatural/base/archaics/resources/engine.proto/title"
+msgstr "Engine"
+
+msgid "unnatural/base/archaics/resources/fuel.proto/description"
+msgstr "Fuel"
+
+msgid "unnatural/base/archaics/resources/fuel.proto/title"
+msgstr "Fuel"
+
+msgid "unnatural/base/archaics/resources/furniture.proto/description"
+msgstr "Furniture"
+
+msgid "unnatural/base/archaics/resources/furniture.proto/title"
+msgstr "Furniture"
+
+msgid "unnatural/base/archaics/resources/machine_gun.proto/description"
+msgstr "Machine gun"
+
+msgid "unnatural/base/archaics/resources/machine_gun.proto/title"
+msgstr "Machine gun"
+
+msgid "unnatural/base/archaics/resources/pastry.proto/description"
+msgstr "Pastry"
+
+msgid "unnatural/base/archaics/resources/pastry.proto/title"
+msgstr "Pastry"
+
+msgid "unnatural/base/archaics/resources/plastic.proto/description"
+msgstr "Plastic"
+
+msgid "unnatural/base/archaics/resources/plastic.proto/title"
+msgstr "Plastic"
+
+msgid "unnatural/base/archaics/resources/rocket_mount.proto/description"
+msgstr "Rocket mount"
+
+msgid "unnatural/base/archaics/resources/rocket_mount.proto/title"
+msgstr "Rocket mount"
+
+msgid "unnatural/base/archaics/resources/scaffolding.proto/description"
+msgstr "Scaffolding"
+
+msgid "unnatural/base/archaics/resources/scaffolding.proto/title"
+msgstr "Scaffolding"
+
+msgid "unnatural/base/archaics/resources/soldier.proto/description"
+msgstr "Soldier"
+
+msgid "unnatural/base/archaics/resources/soldier.proto/title"
+msgstr "Soldier"
+
+msgid "unnatural/base/archaics/resources/steel.proto/description"
+msgstr "Steel"
+
+msgid "unnatural/base/archaics/resources/steel.proto/title"
+msgstr "Steel"
+
+msgid "unnatural/base/archaics/resources/sturdy_plating.proto/description"
+msgstr "Sturdy plating"
+
+msgid "unnatural/base/archaics/resources/sturdy_plating.proto/title"
+msgstr "Sturdy plating"
+
+msgid "unnatural/base/archaics/resources/veggies.proto/description"
+msgstr "Veggies"
+
+msgid "unnatural/base/archaics/resources/veggies.proto/title"
+msgstr "Veggies"
+
+msgid "unnatural/base/archaics/resources/wine.proto/description"
+msgstr "Wine"
+
+msgid "unnatural/base/archaics/resources/wine.proto/title"
+msgstr "Wine"
+
+msgid "unnatural/base/archaics/resources/wood.proto/description"
+msgstr "Wood"
+
+msgid "unnatural/base/archaics/resources/wood.proto/title"
+msgstr "Wood"
+
+msgid "unnatural/base/archaics/units/amphibious_tank.proto/description"
+msgstr "Amphibious tank"
+
+msgid "unnatural/base/archaics/units/amphibious_tank.proto/title"
+msgstr "Amphibious tank"
+
+msgid "unnatural/base/archaics/units/armored_car.proto/description"
+msgstr "Armored car"
+
+msgid "unnatural/base/archaics/units/armored_car.proto/title"
+msgstr "Armored car"
+
+msgid "unnatural/base/archaics/units/assault_boat.proto/description"
+msgstr "Assault boat"
+
+msgid "unnatural/base/archaics/units/assault_boat.proto/title"
+msgstr "Assault boat"
+
+msgid "unnatural/base/archaics/units/assault_car.proto/description"
+msgstr "Assault car"
+
+msgid "unnatural/base/archaics/units/assault_car.proto/title"
+msgstr "Assault car"
+
+msgid "unnatural/base/archaics/units/assault_hovercraft.proto/description"
+msgstr "Assault hovercraft"
+
+msgid "unnatural/base/archaics/units/assault_hovercraft.proto/title"
+msgstr "Assault hovercraft"
+
+msgid "unnatural/base/archaics/units/heavy_tank.proto/description"
+msgstr "Heavy tank"
+
+msgid "unnatural/base/archaics/units/heavy_tank.proto/title"
+msgstr "Heavy tank"
+
+msgid "unnatural/base/archaics/units/howitzer.proto/description"
+msgstr "Howitzer"
+
+msgid "unnatural/base/archaics/units/howitzer.proto/title"
+msgstr "Howitzer"
+
+msgid "unnatural/base/archaics/units/light_tank.proto/description"
+msgstr "Light tank"
+
+msgid "unnatural/base/archaics/units/light_tank.proto/title"
+msgstr "Light tank"
+
+msgid "unnatural/base/archaics/units/rocket_boat.proto/description"
+msgstr "Rocket boat"
+
+msgid "unnatural/base/archaics/units/rocket_boat.proto/title"
+msgstr "Rocket boat"
+
+msgid "unnatural/base/archaics/units/rocket_launcher.proto/description"
+msgstr "Rocket launcher"
+
+msgid "unnatural/base/archaics/units/rocket_launcher.proto/title"
+msgstr "Rocket launcher"
+
+msgid "unnatural/base/archaics/units/strike_boat.proto/description"
+msgstr "Strike boat"
+
+msgid "unnatural/base/archaics/units/strike_boat.proto/title"
+msgstr "Strike boat"
+
+msgid "unnatural/base/archaics/units/strike_tank.proto/description"
+msgstr "Strike tank"
+
+msgid "unnatural/base/archaics/units/strike_tank.proto/title"
+msgstr "Strike tank"
+
+msgid "unnatural/base/archaics/units/truck.proto/description"
+msgstr "Truck"
+
+msgid "unnatural/base/archaics/units/truck.proto/title"
+msgstr "Truck"
 
 msgid "unnatural/base/ores/aether_deposit.proto/description"
 msgstr "Gaseous substance that defies scientific understanding."
@@ -257,6 +579,12 @@ msgstr "Uses crystals to bend lasers into a protective bubble."
 msgid "unnatural/base/technocracy/resources/shield_projector.proto/title"
 msgstr "Shield projector"
 
+msgid "unnatural/base/technocracy/technocracy.proto/description"
+msgstr "Technocracy"
+
+msgid "unnatural/base/technocracy/technocracy.proto/title"
+msgstr "Technocracy"
+
 msgid "unnatural/base/technocracy/units/ATV.proto/description"
 msgstr "Automated transfer vehicle. Moves goods from A to B."
 
@@ -270,7 +598,8 @@ msgid "unnatural/base/technocracy/units/colossus.proto/title"
 msgstr "Colossus"
 
 msgid "unnatural/base/technocracy/units/cyclops.proto/description"
-msgstr "Focuses its one eye as a scope.\n"
+msgstr ""
+"Focuses its one eye as a scope.\n"
 "Long range siege unit.\n"
 "Good vs. buildings."
 
@@ -284,14 +613,16 @@ msgid "unnatural/base/technocracy/units/eagle.proto/title"
 msgstr "Eagle"
 
 msgid "unnatural/base/technocracy/units/golem.proto/description"
-msgstr "Powerful siege unit, but short range.\n"
+msgstr ""
+"Powerful siege unit, but short range.\n"
 "Strong vs. buildings."
 
 msgid "unnatural/base/technocracy/units/golem.proto/title"
 msgstr "Golem"
 
 msgid "unnatural/base/technocracy/units/juggernaut.proto/description"
-msgstr "Assault bot.\n"
+msgstr ""
+"Assault bot.\n"
 "Strong vs. energy shield."
 
 msgid "unnatural/base/technocracy/units/juggernaut.proto/title"
@@ -322,7 +653,8 @@ msgid "unnatural/base/technocracy/units/paladin.proto/title"
 msgstr "Paladin"
 
 msgid "unnatural/base/technocracy/units/twinfire.proto/description"
-msgstr "Assault vehicle.\n"
+msgstr ""
+"Assault vehicle.\n"
 "Strong vs. armor plates."
 
 msgid "unnatural/base/technocracy/units/twinfire.proto/title"
