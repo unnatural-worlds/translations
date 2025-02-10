@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: unnatural-worlds\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI\n"
-"PO-Revision-Date: 2025-01-13 15:29\n"
+"PO-Revision-Date: 2025-02-10 16:03\n"
 "Last-Translator: translations <translations@unnatural-worlds.com>\n"
 "Language-Team: Czech\n"
 "MIME-Version: 1.0\n"
@@ -16,6 +16,30 @@ msgstr ""
 "X-Crowdin-Language: cs\n"
 "X-Crowdin-File: /base/texts/prototypes.pot\n"
 "X-Crowdin-File-ID: 70\n"
+
+msgid "unnatural/base/ores/aether_deposit.proto/description"
+msgstr "Plynná látka, která se vzpírá vědeckému porozumění."
+
+msgid "unnatural/base/ores/aether_deposit.proto/title"
+msgstr "Éterové ložisko"
+
+msgid "unnatural/base/ores/crystals_deposit.proto/description"
+msgstr "Pravidelná struktura na molekulární úrovni dělá tento materiál velmi odolným."
+
+msgid "unnatural/base/ores/crystals_deposit.proto/title"
+msgstr "Krystalové ložisko"
+
+msgid "unnatural/base/ores/metal_deposit.proto/description"
+msgstr "Lidé byli posedlí zlatem. Ale nejlepší kov je železo."
+
+msgid "unnatural/base/ores/metal_deposit.proto/title"
+msgstr "Kovové ložisko"
+
+msgid "unnatural/base/ores/oil_deposit.proto/description"
+msgstr "Viskózní kapalina plná energie."
+
+msgid "unnatural/base/ores/oil_deposit.proto/title"
+msgstr "Ropné ložisko"
 
 msgid "unnatural/base/technocracy/buildings/blender.proto/description"
 msgstr "Míchání, vypařování, usazování. Bůh ví co tam dělají."
@@ -124,30 +148,6 @@ msgstr "Staví zeď. Doslova."
 
 msgid "unnatural/base/technocracy/buildings/wall.proto/title"
 msgstr "Zeď"
-
-msgid "unnatural/base/ores/aether_deposit.proto/description"
-msgstr "Plynná látka, která se vzpírá vědeckému porozumění."
-
-msgid "unnatural/base/ores/aether_deposit.proto/title"
-msgstr "Éterové ložisko"
-
-msgid "unnatural/base/ores/crystals_deposit.proto/description"
-msgstr "Pravidelná struktura na molekulární úrovni dělá tento materiál velmi odolným."
-
-msgid "unnatural/base/ores/crystals_deposit.proto/title"
-msgstr "Krystalové ložisko"
-
-msgid "unnatural/base/ores/metal_deposit.proto/description"
-msgstr "Lidé byli posedlí zlatem. Ale nejlepší kov je železo."
-
-msgid "unnatural/base/ores/metal_deposit.proto/title"
-msgstr "Kovové ložisko"
-
-msgid "unnatural/base/ores/oil_deposit.proto/description"
-msgstr "Viskózní kapalina plná energie."
-
-msgid "unnatural/base/ores/oil_deposit.proto/title"
-msgstr "Ropné ložisko"
 
 msgid "unnatural/base/technocracy/recipes/crystallization.proto/description"
 msgstr "Roztáčí kvarkovou pěnu za extrémně vysoké teploty a dostane ji do krystalové mřížky."

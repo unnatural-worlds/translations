@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: unnatural-worlds\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI\n"
-"PO-Revision-Date: 2025-01-13 15:29\n"
+"PO-Revision-Date: 2025-02-10 16:03\n"
 "Last-Translator: translations <translations@unnatural-worlds.com>\n"
 "Language-Team: Czech\n"
 "MIME-Version: 1.0\n"
@@ -16,6 +16,18 @@ msgstr ""
 "X-Crowdin-Language: cs\n"
 "X-Crowdin-File: /core/texts/ui.pot\n"
 "X-Crowdin-File-ID: 68\n"
+
+msgid "cage/keybinds/add"
+msgstr "Přidat jeden"
+
+msgid "cage/keybinds/clear"
+msgstr "Odstranit vše"
+
+msgid "cage/keybinds/remove"
+msgstr "Odebrat jeden"
+
+msgid "cage/keybinds/reset"
+msgstr "Obnovit výchozí"
 
 msgid "unnatural/abort"
 msgstr "Zrušit"
@@ -56,11 +68,11 @@ msgstr "Lexikon"
 msgid "unnatural/commonGame/menu"
 msgstr "Nabídka"
 
-msgid "unnatural/commonGame/resources"
-msgstr "Suroviny"
+msgid "unnatural/commonGame/resourcesOverview"
+msgstr "Přehled surovin"
 
-msgid "unnatural/commonGame/units"
-msgstr "Jednotky"
+msgid "unnatural/commonGame/unitsOverview"
+msgstr "Přehled jednotek"
 
 msgid "unnatural/commonGame/uwTitle1"
 msgstr "Unnatural"
@@ -83,41 +95,8 @@ msgstr "Výběr"
 msgid "unnatural/controls/camera"
 msgstr "Kamera"
 
-msgid "unnatural/controls/cameraMovement"
-msgstr "Pohyb kamery"
-
-msgid "unnatural/controls/cameraOrientation"
-msgstr "Orientace kamery"
-
-msgid "unnatural/controls/cancelDrawing"
-msgstr "Zrušit kreslení"
-
-msgid "unnatural/controls/cancelPlacing"
-msgstr "Zrušit umísťování"
-
-msgid "unnatural/controls/cancelSelecting"
-msgstr "Zrušit vybírání"
-
-msgid "unnatural/controls/changeGamma"
-msgstr "Změnit gamma"
-
-msgid "unnatural/controls/changeSpeed"
-msgstr "Změnit rychlost"
-
 msgid "unnatural/controls/cinematicMode"
 msgstr "Kinematický režim"
-
-msgid "unnatural/controls/colorCodedTerrainTypes"
-msgstr "Barevné znázornění typů terénu"
-
-msgid "unnatural/controls/colorCodedTileOccupation"
-msgstr "Barevné znázornění obsazenosti políček"
-
-msgid "unnatural/controls/commands"
-msgstr "Příkazy"
-
-msgid "unnatural/controls/commitPlacing"
-msgstr "Dokončit umisťování"
 
 msgid "unnatural/controls/controls"
 msgstr "Ovládání"
@@ -125,167 +104,38 @@ msgstr "Ovládání"
 msgid "unnatural/controls/debugging"
 msgstr "Ladění"
 
-msgid "unnatural/controls/defaultRoll"
-msgstr "Výchozí rolování"
+msgid "unnatural/controls/loadI"
+msgstr "Načíst {0}"
 
-msgid "unnatural/controls/defaultZoom"
-msgstr "Výchozí přiblížení"
+msgid "unnatural/controls/loadLast"
+msgstr "Načíst poslední"
 
-msgid "unnatural/controls/deleteWaypoint"
-msgstr "Smazat waypoint"
+msgid "unnatural/controls/orders"
+msgstr "Příkazy"
 
-msgid "unnatural/controls/drawFormation"
-msgstr "Nakreslit formaci"
+msgid "unnatural/controls/presets"
+msgstr "Předvolené"
 
-msgid "unnatural/controls/enqueueCommands"
-msgstr "Příkazy do fronty"
+msgid "unnatural/controls/presetsAreSynchronized"
+msgstr "Předvolená nastavení jsou synchronizována mezi zařízeními se stejným Steam účtem."
 
-msgid "unnatural/controls/fightAttackMove"
-msgstr "Bojovat (útočný pohyb)"
+msgid "unnatural/controls/resetAll"
+msgstr "Obnovit výchozí"
 
-msgid "unnatural/controls/focusEnemy"
-msgstr "Zobrazit nepřítele"
+msgid "unnatural/controls/saveI"
+msgstr "Uložit {0}"
 
-msgid "unnatural/controls/followSelectedUnit"
-msgstr "Následovat vybranou jednotku"
-
-msgid "unnatural/controls/guardHoldPosition"
-msgstr "Chránit (držet pozici)"
-
-msgid "unnatural/controls/insertWaypointAfter"
-msgstr "Vložit waypoint za"
-
-msgid "unnatural/controls/insertWaypointBefore"
-msgstr "Vložit waypoint před"
-
-msgid "unnatural/controls/jumpToCursor"
-msgstr "Skočit na kurzor"
-
-msgid "unnatural/controls/loadResource"
-msgstr "Naložit surovinu"
-
-msgid "unnatural/controls/miscellaneous"
-msgstr "Různé"
-
-msgid "unnatural/controls/move"
-msgstr "Pohyb"
-
-msgid "unnatural/controls/openChat"
-msgstr "Otevřít zprávy"
-
-msgid "unnatural/controls/openDiplomacy"
-msgstr "Otevřít diplomacii"
-
-msgid "unnatural/controls/openLexicon"
-msgstr "Otevřít lexikon"
-
-msgid "unnatural/controls/openMenu"
-msgstr "Otevřít nabídku"
-
-msgid "unnatural/controls/openResources"
-msgstr "Otevřít suroviny"
-
-msgid "unnatural/controls/openUnits"
-msgstr "Otevřít jednotky"
-
-msgid "unnatural/controls/overwriteWaypoint"
-msgstr "Přepsat waypoint"
-
-msgid "unnatural/controls/repeatCommands"
-msgstr "Opakovat příkazy"
-
-msgid "unnatural/controls/restoreCamera"
-msgstr "Obnovit kameru"
-
-msgid "unnatural/controls/restoreSelection"
-msgstr "Obnovit výběr"
-
-msgid "unnatural/controls/roll"
-msgstr "Náklon"
-
-msgid "unnatural/controls/runMove"
-msgstr "Pohyb"
-
-msgid "unnatural/controls/saveCamera"
-msgstr "Uložit kameru"
-
-msgid "unnatural/controls/saveSelection"
-msgstr "Uložit výběr"
-
-msgid "unnatural/controls/selectAllArmy"
-msgstr "Vybrat všechnu armádu"
-
-msgid "unnatural/controls/selectFirstLastWaypoint"
-msgstr "Vybrat první/poslední waypoint"
-
-msgid "unnatural/controls/selectIdleArmy"
-msgstr "Vybrat nečinnou armádu"
-
-msgid "unnatural/controls/selectInvertConfig"
-msgstr "Vybrat (opačná konfigurace)"
+msgid "unnatural/controls/savingCameras"
+msgstr "Ukládání kamer"
 
 msgid "unnatural/controls/selection"
 msgstr "Výběr"
 
-msgid "unnatural/controls/selectMerge"
-msgstr "Vybrat (přidat)"
+msgid "unnatural/controls/selectionGroups"
+msgstr "Skupiny výběrů"
 
-msgid "unnatural/controls/selectPreviousNextWaypoint"
-msgstr "Vybrat předchozí/následující waypoint"
-
-msgid "unnatural/controls/selectReplace"
-msgstr "Vybrat (nahradit)"
-
-msgid "unnatural/controls/selectSubtract"
-msgstr "Vybrat (odebrat)"
-
-msgid "unnatural/controls/selfDestructAll"
-msgstr "Sebezničení všech"
-
-msgid "unnatural/controls/selfDestructOne"
-msgstr "Sebezničení jedné"
-
-msgid "unnatural/controls/showCommands"
-msgstr "Zobrazit příkazy"
-
-msgid "unnatural/controls/showPaths"
-msgstr "Zobrazit cesty"
-
-msgid "unnatural/controls/showResourcesTrend"
-msgstr "Zobrazit trend surovin"
-
-msgid "unnatural/controls/showTileNeighbors"
-msgstr "Zobrazit sousedy políček"
-
-msgid "unnatural/controls/smartCommand"
-msgstr "Chytrý příkaz"
-
-msgid "unnatural/controls/smartCommandInvertConfig"
-msgstr "Chytrý příkaz (opačné nastavení)"
-
-msgid "unnatural/controls/startFlyThrough"
-msgstr "Zahájit průlet"
-
-msgid "unnatural/controls/stop"
-msgstr "Zastavit"
-
-msgid "unnatural/controls/tileClusters"
-msgstr "Seskupení políček"
-
-msgid "unnatural/controls/toggleCinematicMode"
-msgstr "Přepnout kinematický režim"
-
-msgid "unnatural/controls/toggleFpsCounter"
-msgstr "Přepnout FPS"
-
-msgid "unnatural/controls/toggleFullscreen"
-msgstr "Celá obrazovka"
-
-msgid "unnatural/controls/unloadResource"
-msgstr "Vyložit surovinu"
-
-msgid "unnatural/controls/zoom"
-msgstr "Přiblížení"
+msgid "unnatural/controls/userInterface"
+msgstr "Uživatelské rozhraní"
 
 msgid "unnatural/createGame/create"
 msgstr "Vytvořit"
@@ -358,6 +208,9 @@ msgstr "Ukončit hru"
 
 msgid "unnatural/diplomacy/workers"
 msgstr "Pracovníci"
+
+msgid "unnatural/enum/unknown"
+msgstr "Neznámé"
 
 msgid "unnatural/findGame/address"
 msgstr "Adresa"
@@ -472,6 +325,381 @@ msgstr "Pozvat"
 
 msgid "unnatural/inviteFriends/inviteFriends"
 msgstr "Pozvat přátele"
+
+msgid "unnatural/key/camera/defaultRoll"
+msgstr "Výchozí otočení"
+
+msgid "unnatural/key/camera/defaultZoom"
+msgstr "Výchozí přiblížení"
+
+msgid "unnatural/key/camera/dragging"
+msgstr "Tahání"
+
+msgid "unnatural/key/camera/focusEnemy"
+msgstr "Zaměřit nepřítele"
+
+msgid "unnatural/key/camera/followSelectedUnits"
+msgstr "Následovat zvolené jednotky"
+
+msgid "unnatural/key/camera/jumpToCursor"
+msgstr "Skočit na kurzor"
+
+msgid "unnatural/key/camera/moveBackwards"
+msgstr "Pohyb dozadu"
+
+msgid "unnatural/key/camera/moveForward"
+msgstr "Pohyb vpřed"
+
+msgid "unnatural/key/camera/moveLeft"
+msgstr "Pohyb vlevo"
+
+msgid "unnatural/key/camera/moveRight"
+msgstr "Pohyb doprava"
+
+msgid "unnatural/key/camera/rollLeft"
+msgstr "Překlopit doleva"
+
+msgid "unnatural/key/camera/rollRight"
+msgstr "Překlopit doprava"
+
+msgid "unnatural/key/camera/zoomIn"
+msgstr "Přiblížit"
+
+msgid "unnatural/key/camera/zoomOut"
+msgstr "Oddálit"
+
+msgid "unnatural/key/cameraStore/saveCamera0"
+msgstr "Uložit kameru 0"
+
+msgid "unnatural/key/cameraStore/saveCamera1"
+msgstr "Uložit kameru 1"
+
+msgid "unnatural/key/cameraStore/saveCamera2"
+msgstr "Uložit kameru 2"
+
+msgid "unnatural/key/cameraStore/saveCamera3"
+msgstr "Uložit kameru 3"
+
+msgid "unnatural/key/cameraStore/saveCamera4"
+msgstr "Uložit kameru 4"
+
+msgid "unnatural/key/cameraStore/saveCamera5"
+msgstr "Uložit kameru 5"
+
+msgid "unnatural/key/cameraStore/saveCamera6"
+msgstr "Uložit kameru 6"
+
+msgid "unnatural/key/cameraStore/saveCamera7"
+msgstr "Uložit kameru 7"
+
+msgid "unnatural/key/cameraStore/saveCamera8"
+msgstr "Uložit kameru 8"
+
+msgid "unnatural/key/cameraStore/saveCamera9"
+msgstr "Uložit kameru 9"
+
+msgid "unnatural/key/cameraStore/useCamera0"
+msgstr "Použít kameru 0"
+
+msgid "unnatural/key/cameraStore/useCamera1"
+msgstr "Použít kameru 1"
+
+msgid "unnatural/key/cameraStore/useCamera2"
+msgstr "Použít kameru 2"
+
+msgid "unnatural/key/cameraStore/useCamera3"
+msgstr "Použít kameru 3"
+
+msgid "unnatural/key/cameraStore/useCamera4"
+msgstr "Použít kameru 4"
+
+msgid "unnatural/key/cameraStore/useCamera5"
+msgstr "Použít kameru 5"
+
+msgid "unnatural/key/cameraStore/useCamera6"
+msgstr "Použít kameru 6"
+
+msgid "unnatural/key/cameraStore/useCamera7"
+msgstr "Použít kameru 7"
+
+msgid "unnatural/key/cameraStore/useCamera8"
+msgstr "Použít kameru 8"
+
+msgid "unnatural/key/cameraStore/useCamera9"
+msgstr "Použít kameru 9"
+
+msgid "unnatural/key/cinematic/cameraControls"
+msgstr "Ovládání kamery"
+
+msgid "unnatural/key/cinematic/cameraControlsKeys"
+msgstr "WSADEQ, Mmb"
+
+msgid "unnatural/key/cinematic/deleteWaypoint"
+msgstr "Smazat waypoint"
+
+msgid "unnatural/key/cinematic/insertAfter"
+msgstr "Vložit waypoint za"
+
+msgid "unnatural/key/cinematic/insertBefore"
+msgstr "Vložit waypoint před"
+
+msgid "unnatural/key/cinematic/overwriteWaypoint"
+msgstr "Přepsat waypoint"
+
+msgid "unnatural/key/cinematic/selectFirst"
+msgstr "Vybrat první waypoint"
+
+msgid "unnatural/key/cinematic/selectLast"
+msgstr "Vybrat poslední waypoint"
+
+msgid "unnatural/key/cinematic/selectNext"
+msgstr "Vyberte další waypoint"
+
+msgid "unnatural/key/cinematic/selectPrevious"
+msgstr "Vybrat předchozí waypoint"
+
+msgid "unnatural/key/cinematic/speedDown"
+msgstr "Pomalejší let"
+
+msgid "unnatural/key/cinematic/speedUp"
+msgstr "Rychlejší let"
+
+msgid "unnatural/key/cinematic/startPlaying"
+msgstr "Zahájit průlet"
+
+msgid "unnatural/key/cinematic/toggleCinematicMode"
+msgstr "Přepnout kinematický režim"
+
+msgid "unnatural/key/debug/enableProfiling"
+msgstr "Povolit profilování"
+
+msgid "unnatural/key/debug/renderMissingModels"
+msgstr "Vykreslit chybějící modely"
+
+msgid "unnatural/key/debug/renderSkeletonBones"
+msgstr "Vykreslovat kostry"
+
+msgid "unnatural/key/debug/showClusters"
+msgstr "Zobrazit klastry"
+
+msgid "unnatural/key/debug/showOverviewFlags"
+msgstr "Zobrazit přehled příznaků"
+
+msgid "unnatural/key/debug/showTerrainTypes"
+msgstr "Zobrazit typy terénu"
+
+msgid "unnatural/key/debug/showTileNeighbors"
+msgstr "Zobrazit sousedské dlaždice"
+
+msgid "unnatural/key/debug/showUnitsPaths"
+msgstr "Zobrazit cesty jednotek"
+
+msgid "unnatural/key/orders/cancelDrawingFormation"
+msgstr "Zrušit kreslení formace"
+
+msgid "unnatural/key/orders/cancelPlacement"
+msgstr "Zrušit umisťování"
+
+msgid "unnatural/key/orders/constructionPlacement"
+msgstr "Umístění stavby"
+
+msgid "unnatural/key/orders/enqueueOrder"
+msgstr "Přidá příkaz do fronty"
+
+msgid "unnatural/key/orders/fightOrderAttackMove"
+msgstr "Bojovat (útočný pohyb)"
+
+msgid "unnatural/key/orders/guardOrderHoldPosition"
+msgstr "Chránit (držet pozici)"
+
+msgid "unnatural/key/orders/invertPreference"
+msgstr "Opačná přednost"
+
+msgid "unnatural/key/orders/loadResource"
+msgstr "Naložit surovinu"
+
+msgid "unnatural/key/orders/repeatOrder"
+msgstr "Opakovat příkaz"
+
+msgid "unnatural/key/orders/runOrderMove"
+msgstr "Příkaz běhu"
+
+msgid "unnatural/key/orders/selfDestructMultiple"
+msgstr "Sebezničení všech"
+
+msgid "unnatural/key/orders/selfDestructSingle"
+msgstr "Sebezničení jedné"
+
+msgid "unnatural/key/orders/smartOrderDrawFormation"
+msgstr "Chytrý příkaz (kreslit formaci)"
+
+msgid "unnatural/key/orders/stopOrder"
+msgstr "Přikaz zastavení"
+
+msgid "unnatural/key/orders/unloadResource"
+msgstr "Vyložit surovinu"
+
+msgid "unnatural/key/screens/closeWindow"
+msgstr "Zavřít okno"
+
+msgid "unnatural/key/screens/gammaMinus"
+msgstr "Snížit gamma"
+
+msgid "unnatural/key/screens/gammaPlus"
+msgstr "Zvýšit gamma"
+
+msgid "unnatural/key/screens/openChat"
+msgstr "Otevřít chat"
+
+msgid "unnatural/key/screens/openChatEnter"
+msgstr "Otevřít chat (enter)"
+
+msgid "unnatural/key/screens/openDiplomacy"
+msgstr "Otevřít diplomacii"
+
+msgid "unnatural/key/screens/openLexicon"
+msgstr "Otevřít lexikon"
+
+msgid "unnatural/key/screens/openMenu"
+msgstr "Otevřít nabídku"
+
+msgid "unnatural/key/screens/openResourcesOverview"
+msgstr "Otevřít přehled surovin"
+
+msgid "unnatural/key/screens/openUnitsOverview"
+msgstr "Otevřít přehled jednotek"
+
+msgid "unnatural/key/screens/toggleFullscreen"
+msgstr "Přepnout režim celé obrazovky"
+
+msgid "unnatural/key/selection/cancelSelection"
+msgstr "Zrušit výběr"
+
+msgid "unnatural/key/selection/clearSelection"
+msgstr "Smazat výběr"
+
+msgid "unnatural/key/selection/guiFilterOthers"
+msgstr "Filtrovat ostatní z výběru"
+
+msgid "unnatural/key/selection/guiFilterThis"
+msgstr "Filtrovat z výběru"
+
+msgid "unnatural/key/selection/invertPreference"
+msgstr "Opačná přednost"
+
+msgid "unnatural/key/selection/mergeWithSelection"
+msgstr "Sloučit s výběrem"
+
+msgid "unnatural/key/selection/selectAllArmy"
+msgstr "Vybrat všechnu armádu"
+
+msgid "unnatural/key/selection/selectAllTrucks"
+msgstr "Vybrat všechny tahače"
+
+msgid "unnatural/key/selection/selectIdleArmy"
+msgstr "Vybrat nečinnou armádu"
+
+msgid "unnatural/key/selection/selectIdleTrucks"
+msgstr "Vybrat nečinné tahače"
+
+msgid "unnatural/key/selection/selectionSphere"
+msgstr "Výběr"
+
+msgid "unnatural/key/selection/selectSameDoubleClick"
+msgstr "Vybrat totéž (dvojklik)"
+
+msgid "unnatural/key/selection/subtractFromSelection"
+msgstr "Odebrat z výběru"
+
+msgid "unnatural/key/selectionStore/addSelection0"
+msgstr "Přidat do výběru 0"
+
+msgid "unnatural/key/selectionStore/addSelection1"
+msgstr "Přidat do výběru 1"
+
+msgid "unnatural/key/selectionStore/addSelection2"
+msgstr "Přidat do výběru 2"
+
+msgid "unnatural/key/selectionStore/addSelection3"
+msgstr "Přidat do výběru 3"
+
+msgid "unnatural/key/selectionStore/addSelection4"
+msgstr "Přidat do výběru 4"
+
+msgid "unnatural/key/selectionStore/addSelection5"
+msgstr "Přidat do výběru 5"
+
+msgid "unnatural/key/selectionStore/addSelection6"
+msgstr "Přidat do výběru 6"
+
+msgid "unnatural/key/selectionStore/addSelection7"
+msgstr "Přidat do výběru 7"
+
+msgid "unnatural/key/selectionStore/addSelection8"
+msgstr "Přidat do výběru 8"
+
+msgid "unnatural/key/selectionStore/addSelection9"
+msgstr "Přidat do výběru 9"
+
+msgid "unnatural/key/selectionStore/saveSelection0"
+msgstr "Uložit výběr 0"
+
+msgid "unnatural/key/selectionStore/saveSelection1"
+msgstr "Uložit výběr 1"
+
+msgid "unnatural/key/selectionStore/saveSelection2"
+msgstr "Uložit výběr 2"
+
+msgid "unnatural/key/selectionStore/saveSelection3"
+msgstr "Uložit výběr 3"
+
+msgid "unnatural/key/selectionStore/saveSelection4"
+msgstr "Uložit výběr 4"
+
+msgid "unnatural/key/selectionStore/saveSelection5"
+msgstr "Uložit výběr 5"
+
+msgid "unnatural/key/selectionStore/saveSelection6"
+msgstr "Uložit výběr 6"
+
+msgid "unnatural/key/selectionStore/saveSelection7"
+msgstr "Uložit výběr 7"
+
+msgid "unnatural/key/selectionStore/saveSelection8"
+msgstr "Uložit výběr 8"
+
+msgid "unnatural/key/selectionStore/saveSelection9"
+msgstr "Uložit výběr 9"
+
+msgid "unnatural/key/selectionStore/useSelection0"
+msgstr "Použít výběr 0"
+
+msgid "unnatural/key/selectionStore/useSelection1"
+msgstr "Použít výběr 1"
+
+msgid "unnatural/key/selectionStore/useSelection2"
+msgstr "Použít výběr 2"
+
+msgid "unnatural/key/selectionStore/useSelection3"
+msgstr "Použít výběr 3"
+
+msgid "unnatural/key/selectionStore/useSelection4"
+msgstr "Použít výběr 4"
+
+msgid "unnatural/key/selectionStore/useSelection5"
+msgstr "Použít výběr 5"
+
+msgid "unnatural/key/selectionStore/useSelection6"
+msgstr "Použít výběr 6"
+
+msgid "unnatural/key/selectionStore/useSelection7"
+msgstr "Použít výběr 7"
+
+msgid "unnatural/key/selectionStore/useSelection8"
+msgstr "Použít výběr 8"
+
+msgid "unnatural/key/selectionStore/useSelection9"
+msgstr "Použít výběr 9"
 
 msgid "unnatural/lexicon/buildings"
 msgstr "Budovy"
@@ -599,11 +827,14 @@ msgstr "Pouze na celé obrazovce."
 msgid "unnatural/options/camera/invertMousePanning"
 msgstr "Převrátit tahání myší:"
 
-msgid "unnatural/options/camera/keybordPanningSpeed"
+msgid "unnatural/options/camera/keyboardPanningSpeed"
 msgstr "Rychlost posouvání na klávesnici:"
 
-msgid "unnatural/options/camera/keybordRollSpeed"
+msgid "unnatural/options/camera/keyboardRollSpeed"
 msgstr "Rychlost otáčení na klávesnici:"
+
+msgid "unnatural/options/camera/keyboardZoomSpeed"
+msgstr "Rychlost přiblížení na klávesnici:"
 
 msgid "unnatural/options/camera/mousePanningSpeed"
 msgstr "Rychlost tažení myší:"
@@ -624,7 +855,7 @@ msgid "unnatural/options/gameplay/firstGameMode"
 msgstr "Režim první hry:"
 
 msgid "unnatural/options/gameplay/firstGameMode/description"
-msgstr "Zabraňuje ovládání nákladních automobilů před stavbou."
+msgstr "Dávat tipy pro začátečníky."
 
 msgid "unnatural/options/gameplay/guiScale"
 msgstr "Zvětšení grafického rozhraní:"
@@ -634,6 +865,12 @@ msgstr "Zabránit náhodnému zrušení výběru:"
 
 msgid "unnatural/options/gameplay/preventAccidentalDeselection/description"
 msgstr "Zachová předchozí výběr, pokud je nový výběr prázdný."
+
+msgid "unnatural/options/gameplay/restrictedBuildOrder"
+msgstr "Omezené pořadí stavby:"
+
+msgid "unnatural/options/gameplay/restrictedBuildOrder/description"
+msgstr "Vynutí pořadí staveb které předchází zaseknutí."
 
 msgid "unnatural/options/gameplay/selectedInfoLevel"
 msgstr "Úroveň informací pro výběr:"
@@ -679,12 +916,6 @@ msgstr "Zvětšení strategických ikon:"
 
 msgid "unnatural/options/gameplay/tooltipDelay"
 msgstr "Prodleva zobrazení nápovědy:"
-
-msgid "unnatural/options/gameplay/tutorialMode"
-msgstr "Režim průvodce:"
-
-msgid "unnatural/options/gameplay/tutorialMode/description"
-msgstr "Vynucuje pořadí staveb, které je vhodné pro začátečníky."
 
 msgid "unnatural/options/graphics"
 msgstr "Grafika"
@@ -839,6 +1070,9 @@ msgstr "výstavba"
 msgid "unnatural/protoTypeEnum/none"
 msgstr "žádný"
 
+msgid "unnatural/protoTypeEnum/race"
+msgstr "rasa"
+
 msgid "unnatural/protoTypeEnum/recipe"
 msgstr "recept"
 
@@ -847,6 +1081,9 @@ msgstr "surovina"
 
 msgid "unnatural/protoTypeEnum/unit"
 msgstr "jednotka"
+
+msgid "unnatural/protoTypeEnum/upgrade"
+msgstr "vylepšení"
 
 msgid "unnatural/recipeSelection/noRecipe"
 msgstr "Žádný recept"
@@ -998,9 +1235,6 @@ msgstr "Soukromý"
 msgid "unnatural/serverVisibilityEnum/public"
 msgstr "Veřejný"
 
-msgid "unnatural/serverVisibilityEnum/unknown"
-msgstr "Neznámý"
-
 msgid "unnatural/session/addAi"
 msgstr "Přidat AI"
 
@@ -1042,6 +1276,9 @@ msgstr "Připojit se k týmu"
 
 msgid "unnatural/sessionPlayers/kickPlayer"
 msgstr "Vyhodit hráče"
+
+msgid "unnatural/sessionPlayers/randomRace"
+msgstr "Náhodně"
 
 msgid "unnatural/sessionPlayers/ready"
 msgstr "Připraven"
@@ -1121,7 +1358,7 @@ msgstr "Brnění: "
 msgid "unnatural/tooltips/attack"
 msgstr "Útok"
 
-msgid "unnatural/tooltips/buildingRequiresAtLeastOneRecipe"
+msgid "unnatural/tooltips/buildingNeedsPrerequisitesForAtLeastOneRecipe"
 msgstr "Budova vyžaduje alespoň jeden recept. Viz níže."
 
 msgid "unnatural/tooltips/constructedBy"
