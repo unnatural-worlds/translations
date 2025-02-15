@@ -366,65 +366,11 @@ msgstr "Zoom in"
 msgid "unnatural/key/camera/zoomOut"
 msgstr "Zoom out"
 
-msgid "unnatural/key/cameraStore/saveCamera0"
-msgstr "Save camera 0"
+msgid "unnatural/key/cameraStore/saveCamera"
+msgstr "Save camera {0}"
 
-msgid "unnatural/key/cameraStore/saveCamera1"
-msgstr "Save camera 1"
-
-msgid "unnatural/key/cameraStore/saveCamera2"
-msgstr "Save camera 2"
-
-msgid "unnatural/key/cameraStore/saveCamera3"
-msgstr "Save camera 3"
-
-msgid "unnatural/key/cameraStore/saveCamera4"
-msgstr "Save camera 4"
-
-msgid "unnatural/key/cameraStore/saveCamera5"
-msgstr "Save camera 5"
-
-msgid "unnatural/key/cameraStore/saveCamera6"
-msgstr "Save camera 6"
-
-msgid "unnatural/key/cameraStore/saveCamera7"
-msgstr "Save camera 7"
-
-msgid "unnatural/key/cameraStore/saveCamera8"
-msgstr "Save camera 8"
-
-msgid "unnatural/key/cameraStore/saveCamera9"
-msgstr "Save camera 9"
-
-msgid "unnatural/key/cameraStore/useCamera0"
-msgstr "Use camera 0"
-
-msgid "unnatural/key/cameraStore/useCamera1"
-msgstr "Use camera 1"
-
-msgid "unnatural/key/cameraStore/useCamera2"
-msgstr "Use camera 2"
-
-msgid "unnatural/key/cameraStore/useCamera3"
-msgstr "Use camera 3"
-
-msgid "unnatural/key/cameraStore/useCamera4"
-msgstr "Use camera 4"
-
-msgid "unnatural/key/cameraStore/useCamera5"
-msgstr "Use camera 5"
-
-msgid "unnatural/key/cameraStore/useCamera6"
-msgstr "Use camera 6"
-
-msgid "unnatural/key/cameraStore/useCamera7"
-msgstr "Use camera 7"
-
-msgid "unnatural/key/cameraStore/useCamera8"
-msgstr "Use camera 8"
-
-msgid "unnatural/key/cameraStore/useCamera9"
-msgstr "Use camera 9"
+msgid "unnatural/key/cameraStore/useCamera"
+msgstr "Use camera {0}"
 
 msgid "unnatural/key/cinematic/cameraControls"
 msgstr "Camera controls"
@@ -609,95 +555,14 @@ msgstr "Select same (double click)"
 msgid "unnatural/key/selection/subtractFromSelection"
 msgstr "Subtract from selection"
 
-msgid "unnatural/key/selectionStore/addSelection0"
-msgstr "Add to selection 0"
+msgid "unnatural/key/selectionStore/addSelection_"
+msgstr "Add to selection {0}"
 
-msgid "unnatural/key/selectionStore/addSelection1"
-msgstr "Add to selection 1"
+msgid "unnatural/key/selectionStore/saveSelection"
+msgstr "Save selection {0}"
 
-msgid "unnatural/key/selectionStore/addSelection2"
-msgstr "Add to selection 2"
-
-msgid "unnatural/key/selectionStore/addSelection3"
-msgstr "Add to selection 3"
-
-msgid "unnatural/key/selectionStore/addSelection4"
-msgstr "Add to selection 4"
-
-msgid "unnatural/key/selectionStore/addSelection5"
-msgstr "Add to selection 5"
-
-msgid "unnatural/key/selectionStore/addSelection6"
-msgstr "Add to selection 6"
-
-msgid "unnatural/key/selectionStore/addSelection7"
-msgstr "Add to selection 7"
-
-msgid "unnatural/key/selectionStore/addSelection8"
-msgstr "Add to selection 8"
-
-msgid "unnatural/key/selectionStore/addSelection9"
-msgstr "Add to selection 9"
-
-msgid "unnatural/key/selectionStore/saveSelection0"
-msgstr "Save selection 0"
-
-msgid "unnatural/key/selectionStore/saveSelection1"
-msgstr "Save selection 1"
-
-msgid "unnatural/key/selectionStore/saveSelection2"
-msgstr "Save selection 2"
-
-msgid "unnatural/key/selectionStore/saveSelection3"
-msgstr "Save selection 3"
-
-msgid "unnatural/key/selectionStore/saveSelection4"
-msgstr "Save selection 4"
-
-msgid "unnatural/key/selectionStore/saveSelection5"
-msgstr "Save selection 5"
-
-msgid "unnatural/key/selectionStore/saveSelection6"
-msgstr "Save selection 6"
-
-msgid "unnatural/key/selectionStore/saveSelection7"
-msgstr "Save selection 7"
-
-msgid "unnatural/key/selectionStore/saveSelection8"
-msgstr "Save selection 8"
-
-msgid "unnatural/key/selectionStore/saveSelection9"
-msgstr "Save selection 9"
-
-msgid "unnatural/key/selectionStore/useSelection0"
-msgstr "Use selection 0"
-
-msgid "unnatural/key/selectionStore/useSelection1"
-msgstr "Use selection 1"
-
-msgid "unnatural/key/selectionStore/useSelection2"
-msgstr "Use selection 2"
-
-msgid "unnatural/key/selectionStore/useSelection3"
-msgstr "Use selection 3"
-
-msgid "unnatural/key/selectionStore/useSelection4"
-msgstr "Use selection 4"
-
-msgid "unnatural/key/selectionStore/useSelection5"
-msgstr "Use selection 5"
-
-msgid "unnatural/key/selectionStore/useSelection6"
-msgstr "Use selection 6"
-
-msgid "unnatural/key/selectionStore/useSelection7"
-msgstr "Use selection 7"
-
-msgid "unnatural/key/selectionStore/useSelection8"
-msgstr "Use selection 8"
-
-msgid "unnatural/key/selectionStore/useSelection9"
-msgstr "Use selection 9"
+msgid "unnatural/key/selectionStore/useSelection"
+msgstr "Use selection {0}"
 
 msgid "unnatural/lexicon/buildings"
 msgstr "Buildings"
@@ -811,7 +676,7 @@ msgid "unnatural/mapSelection/versionMismatch"
 msgstr "Version mismatch"
 
 msgid "unnatural/options/camera"
-msgstr "Camera Controls"
+msgstr "Camera"
 
 msgid "unnatural/options/camera/borderScrollSpeed"
 msgstr "Border scroll speed:"
