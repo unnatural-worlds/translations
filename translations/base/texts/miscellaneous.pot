@@ -71,6 +71,9 @@ msgstr "Water"
 
 
 
+msgid "unnatural/base/category/civilian"
+msgstr "Civilian"
+
 msgid "unnatural/base/category/economy"
 msgstr "Economy"
 
