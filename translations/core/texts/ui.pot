@@ -1263,8 +1263,8 @@ msgstr "% Damage Table"
 msgid "unnatural/tooltips/percents"
 msgstr "{0} %"
 
-msgid "unnatural/tooltips/perSecond"
-msgstr "{0} / s"
+msgid "unnatural/tooltips/perMinute"
+msgstr "{0}/m"
 
 msgid "unnatural/tooltips/placeOver"
 msgstr "Place over"
