@@ -723,6 +723,9 @@ msgstr "Provides hints for beginners."
 msgid "unnatural/options/gameplay/guiScale"
 msgstr "Gui scale:"
 
+msgid "unnatural/options/gameplay/minimapSize"
+msgstr "Minimap size:"
+
 msgid "unnatural/options/gameplay/preventAccidentalDeselection"
 msgstr "Prevent accidental deselection:"
 
@@ -835,28 +838,28 @@ msgid "unnatural/options/sound/voicesVolume"
 msgstr "Voices volume:"
 
 msgid "unnatural/orderTypeEnum/fight"
-msgstr "fight"
+msgstr "Fight"
 
 msgid "unnatural/orderTypeEnum/guard"
-msgstr "guard"
+msgstr "Guard"
 
 msgid "unnatural/orderTypeEnum/load"
-msgstr "load"
+msgstr "Load"
 
 msgid "unnatural/orderTypeEnum/none"
-msgstr "none"
+msgstr "None"
 
 msgid "unnatural/orderTypeEnum/run"
-msgstr "run"
+msgstr "Run"
 
 msgid "unnatural/orderTypeEnum/selfDestruct"
-msgstr "self destruct"
+msgstr "Self destruct"
 
 msgid "unnatural/orderTypeEnum/stop"
-msgstr "stop"
+msgstr "Stop"
 
 msgid "unnatural/orderTypeEnum/unload"
-msgstr "unload"
+msgstr "Unload"
 
 msgid "unnatural/pathStateEnum/finished"
 msgstr "Finished"
@@ -928,25 +931,25 @@ msgid "unnatural/prioritySelection/priority"
 msgstr "Priority"
 
 msgid "unnatural/protoTypeEnum/construction"
-msgstr "construction"
+msgstr "Construction"
 
 msgid "unnatural/protoTypeEnum/none"
-msgstr "none"
+msgstr "None"
 
 msgid "unnatural/protoTypeEnum/race"
-msgstr "race"
+msgstr "Race"
 
 msgid "unnatural/protoTypeEnum/recipe"
-msgstr "recipe"
+msgstr "Recipe"
 
 msgid "unnatural/protoTypeEnum/resource"
-msgstr "resource"
+msgstr "Resource"
 
 msgid "unnatural/protoTypeEnum/unit"
-msgstr "unit"
+msgstr "Unit"
 
 msgid "unnatural/protoTypeEnum/upgrade"
-msgstr "upgrade"
+msgstr "Upgrade"
 
 msgid "unnatural/recipeSelection/noRecipe"
 msgstr "No recipe"
@@ -1166,6 +1169,9 @@ msgstr "Loading map"
 
 msgid "unnatural/startGameConditionEnum/noMap"
 msgstr "No map"
+
+msgid "unnatural/startGameConditionEnum/none"
+msgstr "None"
 
 msgid "unnatural/startGameConditionEnum/noPlayers"
 msgstr "No players"
