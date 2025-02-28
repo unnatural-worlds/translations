@@ -102,26 +102,8 @@ msgstr "Controls"
 msgid "unnatural/controls/debugging"
 msgstr "Debugging"
 
-msgid "unnatural/controls/loadI"
-msgstr "Load {0}"
-
-msgid "unnatural/controls/loadLast"
-msgstr "Load last"
-
 msgid "unnatural/controls/orders"
 msgstr "Orders"
-
-msgid "unnatural/controls/presets"
-msgstr "Presets"
-
-msgid "unnatural/controls/presetsAreSynchronized"
-msgstr "Controls presets are synchronized between devices with same Steam account."
-
-msgid "unnatural/controls/resetAll"
-msgstr "Reset all"
-
-msgid "unnatural/controls/saveI"
-msgstr "Save {0}"
 
 msgid "unnatural/controls/savingCameras"
 msgstr "Saving cameras"
@@ -305,6 +287,9 @@ msgstr "Controls"
 
 msgid "unnatural/gameMenu/options"
 msgstr "Options"
+
+msgid "unnatural/gameMenu/presets"
+msgstr "Presets"
 
 msgid "unnatural/groupsIcons/armyGroup"
 msgstr "Army group"
@@ -588,6 +573,9 @@ msgstr "Search..."
 msgid "unnatural/lexicon/units"
 msgstr "Units"
 
+msgid "unnatural/lexicon/upgrades"
+msgstr "Upgrades"
+
 msgid "unnatural/mainMenu/bigTitle/demo"
 msgstr "Unnatural Worlds Demo"
 
@@ -638,6 +626,9 @@ msgstr "Find MP"
 
 msgid "unnatural/mainMenu/menu/options"
 msgstr "Options"
+
+msgid "unnatural/mainMenu/menu/presets"
+msgstr "Presets"
 
 msgid "unnatural/mainMenu/menu/quit"
 msgstr "Quit"
@@ -711,20 +702,11 @@ msgstr "Mouse zoom speed:"
 msgid "unnatural/options/gameplay"
 msgstr "Gameplay"
 
-msgid "unnatural/options/gameplay/chatMessageDuration"
-msgstr "Chat message duration:"
-
 msgid "unnatural/options/gameplay/firstGameMode"
 msgstr "First game mode:"
 
 msgid "unnatural/options/gameplay/firstGameMode/description"
 msgstr "Provides hints for beginners."
-
-msgid "unnatural/options/gameplay/guiScale"
-msgstr "Gui scale:"
-
-msgid "unnatural/options/gameplay/minimapSize"
-msgstr "Minimap size:"
 
 msgid "unnatural/options/gameplay/preventAccidentalDeselection"
 msgstr "Prevent accidental deselection:"
@@ -738,26 +720,11 @@ msgstr "Restricted build order:"
 msgid "unnatural/options/gameplay/restrictedBuildOrder/description"
 msgstr "Enforces build order that avoids getting stuck."
 
-msgid "unnatural/options/gameplay/selectedInfoLevel"
-msgstr "Selected info level:"
-
-msgid "unnatural/options/gameplay/selectedInfoLevel/extra"
-msgstr "Extra"
-
-msgid "unnatural/options/gameplay/selectedInfoLevel/off"
-msgstr "Off"
-
-msgid "unnatural/options/gameplay/selectedInfoLevel/on"
-msgstr "On"
-
 msgid "unnatural/options/gameplay/shootingRange"
 msgstr "Shooting range:"
 
 msgid "unnatural/options/gameplay/shootingRange/description"
 msgstr "Show approximate shooting range of a selected unit."
-
-msgid "unnatural/options/gameplay/showNames"
-msgstr "Show names:"
 
 msgid "unnatural/options/gameplay/showNames/description"
 msgstr "Names shown over icons."
@@ -780,14 +747,23 @@ msgstr "Strategic icons distance:"
 msgid "unnatural/options/gameplay/strategicIconsScale"
 msgstr "Strategic icons scale:"
 
-msgid "unnatural/options/gameplay/tooltipDelay"
-msgstr "Tooltip delay:"
-
 msgid "unnatural/options/graphics"
 msgstr "Graphics"
 
+msgid "unnatural/options/graphics/enableDof"
+msgstr "Enable DOF:"
+
+msgid "unnatural/options/graphics/enableDof/description"
+msgstr "Depth of field (blurred background)."
+
 msgid "unnatural/options/graphics/enableDynamicResolution"
 msgstr "Enable dynamic resolution:"
+
+msgid "unnatural/options/graphics/enableFxaa"
+msgstr "Enable FXAA:"
+
+msgid "unnatural/options/graphics/enableFxaa/description"
+msgstr "Fast approximate anti-aliasing."
 
 msgid "unnatural/options/graphics/enableSsao"
 msgstr "Enable SSAO:"
@@ -810,17 +786,11 @@ msgstr "Options"
 msgid "unnatural/options/player"
 msgstr "Player"
 
-msgid "unnatural/options/player/language"
-msgstr "Language:"
-
 msgid "unnatural/options/player/yourColor"
 msgstr "Your color:"
 
 msgid "unnatural/options/player/yourName"
 msgstr "Your name:"
-
-msgid "unnatural/options/save"
-msgstr "Save"
 
 msgid "unnatural/options/sound"
 msgstr "Sound"
@@ -836,6 +806,39 @@ msgstr "Music volume:"
 
 msgid "unnatural/options/sound/voicesVolume"
 msgstr "Voices volume:"
+
+msgid "unnatural/options/userInterface"
+msgstr "User interface"
+
+msgid "unnatural/options/userInterface/chatMessageDuration"
+msgstr "Chat message duration:"
+
+msgid "unnatural/options/userInterface/guiScale"
+msgstr "Gui scale:"
+
+msgid "unnatural/options/userInterface/language"
+msgstr "Language:"
+
+msgid "unnatural/options/userInterface/minimapSize"
+msgstr "Minimap size:"
+
+msgid "unnatural/options/userInterface/selectedInfoLevel"
+msgstr "Selected info level:"
+
+msgid "unnatural/options/userInterface/selectedInfoLevel/extra"
+msgstr "Extra"
+
+msgid "unnatural/options/userInterface/selectedInfoLevel/off"
+msgstr "Off"
+
+msgid "unnatural/options/userInterface/selectedInfoLevel/on"
+msgstr "On"
+
+msgid "unnatural/options/userInterface/showNames"
+msgstr "Show names:"
+
+msgid "unnatural/options/userInterface/tooltipDelay"
+msgstr "Tooltip delay:"
 
 msgid "unnatural/orderTypeEnum/fight"
 msgstr "Fight"
@@ -918,6 +921,21 @@ msgstr "API program"
 msgid "unnatural/playerConnectionClassEnum/virtualReality"
 msgstr "Virtual reality player"
 
+msgid "unnatural/presets/description"
+msgstr "Switch between multiple sets of all options and keybinds."
+
+msgid "unnatural/presets/loadI"
+msgstr "Load {0}"
+
+msgid "unnatural/presets/presets"
+msgstr "Presets"
+
+msgid "unnatural/presets/roaming"
+msgstr "Presets are synchronized to all devices with the same Steam account."
+
+msgid "unnatural/presets/saveI"
+msgstr "Save {0}"
+
 msgid "unnatural/priorityEnum/disabled"
 msgstr "Disabled"
 
@@ -993,6 +1011,9 @@ msgstr "Up folder"
 msgid "unnatural/replaySelection/versionMismatch"
 msgstr "Version mismatch"
 
+msgid "unnatural/resources/recipes"
+msgstr "Recipes"
+
 msgid "unnatural/resources/resources"
 msgstr "Resources"
 
@@ -1019,6 +1040,9 @@ msgstr "Needed"
 
 msgid "unnatural/resources/updateDetailsPlayer/production"
 msgstr "Production"
+
+msgid "unnatural/save"
+msgstr "Save"
 
 msgid "unnatural/selectedInfo/aim"
 msgstr "Aim: {0}"
@@ -1221,11 +1245,17 @@ msgstr "Get ready"
 msgid "unnatural/tooltips/allowsPlacement"
 msgstr "Allows placement"
 
+msgid "unnatural/tooltips/appliesTo"
+msgstr "Applies to"
+
 msgid "unnatural/tooltips/armor"
 msgstr "Armor: "
 
 msgid "unnatural/tooltips/attack"
 msgstr "Attack"
+
+msgid "unnatural/tooltips/availableUpgrades"
+msgstr "Available upgrades"
 
 msgid "unnatural/tooltips/buildingNeedsPrerequisitesForAtLeastOneRecipe"
 msgstr "The building needs prerequisites for at least one recipe. See below."
@@ -1302,8 +1332,17 @@ msgstr "{0} shots/s"
 msgid "unnatural/tooltips/weapon"
 msgstr "Weapon: "
 
+msgid "unnatural/units/buildings"
+msgstr "Buildings"
+
+msgid "unnatural/units/constructions"
+msgstr "Constructions"
+
 msgid "unnatural/units/units"
 msgstr "Units"
+
+msgid "unnatural/units/upgrades"
+msgstr "Upgrades"
 
 msgid "unnatural/unitsStats/idleTotalMilitary"
 msgstr "Idle/total military"
