@@ -771,6 +771,9 @@ msgstr "Enable SSAO:"
 msgid "unnatural/options/graphics/enableSsao/description"
 msgstr "Screen space ambient occlusion."
 
+msgid "unnatural/options/graphics/gamma"
+msgstr "Gamma:"
+
 msgid "unnatural/options/graphics/lightsLimit"
 msgstr "Lights limit:"
 
@@ -795,6 +798,9 @@ msgstr "Your name:"
 msgid "unnatural/options/sound"
 msgstr "Sound"
 
+msgid "unnatural/options/sound/announcerVolume"
+msgstr "Announcer volume:"
+
 msgid "unnatural/options/sound/effectsVolume"
 msgstr "Effects volume:"
 
@@ -803,9 +809,6 @@ msgstr "Master volume:"
 
 msgid "unnatural/options/sound/musicVolume"
 msgstr "Music volume:"
-
-msgid "unnatural/options/sound/voicesVolume"
-msgstr "Voices volume:"
 
 msgid "unnatural/options/userInterface"
 msgstr "User interface"
@@ -1104,6 +1107,21 @@ msgstr "Status: shooting"
 msgid "unnatural/selectedInfo/statusStalling"
 msgstr "Status: stalling"
 
+msgid "unnatural/selectedInfo/upgradeDamage"
+msgstr "Damage: {0} %"
+
+msgid "unnatural/selectedInfo/upgradeDefense"
+msgstr "Defense: {0} %"
+
+msgid "unnatural/selectedInfo/upgradeMovementSpeed"
+msgstr "Movement speed: {0} %"
+
+msgid "unnatural/selectedInfo/upgradeProcessingSpeed"
+msgstr "Processing speed: {0} %"
+
+msgid "unnatural/selectedInfo/upgradeShootingRange"
+msgstr "Shooting range: {0} %"
+
 msgid "unnatural/selectedInfo/uptime"
 msgstr "Uptime: {0} %"
 
@@ -1257,6 +1275,9 @@ msgstr "Attack"
 msgid "unnatural/tooltips/availableUpgrades"
 msgstr "Available upgrades"
 
+msgid "unnatural/tooltips/bonuses"
+msgstr "Bonuses"
+
 msgid "unnatural/tooltips/buildingNeedsPrerequisitesForAtLeastOneRecipe"
 msgstr "The building needs prerequisites for at least one recipe. See below."
 
@@ -1281,8 +1302,14 @@ msgstr "DPS: "
 msgid "unnatural/tooltips/dpsAtLowLife"
 msgstr "DPS at low life: "
 
+msgid "unnatural/tooltips/duration"
+msgstr "Duration: "
+
 msgid "unnatural/tooltips/life"
 msgstr "Life: "
+
+msgid "unnatural/tooltips/limit"
+msgstr "Limit: "
 
 msgid "unnatural/tooltips/meters"
 msgstr "{0} m"
@@ -1304,6 +1331,9 @@ msgstr "{0}/m"
 
 msgid "unnatural/tooltips/placeOver"
 msgstr "Place over"
+
+msgid "unnatural/tooltips/processingSpeed"
+msgstr "Processing speed: "
 
 msgid "unnatural/tooltips/producedIn"
 msgstr "Produced in"
@@ -1328,6 +1358,27 @@ msgstr "{0} s"
 
 msgid "unnatural/tooltips/shotsPerSecond"
 msgstr "{0} shots/s"
+
+msgid "unnatural/tooltips/Upgrade"
+msgstr "Upgrade"
+
+msgid "unnatural/tooltips/upgrade/damage"
+msgstr "Damage: "
+
+msgid "unnatural/tooltips/upgrade/defense"
+msgstr "Defense: "
+
+msgid "unnatural/tooltips/upgrade/movementSpeed"
+msgstr "Movement speed: "
+
+msgid "unnatural/tooltips/upgrade/percent"
+msgstr "{0} %"
+
+msgid "unnatural/tooltips/upgrade/processingSpeed"
+msgstr "Processing speed: "
+
+msgid "unnatural/tooltips/upgrade/shootingRange"
+msgstr "Shooting range: "
 
 msgid "unnatural/tooltips/weapon"
 msgstr "Weapon: "
