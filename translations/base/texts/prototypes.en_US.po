@@ -344,6 +344,12 @@ msgstr "Truck"
 msgid "unnatural/base/archaics/units/truck.proto/title"
 msgstr "Truck"
 
+msgid "unnatural/base/archaics/upgrades/cannon_stabilization.proto/description"
+msgstr "Cannon stabilization"
+
+msgid "unnatural/base/archaics/upgrades/cannon_stabilization.proto/title"
+msgstr "Cannon stabilization"
+
 msgid "unnatural/base/archaics/upgrades/fertilizer.proto/description"
 msgstr "Fertilizer"
 
@@ -356,6 +362,24 @@ msgstr "Militia"
 msgid "unnatural/base/archaics/upgrades/militia.proto/title"
 msgstr "Militia"
 
+msgid "unnatural/base/archaics/upgrades/reactive_plates.proto/description"
+msgstr "Reactive plates"
+
+msgid "unnatural/base/archaics/upgrades/reactive_plates.proto/title"
+msgstr "Reactive plates"
+
+msgid "unnatural/base/archaics/upgrades/rocket_filling.proto/description"
+msgstr "Rocket filling"
+
+msgid "unnatural/base/archaics/upgrades/rocket_filling.proto/title"
+msgstr "Rocket filling"
+
+msgid "unnatural/base/archaics/upgrades/shell_filling.proto/description"
+msgstr "Shell filling"
+
+msgid "unnatural/base/archaics/upgrades/shell_filling.proto/title"
+msgstr "Shell filling"
+
 msgid "unnatural/base/ores/aether_deposit.proto/description"
 msgstr "Gaseous substance that defies scientific understanding."
 
@@ -363,7 +387,7 @@ msgid "unnatural/base/ores/aether_deposit.proto/title"
 msgstr "Aether deposit"
 
 msgid "unnatural/base/ores/crystals_deposit.proto/description"
-msgstr "Regular structure at molecular level makes sturdy materials."
+msgstr "Regular structure at molecular level."
 
 msgid "unnatural/base/ores/crystals_deposit.proto/title"
 msgstr "Crystals deposit"
@@ -393,7 +417,7 @@ msgid "unnatural/base/technocracy/buildings/bot_assembler.proto/title"
 msgstr "Bot assembler"
 
 msgid "unnatural/base/technocracy/buildings/concrete_plant.proto/description"
-msgstr "Produces concrete - good for building buildings."
+msgstr "Produces concrete - good for building buildings, duh."
 
 msgid "unnatural/base/technocracy/buildings/concrete_plant.proto/title"
 msgstr "Concrete plant"
@@ -447,7 +471,7 @@ msgid "unnatural/base/technocracy/buildings/origin.proto/title"
 msgstr "Origin"
 
 msgid "unnatural/base/technocracy/buildings/smelter.proto/description"
-msgstr "Refines alloys."
+msgstr "Hot stuff and metallurgy."
 
 msgid "unnatural/base/technocracy/buildings/smelter.proto/title"
 msgstr "Smelter"
@@ -465,7 +489,7 @@ msgid "unnatural/base/technocracy/buildings/talos.proto/title"
 msgstr "Talos"
 
 msgid "unnatural/base/technocracy/buildings/thor.proto/description"
-msgstr "Casts lightning on distant enemies. Because throwing a hammer would have annoyingly long cooldown."
+msgstr "Casts lightning on distant enemies. Because throwing a hammer would have annoying cooldown."
 
 msgid "unnatural/base/technocracy/buildings/thor.proto/title"
 msgstr "Thor"
@@ -513,7 +537,7 @@ msgid "unnatural/base/technocracy/resources/alloys.proto/title"
 msgstr "Alloys"
 
 msgid "unnatural/base/technocracy/resources/antimatter_ejector.proto/description"
-msgstr "Whenever antimatter touches regular matter, they are both annihilated. Good weapon against buildings."
+msgstr "Whenever antimatter touches regular matter, they are both annihilated."
 
 msgid "unnatural/base/technocracy/resources/antimatter_ejector.proto/title"
 msgstr "Antimatter ejector"
@@ -531,13 +555,13 @@ msgid "unnatural/base/technocracy/resources/concrete.proto/title"
 msgstr "Concrete"
 
 msgid "unnatural/base/technocracy/resources/crystals.proto/description"
-msgstr "Regular structure at molecular level makes sturdy materials."
+msgstr "Regular structure at molecular level."
 
 msgid "unnatural/base/technocracy/resources/crystals.proto/title"
 msgstr "Crystals"
 
 msgid "unnatural/base/technocracy/resources/grease.proto/description"
-msgstr "Grease"
+msgstr "Viscous liquid able to withstand diverse conditions. Makes things move."
 
 msgid "unnatural/base/technocracy/resources/grease.proto/title"
 msgstr "Grease"
@@ -555,19 +579,19 @@ msgid "unnatural/base/technocracy/resources/oil.proto/title"
 msgstr "Oil"
 
 msgid "unnatural/base/technocracy/resources/particle_accelerator.proto/description"
-msgstr "Tool to accelerate some particles. Also good gun against quantum armor."
+msgstr "Makes small things go fast, and sometimes boom."
 
 msgid "unnatural/base/technocracy/resources/particle_accelerator.proto/title"
 msgstr "Particle accelerator"
 
 msgid "unnatural/base/technocracy/resources/plasma_emitter.proto/description"
-msgstr "Cooks oil to form plasma. Good weapon against armor plates."
+msgstr "Cooks oil to form plasma."
 
 msgid "unnatural/base/technocracy/resources/plasma_emitter.proto/title"
 msgstr "Plasma emitter"
 
 msgid "unnatural/base/technocracy/resources/polymer_coating.proto/description"
-msgstr "Simple, light coating. Provides basic protection."
+msgstr "Simple, lightweight coating. Provides basic protection."
 
 msgid "unnatural/base/technocracy/resources/polymer_coating.proto/title"
 msgstr "Polymer coating"
@@ -591,7 +615,7 @@ msgid "unnatural/base/technocracy/resources/quark_foam.proto/title"
 msgstr "Quark foam"
 
 msgid "unnatural/base/technocracy/resources/rail_gun.proto/description"
-msgstr "Shoots hundreds of small nails in a rapid succession. Good at penetrating energy shields."
+msgstr "Shoots hundreds of small nails in a rapid succession."
 
 msgid "unnatural/base/technocracy/resources/rail_gun.proto/title"
 msgstr "Rail gun"
@@ -614,7 +638,7 @@ msgid "unnatural/base/technocracy/technocracy.proto/title"
 msgstr "Technocracy"
 
 msgid "unnatural/base/technocracy/units/ATV.proto/description"
-msgstr "Automated transfer vehicle. Moves goods from A to B."
+msgstr "Automated transfer vehicle. Moves goods from A to B. No attack."
 
 msgid "unnatural/base/technocracy/units/ATV.proto/title"
 msgstr "A.T.V."
@@ -627,9 +651,7 @@ msgstr "Colossus"
 
 msgid "unnatural/base/technocracy/units/cyclops.proto/description"
 msgstr ""
-"Focuses its one eye as a scope.\n"
-"Long range siege unit.\n"
-"Good vs. buildings."
+"Focuses its one eye as a scope. Artillery unit, provides supplemental damage."
 
 msgid "unnatural/base/technocracy/units/cyclops.proto/title"
 msgstr "Cyclops"
@@ -642,16 +664,14 @@ msgstr "Eagle"
 
 msgid "unnatural/base/technocracy/units/golem.proto/description"
 msgstr ""
-"Powerful siege unit, but short range.\n"
-"Strong vs. buildings."
+"Short range, but very destructive to buildings."
 
 msgid "unnatural/base/technocracy/units/golem.proto/title"
 msgstr "Golem"
 
 msgid "unnatural/base/technocracy/units/juggernaut.proto/description"
 msgstr ""
-"Assault bot.\n"
-"Strong vs. energy shield."
+"Assault bot. Main battle unit."
 
 msgid "unnatural/base/technocracy/units/juggernaut.proto/title"
 msgstr "Juggernaut"
@@ -675,22 +695,51 @@ msgid "unnatural/base/technocracy/units/mermaid.proto/title"
 msgstr "Mermaid"
 
 msgid "unnatural/base/technocracy/units/paladin.proto/description"
-msgstr "Tanking robot. Good defenses."
+msgstr "Defensive robot, can withstand a lot of beating."
 
 msgid "unnatural/base/technocracy/units/paladin.proto/title"
 msgstr "Paladin"
 
 msgid "unnatural/base/technocracy/units/twinfire.proto/description"
 msgstr ""
-"Assault vehicle.\n"
-"Strong vs. armor plates."
+"Assault vehicle. Main battle unit."
 
 msgid "unnatural/base/technocracy/units/twinfire.proto/title"
 msgstr "Twinfire"
 
-msgid "unnatural/base/technocracy/upgrades/colossus_damage.proto/description"
-msgstr "Colossus damage"
+msgid "unnatural/base/technocracy/upgrades/eagle_eye.proto/description"
+msgstr "Improved sight to increase shooting range."
 
-msgid "unnatural/base/technocracy/upgrades/colossus_damage.proto/title"
-msgstr "Colossus damage"
+msgid "unnatural/base/technocracy/upgrades/eagle_eye.proto/title"
+msgstr "Eagle eye"
+
+msgid "unnatural/base/technocracy/upgrades/electrified_shield.proto/description"
+msgstr "Provides additional power to energy shields for improved defenses."
+
+msgid "unnatural/base/technocracy/upgrades/electrified_shield.proto/title"
+msgstr "Electrified shield"
+
+msgid "unnatural/base/technocracy/upgrades/evasive_maneuvers.proto/description"
+msgstr "No need for heavy armor if you can dodge bullets."
+
+msgid "unnatural/base/technocracy/upgrades/evasive_maneuvers.proto/title"
+msgstr "Evasive maneuvers"
+
+msgid "unnatural/base/technocracy/upgrades/matter_annihilation.proto/description"
+msgstr "Tweaking parameters for improved ruinage."
+
+msgid "unnatural/base/technocracy/upgrades/matter_annihilation.proto/title"
+msgstr "Matter annihilation"
+
+msgid "unnatural/base/technocracy/upgrades/quadfire.proto/description"
+msgstr "What is better than two guns? Four guns."
+
+msgid "unnatural/base/technocracy/upgrades/quadfire.proto/title"
+msgstr "Quadfire"
+
+msgid "unnatural/base/technocracy/upgrades/quantum_field.proto/description"
+msgstr "Expand the quantum field of the armor for better coverage."
+
+msgid "unnatural/base/technocracy/upgrades/quantum_field.proto/title"
+msgstr "Quantum field"
 
