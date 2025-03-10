@@ -249,15 +249,6 @@ msgstr "Undecided"
 msgid "unnatural/finishPlayers/winners"
 msgstr "Winners"
 
-msgid "unnatural/firstGameMode/buildingNeedsRecipe"
-msgstr "Building needs a recipe."
-
-msgid "unnatural/firstGameMode/truckAutonomousStartConstruction"
-msgstr "Trucks are autonomous. Start by placing a construction."
-
-msgid "unnatural/firstGameMode/waitTrucksDeliverResources"
-msgstr "Wait for the trucks to deliver resources to the construction."
-
 msgid "unnatural/foreignPolicyEnum/ally"
 msgstr "Ally"
 
@@ -780,6 +771,9 @@ msgstr "Lights limit:"
 msgid "unnatural/options/graphics/minimumScale"
 msgstr "Minimum scale:"
 
+msgid "unnatural/options/graphics/sharpening"
+msgstr "Sharpening:"
+
 msgid "unnatural/options/graphics/targetFps"
 msgstr "Target FPS:"
 
@@ -1083,6 +1077,9 @@ msgstr "Missing resources:"
 msgid "unnatural/selectedInfo/order"
 msgstr "Order: {0}"
 
+msgid "unnatural/selectedInfo/orderTarget"
+msgstr "Target: {0}"
+
 msgid "unnatural/selectedInfo/owner"
 msgstr "Owner: "
 
@@ -1263,6 +1260,9 @@ msgstr "Get ready"
 msgid "unnatural/tooltips/allowsPlacement"
 msgstr "Allows placement"
 
+msgid "unnatural/tooltips/angle"
+msgstr "{0} °"
+
 msgid "unnatural/tooltips/appliesTo"
 msgstr "Applies to"
 
@@ -1304,6 +1304,9 @@ msgstr "DPS at low life: "
 
 msgid "unnatural/tooltips/duration"
 msgstr "Duration: "
+
+msgid "unnatural/tooltips/elevation"
+msgstr "Elevation: "
 
 msgid "unnatural/tooltips/life"
 msgstr "Life: "
