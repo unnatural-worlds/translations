@@ -374,11 +374,23 @@ msgstr "Rocket filling"
 msgid "unnatural/base/archaics/upgrades/rocket_filling.proto/title"
 msgstr "Rocket filling"
 
+msgid "unnatural/base/archaics/upgrades/rubber_tracks.proto/description"
+msgstr "Rubber tracks"
+
+msgid "unnatural/base/archaics/upgrades/rubber_tracks.proto/title"
+msgstr "Rubber tracks"
+
 msgid "unnatural/base/archaics/upgrades/shell_filling.proto/description"
 msgstr "Shell filling"
 
 msgid "unnatural/base/archaics/upgrades/shell_filling.proto/title"
 msgstr "Shell filling"
+
+msgid "unnatural/base/archaics/upgrades/smoother_propellers.proto/description"
+msgstr "Smoother propellers"
+
+msgid "unnatural/base/archaics/upgrades/smoother_propellers.proto/title"
+msgstr "Smoother propellers"
 
 msgid "unnatural/base/ores/aether_deposit.proto/description"
 msgstr "Gaseous substance that defies scientific understanding."
@@ -650,8 +662,7 @@ msgid "unnatural/base/technocracy/units/colossus.proto/title"
 msgstr "Colossus"
 
 msgid "unnatural/base/technocracy/units/cyclops.proto/description"
-msgstr ""
-"Focuses its one eye as a scope. Artillery unit, provides supplemental damage."
+msgstr "Focuses its one eye as a scope. Artillery unit, provides supplemental damage."
 
 msgid "unnatural/base/technocracy/units/cyclops.proto/title"
 msgstr "Cyclops"
@@ -663,15 +674,13 @@ msgid "unnatural/base/technocracy/units/eagle.proto/title"
 msgstr "Eagle"
 
 msgid "unnatural/base/technocracy/units/golem.proto/description"
-msgstr ""
-"Short range, but very destructive to buildings."
+msgstr "Short range, but very destructive to buildings."
 
 msgid "unnatural/base/technocracy/units/golem.proto/title"
 msgstr "Golem"
 
 msgid "unnatural/base/technocracy/units/juggernaut.proto/description"
-msgstr ""
-"Assault bot. Main battle unit."
+msgstr "Assault bot. Main battle unit."
 
 msgid "unnatural/base/technocracy/units/juggernaut.proto/title"
 msgstr "Juggernaut"
@@ -701,11 +710,22 @@ msgid "unnatural/base/technocracy/units/paladin.proto/title"
 msgstr "Paladin"
 
 msgid "unnatural/base/technocracy/units/twinfire.proto/description"
-msgstr ""
-"Assault vehicle. Main battle unit."
+msgstr "Assault vehicle. Main battle unit."
 
 msgid "unnatural/base/technocracy/units/twinfire.proto/title"
 msgstr "Twinfire"
+
+msgid "unnatural/base/technocracy/upgrades/artillery.proto/description"
+msgstr "Artillery"
+
+msgid "unnatural/base/technocracy/upgrades/artillery.proto/title"
+msgstr "Artillery"
+
+msgid "unnatural/base/technocracy/upgrades/assault_forces.proto/description"
+msgstr "Assault forces"
+
+msgid "unnatural/base/technocracy/upgrades/assault_forces.proto/title"
+msgstr "Assault forces"
 
 msgid "unnatural/base/technocracy/upgrades/eagle_eye.proto/description"
 msgstr "Improved sight to increase shooting range."

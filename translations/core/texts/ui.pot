@@ -298,7 +298,7 @@ msgid "unnatural/inviteFriends/invite"
 msgstr "Invite"
 
 msgid "unnatural/inviteFriends/inviteFriends"
-msgstr "Invite Friends"
+msgstr "Invite friends"
 
 msgid "unnatural/key/camera/defaultRoll"
 msgstr "Default roll"
@@ -1256,6 +1256,27 @@ msgstr "Game Over"
 
 msgid "unnatural/statusPreparation/getReady"
 msgstr "Get ready"
+
+msgid "unnatural/steamFriendStatus/away"
+msgstr "Away"
+
+msgid "unnatural/steamFriendStatus/busy"
+msgstr "Busy"
+
+msgid "unnatural/steamFriendStatus/lookingForPlay"
+msgstr "Looking for play"
+
+msgid "unnatural/steamFriendStatus/lookingForTrade"
+msgstr "Looking for trade"
+
+msgid "unnatural/steamFriendStatus/offline"
+msgstr "Offline"
+
+msgid "unnatural/steamFriendStatus/online"
+msgstr "Online"
+
+msgid "unnatural/steamFriendStatus/snooze"
+msgstr "Snooze"
 
 msgid "unnatural/tooltips/allowsPlacement"
 msgstr "Allows placement"
