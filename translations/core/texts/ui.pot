@@ -121,7 +121,7 @@ msgid "unnatural/createGame/create"
 msgstr "Create"
 
 msgid "unnatural/createGame/createMultiplayerGame"
-msgstr "Create Multiplayer Game"
+msgstr "Create multiplayer game"
 
 msgid "unnatural/createGame/gameName"
 msgstr "Game name:"
@@ -199,7 +199,7 @@ msgid "unnatural/findGame/connectToLobbyWithIdFromClipboard"
 msgstr "Connect to lobby with ID from clipboard"
 
 msgid "unnatural/findGame/findMultiplayerGame"
-msgstr "Find Multiplayer Game"
+msgstr "Find multiplayer game"
 
 msgid "unnatural/findGame/gameName"
 msgstr "Game name"
@@ -208,7 +208,7 @@ msgid "unnatural/findGame/join"
 msgstr "Join"
 
 msgid "unnatural/findGame/lanGames"
-msgstr "LAN Games"
+msgstr "LAN games"
 
 msgid "unnatural/findGame/mapName"
 msgstr "Map name"
@@ -220,7 +220,7 @@ msgid "unnatural/findGame/players"
 msgstr "Players"
 
 msgid "unnatural/findGame/publicGames"
-msgstr "Public Games"
+msgstr "Public games"
 
 msgid "unnatural/findGame/search"
 msgstr "Search"
@@ -311,6 +311,9 @@ msgstr "Dragging"
 
 msgid "unnatural/key/camera/focusEnemy"
 msgstr "Focus enemy"
+
+msgid "unnatural/key/camera/focusHome"
+msgstr "Focus home"
 
 msgid "unnatural/key/camera/followSelectedUnits"
 msgstr "Follow selected units"
@@ -498,11 +501,20 @@ msgstr "Cancel selection"
 msgid "unnatural/key/selection/clearSelection"
 msgstr "Clear selection"
 
-msgid "unnatural/key/selection/guiFilterOthers"
-msgstr "Filter others from selection"
+msgid "unnatural/key/selection/guiFilterHalf"
+msgstr "Filter half"
 
-msgid "unnatural/key/selection/guiFilterThis"
-msgstr "Filter this from selection"
+msgid "unnatural/key/selection/guiFilterOne"
+msgstr "Filter one"
+
+msgid "unnatural/key/selection/guiFilterOutOne"
+msgstr "Filter out one"
+
+msgid "unnatural/key/selection/guiFilterOutType"
+msgstr "Filter other types"
+
+msgid "unnatural/key/selection/guiFilterType"
+msgstr "Filter this type"
 
 msgid "unnatural/key/selection/invertPreference"
 msgstr "Invert preference"
@@ -533,6 +545,9 @@ msgstr "Subtract from selection"
 
 msgid "unnatural/key/selectionStore/addSelection_"
 msgstr "Add to selection {0}"
+
+msgid "unnatural/key/selectionStore/removeFromAllGroups"
+msgstr "Remove from all groups"
 
 msgid "unnatural/key/selectionStore/saveSelection"
 msgstr "Save selection {0}"
@@ -973,7 +988,7 @@ msgid "unnatural/recipeSelection/recipe"
 msgstr "Recipe"
 
 msgid "unnatural/replay/selectReplay"
-msgstr "Select Replay"
+msgstr "Select replay"
 
 msgid "unnatural/replayControls/backward"
 msgstr "Backward"
