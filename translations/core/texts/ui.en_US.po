@@ -34,7 +34,7 @@ msgid "unnatural/about/aboutUnnaturalWorlds"
 msgstr "About Unnatural Worlds"
 
 msgid "unnatural/about/madeByTomasMaly"
-msgstr "Made by Tomáš Malý, 2024."
+msgstr "Made by Tomáš Malý, 2025."
 
 msgid "unnatural/cancel"
 msgstr "Cancel"
@@ -188,6 +188,9 @@ msgstr "Abort Game"
 
 msgid "unnatural/diplomacy/workers"
 msgstr "Workers"
+
+msgid "unnatural/editor/save"
+msgstr "Save"
 
 msgid "unnatural/enum/unknown"
 msgstr "Unknown"
@@ -684,6 +687,9 @@ msgstr "Enable border scrolling:"
 msgid "unnatural/options/camera/enableBorderScrolling/description"
 msgstr "Fullscreen only."
 
+msgid "unnatural/options/camera/inertia"
+msgstr "Inertia:"
+
 msgid "unnatural/options/camera/invertMousePanning"
 msgstr "Invert mouse panning:"
 
@@ -719,6 +725,9 @@ msgstr "Prevent accidental deselection:"
 
 msgid "unnatural/options/gameplay/preventAccidentalDeselection/description"
 msgstr "Keep previous selection if new selection is empty."
+
+msgid "unnatural/options/gameplay/recipesIconsScale"
+msgstr "Recipes icons scale:"
 
 msgid "unnatural/options/gameplay/restrictedBuildOrder"
 msgstr "Restricted build order:"
@@ -1260,7 +1269,7 @@ msgstr "You have been disconnected from the game server."
 msgid "unnatural/statusError/error"
 msgstr "Error"
 
-msgid "unnatural/statusError/errorHasOccured"
+msgid "unnatural/statusError/errorHasOccurred"
 msgstr "An error has occurred."
 
 msgid "unnatural/statusError/seeGameLogsToFindMoreInformation"
@@ -1271,6 +1280,12 @@ msgstr "Game Over"
 
 msgid "unnatural/statusPreparation/getReady"
 msgstr "Get ready"
+
+msgid "unnatural/statusWait/pleaseWaitMoment"
+msgstr "Please wait a moment."
+
+msgid "unnatural/statusWait/wait"
+msgstr "Wait"
 
 msgid "unnatural/steamFriendStatus/away"
 msgstr "Away"
