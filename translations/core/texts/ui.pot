@@ -822,6 +822,9 @@ msgstr "Announcer volume:"
 msgid "unnatural/options/sound/effectsVolume"
 msgstr "Effects volume:"
 
+msgid "unnatural/options/sound/guiVolume"
+msgstr "GUI volume:"
+
 msgid "unnatural/options/sound/masterVolume"
 msgstr "Master volume:"
 
