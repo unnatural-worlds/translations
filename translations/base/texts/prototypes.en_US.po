@@ -656,7 +656,7 @@ msgid "unnatural/base/technocracy/units/ATV.proto/title"
 msgstr "A.T.V."
 
 msgid "unnatural/base/technocracy/units/colossus.proto/description"
-msgstr "Mighty robot. Todo: mighty description."
+msgstr "Giant assault robot, designed for breaching enemy defenses."
 
 msgid "unnatural/base/technocracy/units/colossus.proto/title"
 msgstr "Colossus"
@@ -716,13 +716,15 @@ msgid "unnatural/base/technocracy/units/twinfire.proto/title"
 msgstr "Twinfire"
 
 msgid "unnatural/base/technocracy/upgrades/artillery.proto/description"
-msgstr "Artillery"
+msgstr "Increase shooting range."
 
 msgid "unnatural/base/technocracy/upgrades/artillery.proto/title"
 msgstr "Artillery"
 
 msgid "unnatural/base/technocracy/upgrades/assault_forces.proto/description"
-msgstr "Assault forces"
+msgstr ""
+"Slight general improvements to assault units.\n"
+"Make the offense count."
 
 msgid "unnatural/base/technocracy/upgrades/assault_forces.proto/title"
 msgstr "Assault forces"
@@ -752,7 +754,7 @@ msgid "unnatural/base/technocracy/upgrades/matter_annihilation.proto/title"
 msgstr "Matter annihilation"
 
 msgid "unnatural/base/technocracy/upgrades/quadfire.proto/description"
-msgstr "What is better than two guns? Four guns."
+msgstr "What is better than two barrels? Four barrels."
 
 msgid "unnatural/base/technocracy/upgrades/quadfire.proto/title"
 msgstr "Quadfire"
