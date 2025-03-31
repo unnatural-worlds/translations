@@ -1279,7 +1279,7 @@ msgid "unnatural/statusError/seeGameLogsToFindMoreInformation"
 msgstr "See game logs to find more information."
 
 msgid "unnatural/statusFinish/gameOver"
-msgstr "Game Over"
+msgstr "Game over"
 
 msgid "unnatural/statusPreparation/getReady"
 msgstr "Get ready"
