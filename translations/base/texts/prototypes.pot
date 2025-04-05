@@ -692,13 +692,13 @@ msgid "unnatural/base/technocracy/units/kitsune.proto/title"
 msgstr "Kitsune"
 
 msgid "unnatural/base/technocracy/units/lurker.proto/description"
-msgstr "Ambusher. Can walk over cliffs."
+msgstr "Crawls over cliffs. Sniper unit, provides supplemental damage."
 
 msgid "unnatural/base/technocracy/units/lurker.proto/title"
 msgstr "Lurker"
 
 msgid "unnatural/base/technocracy/units/mermaid.proto/description"
-msgstr "Ambusher hovercraft."
+msgstr "Sneaky attacks from water. Artillery unit, provides supplemental damage."
 
 msgid "unnatural/base/technocracy/units/mermaid.proto/title"
 msgstr "Mermaid"
@@ -710,7 +710,7 @@ msgid "unnatural/base/technocracy/units/paladin.proto/title"
 msgstr "Paladin"
 
 msgid "unnatural/base/technocracy/units/twinfire.proto/description"
-msgstr "Assault vehicle. Main battle unit."
+msgstr "Assault vehicle. Main battle tank."
 
 msgid "unnatural/base/technocracy/units/twinfire.proto/title"
 msgstr "Twinfire"
@@ -754,13 +754,13 @@ msgid "unnatural/base/technocracy/upgrades/matter_annihilation.proto/title"
 msgstr "Matter annihilation"
 
 msgid "unnatural/base/technocracy/upgrades/quadfire.proto/description"
-msgstr "What is better than two barrels? Four barrels."
+msgstr "What is better than two barrels? Four barrels. More damage."
 
 msgid "unnatural/base/technocracy/upgrades/quadfire.proto/title"
 msgstr "Quadfire"
 
 msgid "unnatural/base/technocracy/upgrades/quantum_field.proto/description"
-msgstr "Expand the quantum field of the armor for better coverage."
+msgstr "Expand the quantum reach of the armor for better coverage."
 
 msgid "unnatural/base/technocracy/upgrades/quantum_field.proto/title"
 msgstr "Quantum field"
