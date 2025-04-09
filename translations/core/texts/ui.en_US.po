@@ -96,6 +96,9 @@ msgstr "Camera"
 msgid "unnatural/controls/cinematicMode"
 msgstr "Cinematic mode"
 
+msgid "unnatural/controls/constructions"
+msgstr "Constructions"
+
 msgid "unnatural/controls/controls"
 msgstr "Controls"
 
@@ -104,6 +107,9 @@ msgstr "Debugging"
 
 msgid "unnatural/controls/orders"
 msgstr "Orders"
+
+msgid "unnatural/controls/recipes"
+msgstr "Recipes"
 
 msgid "unnatural/controls/savingCameras"
 msgstr "Saving cameras"
@@ -396,6 +402,12 @@ msgstr "Start fly-through"
 msgid "unnatural/key/cinematic/toggleCinematicMode"
 msgstr "Toggle cinematic mode"
 
+msgid "unnatural/key/constructions/cancelMenu"
+msgstr "Cancel menu"
+
+msgid "unnatural/key/constructions/constructionsMenu"
+msgstr "Constructions menu"
+
 msgid "unnatural/key/debug/enableProfiling"
 msgstr "Enable profiling"
 
@@ -429,6 +441,9 @@ msgstr "Cancel placement"
 msgid "unnatural/key/orders/constructionPlacement"
 msgstr "Construction placement"
 
+msgid "unnatural/key/orders/disabledPriority"
+msgstr "Disabled priority"
+
 msgid "unnatural/key/orders/enqueueOrder"
 msgstr "Enqueue order"
 
@@ -438,11 +453,17 @@ msgstr "Fight order (attack-move)"
 msgid "unnatural/key/orders/guardOrderHoldPosition"
 msgstr "Guard order (hold position)"
 
+msgid "unnatural/key/orders/highPriority"
+msgstr "High priority"
+
 msgid "unnatural/key/orders/invertPreference"
 msgstr "Invert preference"
 
 msgid "unnatural/key/orders/loadResource"
 msgstr "Load resource"
+
+msgid "unnatural/key/orders/normalPriority"
+msgstr "Normal priority"
 
 msgid "unnatural/key/orders/repeatOrder"
 msgstr "Repeat order"
@@ -464,6 +485,12 @@ msgstr "Stop order"
 
 msgid "unnatural/key/orders/unloadResource"
 msgstr "Unload resource"
+
+msgid "unnatural/key/recipes/cancelMenu"
+msgstr "Cancel menu"
+
+msgid "unnatural/key/recipes/recipesMenu"
+msgstr "Recipes menu"
 
 msgid "unnatural/key/screens/closeWindow"
 msgstr "Close window"
@@ -992,9 +1019,6 @@ msgstr "Unit"
 
 msgid "unnatural/protoTypeEnum/upgrade"
 msgstr "Upgrade"
-
-msgid "unnatural/recipeSelection/noRecipe"
-msgstr "No recipe"
 
 msgid "unnatural/recipeSelection/recipe"
 msgstr "Recipe"
