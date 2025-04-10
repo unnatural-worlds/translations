@@ -49,28 +49,28 @@ msgid "unnatural/close"
 msgstr "Close"
 
 msgid "unnatural/commonGame/chat"
-msgstr "Chat"
+msgstr "Chat {0}"
 
 msgid "unnatural/commonGame/defeated"
 msgstr "Defeated"
 
 msgid "unnatural/commonGame/diplomacy"
-msgstr "Diplomacy"
+msgstr "Diplomacy {0}"
 
 msgid "unnatural/commonGame/earlyDevelopmentVersion"
 msgstr "Early development version "
 
 msgid "unnatural/commonGame/lexicon"
-msgstr "Lexicon"
+msgstr "Lexicon {0}"
 
 msgid "unnatural/commonGame/menu"
-msgstr "Menu"
+msgstr "Menu {0}"
 
 msgid "unnatural/commonGame/resourcesOverview"
-msgstr "Resources overview"
+msgstr "Resources overview {0}"
 
 msgid "unnatural/commonGame/unitsOverview"
-msgstr "Units overview"
+msgstr "Units overview {0}"
 
 msgid "unnatural/commonGame/uwTitle1"
 msgstr "Unnatural"
@@ -136,7 +136,7 @@ msgid "unnatural/createGame/visibility"
 msgstr "Visibility:"
 
 msgid "unnatural/dangerMeter/tooltip"
-msgstr "Closest enemy"
+msgstr "Closest enemy {0}"
 
 msgid "unnatural/dangerMeter/value"
 msgstr "{0} m"
@@ -292,16 +292,16 @@ msgid "unnatural/gameMenu/presets"
 msgstr "Presets"
 
 msgid "unnatural/groupsIcons/armyGroup"
-msgstr "Army group"
+msgstr "Army group {0}"
 
 msgid "unnatural/groupsIcons/camera"
-msgstr "Camera"
+msgstr "Camera {0}"
 
 msgid "unnatural/groupsIcons/home"
-msgstr "Home"
+msgstr "Home {0}"
 
 msgid "unnatural/groupsIcons/selectAllArmy"
-msgstr "Select all army"
+msgstr "Select all army {0}"
 
 msgid "unnatural/inviteFriends/invite"
 msgstr "Invite"
@@ -531,21 +531,6 @@ msgstr "Cancel selection"
 msgid "unnatural/key/selection/clearSelection"
 msgstr "Clear selection"
 
-msgid "unnatural/key/selection/guiFilterHalf"
-msgstr "Filter half"
-
-msgid "unnatural/key/selection/guiFilterOne"
-msgstr "Filter one"
-
-msgid "unnatural/key/selection/guiFilterOutOne"
-msgstr "Filter out one"
-
-msgid "unnatural/key/selection/guiFilterOutType"
-msgstr "Filter other types"
-
-msgid "unnatural/key/selection/guiFilterType"
-msgstr "Filter this type"
-
 msgid "unnatural/key/selection/invertPreference"
 msgstr "Invert preference"
 
@@ -572,6 +557,21 @@ msgstr "Select same (double click)"
 
 msgid "unnatural/key/selection/subtractFromSelection"
 msgstr "Subtract from selection"
+
+msgid "unnatural/key/selection/uiFilterHalf"
+msgstr "(UI) Filter half"
+
+msgid "unnatural/key/selection/uiFilterOne"
+msgstr "(UI) Filter one"
+
+msgid "unnatural/key/selection/uiFilterOtherTypes"
+msgstr "(UI) Filter other types"
+
+msgid "unnatural/key/selection/uiFilterOutOne"
+msgstr "(UI) Filter out one"
+
+msgid "unnatural/key/selection/uiFilterThisType"
+msgstr "(UI) Filter this type"
 
 msgid "unnatural/key/selectionStore/addSelection_"
 msgstr "Add to selection {0}"
@@ -987,14 +987,14 @@ msgstr "Presets are synchronized to all devices with the same Steam account."
 msgid "unnatural/presets/saveI"
 msgstr "Save {0}"
 
-msgid "unnatural/priorityEnum/disabled"
-msgstr "Disabled"
+msgid "unnatural/prioritySelection/disabled"
+msgstr "Disabled {0}"
 
-msgid "unnatural/priorityEnum/highPriority"
-msgstr "High priority"
+msgid "unnatural/prioritySelection/highPriority"
+msgstr "High priority {0}"
 
-msgid "unnatural/priorityEnum/normalPriority"
-msgstr "Normal priority"
+msgid "unnatural/prioritySelection/normalPriority"
+msgstr "Normal priority {0}"
 
 msgid "unnatural/prioritySelection/priority"
 msgstr "Priority"
