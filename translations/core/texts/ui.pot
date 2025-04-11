@@ -807,6 +807,12 @@ msgstr "Enable FXAA:"
 msgid "unnatural/options/graphics/enableFxaa/description"
 msgstr "Fast approximate anti-aliasing."
 
+msgid "unnatural/options/graphics/enableParticles"
+msgstr "Enable particles:"
+
+msgid "unnatural/options/graphics/enableParticles/description"
+msgstr "Particle effects."
+
 msgid "unnatural/options/graphics/enableSsao"
 msgstr "Enable SSAO:"
 
