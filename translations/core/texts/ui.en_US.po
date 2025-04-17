@@ -712,7 +712,7 @@ msgid "unnatural/options/camera/enableBorderScrolling"
 msgstr "Enable border scrolling:"
 
 msgid "unnatural/options/camera/enableBorderScrolling/description"
-msgstr "Fullscreen only."
+msgstr "(Fullscreen only.)"
 
 msgid "unnatural/options/camera/inertia"
 msgstr "Inertia:"
@@ -742,7 +742,7 @@ msgid "unnatural/options/gameplay"
 msgstr "Gameplay"
 
 msgid "unnatural/options/gameplay/firstGameMode"
-msgstr "First game mode:"
+msgstr "First-game mode:"
 
 msgid "unnatural/options/gameplay/firstGameMode/description"
 msgstr "Provides hints for beginners."
@@ -760,7 +760,7 @@ msgid "unnatural/options/gameplay/restrictedBuildOrder"
 msgstr "Restricted build order:"
 
 msgid "unnatural/options/gameplay/restrictedBuildOrder/description"
-msgstr "Enforces build order that avoids getting stuck."
+msgstr "Enforces build order that helps to avoid getting stuck."
 
 msgid "unnatural/options/gameplay/shootingRange"
 msgstr "Shooting range:"
@@ -811,7 +811,7 @@ msgid "unnatural/options/graphics/enableParticles"
 msgstr "Enable particles:"
 
 msgid "unnatural/options/graphics/enableParticles/description"
-msgstr "Particle effects."
+msgstr "Shooting and explosions effects."
 
 msgid "unnatural/options/graphics/enableSsao"
 msgstr "Enable SSAO:"
@@ -871,7 +871,7 @@ msgid "unnatural/options/userInterface/chatMessageDuration"
 msgstr "Chat message duration:"
 
 msgid "unnatural/options/userInterface/guiScale"
-msgstr "Gui scale:"
+msgstr "GUI scale:"
 
 msgid "unnatural/options/userInterface/language"
 msgstr "Language:"
@@ -978,20 +978,32 @@ msgstr "API program"
 msgid "unnatural/playerConnectionClassEnum/virtualReality"
 msgstr "Virtual reality player"
 
-msgid "unnatural/presets/description"
-msgstr "Switch between multiple sets of all options and keybinds."
+msgid "unnatural/presets/controls"
+msgstr "Warning: some controls may break on different devices."
 
-msgid "unnatural/presets/loadI"
-msgstr "Load {0}"
+msgid "unnatural/presets/description"
+msgstr "Switch between multiple sets of all options and controls."
+
+msgid "unnatural/presets/loadControlsI"
+msgstr "Load controls {0}"
+
+msgid "unnatural/presets/loadOptionsI"
+msgstr "Load options {0}"
+
+msgid "unnatural/presets/presetNameI"
+msgstr "Preset {0}"
 
 msgid "unnatural/presets/presets"
 msgstr "Presets"
 
 msgid "unnatural/presets/roaming"
-msgstr "Presets are synchronized to all devices with the same Steam account."
+msgstr "Presets are automatically synchronized to all devices with the same Steam account."
 
-msgid "unnatural/presets/saveI"
-msgstr "Save {0}"
+msgid "unnatural/presets/saveControlsI"
+msgstr "Save controls {0}"
+
+msgid "unnatural/presets/saveOptionsI"
+msgstr "Save options {0}"
 
 msgid "unnatural/prioritySelection/disabled"
 msgstr "Disabled {0}"
@@ -1251,11 +1263,17 @@ msgstr "Share control"
 msgid "unnatural/sessionPlayers/startGame"
 msgstr "Start game"
 
+msgid "unnatural/sessionPlayers/unknownRace"
+msgstr "Unknown"
+
 msgid "unnatural/sessionPlayers/waitForAdminToStartGame"
 msgstr "Wait for admin to start the game"
 
 msgid "unnatural/sessionPlayers/waiting"
 msgstr "Waiting"
+
+msgid "unnatural/startGameConditionEnum/demoTooManyAiPlayers"
+msgstr "Demo: too many AI players"
 
 msgid "unnatural/startGameConditionEnum/invalidGameState"
 msgstr "Invalid game state"
