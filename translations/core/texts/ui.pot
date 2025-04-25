@@ -43,7 +43,7 @@ msgid "unnatural/chat/chat"
 msgstr "Chat"
 
 msgid "unnatural/chat/messageTemplate"
-msgstr "message"
+msgstr "Message..."
 
 msgid "unnatural/close"
 msgstr "Close"
@@ -111,6 +111,9 @@ msgstr "Orders"
 msgid "unnatural/controls/recipes"
 msgstr "Recipes"
 
+msgid "unnatural/controls/replay"
+msgstr "Replay"
+
 msgid "unnatural/controls/savingCameras"
 msgstr "Saving cameras"
 
@@ -119,6 +122,12 @@ msgstr "Selection"
 
 msgid "unnatural/controls/selectionGroups"
 msgstr "Selection groups"
+
+msgid "unnatural/controls/specificConstructionsAvailableInGame"
+msgstr "Specific constructions are available in game."
+
+msgid "unnatural/controls/specificRecipesAvailableInGame"
+msgstr "Specific recipes are available in game."
 
 msgid "unnatural/controls/userInterface"
 msgstr "User interface"
@@ -164,9 +173,6 @@ msgstr "Kills: "
 
 msgid "unnatural/diplomacy/forceTooltip/losses"
 msgstr "Losses: "
-
-msgid "unnatural/diplomacy/forceTooltip/score"
-msgstr "Score: "
 
 msgid "unnatural/diplomacy/military"
 msgstr "Military"
@@ -276,9 +282,6 @@ msgstr "Self"
 msgid "unnatural/game/followCamera"
 msgstr "Follow Camera"
 
-msgid "unnatural/game/observer"
-msgstr "Observer"
-
 msgid "unnatural/gameMenu/continue"
 msgstr "Continue"
 
@@ -375,8 +378,14 @@ msgstr "Insert waypoint after"
 msgid "unnatural/key/cinematic/insertBefore"
 msgstr "Insert waypoint before"
 
+msgid "unnatural/key/cinematic/jumpTimestamp"
+msgstr "Jump to timestamp"
+
 msgid "unnatural/key/cinematic/overwriteWaypoint"
 msgstr "Overwrite waypoint"
+
+msgid "unnatural/key/cinematic/saveTimestamp"
+msgstr "Save timestamp"
 
 msgid "unnatural/key/cinematic/selectFirst"
 msgstr "Select first waypoint"
@@ -492,6 +501,24 @@ msgstr "Cancel menu"
 msgid "unnatural/key/recipes/recipesMenu"
 msgstr "Recipes menu"
 
+msgid "unnatural/key/replay/faster"
+msgstr "Faster"
+
+msgid "unnatural/key/replay/normal"
+msgstr "Normal"
+
+msgid "unnatural/key/replay/restart"
+msgstr "Restart"
+
+msgid "unnatural/key/replay/slower"
+msgstr "Slower"
+
+msgid "unnatural/key/replay/stepBack"
+msgstr "Step back"
+
+msgid "unnatural/key/replay/stepForward"
+msgstr "Step forward"
+
 msgid "unnatural/key/screens/closeWindow"
 msgstr "Close window"
 
@@ -603,7 +630,7 @@ msgstr "Recipes"
 msgid "unnatural/lexicon/resources"
 msgstr "Resources"
 
-msgid "unnatural/lexicon/search"
+msgid "unnatural/lexicon/searchTemplate"
 msgstr "Search..."
 
 msgid "unnatural/lexicon/units"
@@ -691,10 +718,7 @@ msgid "unnatural/mapDescription/version"
 msgstr "Version: {0}"
 
 msgid "unnatural/mapSelection/chooseMap"
-msgstr "Choose Map"
-
-msgid "unnatural/mapSelection/selectMap"
-msgstr "Select"
+msgstr "Choose map"
 
 msgid "unnatural/mapSelection/upFolder"
 msgstr "Up folder"
@@ -1044,26 +1068,23 @@ msgstr "Recipe"
 msgid "unnatural/replay/selectReplay"
 msgstr "Select replay"
 
-msgid "unnatural/replayControls/backward"
-msgstr "Backward"
-
 msgid "unnatural/replayControls/faster"
-msgstr "Faster"
-
-msgid "unnatural/replayControls/forward"
-msgstr "Forward"
+msgstr "Faster {0}"
 
 msgid "unnatural/replayControls/normal"
-msgstr "Normal"
-
-msgid "unnatural/replayControls/replay"
-msgstr "Replay"
+msgstr "Normal {0}"
 
 msgid "unnatural/replayControls/restart"
-msgstr "Restart"
+msgstr "Restart {0}"
 
 msgid "unnatural/replayControls/slower"
-msgstr "Slower"
+msgstr "Slower {0}"
+
+msgid "unnatural/replayControls/stepBack"
+msgstr "Step back {0}"
+
+msgid "unnatural/replayControls/stepForward"
+msgstr "Step forward {0}"
 
 msgid "unnatural/replaySelection/mapNotFound"
 msgstr "Map not found"
@@ -1149,9 +1170,6 @@ msgstr "Order: {0}"
 msgid "unnatural/selectedInfo/orderTarget"
 msgstr "Target: {0}"
 
-msgid "unnatural/selectedInfo/owner"
-msgstr "Owner: "
-
 msgid "unnatural/selectedInfo/path"
 msgstr "Path: {0}"
 
@@ -1191,9 +1209,6 @@ msgstr "Shooting range: {0} %"
 msgid "unnatural/selectedInfo/uptime"
 msgstr "Uptime: {0} %"
 
-msgid "unnatural/selectionList/selection"
-msgstr "Selection"
-
 msgid "unnatural/serverVisibilityEnum/friends"
 msgstr "Friends"
 
@@ -1212,14 +1227,14 @@ msgstr "Public"
 msgid "unnatural/session/addAi"
 msgstr "Add AI"
 
-msgid "unnatural/session/chat"
-msgstr "Chat"
-
 msgid "unnatural/session/chooseMap"
 msgstr "Choose map"
 
 msgid "unnatural/session/copyLobbyId"
 msgstr "Copy lobby ID"
+
+msgid "unnatural/session/gameSession"
+msgstr "Game session"
 
 msgid "unnatural/session/inviteFriends"
 msgstr "Invite friends"
@@ -1240,7 +1255,7 @@ msgid "unnatural/session/previewMap"
 msgstr "Preview map"
 
 msgid "unnatural/sessionMap/waitForAdminToSelectMap"
-msgstr "Wait for admin to select a map"
+msgstr "Wait for an admin to select a map"
 
 msgid "unnatural/sessionPlayers/admin"
 msgstr "Admin"
@@ -1415,6 +1430,9 @@ msgstr "Life: "
 
 msgid "unnatural/tooltips/limit"
 msgstr "Limit: "
+
+msgid "unnatural/tooltips/makeSteadyProduction"
+msgstr "Make steady production of:"
 
 msgid "unnatural/tooltips/meters"
 msgstr "{0} m"
