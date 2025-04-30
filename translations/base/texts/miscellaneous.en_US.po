@@ -46,9 +46,6 @@ msgstr "Energy shield"
 msgid "unnatural/base/armorTypes/invulnerable"
 msgstr "Invulnerable"
 
-msgid "unnatural/base/armorTypes/polymer"
-msgstr "Polymer"
-
 msgid "unnatural/base/armorTypes/quantum"
 msgstr "Quantum"
 
