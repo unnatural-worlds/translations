@@ -1287,6 +1287,15 @@ msgstr "Wait for admin to start the game"
 msgid "unnatural/sessionPlayers/waiting"
 msgstr "Waiting"
 
+msgid "unnatural/sessionRaces/noRacesToChooseFrom"
+msgstr "No races to choose from"
+
+msgid "unnatural/sessionRaces/randomRace"
+msgstr "Random"
+
+msgid "unnatural/sessionRaces/waitingForMap"
+msgstr "Waiting for map"
+
 msgid "unnatural/startGameConditionEnum/demoTooManyAiPlayers"
 msgstr "Demo: too many AI players"
 
@@ -1428,9 +1437,6 @@ msgstr "Elevation: "
 msgid "unnatural/tooltips/life"
 msgstr "Life: "
 
-msgid "unnatural/tooltips/limit"
-msgstr "Limit: "
-
 msgid "unnatural/tooltips/makeSteadyProduction"
 msgstr "Make steady production of:"
 
@@ -1481,6 +1487,9 @@ msgstr "{0} s"
 
 msgid "unnatural/tooltips/shotsPerSecond"
 msgstr "{0} shots/s"
+
+msgid "unnatural/tooltips/stackingLimit"
+msgstr "Stacking limit: "
 
 msgid "unnatural/tooltips/Upgrade"
 msgstr "Upgrade"
