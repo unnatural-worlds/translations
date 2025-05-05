@@ -572,17 +572,17 @@ msgstr "Plasma cell"
 msgid "unnatural/base/technocracy/resources/plasma_cell.proto/title"
 msgstr "Plasma cell"
 
-msgid "unnatural/base/technocracy/resources/quantum_array.proto/description"
-msgstr "Elements with quantum properties - randomly jumps between existence and shadows."
-
-msgid "unnatural/base/technocracy/resources/quantum_array.proto/title"
-msgstr "Quantum array"
-
 msgid "unnatural/base/technocracy/resources/quark_foam.proto/description"
 msgstr "Technobabble term that is not used anywhere else."
 
 msgid "unnatural/base/technocracy/resources/quark_foam.proto/title"
 msgstr "Quark foam"
+
+msgid "unnatural/base/technocracy/resources/voidspace_block.proto/description"
+msgstr "Voidspace block"
+
+msgid "unnatural/base/technocracy/resources/voidspace_block.proto/title"
+msgstr "Voidspace block"
 
 msgid "unnatural/base/technocracy/technocracy.proto/description"
 msgstr ""
