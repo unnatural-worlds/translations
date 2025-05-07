@@ -20,14 +20,14 @@ msgstr ""
 msgid "unnatural/base/damageTypes/antimatter"
 msgstr "Antimatter"
 
+msgid "unnatural/base/damageTypes/explosive"
+msgstr "Explosive"
+
 msgid "unnatural/base/damageTypes/kinetic"
 msgstr "Kinetic"
 
 msgid "unnatural/base/damageTypes/laser"
 msgstr "Laser"
-
-msgid "unnatural/base/damageTypes/explosive"
-msgstr "Explosive"
 
 msgid "unnatural/base/damageTypes/plasma"
 msgstr "Plasma"
@@ -36,6 +36,9 @@ msgstr "Plasma"
 
 msgid "unnatural/base/armorTypes/armor_plates"
 msgstr "Armor plates"
+
+msgid "unnatural/base/armorTypes/biological"
+msgstr "Biological"
 
 msgid "unnatural/base/armorTypes/building"
 msgstr "Building"
