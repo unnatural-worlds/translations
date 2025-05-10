@@ -882,6 +882,9 @@ msgstr "Effects volume:"
 msgid "unnatural/options/sound/guiVolume"
 msgstr "GUI volume:"
 
+msgid "unnatural/options/sound/interactionsVolume"
+msgstr "Interactions volume:"
+
 msgid "unnatural/options/sound/masterVolume"
 msgstr "Master volume:"
 
@@ -1149,8 +1152,8 @@ msgstr "Completed: {0}"
 msgid "unnatural/selectedInfo/controller"
 msgstr "Controller: {0}"
 
-msgid "unnatural/selectedInfo/details"
-msgstr "Details"
+msgid "unnatural/selectedInfo/estimatedTimeOfCompletion"
+msgstr "Estimated time of completion."
 
 msgid "unnatural/selectedInfo/etc"
 msgstr "ETC: {0}"
@@ -1164,6 +1167,9 @@ msgstr "Kills: {0}"
 msgid "unnatural/selectedInfo/missingResources"
 msgstr "Missing resources:"
 
+msgid "unnatural/selectedInfo/numberOfTimesRecipeCompleted"
+msgstr "Number of times the recipe completed, since last change."
+
 msgid "unnatural/selectedInfo/order"
 msgstr "Order: {0}"
 
@@ -1175,6 +1181,9 @@ msgstr "Path: {0}"
 
 msgid "unnatural/selectedInfo/position"
 msgstr "Position: {0}"
+
+msgid "unnatural/selectedInfo/productiveTimePercentageSpendOnProcessingRecipe"
+msgstr "Productive time percentage spend on processing the recipe."
 
 msgid "unnatural/selectedInfo/recipe"
 msgstr "Recipe:"
@@ -1253,6 +1262,9 @@ msgstr "Players"
 
 msgid "unnatural/session/previewMap"
 msgstr "Preview map"
+
+msgid "unnatural/sessionMap/noMap"
+msgstr "No map"
 
 msgid "unnatural/sessionMap/waitForAdminToSelectMap"
 msgstr "Wait for an admin to select a map"
@@ -1349,6 +1361,9 @@ msgstr "An error has occurred."
 
 msgid "unnatural/statusError/seeGameLogsToFindMoreInformation"
 msgstr "See game logs to find more information."
+
+msgid "unnatural/statusFinish/duration"
+msgstr "Duration: {0}"
 
 msgid "unnatural/statusFinish/gameOver"
 msgstr "Game over"
