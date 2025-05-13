@@ -1,0 +1,35 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: unnatural-worlds\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI\n"
+"Last-Translator: translations <translations@unnatural-worlds.com>\n"
+"Language-Team: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_US\n"
+"X-Crowdin-SourceKey: msgstr\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: unnatural-worlds\n"
+"X-Crowdin-Project-ID: 677934\n"
+"X-Crowdin-Language: en\n"
+
+msgid "unnatural/doodads/decorations/billboard_1.proto/description"
+msgstr "Billboard 1"
+
+msgid "unnatural/doodads/decorations/billboard_1.proto/title"
+msgstr "Billboard 1"
+
+msgid "unnatural/doodads/decorations/billboard_2.proto/description"
+msgstr "Billboard 2"
+
+msgid "unnatural/doodads/decorations/billboard_2.proto/title"
+msgstr "Billboard 2"
+
+msgid "unnatural/doodads/decorations/billboard_3.proto/description"
+msgstr "Billboard 3"
+
+msgid "unnatural/doodads/decorations/billboard_3.proto/title"
+msgstr "Billboard 3"
+
