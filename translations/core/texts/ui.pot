@@ -816,6 +816,12 @@ msgstr "Strategic icons scale:"
 msgid "unnatural/options/graphics"
 msgstr "Graphics"
 
+msgid "unnatural/options/graphics/enableBloom"
+msgstr "Enable bloom:"
+
+msgid "unnatural/options/graphics/enableBloom/description"
+msgstr "Makes bright points look actually bright."
+
 msgid "unnatural/options/graphics/enableDof"
 msgstr "Enable DOF:"
 
@@ -829,7 +835,7 @@ msgid "unnatural/options/graphics/enableFxaa"
 msgstr "Enable FXAA:"
 
 msgid "unnatural/options/graphics/enableFxaa/description"
-msgstr "Fast approximate anti-aliasing."
+msgstr "Fast approximate anti-aliasing (reduces jagged edges)."
 
 msgid "unnatural/options/graphics/enableParticles"
 msgstr "Enable particles:"
@@ -841,7 +847,7 @@ msgid "unnatural/options/graphics/enableSsao"
 msgstr "Enable SSAO:"
 
 msgid "unnatural/options/graphics/enableSsao/description"
-msgstr "Screen space ambient occlusion."
+msgstr "Screen space ambient occlusion (darkens edges)."
 
 msgid "unnatural/options/graphics/gamma"
 msgstr "Gamma:"
@@ -849,8 +855,8 @@ msgstr "Gamma:"
 msgid "unnatural/options/graphics/lightsLimit"
 msgstr "Lights limit:"
 
-msgid "unnatural/options/graphics/minimumScale"
-msgstr "Minimum scale:"
+msgid "unnatural/options/graphics/minimumQuality"
+msgstr "Minimum quality:"
 
 msgid "unnatural/options/graphics/sharpening"
 msgstr "Sharpening:"
@@ -1022,6 +1028,12 @@ msgstr "Preset {0}"
 
 msgid "unnatural/presets/presets"
 msgstr "Presets"
+
+msgid "unnatural/presets/resetAllControls"
+msgstr "Reset all Controls"
+
+msgid "unnatural/presets/resetAllOptions"
+msgstr "Reset all Options"
 
 msgid "unnatural/presets/roaming"
 msgstr "Presets are automatically synchronized to all devices with the same Steam account."
