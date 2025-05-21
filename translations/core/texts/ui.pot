@@ -858,6 +858,18 @@ msgstr "Lights limit:"
 msgid "unnatural/options/graphics/minimumQuality"
 msgstr "Minimum quality:"
 
+msgid "unnatural/options/graphics/shadowsQuality"
+msgstr "Shadows quality:"
+
+msgid "unnatural/options/graphics/shadowsQuality/high"
+msgstr "High"
+
+msgid "unnatural/options/graphics/shadowsQuality/low"
+msgstr "Low"
+
+msgid "unnatural/options/graphics/shadowsQuality/medium"
+msgstr "Medium"
+
 msgid "unnatural/options/graphics/sharpening"
 msgstr "Sharpening:"
 
