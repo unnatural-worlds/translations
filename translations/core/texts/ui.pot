@@ -582,6 +582,9 @@ msgstr "Selection sphere"
 msgid "unnatural/key/selection/selectSameDoubleClick"
 msgstr "Select same (double click)"
 
+msgid "unnatural/key/selection/selectSameSingleClick"
+msgstr "Select same (single click)"
+
 msgid "unnatural/key/selection/subtractFromSelection"
 msgstr "Subtract from selection"
 
@@ -816,6 +819,12 @@ msgstr "Strategic icons scale:"
 msgid "unnatural/options/graphics"
 msgstr "Graphics"
 
+msgid "unnatural/options/graphics/dynamicResolutionMinimumQuality"
+msgstr "Dynamic resolution - minimum quality:"
+
+msgid "unnatural/options/graphics/dynamicResolutionTargetFps"
+msgstr "Dynamic resolution - target FPS:"
+
 msgid "unnatural/options/graphics/enableBloom"
 msgstr "Enable bloom:"
 
@@ -855,9 +864,6 @@ msgstr "Gamma:"
 msgid "unnatural/options/graphics/lightsLimit"
 msgstr "Lights limit:"
 
-msgid "unnatural/options/graphics/minimumQuality"
-msgstr "Minimum quality:"
-
 msgid "unnatural/options/graphics/shadowsQuality"
 msgstr "Shadows quality:"
 
@@ -872,9 +878,6 @@ msgstr "Medium"
 
 msgid "unnatural/options/graphics/sharpening"
 msgstr "Sharpening:"
-
-msgid "unnatural/options/graphics/targetFps"
-msgstr "Target FPS:"
 
 msgid "unnatural/options/options"
 msgstr "Options"
