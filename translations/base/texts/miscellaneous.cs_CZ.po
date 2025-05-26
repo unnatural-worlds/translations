@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: unnatural-worlds\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI\n"
-"PO-Revision-Date: 2025-02-10 16:03\n"
+"PO-Revision-Date: 2025-05-26 20:31\n"
 "Last-Translator: translations <translations@unnatural-worlds.com>\n"
 "Language-Team: Czech\n"
 "MIME-Version: 1.0\n"
@@ -20,32 +20,32 @@ msgstr ""
 msgid "unnatural/base/damageTypes/antimatter"
 msgstr "Antihmota"
 
+msgid "unnatural/base/damageTypes/explosive"
+msgstr "Výbušný"
+
 msgid "unnatural/base/damageTypes/kinetic"
 msgstr "Kinetický"
 
 msgid "unnatural/base/damageTypes/laser"
 msgstr "Laser"
 
-msgid "unnatural/base/damageTypes/explosive"
-msgstr "Částicový paprsek"
-
 msgid "unnatural/base/damageTypes/plasma"
 msgstr "Plasmový"
 
 msgid "unnatural/base/armorTypes/armor_plates"
-msgstr "Pancéřové Desky"
+msgstr "Pancéřové desky"
+
+msgid "unnatural/base/armorTypes/biological"
+msgstr "Biologická"
 
 msgid "unnatural/base/armorTypes/building"
 msgstr "Budova"
 
 msgid "unnatural/base/armorTypes/energy_shield"
-msgstr "Energetický Štít"
+msgstr "Energetický štít"
 
 msgid "unnatural/base/armorTypes/invulnerable"
 msgstr "Nezranitelný"
-
-msgid "unnatural/base/armorTypes/quantum"
-msgstr "Kvantový"
 
 msgid "unnatural/base/terrainTypes/road"
 msgstr "Silnice"
@@ -61,6 +61,9 @@ msgstr "Útes"
 
 msgid "unnatural/base/terrainTypes/water"
 msgstr "Voda"
+
+msgid "unnatural/base/category/civilian"
+msgstr "Civilní"
 
 msgid "unnatural/base/category/economy"
 msgstr "Ekonomické"
