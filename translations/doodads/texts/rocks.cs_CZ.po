@@ -4,160 +4,160 @@ msgstr ""
 "POT-Creation-Date: YEAR-MO-DA HO:MI\n"
 "PO-Revision-Date: 2025-05-26 20:31\n"
 "Last-Translator: translations <translations@unnatural-worlds.com>\n"
-"Language-Team: English\n"
+"Language-Team: Czech\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: en_US\n"
+"Language: cs_CZ\n"
 "X-Crowdin-SourceKey: msgstr\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 3;\n"
 "X-Crowdin-Project: unnatural-worlds\n"
 "X-Crowdin-Project-ID: 677934\n"
-"X-Crowdin-Language: en\n"
+"X-Crowdin-Language: cs\n"
 "X-Crowdin-File: /doodads/texts/rocks.pot\n"
 "X-Crowdin-File-ID: 100\n"
 
 msgid "unnatural/doodads/rocks/rock_1.proto/description"
-msgstr "Rock 1"
+msgstr "Kámen 1"
 
 msgid "unnatural/doodads/rocks/rock_1.proto/title"
-msgstr "Rock 1"
+msgstr "Kámen 1"
 
 msgid "unnatural/doodads/rocks/rock_10.proto/description"
-msgstr "Rock 10"
+msgstr "Kámen 10"
 
 msgid "unnatural/doodads/rocks/rock_10.proto/title"
-msgstr "Rock 10"
+msgstr "Kámen 10"
 
 msgid "unnatural/doodads/rocks/rock_11.proto/description"
-msgstr "Rock 11"
+msgstr "Kámen 11"
 
 msgid "unnatural/doodads/rocks/rock_11.proto/title"
-msgstr "Rock 11"
+msgstr "Kámen 11"
 
 msgid "unnatural/doodads/rocks/rock_12.proto/description"
-msgstr "Rock 12"
+msgstr "Kámen 12"
 
 msgid "unnatural/doodads/rocks/rock_12.proto/title"
-msgstr "Rock 12"
+msgstr "Kámen 12"
 
 msgid "unnatural/doodads/rocks/rock_13.proto/description"
-msgstr "Rock 13"
+msgstr "Kámen 13"
 
 msgid "unnatural/doodads/rocks/rock_13.proto/title"
-msgstr "Rock 13"
+msgstr "Kámen 13"
 
 msgid "unnatural/doodads/rocks/rock_14.proto/description"
-msgstr "Rock 14"
+msgstr "Kámen 14"
 
 msgid "unnatural/doodads/rocks/rock_14.proto/title"
-msgstr "Rock 14"
+msgstr "Kámen 14"
 
 msgid "unnatural/doodads/rocks/rock_15.proto/description"
-msgstr "Rock 15"
+msgstr "Kámen 15"
 
 msgid "unnatural/doodads/rocks/rock_15.proto/title"
-msgstr "Rock 15"
+msgstr "Kámen 15"
 
 msgid "unnatural/doodads/rocks/rock_16.proto/description"
-msgstr "Rock 16"
+msgstr "Kámen 16"
 
 msgid "unnatural/doodads/rocks/rock_16.proto/title"
-msgstr "Rock 16"
+msgstr "Kámen 16"
 
 msgid "unnatural/doodads/rocks/rock_17.proto/description"
-msgstr "Rock 17"
+msgstr "Kámen 17"
 
 msgid "unnatural/doodads/rocks/rock_17.proto/title"
-msgstr "Rock 17"
+msgstr "Kámen 17"
 
 msgid "unnatural/doodads/rocks/rock_18.proto/description"
-msgstr "Rock 18"
+msgstr "Kámen 18"
 
 msgid "unnatural/doodads/rocks/rock_18.proto/title"
-msgstr "Rock 18"
+msgstr "Kámen 18"
 
 msgid "unnatural/doodads/rocks/rock_19.proto/description"
-msgstr "Rock 19"
+msgstr "Kámen 19"
 
 msgid "unnatural/doodads/rocks/rock_19.proto/title"
-msgstr "Rock 19"
+msgstr "Kámen 19"
 
 msgid "unnatural/doodads/rocks/rock_2.proto/description"
-msgstr "Rock 2"
+msgstr "Kámen 2"
 
 msgid "unnatural/doodads/rocks/rock_2.proto/title"
-msgstr "Rock 2"
+msgstr "Kámen 2"
 
 msgid "unnatural/doodads/rocks/rock_20.proto/description"
-msgstr "Rock 20"
+msgstr "Kámen 20"
 
 msgid "unnatural/doodads/rocks/rock_20.proto/title"
-msgstr "Rock 20"
+msgstr "Kámen 20"
 
 msgid "unnatural/doodads/rocks/rock_21.proto/description"
-msgstr "Rock 21"
+msgstr "Kámen 21"
 
 msgid "unnatural/doodads/rocks/rock_21.proto/title"
-msgstr "Rock 21"
+msgstr "Kámen 21"
 
 msgid "unnatural/doodads/rocks/rock_22.proto/description"
-msgstr "Rock 22"
+msgstr "Kámen 22"
 
 msgid "unnatural/doodads/rocks/rock_22.proto/title"
-msgstr "Rock 22"
+msgstr "Kámen 22"
 
 msgid "unnatural/doodads/rocks/rock_23.proto/description"
-msgstr "Rock 23"
+msgstr "Kámen 23"
 
 msgid "unnatural/doodads/rocks/rock_23.proto/title"
-msgstr "Rock 23"
+msgstr "Kámen 23"
 
 msgid "unnatural/doodads/rocks/rock_24.proto/description"
-msgstr "Rock 24"
+msgstr "Kámen 24"
 
 msgid "unnatural/doodads/rocks/rock_24.proto/title"
-msgstr "Rock 24"
+msgstr "Kámen 24"
 
 msgid "unnatural/doodads/rocks/rock_3.proto/description"
-msgstr "Rock 3"
+msgstr "Kámen 3"
 
 msgid "unnatural/doodads/rocks/rock_3.proto/title"
-msgstr "Rock 3"
+msgstr "Kámen 3"
 
 msgid "unnatural/doodads/rocks/rock_4.proto/description"
-msgstr "Rock 4"
+msgstr "Kámen 4"
 
 msgid "unnatural/doodads/rocks/rock_4.proto/title"
-msgstr "Rock 4"
+msgstr "Kámen 4"
 
 msgid "unnatural/doodads/rocks/rock_5.proto/description"
-msgstr "Rock 5"
+msgstr "Kámen 5"
 
 msgid "unnatural/doodads/rocks/rock_5.proto/title"
-msgstr "Rock 5"
+msgstr "Kámen 5"
 
 msgid "unnatural/doodads/rocks/rock_6.proto/description"
-msgstr "Rock 6"
+msgstr "Kámen 6"
 
 msgid "unnatural/doodads/rocks/rock_6.proto/title"
-msgstr "Rock 6"
+msgstr "Kámen 6"
 
 msgid "unnatural/doodads/rocks/rock_7.proto/description"
-msgstr "Rock 7"
+msgstr "Kámen 7"
 
 msgid "unnatural/doodads/rocks/rock_7.proto/title"
-msgstr "Rock 7"
+msgstr "Kámen 7"
 
 msgid "unnatural/doodads/rocks/rock_8.proto/description"
-msgstr "Rock 8"
+msgstr "Kámen 8"
 
 msgid "unnatural/doodads/rocks/rock_8.proto/title"
-msgstr "Rock 8"
+msgstr "Kámen 8"
 
 msgid "unnatural/doodads/rocks/rock_9.proto/description"
-msgstr "Rock 9"
+msgstr "Kámen 9"
 
 msgid "unnatural/doodads/rocks/rock_9.proto/title"
-msgstr "Rock 9"
+msgstr "Kámen 9"
 
