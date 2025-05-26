@@ -27,6 +27,39 @@ msgstr "Remove one"
 msgid "cage/keybinds/reset"
 msgstr "Reset to default"
 
+msgid "editor/doodads/clear"
+msgstr "Clear"
+
+msgid "editor/doodads/select"
+msgstr "Select"
+
+msgid "editor/mapWaitLoading/loading"
+msgstr "Loading"
+
+msgid "editor/mapWaitLoading/pleaseWaitMoment"
+msgstr "Please wait a moment."
+
+msgid "editor/mapWaitSelect/pleaseWaitMoment"
+msgstr "Please wait a moment."
+
+msgid "editor/mapWaitSelect/preparing"
+msgstr "Preparing"
+
+msgid "editor/menu"
+msgstr "Menu"
+
+msgid "editor/menu/chooseMap"
+msgstr "Choose map"
+
+msgid "editor/menu/doodads"
+msgstr "Doodads"
+
+msgid "editor/menu/save"
+msgstr "Save"
+
+msgid "editor/menu/tilesets"
+msgstr "Tilesets"
+
 msgid "unnatural/abort"
 msgstr "Abort"
 
@@ -200,9 +233,6 @@ msgstr "Abort Game"
 
 msgid "unnatural/diplomacy/workers"
 msgstr "Workers"
-
-msgid "unnatural/editor/save"
-msgstr "Save"
 
 msgid "unnatural/enum/unknown"
 msgstr "Unknown"
@@ -1397,12 +1427,6 @@ msgstr "Game over"
 
 msgid "unnatural/statusPreparation/getReady"
 msgstr "Get ready"
-
-msgid "unnatural/statusWait/pleaseWaitMoment"
-msgstr "Please wait a moment."
-
-msgid "unnatural/statusWait/wait"
-msgstr "Wait"
 
 msgid "unnatural/steamFriendStatus/away"
 msgstr "Away"
