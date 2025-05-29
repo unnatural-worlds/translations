@@ -694,7 +694,7 @@ msgid "unnatural/base/technocracy/upgrades/diamond_tip.proto/title"
 msgstr "Diamond tip"
 
 msgid "unnatural/base/technocracy/upgrades/evasive_maneuvers.proto/description"
-msgstr "No need for heavy armor if you can dodge bullets."
+msgstr "No need for heavy armor if you can dodge bullets. Improves Kitsune."
 
 msgid "unnatural/base/technocracy/upgrades/evasive_maneuvers.proto/title"
 msgstr "Evasive maneuvers"
@@ -706,19 +706,19 @@ msgid "unnatural/base/technocracy/upgrades/fabrication.proto/title"
 msgstr "Fabrication"
 
 msgid "unnatural/base/technocracy/upgrades/greased_pistons.proto/description"
-msgstr "Bring the defenses to where you need them, now."
+msgstr "Bring the defenses to where you need them, now. Improves Paladins."
 
 msgid "unnatural/base/technocracy/upgrades/greased_pistons.proto/title"
 msgstr "Greased pistons"
 
 msgid "unnatural/base/technocracy/upgrades/matter_annihilation.proto/description"
-msgstr "Tweaking parameters for improved ruinage."
+msgstr "Tweaking parameters for improved ruinage. Improves Golems."
 
 msgid "unnatural/base/technocracy/upgrades/matter_annihilation.proto/title"
 msgstr "Matter annihilation"
 
 msgid "unnatural/base/technocracy/upgrades/overcharged_shield.proto/description"
-msgstr "Move the front-line of the frontier further front."
+msgstr "Move the front-line of the frontier further front. Improves Juggernauts."
 
 msgid "unnatural/base/technocracy/upgrades/overcharged_shield.proto/title"
 msgstr "Overcharged shield"
@@ -727,25 +727,26 @@ msgid "unnatural/base/technocracy/upgrades/precision_burns.proto/description"
 msgstr ""
 "Accurately points at the enemy.\n"
 "Scratch that.\n"
-"Angrily burns enemy's weakest point."
+"Angrily burns enemy's weakest point.\n"
+"Improves Lurkers."
 
 msgid "unnatural/base/technocracy/upgrades/precision_burns.proto/title"
 msgstr "Precision burns"
 
 msgid "unnatural/base/technocracy/upgrades/quadfire.proto/description"
-msgstr "What is better than two barrels? Four barrels. More flames is more damage."
+msgstr "What is better than two barrels? Four barrels. More flames is more damage. Improves Twinfires."
 
 msgid "unnatural/base/technocracy/upgrades/quadfire.proto/title"
 msgstr "Quadfire"
 
 msgid "unnatural/base/technocracy/upgrades/rotor_blades.proto/description"
-msgstr "Faster spinning, faster scouting."
+msgstr "Faster spinning, faster scouting. Improves Eagles."
 
 msgid "unnatural/base/technocracy/upgrades/rotor_blades.proto/title"
 msgstr "Rotor blades"
 
 msgid "unnatural/base/technocracy/upgrades/strengthened_hull.proto/description"
-msgstr "Better safe than sorry. Protect your valuable goods."
+msgstr "Better safe than sorry. Protect your valuable goods. Improves ATV."
 
 msgid "unnatural/base/technocracy/upgrades/strengthened_hull.proto/title"
 msgstr "Strengthened hull"
