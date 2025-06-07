@@ -706,7 +706,7 @@ msgid "unnatural/base/technocracy/upgrades/fabrication.proto/title"
 msgstr "Fabrication"
 
 msgid "unnatural/base/technocracy/upgrades/greased_pistons.proto/description"
-msgstr "Bring the defenses to where you need them, now. Improves Paladins."
+msgstr "Charge! Move the front-line of the frontier further front. Improves Juggernauts."
 
 msgid "unnatural/base/technocracy/upgrades/greased_pistons.proto/title"
 msgstr "Greased pistons"
@@ -718,7 +718,7 @@ msgid "unnatural/base/technocracy/upgrades/matter_annihilation.proto/title"
 msgstr "Matter annihilation"
 
 msgid "unnatural/base/technocracy/upgrades/overcharged_shield.proto/description"
-msgstr "Move the front-line of the frontier further front. Improves Juggernauts."
+msgstr "Bring the defenses to where you need them, now. Improves Paladins."
 
 msgid "unnatural/base/technocracy/upgrades/overcharged_shield.proto/title"
 msgstr "Overcharged shield"

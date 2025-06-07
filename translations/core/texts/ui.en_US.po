@@ -27,11 +27,17 @@ msgstr "Remove one"
 msgid "cage/keybinds/reset"
 msgstr "Reset to default"
 
-msgid "editor/doodads/clear"
-msgstr "Clear"
+msgid "editor/mapSaved/quitAndConvert"
+msgstr "Quit editor and convert the map."
 
-msgid "editor/doodads/select"
-msgstr "Select"
+msgid "editor/mapSaved/saved"
+msgstr "Saved"
+
+msgid "editor/mapSaving/pleaseWaitMoment"
+msgstr "Please wait a moment."
+
+msgid "editor/mapSaving/saving"
+msgstr "Saving"
 
 msgid "editor/mapWaitLoading/loading"
 msgstr "Loading"
@@ -45,9 +51,6 @@ msgstr "Please wait a moment."
 msgid "editor/mapWaitSelect/preparing"
 msgstr "Preparing"
 
-msgid "editor/menu"
-msgstr "Menu"
-
 msgid "editor/menu/chooseMap"
 msgstr "Choose map"
 
@@ -57,7 +60,16 @@ msgstr "Doodads"
 msgid "editor/menu/save"
 msgstr "Save"
 
+msgid "editor/menu/terrain"
+msgstr "Terrain"
+
 msgid "editor/menu/tilesets"
+msgstr "Tilesets"
+
+msgid "editor/tilesets/pleaseWaitMoment"
+msgstr "Changing terrain mapping here does not affect current map. It will affect future applications of the brush."
+
+msgid "editor/tilesets/tilesets"
 msgstr "Tilesets"
 
 msgid "unnatural/abort"
@@ -1350,8 +1362,8 @@ msgstr "Start game"
 msgid "unnatural/sessionPlayers/unknownRace"
 msgstr "Unknown"
 
-msgid "unnatural/sessionPlayers/waitForAdminToStartGame"
-msgstr "Wait for admin to start the game"
+msgid "unnatural/sessionPlayers/waitForAdmin"
+msgstr "Wait for an admin"
 
 msgid "unnatural/sessionPlayers/waiting"
 msgstr "Waiting"
