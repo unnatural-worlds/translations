@@ -153,6 +153,9 @@ msgstr "Debugging"
 msgid "unnatural/controls/orders"
 msgstr "Orders"
 
+msgid "unnatural/controls/pings"
+msgstr "Pings"
+
 msgid "unnatural/controls/recipes"
 msgstr "Recipes"
 
@@ -537,6 +540,24 @@ msgstr "Stop order"
 msgid "unnatural/key/orders/unloadResource"
 msgstr "Unload resource"
 
+msgid "unnatural/key/ping/attack"
+msgstr "Ping - attack"
+
+msgid "unnatural/key/ping/attention"
+msgstr "Ping - attention"
+
+msgid "unnatural/key/ping/build"
+msgstr "Ping - build"
+
+msgid "unnatural/key/ping/defend"
+msgstr "Ping - defend"
+
+msgid "unnatural/key/ping/evacuate"
+msgstr "Ping - evacuate"
+
+msgid "unnatural/key/ping/rally"
+msgstr "Ping - rally"
+
 msgid "unnatural/key/recipes/cancelMenu"
 msgstr "Cancel menu"
 
@@ -765,8 +786,50 @@ msgstr "Version: {0}"
 msgid "unnatural/mapSelection/chooseMap"
 msgstr "Choose map"
 
-msgid "unnatural/mapSelection/upFolder"
-msgstr "Up folder"
+msgid "unnatural/mapSelection/goUp"
+msgstr "Go up"
+
+msgid "unnatural/mapSelection/mapSize/absurd"
+msgstr "Absurd"
+
+msgid "unnatural/mapSelection/mapSize/gargantuan"
+msgstr "Gargantuan"
+
+msgid "unnatural/mapSelection/mapSize/huge"
+msgstr "Huge"
+
+msgid "unnatural/mapSelection/mapSize/large"
+msgstr "Large"
+
+msgid "unnatural/mapSelection/mapSize/medium"
+msgstr "Medium"
+
+msgid "unnatural/mapSelection/mapSize/small"
+msgstr "Small"
+
+msgid "unnatural/mapSelection/mapSize/tiny"
+msgstr "Tiny"
+
+msgid "unnatural/mapSelection/mapSize/veryLarge"
+msgstr "Very large"
+
+msgid "unnatural/mapSelection/mapSize/verySmall"
+msgstr "Very small"
+
+msgid "unnatural/mapSelection/mapSize/veryTiny"
+msgstr "Very tiny"
+
+msgid "unnatural/mapSelection/select"
+msgstr "Select"
+
+msgid "unnatural/mapSelection/sorting/name"
+msgstr "Name"
+
+msgid "unnatural/mapSelection/sorting/players"
+msgstr "Players"
+
+msgid "unnatural/mapSelection/sorting/size"
+msgstr "Size"
 
 msgid "unnatural/mapSelection/versionMismatch"
 msgstr "Version mismatch"
@@ -1053,6 +1116,27 @@ msgstr "Network (up | down):"
 msgid "unnatural/performanceTooltip/ping"
 msgstr "Ping:"
 
+msgid "unnatural/pingEnum/attack"
+msgstr "Attack"
+
+msgid "unnatural/pingEnum/attention"
+msgstr "Attention"
+
+msgid "unnatural/pingEnum/build"
+msgstr "Build"
+
+msgid "unnatural/pingEnum/defend"
+msgstr "Defend"
+
+msgid "unnatural/pingEnum/evacuate"
+msgstr "Evacuate"
+
+msgid "unnatural/pingEnum/none"
+msgstr "None"
+
+msgid "unnatural/pingEnum/rally"
+msgstr "Rally"
+
 msgid "unnatural/playerConnectionClassEnum/computer"
 msgstr "PC player"
 
@@ -1257,6 +1341,9 @@ msgstr "Productive time percentage spend on processing the recipe."
 msgid "unnatural/selectedInfo/recipe"
 msgstr "Recipe:"
 
+msgid "unnatural/selectedInfo/statusDamaged"
+msgstr "Status: damaged"
+
 msgid "unnatural/selectedInfo/statusProcessing"
 msgstr "Status: processing"
 
@@ -1281,8 +1368,14 @@ msgstr "Movement speed: {0} %"
 msgid "unnatural/selectedInfo/upgradeProcessingSpeed"
 msgstr "Processing speed: {0} %"
 
+msgid "unnatural/selectedInfo/upgradeRegenerationSpeed"
+msgstr "Regeneration speed: {0} %"
+
 msgid "unnatural/selectedInfo/upgradeShootingRange"
 msgstr "Shooting range: {0} %"
+
+msgid "unnatural/selectedInfo/upgradeSplashRadius"
+msgstr "Splash radius: {0} %"
 
 msgid "unnatural/selectedInfo/uptime"
 msgstr "Uptime: {0} %"
@@ -1515,8 +1608,14 @@ msgstr "Elevation: "
 msgid "unnatural/tooltips/life"
 msgstr "Life: "
 
+msgid "unnatural/tooltips/magic"
+msgstr "Magic"
+
 msgid "unnatural/tooltips/makeSteadyProduction"
 msgstr "Make steady production of:"
+
+msgid "unnatural/tooltips/mana"
+msgstr "Mana: "
 
 msgid "unnatural/tooltips/meters"
 msgstr "{0} m"
@@ -1557,6 +1656,9 @@ msgstr "Recipe"
 msgid "unnatural/tooltips/recipes"
 msgstr "Recipes"
 
+msgid "unnatural/tooltips/regeneration"
+msgstr "Regeneration: "
+
 msgid "unnatural/tooltips/requirementsToUnlock"
 msgstr "Requirements to unlock"
 
@@ -1565,6 +1667,9 @@ msgstr "{0} s"
 
 msgid "unnatural/tooltips/shotsPerSecond"
 msgstr "{0} shots/s"
+
+msgid "unnatural/tooltips/splashRadius"
+msgstr "Splash radius: "
 
 msgid "unnatural/tooltips/stackingLimit"
 msgstr "Stacking limit: "
@@ -1587,8 +1692,14 @@ msgstr "{0} %"
 msgid "unnatural/tooltips/upgrade/processingSpeed"
 msgstr "Processing speed: "
 
+msgid "unnatural/tooltips/upgrade/regenerationSpeed"
+msgstr "Regeneration speed: "
+
 msgid "unnatural/tooltips/upgrade/shootingRange"
 msgstr "Shooting range: "
+
+msgid "unnatural/tooltips/upgrade/splashRadius"
+msgstr "Splash radius: "
 
 msgid "unnatural/tooltips/weapon"
 msgstr "Weapon: "
