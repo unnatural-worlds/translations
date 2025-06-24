@@ -111,6 +111,12 @@ msgstr "Lexicon {0}"
 msgid "unnatural/commonGame/menu"
 msgstr "Menu {0}"
 
+msgid "unnatural/commonGame/pause"
+msgstr "Pause {0}"
+
+msgid "unnatural/commonGame/paused"
+msgstr "Paused"
+
 msgid "unnatural/commonGame/resourcesOverview"
 msgstr "Resources overview {0}"
 
@@ -611,6 +617,9 @@ msgstr "Open resources overview"
 
 msgid "unnatural/key/screens/openUnitsOverview"
 msgstr "Open units overview"
+
+msgid "unnatural/key/screens/pause"
+msgstr "Pause"
 
 msgid "unnatural/key/screens/toggleFullscreen"
 msgstr "Toggle fullscreen"
@@ -1433,6 +1442,15 @@ msgstr "Wait for an admin to select a map"
 
 msgid "unnatural/sessionPlayers/admin"
 msgstr "Admin"
+
+msgid "unnatural/sessionPlayers/aiDifficulty/easy"
+msgstr "Easy"
+
+msgid "unnatural/sessionPlayers/aiDifficulty/hard"
+msgstr "Hard"
+
+msgid "unnatural/sessionPlayers/aiDifficulty/medium"
+msgstr "Medium"
 
 msgid "unnatural/sessionPlayers/joinTeam"
 msgstr "Join team"
