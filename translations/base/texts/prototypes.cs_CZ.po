@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: unnatural-worlds\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI\n"
-"PO-Revision-Date: 2025-05-26 20:31\n"
+"PO-Revision-Date: 2025-07-02 19:59\n"
 "Last-Translator: translations <translations@unnatural-worlds.com>\n"
 "Language-Team: Czech\n"
 "MIME-Version: 1.0\n"
@@ -691,7 +691,7 @@ msgid "unnatural/base/technocracy/upgrades/diamond_tip.proto/title"
 msgstr "Diamantová špička"
 
 msgid "unnatural/base/technocracy/upgrades/evasive_maneuvers.proto/description"
-msgstr "Není potřeba těžké zbroje, pokud se můžete vyhnout kulkám."
+msgstr "Není potřeba těžké zbroje, pokud se můžete vyhnout kulkám. Vylepšuje Kitsune."
 
 msgid "unnatural/base/technocracy/upgrades/evasive_maneuvers.proto/title"
 msgstr "Úhybné manévry"
@@ -703,19 +703,19 @@ msgid "unnatural/base/technocracy/upgrades/fabrication.proto/title"
 msgstr "Fabrikace"
 
 msgid "unnatural/base/technocracy/upgrades/greased_pistons.proto/description"
-msgstr "Přineste obranu tam, kde ji potřebujete - teď hned."
+msgstr "Přineste obranu tam, kde ji potřebujete - teď hned. Vylepšuje Juggernauty."
 
 msgid "unnatural/base/technocracy/upgrades/greased_pistons.proto/title"
 msgstr "Mazivo pro písty"
 
 msgid "unnatural/base/technocracy/upgrades/matter_annihilation.proto/description"
-msgstr "Upravuje parametry atomů pro rychlejší rozklad."
+msgstr "Upravuje parametry atomů pro rychlejší rozklad. Vylepšuje Golemy."
 
 msgid "unnatural/base/technocracy/upgrades/matter_annihilation.proto/title"
 msgstr "Ničení materiálu"
 
 msgid "unnatural/base/technocracy/upgrades/overcharged_shield.proto/description"
-msgstr "Posouvá přední linii dále dopředu."
+msgstr "Posouvá přední linii dále dopředu. Vylepšuje Paladiny."
 
 msgid "unnatural/base/technocracy/upgrades/overcharged_shield.proto/title"
 msgstr "Přebuzený štít"
@@ -723,25 +723,26 @@ msgstr "Přebuzený štít"
 msgid "unnatural/base/technocracy/upgrades/precision_burns.proto/description"
 msgstr "Přesně míří na nepřítele.\n"
 "Škrtněte to.\n"
-"Zaníceně zapaluje nejslabší místo nepřítele."
+"Zaníceně zapaluje nejslabší místo nepřítele.\n"
+"Vylepšuje Lurkery."
 
 msgid "unnatural/base/technocracy/upgrades/precision_burns.proto/title"
 msgstr "Přesné hořáky"
 
 msgid "unnatural/base/technocracy/upgrades/quadfire.proto/description"
-msgstr "Co je lepší než dva barely? Čtyři barely. Více plamenů je více poškození."
+msgstr "Co je lepší než dva barely? Čtyři barely. Více plamenů je více poškození. Vylepšuje Twinfiry."
 
 msgid "unnatural/base/technocracy/upgrades/quadfire.proto/title"
 msgstr "Čtyřbarel"
 
 msgid "unnatural/base/technocracy/upgrades/rotor_blades.proto/description"
-msgstr "Rychlejší otáčky, rychlejší průzkum."
+msgstr "Rychlejší otáčky, rychlejší průzkum. Vylepšuje Orly."
 
 msgid "unnatural/base/technocracy/upgrades/rotor_blades.proto/title"
 msgstr "Lopatky rotoru"
 
 msgid "unnatural/base/technocracy/upgrades/strengthened_hull.proto/description"
-msgstr "Lepší prevence než lítost. Chraňte své cenné zboží."
+msgstr "Lepší prevence než lítost. Chraňte své cenné zboží. Vylepšuje ATV."
 
 msgid "unnatural/base/technocracy/upgrades/strengthened_hull.proto/title"
 msgstr "Posílený trup"
