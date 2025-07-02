@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: unnatural-worlds\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI\n"
-"PO-Revision-Date: 2025-05-26 20:31\n"
+"PO-Revision-Date: 2025-07-02 19:59\n"
 "Last-Translator: translations <translations@unnatural-worlds.com>\n"
 "Language-Team: Czech\n"
 "MIME-Version: 1.0\n"
@@ -29,11 +29,17 @@ msgstr "Odebrat jeden"
 msgid "cage/keybinds/reset"
 msgstr "Obnovit výchozí"
 
-msgid "editor/doodads/clear"
-msgstr "Odstranit"
+msgid "editor/mapSaved/quitAndConvert"
+msgstr "Vypnout editor a zkonvertovat mapu."
 
-msgid "editor/doodads/select"
-msgstr "Vybrat"
+msgid "editor/mapSaved/saved"
+msgstr "Uloženo"
+
+msgid "editor/mapSaving/pleaseWaitMoment"
+msgstr "Prosím počkejte chvilku."
+
+msgid "editor/mapSaving/saving"
+msgstr "Ukládání"
 
 msgid "editor/mapWaitLoading/loading"
 msgstr "Načítání"
@@ -47,9 +53,6 @@ msgstr "Počkejte chvíli, prosím."
 msgid "editor/mapWaitSelect/preparing"
 msgstr "Příprava"
 
-msgid "editor/menu"
-msgstr "Nabídka"
-
 msgid "editor/menu/chooseMap"
 msgstr "Vybrat mapu"
 
@@ -59,8 +62,17 @@ msgstr "Dekorace"
 msgid "editor/menu/save"
 msgstr "Uložit"
 
+msgid "editor/menu/terrain"
+msgstr "Terén"
+
 msgid "editor/menu/tilesets"
 msgstr "Dlaždice"
+
+msgid "editor/tilesets/pleaseWaitMoment"
+msgstr "Změny tohoto nastavení ovlivní budoucí použití štetce, ale nijak nezmění dosavadní mapu."
+
+msgid "editor/tilesets/tilesets"
+msgstr "Sady dlaždic"
 
 msgid "unnatural/abort"
 msgstr "Zrušit"
@@ -100,6 +112,12 @@ msgstr "Lexikon {0}"
 
 msgid "unnatural/commonGame/menu"
 msgstr "Nabídka {0}"
+
+msgid "unnatural/commonGame/pause"
+msgstr "Pauza {0}"
+
+msgid "unnatural/commonGame/paused"
+msgstr "Pozastaveno"
 
 msgid "unnatural/commonGame/resourcesOverview"
 msgstr "Přehled surovin {0}"
@@ -142,6 +160,9 @@ msgstr "Ladění"
 
 msgid "unnatural/controls/orders"
 msgstr "Příkazy"
+
+msgid "unnatural/controls/pings"
+msgstr "Pingy"
 
 msgid "unnatural/controls/recipes"
 msgstr "Recepty"
@@ -527,6 +548,24 @@ msgstr "Přikaz zastavení"
 msgid "unnatural/key/orders/unloadResource"
 msgstr "Vyložit surovinu"
 
+msgid "unnatural/key/ping/attack"
+msgstr "Ping - útok"
+
+msgid "unnatural/key/ping/attention"
+msgstr "Ping - upozornění"
+
+msgid "unnatural/key/ping/build"
+msgstr "Ping - budování"
+
+msgid "unnatural/key/ping/defend"
+msgstr "Ping - obrana"
+
+msgid "unnatural/key/ping/evacuate"
+msgstr "Ping - evakuace"
+
+msgid "unnatural/key/ping/rally"
+msgstr "Ping - shromáždění"
+
 msgid "unnatural/key/recipes/cancelMenu"
 msgstr "Zrušit nabídku"
 
@@ -580,6 +619,9 @@ msgstr "Otevřít přehled surovin"
 
 msgid "unnatural/key/screens/openUnitsOverview"
 msgstr "Otevřít přehled jednotek"
+
+msgid "unnatural/key/screens/pause"
+msgstr "Pauza"
 
 msgid "unnatural/key/screens/toggleFullscreen"
 msgstr "Přepnout režim celé obrazovky"
@@ -755,8 +797,50 @@ msgstr "Verze: {0}"
 msgid "unnatural/mapSelection/chooseMap"
 msgstr "Vybrat mapu"
 
-msgid "unnatural/mapSelection/upFolder"
-msgstr "Složka nahoru"
+msgid "unnatural/mapSelection/goUp"
+msgstr "Jít nahoru"
+
+msgid "unnatural/mapSelection/mapSize/absurd"
+msgstr "Absurdní"
+
+msgid "unnatural/mapSelection/mapSize/gargantuan"
+msgstr "Gargantuovská"
+
+msgid "unnatural/mapSelection/mapSize/huge"
+msgstr "Obrovské"
+
+msgid "unnatural/mapSelection/mapSize/large"
+msgstr "Velká"
+
+msgid "unnatural/mapSelection/mapSize/medium"
+msgstr "Střední"
+
+msgid "unnatural/mapSelection/mapSize/small"
+msgstr "Malá"
+
+msgid "unnatural/mapSelection/mapSize/tiny"
+msgstr "Drobná"
+
+msgid "unnatural/mapSelection/mapSize/veryLarge"
+msgstr "Velmi velká"
+
+msgid "unnatural/mapSelection/mapSize/verySmall"
+msgstr "Velmi malá"
+
+msgid "unnatural/mapSelection/mapSize/veryTiny"
+msgstr "Velmi drobná"
+
+msgid "unnatural/mapSelection/select"
+msgstr "Vybrat"
+
+msgid "unnatural/mapSelection/sorting/name"
+msgstr "Název"
+
+msgid "unnatural/mapSelection/sorting/players"
+msgstr "Hráči"
+
+msgid "unnatural/mapSelection/sorting/size"
+msgstr "Velikost"
 
 msgid "unnatural/mapSelection/versionMismatch"
 msgstr "Nesprávná verze"
@@ -1043,6 +1127,27 @@ msgstr "Síť (nahoru | dolů):"
 msgid "unnatural/performanceTooltip/ping"
 msgstr "Ping:"
 
+msgid "unnatural/pingEnum/attack"
+msgstr "Útok"
+
+msgid "unnatural/pingEnum/attention"
+msgstr "Upozornění"
+
+msgid "unnatural/pingEnum/build"
+msgstr "Budování"
+
+msgid "unnatural/pingEnum/defend"
+msgstr "Obrana"
+
+msgid "unnatural/pingEnum/evacuate"
+msgstr "Evakuace"
+
+msgid "unnatural/pingEnum/none"
+msgstr "Žádné"
+
+msgid "unnatural/pingEnum/rally"
+msgstr "Shromáždění"
+
 msgid "unnatural/playerConnectionClassEnum/computer"
 msgstr "PC hráč"
 
@@ -1247,6 +1352,9 @@ msgstr "Procenta produktivního času stráveného zpracováním receptu."
 msgid "unnatural/selectedInfo/recipe"
 msgstr "Recept:"
 
+msgid "unnatural/selectedInfo/statusDamaged"
+msgstr "Stav: poškozený"
+
 msgid "unnatural/selectedInfo/statusProcessing"
 msgstr "Stav: zpracovávání"
 
@@ -1271,8 +1379,14 @@ msgstr "Rychlost pohybu: {0} %"
 msgid "unnatural/selectedInfo/upgradeProcessingSpeed"
 msgstr "Rychlost procesování: {0} %"
 
+msgid "unnatural/selectedInfo/upgradeRegenerationSpeed"
+msgstr "Rychlost regenerace: {0}%"
+
 msgid "unnatural/selectedInfo/upgradeShootingRange"
 msgstr "Dostřel: {0} %"
+
+msgid "unnatural/selectedInfo/upgradeSplashRadius"
+msgstr "Poloměr splashe: {0}%"
 
 msgid "unnatural/selectedInfo/uptime"
 msgstr "Doba provozu: {0} %"
@@ -1331,6 +1445,15 @@ msgstr "Počkejte, až správce vybere mapu"
 msgid "unnatural/sessionPlayers/admin"
 msgstr "Administrátor"
 
+msgid "unnatural/sessionPlayers/aiDifficulty/easy"
+msgstr "Snadná"
+
+msgid "unnatural/sessionPlayers/aiDifficulty/hard"
+msgstr "Těžká"
+
+msgid "unnatural/sessionPlayers/aiDifficulty/medium"
+msgstr "Střední"
+
 msgid "unnatural/sessionPlayers/joinTeam"
 msgstr "Připojit se k týmu"
 
@@ -1352,8 +1475,8 @@ msgstr "Spustit hru"
 msgid "unnatural/sessionPlayers/unknownRace"
 msgstr "Neznámá"
 
-msgid "unnatural/sessionPlayers/waitForAdminToStartGame"
-msgstr "Počkejte na spuštění hry administrátorem"
+msgid "unnatural/sessionPlayers/waitForAdmin"
+msgstr "Počkejte na administrátora"
 
 msgid "unnatural/sessionPlayers/waiting"
 msgstr "Čekání"
@@ -1505,8 +1628,14 @@ msgstr "Navýšení: "
 msgid "unnatural/tooltips/life"
 msgstr "Životy: "
 
+msgid "unnatural/tooltips/magic"
+msgstr "Magie"
+
 msgid "unnatural/tooltips/makeSteadyProduction"
 msgstr "Vytvořte stálou produkci:"
+
+msgid "unnatural/tooltips/mana"
+msgstr "Mana: "
 
 msgid "unnatural/tooltips/meters"
 msgstr "{0} m"
@@ -1547,6 +1676,9 @@ msgstr "Recept"
 msgid "unnatural/tooltips/recipes"
 msgstr "Recepty"
 
+msgid "unnatural/tooltips/regeneration"
+msgstr "Regenerace: "
+
 msgid "unnatural/tooltips/requirementsToUnlock"
 msgstr "Požadavky na odemknutí"
 
@@ -1555,6 +1687,9 @@ msgstr "{0} s"
 
 msgid "unnatural/tooltips/shotsPerSecond"
 msgstr "{0} výstřelů/s"
+
+msgid "unnatural/tooltips/splashRadius"
+msgstr "Poloměr splashe: "
 
 msgid "unnatural/tooltips/stackingLimit"
 msgstr "Limit zásobníku: "
@@ -1577,8 +1712,14 @@ msgstr "{0} %"
 msgid "unnatural/tooltips/upgrade/processingSpeed"
 msgstr "Rychlost zpracování: "
 
+msgid "unnatural/tooltips/upgrade/regenerationSpeed"
+msgstr "Rychlost regenerace: "
+
 msgid "unnatural/tooltips/upgrade/shootingRange"
 msgstr "Dostřel: "
+
+msgid "unnatural/tooltips/upgrade/splashRadius"
+msgstr "Poloměr splashe: "
 
 msgid "unnatural/tooltips/weapon"
 msgstr "Zbraň: "
