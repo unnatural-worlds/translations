@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: unnatural-worlds\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI\n"
-"PO-Revision-Date: 2025-07-02 19:59\n"
+"PO-Revision-Date: 2025-07-06 13:19\n"
 "Last-Translator: translations <translations@unnatural-worlds.com>\n"
 "Language-Team: Czech\n"
 "MIME-Version: 1.0\n"
@@ -104,8 +104,8 @@ msgstr "Poražený"
 msgid "unnatural/commonGame/diplomacy"
 msgstr "Diplomacie {0}"
 
-msgid "unnatural/commonGame/earlyDevelopmentVersion"
-msgstr "Verze v počátku vývoje "
+msgid "unnatural/commonGame/freeDevelopmentPreview"
+msgstr "Bezplatný náhled vývoje "
 
 msgid "unnatural/commonGame/lexicon"
 msgstr "Lexikon {0}"
@@ -229,6 +229,9 @@ msgstr "Zabití: "
 
 msgid "unnatural/diplomacy/forceTooltip/losses"
 msgstr "Ztráty: "
+
+msgid "unnatural/diplomacy/forceUnPause"
+msgstr "Vynutit (od)pauzování"
 
 msgid "unnatural/diplomacy/military"
 msgstr "Vojenské"
@@ -734,13 +737,13 @@ msgstr "Demo verze"
 msgid "unnatural/mainMenu/demo/thisIsNotFullVersion"
 msgstr "Toto není plná verze hry. Některé funkce jsou omezeny nebo vynechány."
 
-msgid "unnatural/mainMenu/earlyDevelopment/earlyDevelopmentVersion"
-msgstr "Verze v počátku vývoje "
+msgid "unnatural/mainMenu/developmentPreview/freeDevelopmentPreview"
+msgstr "Bezplatný náhled vývoje"
 
-msgid "unnatural/mainMenu/earlyDevelopment/itMayNotBeRepresentative"
+msgid "unnatural/mainMenu/developmentPreview/itMayNotBeRepresentative"
 msgstr "Nemusí být reprezentativní pro konečný výrobek."
 
-msgid "unnatural/mainMenu/earlyDevelopment/thisVersionOfGameWasMadeAvailable"
+msgid "unnatural/mainMenu/developmentPreview/thisFreeVersionWasMadeAvailable"
 msgstr "Tato verze hry je poskytována za účelem ověření technické funkčnosti a sbírání zpětné vazby."
 
 msgid "unnatural/mainMenu/giveFeedback"
