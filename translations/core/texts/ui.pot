@@ -1014,6 +1014,9 @@ msgstr "Sound"
 msgid "unnatural/options/sound/announcerVolume"
 msgstr "Announcer volume:"
 
+msgid "unnatural/options/sound/dialogueVolume"
+msgstr "Dialogue volume:"
+
 msgid "unnatural/options/sound/effectsVolume"
 msgstr "Effects volume:"
 
