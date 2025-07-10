@@ -969,32 +969,32 @@ msgstr "Enable particles:"
 msgid "unnatural/options/graphics/enableParticles/description"
 msgstr "Shooting and explosions effects."
 
-msgid "unnatural/options/graphics/enableSsao"
-msgstr "Enable SSAO:"
-
-msgid "unnatural/options/graphics/enableSsao/description"
-msgstr "Screen space ambient occlusion (darkens edges)."
-
 msgid "unnatural/options/graphics/gamma"
 msgstr "Gamma:"
 
 msgid "unnatural/options/graphics/lightsLimit"
 msgstr "Lights limit:"
 
+msgid "unnatural/options/graphics/quality/high"
+msgstr "High"
+
+msgid "unnatural/options/graphics/quality/low"
+msgstr "Low"
+
+msgid "unnatural/options/graphics/quality/medium"
+msgstr "Medium"
+
+msgid "unnatural/options/graphics/quality/off"
+msgstr "Off"
+
 msgid "unnatural/options/graphics/shadowsQuality"
 msgstr "Shadows quality:"
 
-msgid "unnatural/options/graphics/shadowsQuality/high"
-msgstr "High"
-
-msgid "unnatural/options/graphics/shadowsQuality/low"
-msgstr "Low"
-
-msgid "unnatural/options/graphics/shadowsQuality/medium"
-msgstr "Medium"
-
 msgid "unnatural/options/graphics/sharpening"
 msgstr "Sharpening:"
+
+msgid "unnatural/options/graphics/ssaoQuality"
+msgstr "SSAO quality:"
 
 msgid "unnatural/options/options"
 msgstr "Options"
@@ -1628,6 +1628,15 @@ msgstr "Duration: "
 
 msgid "unnatural/tooltips/elevation"
 msgstr "Elevation: "
+
+msgid "unnatural/tooltips/explosionDamage"
+msgstr "Explosion damage: "
+
+msgid "unnatural/tooltips/explosionRadius"
+msgstr "Explosion radius: "
+
+msgid "unnatural/tooltips/explosionType"
+msgstr "Explosion type: "
 
 msgid "unnatural/tooltips/life"
 msgstr "Life: "
