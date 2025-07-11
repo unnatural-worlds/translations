@@ -1611,6 +1611,9 @@ msgstr "Construction"
 msgid "unnatural/tooltips/consumedBy"
 msgstr "Consumed by"
 
+msgid "unnatural/tooltips/damage"
+msgstr "{0} damage"
+
 msgid "unnatural/tooltips/damagePerSecond"
 msgstr "{0} damage/s"
 
