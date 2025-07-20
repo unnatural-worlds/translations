@@ -15,63 +15,213 @@ msgstr ""
 "X-Crowdin-Project-ID: 677934\n"
 "X-Crowdin-Language: en\n"
 
-msgid "unnatural/doodads/vegetation/plant_1.proto/description"
-msgstr "Native flora."
+msgid "unnatural/doodads/vegetation/azure_helicup_tree.proto/description"
+msgstr "Azure helicup tree"
 
-msgid "unnatural/doodads/vegetation/plant_1.proto/title"
-msgstr "Plant 1"
+msgid "unnatural/doodads/vegetation/azure_helicup_tree.proto/title"
+msgstr "Azure helicup tree"
 
-msgid "unnatural/doodads/vegetation/plant_2.proto/description"
-msgstr "Native flora."
+msgid "unnatural/doodads/vegetation/bagpipes_tree.proto/description"
+msgstr "Bagpipes tree"
 
-msgid "unnatural/doodads/vegetation/plant_2.proto/title"
-msgstr "Plant 2"
+msgid "unnatural/doodads/vegetation/bagpipes_tree.proto/title"
+msgstr "Bagpipes tree"
 
-msgid "unnatural/doodads/vegetation/plant_3.proto/description"
-msgstr "Native flora."
+msgid "unnatural/doodads/vegetation/barebark_bush.proto/description"
+msgstr "Barebark bush"
 
-msgid "unnatural/doodads/vegetation/plant_3.proto/title"
-msgstr "Plant 3"
+msgid "unnatural/doodads/vegetation/barebark_bush.proto/title"
+msgstr "Barebark bush"
 
-msgid "unnatural/doodads/vegetation/plant_4.proto/description"
-msgstr "Native flora."
+msgid "unnatural/doodads/vegetation/bifolia_bush.proto/description"
+msgstr "Bifolia bush"
 
-msgid "unnatural/doodads/vegetation/plant_4.proto/title"
-msgstr "Plant 4"
+msgid "unnatural/doodads/vegetation/bifolia_bush.proto/title"
+msgstr "Bifolia bush"
 
-msgid "unnatural/doodads/vegetation/plant_5.proto/description"
-msgstr "Native flora."
+msgid "unnatural/doodads/vegetation/blood_sack_tree.proto/description"
+msgstr "Blood sack tree"
 
-msgid "unnatural/doodads/vegetation/plant_5.proto/title"
-msgstr "Plant 5"
+msgid "unnatural/doodads/vegetation/blood_sack_tree.proto/title"
+msgstr "Blood sack tree"
 
-msgid "unnatural/doodads/vegetation/plant_6.proto/description"
-msgstr "Native flora."
+msgid "unnatural/doodads/vegetation/brightstripe_bush.proto/description"
+msgstr "Brightstripe bush"
 
-msgid "unnatural/doodads/vegetation/plant_6.proto/title"
-msgstr "Plant 6"
+msgid "unnatural/doodads/vegetation/brightstripe_bush.proto/title"
+msgstr "Brightstripe bush"
 
-msgid "unnatural/doodads/vegetation/tree_1.proto/description"
-msgstr "Native flora."
+msgid "unnatural/doodads/vegetation/broadleaf_bush.proto/description"
+msgstr "Broadleaf bush"
 
-msgid "unnatural/doodads/vegetation/tree_1.proto/title"
-msgstr "Tree 1"
+msgid "unnatural/doodads/vegetation/broadleaf_bush.proto/title"
+msgstr "Broadleaf bush"
 
-msgid "unnatural/doodads/vegetation/tree_2.proto/description"
-msgstr "Native flora."
+msgid "unnatural/doodads/vegetation/cagefruit_bush.proto/description"
+msgstr "Cagefruit bush"
 
-msgid "unnatural/doodads/vegetation/tree_2.proto/title"
-msgstr "Tree 2"
+msgid "unnatural/doodads/vegetation/cagefruit_bush.proto/title"
+msgstr "Cagefruit bush"
 
-msgid "unnatural/doodads/vegetation/tree_3.proto/description"
-msgstr "Native flora."
+msgid "unnatural/doodads/vegetation/cartographer_tree.proto/description"
+msgstr "Cartographer tree"
 
-msgid "unnatural/doodads/vegetation/tree_3.proto/title"
-msgstr "Tree 3"
+msgid "unnatural/doodads/vegetation/cartographer_tree.proto/title"
+msgstr "Cartographer tree"
 
-msgid "unnatural/doodads/vegetation/tree_4.proto/description"
-msgstr "Native flora."
+msgid "unnatural/doodads/vegetation/chimney_tree.proto/description"
+msgstr "Chimney tree"
 
-msgid "unnatural/doodads/vegetation/tree_4.proto/title"
-msgstr "Tree 4"
+msgid "unnatural/doodads/vegetation/chimney_tree.proto/title"
+msgstr "Chimney tree"
+
+msgid "unnatural/doodads/vegetation/cilia_bush.proto/description"
+msgstr "Cilia bush"
+
+msgid "unnatural/doodads/vegetation/cilia_bush.proto/title"
+msgstr "Cilia bush"
+
+msgid "unnatural/doodads/vegetation/claws_stump.proto/description"
+msgstr "Claws stump"
+
+msgid "unnatural/doodads/vegetation/claws_stump.proto/title"
+msgstr "Claws stump"
+
+msgid "unnatural/doodads/vegetation/cup_fruit_tree.proto/description"
+msgstr "Cup fruit tree"
+
+msgid "unnatural/doodads/vegetation/cup_fruit_tree.proto/title"
+msgstr "Cup fruit tree"
+
+msgid "unnatural/doodads/vegetation/flagpole_tree.proto/description"
+msgstr "Flagpole tree"
+
+msgid "unnatural/doodads/vegetation/flagpole_tree.proto/title"
+msgstr "Flagpole tree"
+
+msgid "unnatural/doodads/vegetation/glow_bulb_stump.proto/description"
+msgstr "Glow bulb stump"
+
+msgid "unnatural/doodads/vegetation/glow_bulb_stump.proto/title"
+msgstr "Glow bulb stump"
+
+msgid "unnatural/doodads/vegetation/greek_column_bush.proto/description"
+msgstr "Greek column bush"
+
+msgid "unnatural/doodads/vegetation/greek_column_bush.proto/title"
+msgstr "Greek column bush"
+
+msgid "unnatural/doodads/vegetation/hairytwig.proto/description"
+msgstr "Hairytwig"
+
+msgid "unnatural/doodads/vegetation/hairytwig.proto/title"
+msgstr "Hairytwig"
+
+msgid "unnatural/doodads/vegetation/helix_tree.proto/description"
+msgstr "Helix tree"
+
+msgid "unnatural/doodads/vegetation/helix_tree.proto/title"
+msgstr "Helix tree"
+
+msgid "unnatural/doodads/vegetation/indigo_chalix_bush.proto/description"
+msgstr "Indigo chalix bush"
+
+msgid "unnatural/doodads/vegetation/indigo_chalix_bush.proto/title"
+msgstr "Indigo chalix bush"
+
+msgid "unnatural/doodads/vegetation/jamcollar_tree.proto/description"
+msgstr "Jamcollar tree"
+
+msgid "unnatural/doodads/vegetation/jamcollar_tree.proto/title"
+msgstr "Jamcollar tree"
+
+msgid "unnatural/doodads/vegetation/nectar_stump.proto/description"
+msgstr "Nectar stump"
+
+msgid "unnatural/doodads/vegetation/nectar_stump.proto/title"
+msgstr "Nectar stump"
+
+msgid "unnatural/doodads/vegetation/pearltwig.proto/description"
+msgstr "Pearltwig"
+
+msgid "unnatural/doodads/vegetation/pearltwig.proto/title"
+msgstr "Pearltwig"
+
+msgid "unnatural/doodads/vegetation/pincer_tree.proto/description"
+msgstr "Pincer tree"
+
+msgid "unnatural/doodads/vegetation/pincer_tree.proto/title"
+msgstr "Pincer tree"
+
+msgid "unnatural/doodads/vegetation/pipeshroom.proto/description"
+msgstr "Pipeshroom"
+
+msgid "unnatural/doodads/vegetation/pipeshroom.proto/title"
+msgstr "Pipeshroom"
+
+msgid "unnatural/doodads/vegetation/potato_bush.proto/description"
+msgstr "Potato bush"
+
+msgid "unnatural/doodads/vegetation/potato_bush.proto/title"
+msgstr "Potato bush"
+
+msgid "unnatural/doodads/vegetation/pyramid_tree.proto/description"
+msgstr "Pyramid tree"
+
+msgid "unnatural/doodads/vegetation/pyramid_tree.proto/title"
+msgstr "Pyramid tree"
+
+msgid "unnatural/doodads/vegetation/spiral_trunk_tree.proto/description"
+msgstr "Spiral trunk tree"
+
+msgid "unnatural/doodads/vegetation/spiral_trunk_tree.proto/title"
+msgstr "Spiral trunk tree"
+
+msgid "unnatural/doodads/vegetation/spring_fruit_tree.proto/description"
+msgstr "Spring fruit tree"
+
+msgid "unnatural/doodads/vegetation/spring_fruit_tree.proto/title"
+msgstr "Spring fruit tree"
+
+msgid "unnatural/doodads/vegetation/star_bush.proto/description"
+msgstr "Star bush"
+
+msgid "unnatural/doodads/vegetation/star_bush.proto/title"
+msgstr "Star bush"
+
+msgid "unnatural/doodads/vegetation/starsky_tree.proto/description"
+msgstr "Starsky tree"
+
+msgid "unnatural/doodads/vegetation/starsky_tree.proto/title"
+msgstr "Starsky tree"
+
+msgid "unnatural/doodads/vegetation/tallmouth_tree.proto/description"
+msgstr "Tallmouth tree"
+
+msgid "unnatural/doodads/vegetation/tallmouth_tree.proto/title"
+msgstr "Tallmouth tree"
+
+msgid "unnatural/doodads/vegetation/trifeather_tree.proto/description"
+msgstr "Trifeather tree"
+
+msgid "unnatural/doodads/vegetation/trifeather_tree.proto/title"
+msgstr "Trifeather tree"
+
+msgid "unnatural/doodads/vegetation/twisted_trunk_tree.proto/description"
+msgstr "Twisted trunk tree"
+
+msgid "unnatural/doodads/vegetation/twisted_trunk_tree.proto/title"
+msgstr "Twisted trunk tree"
+
+msgid "unnatural/doodads/vegetation/violet_bush.proto/description"
+msgstr "Violet bush"
+
+msgid "unnatural/doodads/vegetation/violet_bush.proto/title"
+msgstr "Violet bush"
+
+msgid "unnatural/doodads/vegetation/windmill_bush.proto/description"
+msgstr "Windmill bush"
+
+msgid "unnatural/doodads/vegetation/windmill_bush.proto/title"
+msgstr "Windmill bush"
 

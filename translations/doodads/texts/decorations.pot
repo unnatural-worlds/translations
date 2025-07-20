@@ -15,6 +15,12 @@ msgstr ""
 "X-Crowdin-Project-ID: 677934\n"
 "X-Crowdin-Language: en\n"
 
+msgid "unnatural/doodads/decorations/axolotl_tank.proto/description"
+msgstr "Axolotl tank"
+
+msgid "unnatural/doodads/decorations/axolotl_tank.proto/title"
+msgstr "Axolotl tank"
+
 msgid "unnatural/doodads/decorations/billboard_1.proto/description"
 msgstr "Billboard 1"
 
@@ -32,4 +38,34 @@ msgstr "Billboard 3"
 
 msgid "unnatural/doodads/decorations/billboard_3.proto/title"
 msgstr "Billboard 3"
+
+msgid "unnatural/doodads/decorations/cooling_tower_1.proto/description"
+msgstr "Cooling tower 1"
+
+msgid "unnatural/doodads/decorations/cooling_tower_1.proto/title"
+msgstr "Cooling tower 1"
+
+msgid "unnatural/doodads/decorations/cooling_tower_2.proto/description"
+msgstr "Cooling tower 2"
+
+msgid "unnatural/doodads/decorations/cooling_tower_2.proto/title"
+msgstr "Cooling tower 2"
+
+msgid "unnatural/doodads/decorations/heating_tower.proto/description"
+msgstr "Heating tower"
+
+msgid "unnatural/doodads/decorations/heating_tower.proto/title"
+msgstr "Heating tower"
+
+msgid "unnatural/doodads/decorations/lamp_tower.proto/description"
+msgstr "Lamp tower"
+
+msgid "unnatural/doodads/decorations/lamp_tower.proto/title"
+msgstr "Lamp tower"
+
+msgid "unnatural/doodads/decorations/platform.proto/description"
+msgstr "Platform"
+
+msgid "unnatural/doodads/decorations/platform.proto/title"
+msgstr "Platform"
 

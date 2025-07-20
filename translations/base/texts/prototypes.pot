@@ -476,6 +476,12 @@ msgstr "Mad scientist, surfing on the waves of Aether, with a microscope and lar
 msgid "unnatural/base/technocracy/buildings/laboratory.proto/title"
 msgstr "Laboratory"
 
+msgid "unnatural/base/technocracy/buildings/land_mine.proto/description"
+msgstr "Land mine"
+
+msgid "unnatural/base/technocracy/buildings/land_mine.proto/title"
+msgstr "Land mine"
+
 msgid "unnatural/base/technocracy/buildings/nanoforge.proto/description"
 msgstr "Some small stuff. Little bit of tiny stuff. And traces of micro stuff. Produces highly advanced ... stuff."
 
@@ -603,11 +609,11 @@ msgstr "Automated transfer vehicle. Moves goods from A to B. No attack."
 msgid "unnatural/base/technocracy/units/ATV.proto/title"
 msgstr "A.T.V."
 
-msgid "unnatural/base/technocracy/units/colossus.proto/description"
-msgstr "Giant assault robot, designed for breaching enemy defenses."
+msgid "unnatural/base/technocracy/units/big_boom_boy.proto/description"
+msgstr "Big boom boy"
 
-msgid "unnatural/base/technocracy/units/colossus.proto/title"
-msgstr "Colossus"
+msgid "unnatural/base/technocracy/units/big_boom_boy.proto/title"
+msgstr "Big boom boy"
 
 msgid "unnatural/base/technocracy/units/cyclops.proto/description"
 msgstr "Focuses its one eye as a scope. Artillery unit, provides supplemental damage."
@@ -615,11 +621,11 @@ msgstr "Focuses its one eye as a scope. Artillery unit, provides supplemental da
 msgid "unnatural/base/technocracy/units/cyclops.proto/title"
 msgstr "Cyclops"
 
-msgid "unnatural/base/technocracy/units/eagle.proto/description"
-msgstr "All-terrain scout and harassment unit."
+msgid "unnatural/base/technocracy/units/drone.proto/description"
+msgstr "Drone"
 
-msgid "unnatural/base/technocracy/units/eagle.proto/title"
-msgstr "Eagle"
+msgid "unnatural/base/technocracy/units/drone.proto/title"
+msgstr "Drone"
 
 msgid "unnatural/base/technocracy/units/golem.proto/description"
 msgstr "Short range, but very destructive to buildings."
@@ -657,11 +663,29 @@ msgstr "Defensive robot, can withstand a lot of beating."
 msgid "unnatural/base/technocracy/units/paladin.proto/title"
 msgstr "Paladin"
 
+msgid "unnatural/base/technocracy/units/tripod.proto/description"
+msgstr "Tripod"
+
+msgid "unnatural/base/technocracy/units/tripod.proto/title"
+msgstr "Tripod"
+
 msgid "unnatural/base/technocracy/units/twinfire.proto/description"
 msgstr "Assault vehicle with short-range flamethrower."
 
 msgid "unnatural/base/technocracy/units/twinfire.proto/title"
 msgstr "Twinfire"
+
+msgid "unnatural/base/technocracy/units/warlord.proto/description"
+msgstr "Warlord"
+
+msgid "unnatural/base/technocracy/units/warlord.proto/title"
+msgstr "Warlord"
+
+msgid "unnatural/base/technocracy/units/yatag.proto/description"
+msgstr "Yatag"
+
+msgid "unnatural/base/technocracy/units/yatag.proto/title"
+msgstr "Yatag"
 
 msgid "unnatural/base/technocracy/upgrades/artillery_barrage.proto/description"
 msgstr "Improves damage and range of Mermaids."
