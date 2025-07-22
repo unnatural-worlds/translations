@@ -392,6 +392,174 @@ msgstr "Smoother propellers"
 msgid "unnatural/base/archaics/upgrades/smoother_propellers.proto/title"
 msgstr "Smoother propellers"
 
+msgid "unnatural/base/biomass/biomass.proto/description"
+msgstr "Biomass"
+
+msgid "unnatural/base/biomass/biomass.proto/title"
+msgstr "Biomass"
+
+msgid "unnatural/base/biomass/buildings/anchor_bulb.proto/description"
+msgstr "Anchor bulb"
+
+msgid "unnatural/base/biomass/buildings/anchor_bulb.proto/title"
+msgstr "Anchor bulb"
+
+msgid "unnatural/base/biomass/buildings/anchor_spikes.proto/description"
+msgstr "Anchor spikes"
+
+msgid "unnatural/base/biomass/buildings/anchor_spikes.proto/title"
+msgstr "Anchor spikes"
+
+msgid "unnatural/base/biomass/buildings/egg_nest.proto/description"
+msgstr "Egg nest"
+
+msgid "unnatural/base/biomass/buildings/egg_nest.proto/title"
+msgstr "Egg nest"
+
+msgid "unnatural/base/biomass/buildings/incubator.proto/description"
+msgstr "Incubator"
+
+msgid "unnatural/base/biomass/buildings/incubator.proto/title"
+msgstr "Incubator"
+
+msgid "unnatural/base/biomass/buildings/lotus.proto/description"
+msgstr "Lotus"
+
+msgid "unnatural/base/biomass/buildings/lotus.proto/title"
+msgstr "Lotus"
+
+msgid "unnatural/base/biomass/buildings/mine_1.proto/description"
+msgstr "Mine 1"
+
+msgid "unnatural/base/biomass/buildings/mine_1.proto/title"
+msgstr "Mine 1"
+
+msgid "unnatural/base/biomass/buildings/mine_2.proto/description"
+msgstr "Mine 2"
+
+msgid "unnatural/base/biomass/buildings/mine_2.proto/title"
+msgstr "Mine 2"
+
+msgid "unnatural/base/biomass/buildings/mine_3.proto/description"
+msgstr "Mine 3"
+
+msgid "unnatural/base/biomass/buildings/mine_3.proto/title"
+msgstr "Mine 3"
+
+msgid "unnatural/base/biomass/buildings/mutapod.proto/description"
+msgstr "Mutapod"
+
+msgid "unnatural/base/biomass/buildings/mutapod.proto/title"
+msgstr "Mutapod"
+
+msgid "unnatural/base/biomass/buildings/spike_wall.proto/description"
+msgstr "Spike wall"
+
+msgid "unnatural/base/biomass/buildings/spike_wall.proto/title"
+msgstr "Spike wall"
+
+msgid "unnatural/base/biomass/units/bioturret.proto/description"
+msgstr "Bioturret"
+
+msgid "unnatural/base/biomass/units/bioturret.proto/title"
+msgstr "Bioturret"
+
+msgid "unnatural/base/biomass/units/cleaver.proto/description"
+msgstr "Cleaver"
+
+msgid "unnatural/base/biomass/units/cleaver.proto/title"
+msgstr "Cleaver"
+
+msgid "unnatural/base/biomass/units/crawler.proto/description"
+msgstr "Crawler"
+
+msgid "unnatural/base/biomass/units/crawler.proto/title"
+msgstr "Crawler"
+
+msgid "unnatural/base/biomass/units/diamond_skin.proto/description"
+msgstr "Diamond skin"
+
+msgid "unnatural/base/biomass/units/diamond_skin.proto/title"
+msgstr "Diamond skin"
+
+msgid "unnatural/base/biomass/units/lasher.proto/description"
+msgstr "Lasher"
+
+msgid "unnatural/base/biomass/units/lasher.proto/title"
+msgstr "Lasher"
+
+msgid "unnatural/base/biomass/units/maggot.proto/description"
+msgstr "Maggot"
+
+msgid "unnatural/base/biomass/units/maggot.proto/title"
+msgstr "Maggot"
+
+msgid "unnatural/base/biomass/units/mechlas.proto/description"
+msgstr "Mechlas"
+
+msgid "unnatural/base/biomass/units/mechlas.proto/title"
+msgstr "Mechlas"
+
+msgid "unnatural/base/biomass/units/overlord.proto/description"
+msgstr "Overlord"
+
+msgid "unnatural/base/biomass/units/overlord.proto/title"
+msgstr "Overlord"
+
+msgid "unnatural/base/biomass/units/rhino.proto/description"
+msgstr "Rhino"
+
+msgid "unnatural/base/biomass/units/rhino.proto/title"
+msgstr "Rhino"
+
+msgid "unnatural/base/biomass/units/runner.proto/description"
+msgstr "Runner"
+
+msgid "unnatural/base/biomass/units/runner.proto/title"
+msgstr "Runner"
+
+msgid "unnatural/base/biomass/units/sentinel.proto/description"
+msgstr "Sentinel"
+
+msgid "unnatural/base/biomass/units/sentinel.proto/title"
+msgstr "Sentinel"
+
+msgid "unnatural/base/biomass/units/slitherer.proto/description"
+msgstr "Slitherer"
+
+msgid "unnatural/base/biomass/units/slitherer.proto/title"
+msgstr "Slitherer"
+
+msgid "unnatural/base/biomass/units/slug.proto/description"
+msgstr "Slug"
+
+msgid "unnatural/base/biomass/units/slug.proto/title"
+msgstr "Slug"
+
+msgid "unnatural/base/biomass/units/stingray.proto/description"
+msgstr "Stingray"
+
+msgid "unnatural/base/biomass/units/stingray.proto/title"
+msgstr "Stingray"
+
+msgid "unnatural/base/biomass/units/sunbeam.proto/description"
+msgstr "Sunbeam"
+
+msgid "unnatural/base/biomass/units/sunbeam.proto/title"
+msgstr "Sunbeam"
+
+msgid "unnatural/base/biomass/units/toxiloon.proto/description"
+msgstr "Toxiloon"
+
+msgid "unnatural/base/biomass/units/toxiloon.proto/title"
+msgstr "Toxiloon"
+
+msgid "unnatural/base/biomass/units/tunneler.proto/description"
+msgstr "Tunneler"
+
+msgid "unnatural/base/biomass/units/tunneler.proto/title"
+msgstr "Tunneler"
+
 msgid "unnatural/base/ores/aether_deposit.proto/description"
 msgstr "Gaseous substance that defies scientific understanding."
 
