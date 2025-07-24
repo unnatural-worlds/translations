@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: unnatural-worlds\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI\n"
-"PO-Revision-Date: 2025-07-06 13:19\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI\n"
 "Last-Translator: translations <translations@unnatural-worlds.com>\n"
 "Language-Team: English\n"
 "MIME-Version: 1.0\n"
@@ -14,8 +14,8 @@ msgstr ""
 "X-Crowdin-Project: unnatural-worlds\n"
 "X-Crowdin-Project-ID: 677934\n"
 "X-Crowdin-Language: en\n"
-"X-Crowdin-File: /base/texts/miscellaneous.pot\n"
-"X-Crowdin-File-ID: 58\n"
+
+
 
 msgid "unnatural/base/damageTypes/antimatter"
 msgstr "Antimatter"
@@ -32,6 +32,8 @@ msgstr "Laser"
 msgid "unnatural/base/damageTypes/plasma"
 msgstr "Plasma"
 
+
+
 msgid "unnatural/base/armorTypes/armor_plates"
 msgstr "Armor plates"
 
@@ -46,6 +48,8 @@ msgstr "Energy shield"
 
 msgid "unnatural/base/armorTypes/invulnerable"
 msgstr "Invulnerable"
+
+
 
 msgid "unnatural/base/terrainTypes/road"
 msgstr "Road"
@@ -62,6 +66,8 @@ msgstr "Cliffs"
 msgid "unnatural/base/terrainTypes/water"
 msgstr "Water"
 
+
+
 msgid "unnatural/base/category/civilian"
 msgstr "Civilian"
 
@@ -71,3 +77,5 @@ msgstr "Economy"
 msgid "unnatural/base/category/military"
 msgstr "Military"
 
+msgid "unnatural/base/category/production"
+msgstr "Production"

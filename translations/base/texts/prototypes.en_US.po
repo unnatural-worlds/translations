@@ -458,6 +458,18 @@ msgstr "Spike wall"
 msgid "unnatural/base/biomass/buildings/spike_wall.proto/title"
 msgstr "Spike wall"
 
+msgid "unnatural/base/biomass/resources/biomass.proto/description"
+msgstr "Biomass"
+
+msgid "unnatural/base/biomass/resources/biomass.proto/title"
+msgstr "Biomass"
+
+msgid "unnatural/base/biomass/resources/seed.proto/description"
+msgstr "Seed"
+
+msgid "unnatural/base/biomass/resources/seed.proto/title"
+msgstr "Seed"
+
 msgid "unnatural/base/biomass/units/bioturret.proto/description"
 msgstr "Bioturret"
 

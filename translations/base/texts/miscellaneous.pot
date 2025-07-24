@@ -76,3 +76,6 @@ msgstr "Economy"
 
 msgid "unnatural/base/category/military"
 msgstr "Military"
+
+msgid "unnatural/base/category/production"
+msgstr "Production"
