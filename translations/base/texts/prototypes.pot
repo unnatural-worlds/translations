@@ -410,11 +410,23 @@ msgstr "Anchor spikes"
 msgid "unnatural/base/biomass/buildings/anchor_spikes.proto/title"
 msgstr "Anchor spikes"
 
-msgid "unnatural/base/biomass/buildings/egg_nest.proto/description"
-msgstr "Egg nest"
+msgid "unnatural/base/biomass/buildings/dart_mine.proto/description"
+msgstr "Dart mine"
 
-msgid "unnatural/base/biomass/buildings/egg_nest.proto/title"
-msgstr "Egg nest"
+msgid "unnatural/base/biomass/buildings/dart_mine.proto/title"
+msgstr "Dart mine"
+
+msgid "unnatural/base/biomass/buildings/deeproot.proto/description"
+msgstr "Deeproot"
+
+msgid "unnatural/base/biomass/buildings/deeproot.proto/title"
+msgstr "Deeproot"
+
+msgid "unnatural/base/biomass/buildings/gas_mine.proto/description"
+msgstr "Gas mine"
+
+msgid "unnatural/base/biomass/buildings/gas_mine.proto/title"
+msgstr "Gas mine"
 
 msgid "unnatural/base/biomass/buildings/incubator.proto/description"
 msgstr "Incubator"
@@ -428,29 +440,23 @@ msgstr "Lotus"
 msgid "unnatural/base/biomass/buildings/lotus.proto/title"
 msgstr "Lotus"
 
-msgid "unnatural/base/biomass/buildings/mine_1.proto/description"
-msgstr "Mine 1"
-
-msgid "unnatural/base/biomass/buildings/mine_1.proto/title"
-msgstr "Mine 1"
-
-msgid "unnatural/base/biomass/buildings/mine_2.proto/description"
-msgstr "Mine 2"
-
-msgid "unnatural/base/biomass/buildings/mine_2.proto/title"
-msgstr "Mine 2"
-
-msgid "unnatural/base/biomass/buildings/mine_3.proto/description"
-msgstr "Mine 3"
-
-msgid "unnatural/base/biomass/buildings/mine_3.proto/title"
-msgstr "Mine 3"
-
 msgid "unnatural/base/biomass/buildings/mutapod.proto/description"
 msgstr "Mutapod"
 
 msgid "unnatural/base/biomass/buildings/mutapod.proto/title"
 msgstr "Mutapod"
+
+msgid "unnatural/base/biomass/buildings/nutritree.proto/description"
+msgstr "Nutritree"
+
+msgid "unnatural/base/biomass/buildings/nutritree.proto/title"
+msgstr "Nutritree"
+
+msgid "unnatural/base/biomass/buildings/phytomorph.proto/description"
+msgstr "Phytomorph"
+
+msgid "unnatural/base/biomass/buildings/phytomorph.proto/title"
+msgstr "Phytomorph"
 
 msgid "unnatural/base/biomass/buildings/spike_wall.proto/description"
 msgstr "Spike wall"
@@ -463,6 +469,12 @@ msgstr "Biomass"
 
 msgid "unnatural/base/biomass/resources/biomass.proto/title"
 msgstr "Biomass"
+
+msgid "unnatural/base/biomass/resources/metal.proto/description"
+msgstr "Metal"
+
+msgid "unnatural/base/biomass/resources/metal.proto/title"
+msgstr "Metal"
 
 msgid "unnatural/base/biomass/resources/seed.proto/description"
 msgstr "Seed"

@@ -39,12 +39,6 @@ msgstr "Bifolia bush"
 msgid "unnatural/doodads/vegetation/bifolia_bush.proto/title"
 msgstr "Bifolia bush"
 
-msgid "unnatural/doodads/vegetation/blood_sack_tree.proto/description"
-msgstr "Blood sack tree"
-
-msgid "unnatural/doodads/vegetation/blood_sack_tree.proto/title"
-msgstr "Blood sack tree"
-
 msgid "unnatural/doodads/vegetation/brightstripe_bush.proto/description"
 msgstr "Brightstripe bush"
 
@@ -93,6 +87,12 @@ msgstr "Cup fruit tree"
 msgid "unnatural/doodads/vegetation/cup_fruit_tree.proto/title"
 msgstr "Cup fruit tree"
 
+msgid "unnatural/doodads/vegetation/dart_bush.proto/description"
+msgstr "Dart bush"
+
+msgid "unnatural/doodads/vegetation/dart_bush.proto/title"
+msgstr "Dart bush"
+
 msgid "unnatural/doodads/vegetation/flagpole_tree.proto/description"
 msgstr "Flagpole tree"
 
@@ -134,12 +134,6 @@ msgstr "Jamcollar tree"
 
 msgid "unnatural/doodads/vegetation/jamcollar_tree.proto/title"
 msgstr "Jamcollar tree"
-
-msgid "unnatural/doodads/vegetation/nectar_stump.proto/description"
-msgstr "Nectar stump"
-
-msgid "unnatural/doodads/vegetation/nectar_stump.proto/title"
-msgstr "Nectar stump"
 
 msgid "unnatural/doodads/vegetation/pearltwig.proto/description"
 msgstr "Pearltwig"
