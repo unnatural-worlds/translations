@@ -20,6 +20,9 @@ msgstr ""
 msgid "unnatural/base/damageTypes/antimatter"
 msgstr "Antimatter"
 
+msgid "unnatural/base/damageTypes/corrosive"
+msgstr "Corrosive"
+
 msgid "unnatural/base/damageTypes/explosive"
 msgstr "Explosive"
 

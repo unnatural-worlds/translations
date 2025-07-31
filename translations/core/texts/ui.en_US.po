@@ -885,6 +885,9 @@ msgstr "Mouse zoom speed:"
 msgid "unnatural/options/gameplay"
 msgstr "Gameplay"
 
+msgid "unnatural/options/gameplay/detailedTooltips/description"
+msgstr "Additional information about units."
+
 msgid "unnatural/options/gameplay/firstGameMode"
 msgstr "First-game mode:"
 
@@ -1044,6 +1047,9 @@ msgstr "User interface"
 msgid "unnatural/options/userInterface/chatMessageDuration"
 msgstr "Chat message duration:"
 
+msgid "unnatural/options/userInterface/detailedTooltips"
+msgstr "Detailed tooltips:"
+
 msgid "unnatural/options/userInterface/guiScale"
 msgstr "GUI scale:"
 
@@ -1116,6 +1122,9 @@ msgstr "Recompute"
 msgid "unnatural/pathStateEnum/searching"
 msgstr "Searching"
 
+msgid "unnatural/performanceTooltip/dynamicResolution"
+msgstr "Dynamic resolution:"
+
 msgid "unnatural/performanceTooltip/engineObjectsAvgPeak"
 msgstr "Engine objects (avg | peak):"
 
@@ -1127,6 +1136,9 @@ msgstr "Game objects:"
 
 msgid "unnatural/performanceTooltip/gameSpeed"
 msgstr "Game speed:"
+
+msgid "unnatural/performanceTooltip/gpuTimeAvgPeak"
+msgstr "GPU time (avg | peak):"
 
 msgid "unnatural/performanceTooltip/mainThreadUtilization"
 msgstr "Main thread utilization:"
@@ -1593,8 +1605,8 @@ msgstr "{0} °"
 msgid "unnatural/tooltips/appliesTo"
 msgstr "Applies to"
 
-msgid "unnatural/tooltips/armor"
-msgstr "Armor: "
+msgid "unnatural/tooltips/armorType"
+msgstr "Armor type: "
 
 msgid "unnatural/tooltips/attack"
 msgstr "Attack"
@@ -1617,20 +1629,14 @@ msgstr "Construction"
 msgid "unnatural/tooltips/consumedBy"
 msgstr "Consumed by"
 
-msgid "unnatural/tooltips/damage"
-msgstr "{0} damage"
-
-msgid "unnatural/tooltips/damagePerSecond"
-msgstr "{0} damage/s"
+msgid "unnatural/tooltips/damageAtLowLife"
+msgstr "Damage at low life: "
 
 msgid "unnatural/tooltips/defense"
 msgstr "Defense"
 
 msgid "unnatural/tooltips/dps"
 msgstr "DPS: "
-
-msgid "unnatural/tooltips/dpsAtLowLife"
-msgstr "DPS at low life: "
 
 msgid "unnatural/tooltips/duration"
 msgstr "Duration: "
@@ -1640,6 +1646,9 @@ msgstr "Elevation: "
 
 msgid "unnatural/tooltips/explosionDamage"
 msgstr "Explosion damage: "
+
+msgid "unnatural/tooltips/explosionFriendlyDamage"
+msgstr "Explosion friendly damage: "
 
 msgid "unnatural/tooltips/explosionRadius"
 msgstr "Explosion radius: "
@@ -1653,9 +1662,6 @@ msgstr "Life: "
 msgid "unnatural/tooltips/magic"
 msgstr "Magic"
 
-msgid "unnatural/tooltips/makeSteadyProduction"
-msgstr "Make steady production of:"
-
 msgid "unnatural/tooltips/mana"
 msgstr "Mana: "
 
@@ -1668,6 +1674,9 @@ msgstr "{0} m/s"
 msgid "unnatural/tooltips/movement"
 msgstr "Movement"
 
+msgid "unnatural/tooltips/oneShotDamage"
+msgstr "One shot damage: "
+
 msgid "unnatural/tooltips/percentDamageTable"
 msgstr "% Damage Table"
 
@@ -1676,6 +1685,9 @@ msgstr "{0} %"
 
 msgid "unnatural/tooltips/perMinute"
 msgstr "{0}/m"
+
+msgid "unnatural/tooltips/perSecond"
+msgstr "{0}/s"
 
 msgid "unnatural/tooltips/placeOver"
 msgstr "Place over"
@@ -1701,14 +1713,17 @@ msgstr "Recipes"
 msgid "unnatural/tooltips/regeneration"
 msgstr "Regeneration: "
 
+msgid "unnatural/tooltips/regenerationDelay"
+msgstr "Regeneration delay: "
+
 msgid "unnatural/tooltips/requirementsToUnlock"
 msgstr "Requirements to unlock"
 
 msgid "unnatural/tooltips/seconds"
 msgstr "{0} s"
 
-msgid "unnatural/tooltips/shotsPerSecond"
-msgstr "{0} shots/s"
+msgid "unnatural/tooltips/splashFriendlyDamage"
+msgstr "Splash friendly damage: "
 
 msgid "unnatural/tooltips/splashRadius"
 msgstr "Splash radius: "
@@ -1743,8 +1758,8 @@ msgstr "Shooting range: "
 msgid "unnatural/tooltips/upgrade/splashRadius"
 msgstr "Splash radius: "
 
-msgid "unnatural/tooltips/weapon"
-msgstr "Weapon: "
+msgid "unnatural/tooltips/weaponType"
+msgstr "Weapon type: "
 
 msgid "unnatural/units/buildings"
 msgstr "Buildings"
