@@ -21,7 +21,7 @@ msgstr ""
 "Avoiding integration of any AI has stagnated their advancement to almost complete halt in the recent centuries.\n"
 "And yet they are surviving and prosper.\n"
 "\n"
-"This is work in progress. DO NOT PLAY."
+"This race will be removed in future update. DO NOT PLAY."
 
 msgid "unnatural/base/archaics/archaics.proto/title"
 msgstr "Archaics"
@@ -393,7 +393,12 @@ msgid "unnatural/base/archaics/upgrades/smoother_propellers.proto/title"
 msgstr "Smoother propellers"
 
 msgid "unnatural/base/biomass/biomass.proto/description"
-msgstr "Biomass"
+msgstr ""
+"Evolution gone wrong - or rights, depends on who is asking.\n"
+"There might have been some outside influence too.\n"
+"Either way, this race is driven by photosynthesis, mutation, acid, and claws.\n"
+"\n"
+"This race is early in development."
 
 msgid "unnatural/base/biomass/biomass.proto/title"
 msgstr "Biomass"
@@ -513,7 +518,7 @@ msgid "unnatural/base/biomass/units/lasher.proto/title"
 msgstr "Lasher"
 
 msgid "unnatural/base/biomass/units/maggot.proto/description"
-msgstr "Maggot"
+msgstr "Servant. Carries nutrients from roots to fruition. Incapable of attacks."
 
 msgid "unnatural/base/biomass/units/maggot.proto/title"
 msgstr "Maggot"
@@ -525,7 +530,7 @@ msgid "unnatural/base/biomass/units/mechlas.proto/title"
 msgstr "Mechlas"
 
 msgid "unnatural/base/biomass/units/overlord.proto/description"
-msgstr "Overlord"
+msgstr "Local area mind-control authority. Without it, they are just plants."
 
 msgid "unnatural/base/biomass/units/overlord.proto/title"
 msgstr "Overlord"
@@ -808,7 +813,7 @@ msgid "unnatural/base/technocracy/units/big_boom_boy.proto/title"
 msgstr "Big boom boy"
 
 msgid "unnatural/base/technocracy/units/cyclops.proto/description"
-msgstr "Focuses its one eye as a scope. Artillery unit, provides supplemental damage."
+msgstr "Focuses its one eye as a scope."
 
 msgid "unnatural/base/technocracy/units/cyclops.proto/title"
 msgstr "Cyclops"
@@ -820,7 +825,7 @@ msgid "unnatural/base/technocracy/units/drone.proto/title"
 msgstr "Drone"
 
 msgid "unnatural/base/technocracy/units/golem.proto/description"
-msgstr "Short range, but very destructive to buildings."
+msgstr "Golem"
 
 msgid "unnatural/base/technocracy/units/golem.proto/title"
 msgstr "Golem"
@@ -838,13 +843,13 @@ msgid "unnatural/base/technocracy/units/kitsune.proto/title"
 msgstr "Kitsune"
 
 msgid "unnatural/base/technocracy/units/lurker.proto/description"
-msgstr "Crawls over cliffs. Sniper unit, provides supplemental damage."
+msgstr "Crawls over cliffs."
 
 msgid "unnatural/base/technocracy/units/lurker.proto/title"
 msgstr "Lurker"
 
 msgid "unnatural/base/technocracy/units/mermaid.proto/description"
-msgstr "Sneaky attacks from water. Artillery unit, provides supplemental damage."
+msgstr "Sneaky attacks from water."
 
 msgid "unnatural/base/technocracy/units/mermaid.proto/title"
 msgstr "Mermaid"
