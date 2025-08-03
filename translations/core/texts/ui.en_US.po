@@ -1629,6 +1629,9 @@ msgstr "Construction"
 msgid "unnatural/tooltips/consumedBy"
 msgstr "Consumed by"
 
+msgid "unnatural/tooltips/damage"
+msgstr "Damage: "
+
 msgid "unnatural/tooltips/damageAtLowLife"
 msgstr "Damage at low life: "
 
@@ -1646,6 +1649,9 @@ msgstr "Elevation: "
 
 msgid "unnatural/tooltips/explosionDamage"
 msgstr "Explosion damage: "
+
+msgid "unnatural/tooltips/explosionEdgeDamage"
+msgstr "Explosion edge damage: "
 
 msgid "unnatural/tooltips/explosionFriendlyDamage"
 msgstr "Explosion friendly damage: "
@@ -1721,6 +1727,9 @@ msgstr "Requirements to unlock"
 
 msgid "unnatural/tooltips/seconds"
 msgstr "{0} s"
+
+msgid "unnatural/tooltips/splashEdgeDamage"
+msgstr "Splash edge damage: "
 
 msgid "unnatural/tooltips/splashFriendlyDamage"
 msgstr "Splash friendly damage: "
