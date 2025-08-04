@@ -511,6 +511,12 @@ msgstr "Diamond skin"
 msgid "unnatural/base/biomass/units/diamond_skin.proto/title"
 msgstr "Diamond skin"
 
+msgid "unnatural/base/biomass/units/hound.proto/description"
+msgstr "Hound"
+
+msgid "unnatural/base/biomass/units/hound.proto/title"
+msgstr "Hound"
+
 msgid "unnatural/base/biomass/units/lasher.proto/description"
 msgstr "Lasher"
 
@@ -540,12 +546,6 @@ msgstr "Rhino"
 
 msgid "unnatural/base/biomass/units/rhino.proto/title"
 msgstr "Rhino"
-
-msgid "unnatural/base/biomass/units/runner.proto/description"
-msgstr "Runner"
-
-msgid "unnatural/base/biomass/units/runner.proto/title"
-msgstr "Runner"
 
 msgid "unnatural/base/biomass/units/sentinel.proto/description"
 msgstr "Sentinel"
@@ -588,6 +588,66 @@ msgstr "Tunneler"
 
 msgid "unnatural/base/biomass/units/tunneler.proto/title"
 msgstr "Tunneler"
+
+msgid "unnatural/base/biomass/upgrades/acid.proto/description"
+msgstr "Acid"
+
+msgid "unnatural/base/biomass/upgrades/acid.proto/title"
+msgstr "Acid"
+
+msgid "unnatural/base/biomass/upgrades/aim.proto/description"
+msgstr "Aim"
+
+msgid "unnatural/base/biomass/upgrades/aim.proto/title"
+msgstr "Aim"
+
+msgid "unnatural/base/biomass/upgrades/chitin.proto/description"
+msgstr "Chitin"
+
+msgid "unnatural/base/biomass/upgrades/chitin.proto/title"
+msgstr "Chitin"
+
+msgid "unnatural/base/biomass/upgrades/claws.proto/description"
+msgstr "Claws"
+
+msgid "unnatural/base/biomass/upgrades/claws.proto/title"
+msgstr "Claws"
+
+msgid "unnatural/base/biomass/upgrades/crawling.proto/description"
+msgstr "Crawling"
+
+msgid "unnatural/base/biomass/upgrades/crawling.proto/title"
+msgstr "Crawling"
+
+msgid "unnatural/base/biomass/upgrades/evasion.proto/description"
+msgstr "Evasion"
+
+msgid "unnatural/base/biomass/upgrades/evasion.proto/title"
+msgstr "Evasion"
+
+msgid "unnatural/base/biomass/upgrades/precision.proto/description"
+msgstr "Precision"
+
+msgid "unnatural/base/biomass/upgrades/precision.proto/title"
+msgstr "Precision"
+
+msgid "unnatural/base/biomass/upgrades/regeneration.proto/description"
+msgstr "Regeneration"
+
+msgid "unnatural/base/biomass/upgrades/regeneration.proto/title"
+msgstr "Regeneration"
+
+msgid "unnatural/base/biomass/upgrades/running.proto/description"
+msgstr "Running"
+
+msgid "unnatural/base/biomass/upgrades/running.proto/title"
+msgstr "Running"
+
+msgid "unnatural/base/biomass/upgrades/splash.proto/description"
+msgstr "Splash"
+
+msgid "unnatural/base/biomass/upgrades/splash.proto/title"
+msgstr "Splash"
 
 msgid "unnatural/base/ores/aether_deposit.proto/description"
 msgstr "Gaseous substance that defies scientific understanding."
@@ -884,23 +944,17 @@ msgstr "Yatag"
 msgid "unnatural/base/technocracy/units/yatag.proto/title"
 msgstr "Yatag"
 
-msgid "unnatural/base/technocracy/upgrades/artillery_barrage.proto/description"
-msgstr "Improves damage and range of Mermaids."
+msgid "unnatural/base/technocracy/upgrades/atv_hull.proto/description"
+msgstr "Atv hull"
 
-msgid "unnatural/base/technocracy/upgrades/artillery_barrage.proto/title"
-msgstr "Artillery barrage"
+msgid "unnatural/base/technocracy/upgrades/atv_hull.proto/title"
+msgstr "Atv hull"
 
-msgid "unnatural/base/technocracy/upgrades/breaching_protocol.proto/description"
-msgstr "Improves damage and defenses of Colossi."
+msgid "unnatural/base/technocracy/upgrades/big_boom_boy_servos.proto/description"
+msgstr "Big boom boy servos"
 
-msgid "unnatural/base/technocracy/upgrades/breaching_protocol.proto/title"
-msgstr "Breaching protocol"
-
-msgid "unnatural/base/technocracy/upgrades/cannon_stabilization.proto/description"
-msgstr "Shoot further, or farther, whichever suits your tongue. Improves Cyclops."
-
-msgid "unnatural/base/technocracy/upgrades/cannon_stabilization.proto/title"
-msgstr "Cannon stabilization"
+msgid "unnatural/base/technocracy/upgrades/big_boom_boy_servos.proto/title"
+msgstr "Big boom boy servos"
 
 msgid "unnatural/base/technocracy/upgrades/capacitor.proto/description"
 msgstr "Stores additional power for releasing it in bigger bursts. Improves damage of Thors."
@@ -908,17 +962,17 @@ msgstr "Stores additional power for releasing it in bigger bursts. Improves dama
 msgid "unnatural/base/technocracy/upgrades/capacitor.proto/title"
 msgstr "Capacitor"
 
-msgid "unnatural/base/technocracy/upgrades/diamond_tip.proto/description"
-msgstr "More Drills per Drill."
+msgid "unnatural/base/technocracy/upgrades/cyclops_damage.proto/description"
+msgstr "Cyclops damage"
 
-msgid "unnatural/base/technocracy/upgrades/diamond_tip.proto/title"
-msgstr "Diamond tip"
+msgid "unnatural/base/technocracy/upgrades/cyclops_damage.proto/title"
+msgstr "Cyclops damage"
 
-msgid "unnatural/base/technocracy/upgrades/evasive_maneuvers.proto/description"
-msgstr "No need for heavy armor if you can dodge bullets. Improves Kitsune."
+msgid "unnatural/base/technocracy/upgrades/drone_rotors.proto/description"
+msgstr "Drone rotors"
 
-msgid "unnatural/base/technocracy/upgrades/evasive_maneuvers.proto/title"
-msgstr "Evasive maneuvers"
+msgid "unnatural/base/technocracy/upgrades/drone_rotors.proto/title"
+msgstr "Drone rotors"
 
 msgid "unnatural/base/technocracy/upgrades/fabrication.proto/description"
 msgstr "Provides few extra mechanical arms for your factories to speed up their operations."
@@ -926,49 +980,69 @@ msgstr "Provides few extra mechanical arms for your factories to speed up their 
 msgid "unnatural/base/technocracy/upgrades/fabrication.proto/title"
 msgstr "Fabrication"
 
-msgid "unnatural/base/technocracy/upgrades/greased_pistons.proto/description"
-msgstr "Charge! Move the front-line of the frontier further front. Improves Juggernauts."
+msgid "unnatural/base/technocracy/upgrades/fortification.proto/description"
+msgstr "Fortification"
 
-msgid "unnatural/base/technocracy/upgrades/greased_pistons.proto/title"
-msgstr "Greased pistons"
+msgid "unnatural/base/technocracy/upgrades/fortification.proto/title"
+msgstr "Fortification"
 
-msgid "unnatural/base/technocracy/upgrades/matter_annihilation.proto/description"
-msgstr "Tweaking parameters for improved ruinage. Improves Golems."
+msgid "unnatural/base/technocracy/upgrades/golem_fires.proto/description"
+msgstr "Golem fires"
 
-msgid "unnatural/base/technocracy/upgrades/matter_annihilation.proto/title"
-msgstr "Matter annihilation"
+msgid "unnatural/base/technocracy/upgrades/golem_fires.proto/title"
+msgstr "Golem fires"
 
-msgid "unnatural/base/technocracy/upgrades/overcharged_shield.proto/description"
-msgstr "Bring the defenses to where you need them, now. Improves Paladins."
+msgid "unnatural/base/technocracy/upgrades/juggernaut_range.proto/description"
+msgstr "Juggernaut range"
 
-msgid "unnatural/base/technocracy/upgrades/overcharged_shield.proto/title"
-msgstr "Overcharged shield"
+msgid "unnatural/base/technocracy/upgrades/juggernaut_range.proto/title"
+msgstr "Juggernaut range"
 
-msgid "unnatural/base/technocracy/upgrades/precision_burns.proto/description"
-msgstr ""
-"Accurately points at the enemy.\n"
-"Scratch that.\n"
-"Angrily burns enemy's weakest point.\n"
-"Improves Lurkers."
+msgid "unnatural/base/technocracy/upgrades/kitsune_evasion.proto/description"
+msgstr "Kitsune evasion"
 
-msgid "unnatural/base/technocracy/upgrades/precision_burns.proto/title"
-msgstr "Precision burns"
+msgid "unnatural/base/technocracy/upgrades/kitsune_evasion.proto/title"
+msgstr "Kitsune evasion"
 
-msgid "unnatural/base/technocracy/upgrades/quadfire.proto/description"
-msgstr "What is better than two barrels? Four barrels. More flames is more damage. Improves Twinfires."
+msgid "unnatural/base/technocracy/upgrades/lurker_precision.proto/description"
+msgstr "Lurker precision"
 
-msgid "unnatural/base/technocracy/upgrades/quadfire.proto/title"
-msgstr "Quadfire"
+msgid "unnatural/base/technocracy/upgrades/lurker_precision.proto/title"
+msgstr "Lurker precision"
 
-msgid "unnatural/base/technocracy/upgrades/rotor_blades.proto/description"
-msgstr "Faster spinning, faster scouting. Improves Eagles."
+msgid "unnatural/base/technocracy/upgrades/mermaid_speed.proto/description"
+msgstr "Mermaid speed"
 
-msgid "unnatural/base/technocracy/upgrades/rotor_blades.proto/title"
-msgstr "Rotor blades"
+msgid "unnatural/base/technocracy/upgrades/mermaid_speed.proto/title"
+msgstr "Mermaid speed"
 
-msgid "unnatural/base/technocracy/upgrades/strengthened_hull.proto/description"
-msgstr "Better safe than sorry. Protect your valuable goods. Improves ATV."
+msgid "unnatural/base/technocracy/upgrades/paladin_overcharge.proto/description"
+msgstr "Paladin overcharge"
 
-msgid "unnatural/base/technocracy/upgrades/strengthened_hull.proto/title"
-msgstr "Strengthened hull"
+msgid "unnatural/base/technocracy/upgrades/paladin_overcharge.proto/title"
+msgstr "Paladin overcharge"
+
+msgid "unnatural/base/technocracy/upgrades/tripod_range.proto/description"
+msgstr "Tripod range"
+
+msgid "unnatural/base/technocracy/upgrades/tripod_range.proto/title"
+msgstr "Tripod range"
+
+msgid "unnatural/base/technocracy/upgrades/twinfire_quadfire.proto/description"
+msgstr "Twinfire quadfire"
+
+msgid "unnatural/base/technocracy/upgrades/twinfire_quadfire.proto/title"
+msgstr "Twinfire quadfire"
+
+msgid "unnatural/base/technocracy/upgrades/warlord_offensive.proto/description"
+msgstr "Warlord offensive"
+
+msgid "unnatural/base/technocracy/upgrades/warlord_offensive.proto/title"
+msgstr "Warlord offensive"
+
+msgid "unnatural/base/technocracy/upgrades/yatag_siege.proto/description"
+msgstr "Yatag siege"
+
+msgid "unnatural/base/technocracy/upgrades/yatag_siege.proto/title"
+msgstr "Yatag siege"
 
