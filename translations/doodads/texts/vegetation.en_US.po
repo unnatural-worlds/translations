@@ -16,205 +16,205 @@ msgstr ""
 "X-Crowdin-Language: en\n"
 
 msgid "unnatural/doodads/vegetation/azure_helicup_tree.proto/description"
-msgstr "Azure helicup tree"
+msgstr "Tall spirals of cobalt foliage that catch wind currents to spread spores."
 
 msgid "unnatural/doodads/vegetation/azure_helicup_tree.proto/title"
 msgstr "Azure helicup tree"
 
 msgid "unnatural/doodads/vegetation/bagpipes_tree.proto/description"
-msgstr "Bagpipes tree"
+msgstr "Hollow trunk channels emit eerie whistles when the wind passes through."
 
 msgid "unnatural/doodads/vegetation/bagpipes_tree.proto/title"
 msgstr "Bagpipes tree"
 
 msgid "unnatural/doodads/vegetation/barebark_bush.proto/description"
-msgstr "Barebark bush"
+msgstr "A leafless shrub with bark that peels away in translucent, razor-thin sheets."
 
 msgid "unnatural/doodads/vegetation/barebark_bush.proto/title"
 msgstr "Barebark bush"
 
 msgid "unnatural/doodads/vegetation/bifolia_bush.proto/description"
-msgstr "Bifolia bush"
+msgstr "Paired leaves that shift color depending on the chemical content of nearby soil."
 
 msgid "unnatural/doodads/vegetation/bifolia_bush.proto/title"
 msgstr "Bifolia bush"
 
 msgid "unnatural/doodads/vegetation/brightstripe_bush.proto/description"
-msgstr "Brightstripe bush"
+msgstr "A low shrub streaked with glowing veins."
 
 msgid "unnatural/doodads/vegetation/brightstripe_bush.proto/title"
 msgstr "Brightstripe bush"
 
 msgid "unnatural/doodads/vegetation/broadleaf_bush.proto/description"
-msgstr "Broadleaf bush"
+msgstr "Wide, waxy leaves designed to capture the faintest traces of moisture in arid zones."
 
 msgid "unnatural/doodads/vegetation/broadleaf_bush.proto/title"
 msgstr "Broadleaf bush"
 
 msgid "unnatural/doodads/vegetation/cagefruit_bush.proto/description"
-msgstr "Cagefruit bush"
+msgstr "Grows spiny trunks with nutrient-rich fruit pods."
 
 msgid "unnatural/doodads/vegetation/cagefruit_bush.proto/title"
 msgstr "Cagefruit bush"
 
 msgid "unnatural/doodads/vegetation/cartographer_tree.proto/description"
-msgstr "Cartographer tree"
+msgstr "Its four branches always point in the cardinal directions."
 
 msgid "unnatural/doodads/vegetation/cartographer_tree.proto/title"
 msgstr "Cartographer tree"
 
 msgid "unnatural/doodads/vegetation/chimney_tree.proto/description"
-msgstr "Chimney tree"
+msgstr "Hollow trunk vents warm vapors from deep root fermentation."
 
 msgid "unnatural/doodads/vegetation/chimney_tree.proto/title"
 msgstr "Chimney tree"
 
 msgid "unnatural/doodads/vegetation/cilia_bush.proto/description"
-msgstr "Cilia bush"
+msgstr "Delicate hair-like fronds that react to passing air currents and nearby vibrations."
 
 msgid "unnatural/doodads/vegetation/cilia_bush.proto/title"
 msgstr "Cilia bush"
 
 msgid "unnatural/doodads/vegetation/claws_stump.proto/description"
-msgstr "Claws stump"
+msgstr "A severed trunk with jagged branches that resemble skeletal talons."
 
 msgid "unnatural/doodads/vegetation/claws_stump.proto/title"
 msgstr "Claws stump"
 
 msgid "unnatural/doodads/vegetation/cup_fruit_tree.proto/description"
-msgstr "Cup fruit tree"
+msgstr "Produces open cup-shaped fruit that collects rainwater."
 
 msgid "unnatural/doodads/vegetation/cup_fruit_tree.proto/title"
 msgstr "Cup fruit tree"
 
 msgid "unnatural/doodads/vegetation/dart_bush.proto/description"
-msgstr "Dart bush"
+msgstr "Fires needle-like seeds when disturbed."
 
 msgid "unnatural/doodads/vegetation/dart_bush.proto/title"
 msgstr "Dart bush"
 
 msgid "unnatural/doodads/vegetation/flagpole_tree.proto/description"
-msgstr "Flagpole tree"
+msgstr "A rigid, towering trunk topped with a single banner-like leaf."
 
 msgid "unnatural/doodads/vegetation/flagpole_tree.proto/title"
 msgstr "Flagpole tree"
 
 msgid "unnatural/doodads/vegetation/glow_bulb_stump.proto/description"
-msgstr "Glow bulb stump"
+msgstr "A stump housing glowing fungal bulbs within its bark."
 
 msgid "unnatural/doodads/vegetation/glow_bulb_stump.proto/title"
 msgstr "Glow bulb stump"
 
 msgid "unnatural/doodads/vegetation/greek_column_bush.proto/description"
-msgstr "Greek column bush"
+msgstr "Its ribbed stem grows in perfectly fluted, column-like shape."
 
 msgid "unnatural/doodads/vegetation/greek_column_bush.proto/title"
 msgstr "Greek column bush"
 
 msgid "unnatural/doodads/vegetation/hairytwig.proto/description"
-msgstr "Hairytwig"
+msgstr "Thin stem covered in soft, insulating fibers to survive harsh climate."
 
 msgid "unnatural/doodads/vegetation/hairytwig.proto/title"
 msgstr "Hairytwig"
 
 msgid "unnatural/doodads/vegetation/helix_tree.proto/description"
-msgstr "Helix tree"
+msgstr "Quadruple-spiraled trunk structure provides support for tall canopy."
 
 msgid "unnatural/doodads/vegetation/helix_tree.proto/title"
 msgstr "Helix tree"
 
 msgid "unnatural/doodads/vegetation/indigo_chalix_bush.proto/description"
-msgstr "Indigo chalix bush"
+msgstr "Deep-purple leaves contain sweet hallucinogenic nectar."
 
 msgid "unnatural/doodads/vegetation/indigo_chalix_bush.proto/title"
 msgstr "Indigo chalix bush"
 
 msgid "unnatural/doodads/vegetation/jamcollar_tree.proto/description"
-msgstr "Jamcollar tree"
+msgstr "A ring-shaped leaves covered in sticky, sweet resin to attract pollinators."
 
 msgid "unnatural/doodads/vegetation/jamcollar_tree.proto/title"
 msgstr "Jamcollar tree"
 
 msgid "unnatural/doodads/vegetation/pearltwig.proto/description"
-msgstr "Pearltwig"
+msgstr "Branchless tree studded with giant smooth, pearl-like seed pod."
 
 msgid "unnatural/doodads/vegetation/pearltwig.proto/title"
 msgstr "Pearltwig"
 
 msgid "unnatural/doodads/vegetation/pincer_tree.proto/description"
-msgstr "Pincer tree"
+msgstr "Branch tips split into sharp, claw-like grips that close at night."
 
 msgid "unnatural/doodads/vegetation/pincer_tree.proto/title"
 msgstr "Pincer tree"
 
 msgid "unnatural/doodads/vegetation/pipeshroom.proto/description"
-msgstr "Pipeshroom"
+msgstr "Giant hollow fungal stalks that echo with a low hum when the wind blows."
 
 msgid "unnatural/doodads/vegetation/pipeshroom.proto/title"
 msgstr "Pipeshroom"
 
 msgid "unnatural/doodads/vegetation/potato_bush.proto/description"
-msgstr "Potato bush"
+msgstr "Dense shrub with single nutrient-packed tuber."
 
 msgid "unnatural/doodads/vegetation/potato_bush.proto/title"
 msgstr "Potato bush"
 
 msgid "unnatural/doodads/vegetation/pyramid_tree.proto/description"
-msgstr "Pyramid tree"
+msgstr "Massive layered rectangular trunk supports a simple canopy."
 
 msgid "unnatural/doodads/vegetation/pyramid_tree.proto/title"
 msgstr "Pyramid tree"
 
 msgid "unnatural/doodads/vegetation/spiral_trunk_tree.proto/description"
-msgstr "Spiral trunk tree"
+msgstr "Twisted trunk spirals upward, channeling rainwater toward hidden root reservoirs."
 
 msgid "unnatural/doodads/vegetation/spiral_trunk_tree.proto/title"
 msgstr "Spiral trunk tree"
 
 msgid "unnatural/doodads/vegetation/spring_fruit_tree.proto/description"
-msgstr "Spring fruit tree"
+msgstr "Fruits with seeds launch from their stems with explosive force when ripe."
 
 msgid "unnatural/doodads/vegetation/spring_fruit_tree.proto/title"
 msgstr "Spring fruit tree"
 
 msgid "unnatural/doodads/vegetation/star_bush.proto/description"
-msgstr "Star bush"
+msgstr "Root system organized into perfect seven-pointed star."
 
 msgid "unnatural/doodads/vegetation/star_bush.proto/title"
 msgstr "Star bush"
 
 msgid "unnatural/doodads/vegetation/starsky_tree.proto/description"
-msgstr "Starsky tree"
+msgstr "Tall monolithic canopy with many reflective spots, resembling nigh sky."
 
 msgid "unnatural/doodads/vegetation/starsky_tree.proto/title"
 msgstr "Starsky tree"
 
 msgid "unnatural/doodads/vegetation/tallmouth_tree.proto/description"
-msgstr "Tallmouth tree"
+msgstr "Hollow opening at the top emits low roars during storms."
 
 msgid "unnatural/doodads/vegetation/tallmouth_tree.proto/title"
 msgstr "Tallmouth tree"
 
 msgid "unnatural/doodads/vegetation/trifeather_tree.proto/description"
-msgstr "Trifeather tree"
+msgstr "Its trunk splits into three branches, each with feather-like leaves that flutter in unison."
 
 msgid "unnatural/doodads/vegetation/trifeather_tree.proto/title"
 msgstr "Trifeather tree"
 
 msgid "unnatural/doodads/vegetation/twisted_trunk_tree.proto/description"
-msgstr "Twisted trunk tree"
+msgstr "Warped trunk coils around itself as if strangling invisible prey, producing nectar."
 
 msgid "unnatural/doodads/vegetation/twisted_trunk_tree.proto/title"
 msgstr "Twisted trunk tree"
 
 msgid "unnatural/doodads/vegetation/violet_bush.proto/description"
-msgstr "Violet bush"
+msgstr "Soft purple leaves exude a faint perfume that deters insects."
 
 msgid "unnatural/doodads/vegetation/violet_bush.proto/title"
 msgstr "Violet bush"
 
 msgid "unnatural/doodads/vegetation/windmill_bush.proto/description"
-msgstr "Windmill bush"
+msgstr "Its petal-like blades rotate slowly in the wind, scattering seeds afar."
 
 msgid "unnatural/doodads/vegetation/windmill_bush.proto/title"
 msgstr "Windmill bush"

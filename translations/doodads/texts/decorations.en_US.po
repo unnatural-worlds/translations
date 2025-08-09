@@ -16,55 +16,55 @@ msgstr ""
 "X-Crowdin-Language: en\n"
 
 msgid "unnatural/doodads/decorations/axolotl_tank.proto/description"
-msgstr "Axolotl tank"
+msgstr "A reinforced aqua-vault housing bioengineered axolotls, prized for their regenerative enzymes used in field medkits."
 
 msgid "unnatural/doodads/decorations/axolotl_tank.proto/title"
 msgstr "Axolotl tank"
 
 msgid "unnatural/doodads/decorations/billboard_1.proto/description"
-msgstr "Billboard 1"
+msgstr "A towering billboard flickering with outdated propaganda from a war no one remembers."
 
 msgid "unnatural/doodads/decorations/billboard_1.proto/title"
 msgstr "Billboard 1"
 
 msgid "unnatural/doodads/decorations/billboard_2.proto/description"
-msgstr "Billboard 2"
+msgstr "Digital signage looping relentless corporate recruitment ads for an empire long dissolved."
 
 msgid "unnatural/doodads/decorations/billboard_2.proto/title"
 msgstr "Billboard 2"
 
 msgid "unnatural/doodads/decorations/billboard_3.proto/description"
-msgstr "Billboard 3"
+msgstr "A massive display panel, now hijacked, broadcasting cryptic symbols."
 
 msgid "unnatural/doodads/decorations/billboard_3.proto/title"
 msgstr "Billboard 3"
 
 msgid "unnatural/doodads/decorations/cooling_tower_1.proto/description"
-msgstr "Cooling tower 1"
+msgstr "Industrial heat-dispersal spire."
 
 msgid "unnatural/doodads/decorations/cooling_tower_1.proto/title"
 msgstr "Cooling tower 1"
 
 msgid "unnatural/doodads/decorations/cooling_tower_2.proto/description"
-msgstr "Cooling tower 2"
+msgstr "A heavy thermal siphon, designed for underground machinery plants."
 
 msgid "unnatural/doodads/decorations/cooling_tower_2.proto/title"
 msgstr "Cooling tower 2"
 
 msgid "unnatural/doodads/decorations/heating_tower.proto/description"
-msgstr "Heating tower"
+msgstr "Massive vertical furnace used to keep habitats warm."
 
 msgid "unnatural/doodads/decorations/heating_tower.proto/title"
 msgstr "Heating tower"
 
 msgid "unnatural/doodads/decorations/lamp_tower.proto/description"
-msgstr "Lamp tower"
+msgstr "A monolithic light-beacon, guiding traders in the dark."
 
 msgid "unnatural/doodads/decorations/lamp_tower.proto/title"
 msgstr "Lamp tower"
 
 msgid "unnatural/doodads/decorations/platform.proto/description"
-msgstr "Platform"
+msgstr "A reinforced staging platform."
 
 msgid "unnatural/doodads/decorations/platform.proto/title"
 msgstr "Platform"
