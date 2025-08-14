@@ -415,10 +415,10 @@ msgstr "Spikes anchored in a place."
 msgid "unnatural/base/biomass/buildings/anchor_spikes.proto/title"
 msgstr "Anchor spikes"
 
-msgid "unnatural/base/biomass/buildings/dart_mine.proto/description"
+msgid "unnatural/base/biomass/buildings/dart_trap.proto/description"
 msgstr "Surgical dart throwing trap."
 
-msgid "unnatural/base/biomass/buildings/dart_mine.proto/title"
+msgid "unnatural/base/biomass/buildings/dart_trap.proto/title"
 msgstr "Dart mine"
 
 msgid "unnatural/base/biomass/buildings/deeproot.proto/description"
@@ -427,10 +427,10 @@ msgstr "Extracts metal-heavy nutrients from deep down."
 msgid "unnatural/base/biomass/buildings/deeproot.proto/title"
 msgstr "Deeproot"
 
-msgid "unnatural/base/biomass/buildings/gas_mine.proto/description"
+msgid "unnatural/base/biomass/buildings/gas_trap.proto/description"
 msgstr "Violently explodes and releases toxic gas towards the intruder."
 
-msgid "unnatural/base/biomass/buildings/gas_mine.proto/title"
+msgid "unnatural/base/biomass/buildings/gas_trap.proto/title"
 msgstr "Gas mine"
 
 msgid "unnatural/base/biomass/buildings/incubator.proto/description"
@@ -487,29 +487,29 @@ msgstr "A piece of genetic material - the essence of all life."
 msgid "unnatural/base/biomass/resources/seed.proto/title"
 msgstr "Seed"
 
-msgid "unnatural/base/biomass/units/bioturret.proto/description"
+msgid "unnatural/base/biomass/units/blazepup.proto/description"
 msgstr "Flamethrower mounted on a hound."
 
-msgid "unnatural/base/biomass/units/bioturret.proto/title"
-msgstr "Bioturret"
+msgid "unnatural/base/biomass/units/blazepup.proto/title"
+msgstr "Blazepup"
 
-msgid "unnatural/base/biomass/units/cleaver.proto/description"
+msgid "unnatural/base/biomass/units/gorescythe.proto/description"
 msgstr "Long arms with claws that tear through anything."
 
-msgid "unnatural/base/biomass/units/cleaver.proto/title"
-msgstr "Cleaver"
+msgid "unnatural/base/biomass/units/gorescythe.proto/title"
+msgstr "Gorescythe"
 
-msgid "unnatural/base/biomass/units/crawler.proto/description"
+msgid "unnatural/base/biomass/units/jumpscare.proto/description"
 msgstr "Creepy crawly. All else equal, larger army wins."
 
-msgid "unnatural/base/biomass/units/crawler.proto/title"
-msgstr "Crawler"
+msgid "unnatural/base/biomass/units/jumpscare.proto/title"
+msgstr "Jumpscare"
 
-msgid "unnatural/base/biomass/units/diamond_skin.proto/description"
+msgid "unnatural/base/biomass/units/crysthide.proto/description"
 msgstr "Skin hardened with metal and carbon."
 
-msgid "unnatural/base/biomass/units/diamond_skin.proto/title"
-msgstr "Diamond skin"
+msgid "unnatural/base/biomass/units/crysthide.proto/title"
+msgstr "Crysthide"
 
 msgid "unnatural/base/biomass/units/hound.proto/description"
 msgstr "Just muscles and eyes. Best scout."
@@ -547,11 +547,11 @@ msgstr "Big ball of muscles, propels itself at the target, dealing massive damag
 msgid "unnatural/base/biomass/units/rhino.proto/title"
 msgstr "Rhino"
 
-msgid "unnatural/base/biomass/units/sentinel.proto/description"
+msgid "unnatural/base/biomass/units/wardkin.proto/description"
 msgstr "Has a special organ that emits energy shield around it."
 
-msgid "unnatural/base/biomass/units/sentinel.proto/title"
-msgstr "Sentinel"
+msgid "unnatural/base/biomass/units/wardkin.proto/title"
+msgstr "Wardkin"
 
 msgid "unnatural/base/biomass/units/slitherer.proto/description"
 msgstr "Adept navy combatant."
@@ -583,11 +583,11 @@ msgstr "Giant flying sack full of toxic aerosol. Bursts open at an opportune mom
 msgid "unnatural/base/biomass/units/toxiloon.proto/title"
 msgstr "Toxiloon"
 
-msgid "unnatural/base/biomass/units/tunneler.proto/description"
+msgid "unnatural/base/biomass/units/venomite.proto/description"
 msgstr "Well rounded combatant. Good at everything. Excels at nothing."
 
-msgid "unnatural/base/biomass/units/tunneler.proto/title"
-msgstr "Tunneler"
+msgid "unnatural/base/biomass/units/venomite.proto/title"
+msgstr "Venomite"
 
 msgid "unnatural/base/biomass/upgrades/acid.proto/description"
 msgstr "More toxic."
@@ -733,10 +733,10 @@ msgstr "Mad scientist, surfing on the waves of Aether, with a microscope and lar
 msgid "unnatural/base/technocracy/buildings/laboratory.proto/title"
 msgstr "Laboratory"
 
-msgid "unnatural/base/technocracy/buildings/land_mine.proto/description"
+msgid "unnatural/base/technocracy/buildings/landmine.proto/description"
 msgstr "Small boom surprise."
 
-msgid "unnatural/base/technocracy/buildings/land_mine.proto/title"
+msgid "unnatural/base/technocracy/buildings/landmine.proto/title"
 msgstr "Land mine"
 
 msgid "unnatural/base/technocracy/buildings/nanoforge.proto/description"

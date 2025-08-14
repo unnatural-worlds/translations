@@ -252,6 +252,12 @@ msgstr "Winner"
 msgid "unnatural/diplomacy/playerTooltip/ping"
 msgstr "Ping: "
 
+msgid "unnatural/diplomacy/resources"
+msgstr "Resources"
+
+msgid "unnatural/diplomacy/upgrades"
+msgstr "Upgrades"
+
 msgid "unnatural/diplomacy/vr/abortGame"
 msgstr "Abort Game"
 
