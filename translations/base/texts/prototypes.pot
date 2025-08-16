@@ -394,7 +394,7 @@ msgstr "Smoother propellers"
 
 msgid "unnatural/base/biomass/biomass.proto/description"
 msgstr ""
-"Evolution gone wrong - or rights, depends on who is asking.\n"
+"Evolution gone wrong - or right, depends on who is asking.\n"
 "There might have been some outside influence too.\n"
 "Either way, this race is driven by photosynthesis, mutation, acid, and claws.\n"
 "\n"

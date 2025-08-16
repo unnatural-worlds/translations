@@ -976,13 +976,19 @@ msgid "unnatural/options/graphics/enableParticles"
 msgstr "Enable particles:"
 
 msgid "unnatural/options/graphics/enableParticles/description"
-msgstr "Shooting and explosions effects."
+msgstr "Shooting, bleeding, and explosions effects."
 
 msgid "unnatural/options/graphics/enableVsync"
 msgstr "Enable v-sync:"
 
 msgid "unnatural/options/graphics/enableVsync/description"
 msgstr "Prevents screen tearing, but may reduce fps. (Requires restart.)"
+
+msgid "unnatural/options/graphics/enableWrecks"
+msgstr "Enable wrecks:"
+
+msgid "unnatural/options/graphics/enableWrecks/description"
+msgstr "Units and buildings leave temporary wrecks when killed."
 
 msgid "unnatural/options/graphics/gamma"
 msgstr "Gamma:"
