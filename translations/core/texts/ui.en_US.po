@@ -81,6 +81,18 @@ msgstr "About Unnatural Worlds"
 msgid "unnatural/about/madeByTomasMaly"
 msgstr "Made by Tomáš Malý, 2025."
 
+msgid "unnatural/campaigns/madProtocol"
+msgstr "M.A.D. Protocol"
+
+msgid "unnatural/campaigns/play"
+msgstr "Play"
+
+msgid "unnatural/campaigns/siliconLife"
+msgstr "Silicon Life"
+
+msgid "unnatural/campaigns/tba"
+msgstr "TBA"
+
 msgid "unnatural/cancel"
 msgstr "Cancel"
 
@@ -696,6 +708,9 @@ msgstr "Save selection {0}"
 msgid "unnatural/key/selectionStore/useSelection"
 msgstr "Use selection {0}"
 
+msgid "unnatural/ladder/ladder"
+msgstr "Ladder"
+
 msgid "unnatural/lexicon/buildings"
 msgstr "Buildings"
 
@@ -762,20 +777,32 @@ msgstr "Support for linux is experimental. Please excuse potential difficulties.
 msgid "unnatural/mainMenu/menu/about"
 msgstr "About"
 
+msgid "unnatural/mainMenu/menu/campaign"
+msgstr "Campaign"
+
 msgid "unnatural/mainMenu/menu/controls"
 msgstr "Controls"
 
 msgid "unnatural/mainMenu/menu/createMp"
 msgstr "Create MP"
 
+msgid "unnatural/mainMenu/menu/custom"
+msgstr "Custom"
+
 msgid "unnatural/mainMenu/menu/findMp"
 msgstr "Find MP"
+
+msgid "unnatural/mainMenu/menu/ladder"
+msgstr "Ladder"
 
 msgid "unnatural/mainMenu/menu/options"
 msgstr "Options"
 
 msgid "unnatural/mainMenu/menu/presets"
 msgstr "Presets"
+
+msgid "unnatural/mainMenu/menu/quickVsAi"
+msgstr "Quick vs. AI"
 
 msgid "unnatural/mainMenu/menu/quit"
 msgstr "Quit"
@@ -1216,10 +1243,10 @@ msgid "unnatural/presets/presets"
 msgstr "Presets"
 
 msgid "unnatural/presets/resetAllControls"
-msgstr "Reset all Controls"
+msgstr "Reset all controls"
 
 msgid "unnatural/presets/resetAllOptions"
-msgstr "Reset all Options"
+msgstr "Reset all options"
 
 msgid "unnatural/presets/roaming"
 msgstr "Presets are automatically synchronized to all devices with the same Steam account."
