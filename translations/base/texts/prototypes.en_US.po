@@ -417,7 +417,7 @@ msgid "unnatural/base/biomass/buildings/dart_trap.proto/description"
 msgstr "Surgical dart throwing trap."
 
 msgid "unnatural/base/biomass/buildings/dart_trap.proto/title"
-msgstr "Dart mine"
+msgstr "Dart trap"
 
 msgid "unnatural/base/biomass/buildings/deeproot.proto/description"
 msgstr "Extracts metal-heavy nutrients from deep down."
@@ -429,7 +429,7 @@ msgid "unnatural/base/biomass/buildings/gas_trap.proto/description"
 msgstr "Violently explodes and releases toxic gas towards the intruder."
 
 msgid "unnatural/base/biomass/buildings/gas_trap.proto/title"
-msgstr "Gas mine"
+msgstr "Gas trap"
 
 msgid "unnatural/base/biomass/buildings/incubator.proto/description"
 msgstr "Grows advanced combatants, infused with metallic contents."
