@@ -17,6 +17,12 @@ msgstr ""
 "X-Crowdin-File: /doodads/texts/decorations.pot\n"
 "X-Crowdin-File-ID: 98\n"
 
+msgid "unnatural/doodads/decorations/axolotl_tank.proto/description"
+msgstr "Vyztužená akva-schránka, ve které jsou bioinženýrští axolotlové cenění pro své regenerační enzymy, používané v polních lékárničkách."
+
+msgid "unnatural/doodads/decorations/axolotl_tank.proto/title"
+msgstr "Axolotlí nádrž"
+
 msgid "unnatural/doodads/decorations/billboard_1.proto/description"
 msgstr "Billboard 1"
 
@@ -35,3 +41,32 @@ msgstr "Billboard 3"
 msgid "unnatural/doodads/decorations/billboard_3.proto/title"
 msgstr "Billboard 3"
 
+msgid "unnatural/doodads/decorations/cooling_tower_1.proto/description"
+msgstr "Průmyslová věž pro odvádění tepla."
+
+msgid "unnatural/doodads/decorations/cooling_tower_1.proto/title"
+msgstr "Chladicí věž 1"
+
+msgid "unnatural/doodads/decorations/cooling_tower_2.proto/description"
+msgstr "Těžký tepelný sifon, určený pro podzemní strojní závody."
+
+msgid "unnatural/doodads/decorations/cooling_tower_2.proto/title"
+msgstr "Chladicí věž 2"
+
+msgid "unnatural/doodads/decorations/heating_tower.proto/description"
+msgstr "Masivní vertikální pec používaná k udržování tepla v obytných prostorech."
+
+msgid "unnatural/doodads/decorations/heating_tower.proto/title"
+msgstr "Vytápěcí věž"
+
+msgid "unnatural/doodads/decorations/lamp_tower.proto/description"
+msgstr "Monolitický maják, který navádí obchodníky ve tmě."
+
+msgid "unnatural/doodads/decorations/lamp_tower.proto/title"
+msgstr "Majáková věž"
+
+msgid "unnatural/doodads/decorations/platform.proto/description"
+msgstr "Vyztužená nástupní plošina."
+
+msgid "unnatural/doodads/decorations/platform.proto/title"
+msgstr "Plošina"

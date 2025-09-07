@@ -20,6 +20,9 @@ msgstr ""
 msgid "unnatural/base/damageTypes/antimatter"
 msgstr "Antihmota"
 
+msgid "unnatural/base/damageTypes/corrosive"
+msgstr "Korozivní"
+
 msgid "unnatural/base/damageTypes/explosive"
 msgstr "Výbušný"
 
@@ -71,3 +74,5 @@ msgstr "Ekonomické"
 msgid "unnatural/base/category/military"
 msgstr "Vojenské"
 
+msgid "unnatural/base/category/production"
+msgstr "Výroba"

@@ -77,3 +77,206 @@ msgstr "Domácí flóra."
 msgid "unnatural/doodads/vegetation/tree_4.proto/title"
 msgstr "Strom 4"
 
+msgid "unnatural/doodads/vegetation/azure_helicup_tree.proto/description"
+msgstr "Vysoké spirály kobaltového listoví, které chytají vzdušné proudy, aby šířily spory."
+
+msgid "unnatural/doodads/vegetation/azure_helicup_tree.proto/title"
+msgstr "Azurový helikoptérový strom"
+
+msgid "unnatural/doodads/vegetation/bagpipes_tree.proto/description"
+msgstr "Dutý kmen vydává strašidelné hvizdy, když jím proudí vítr."
+
+msgid "unnatural/doodads/vegetation/bagpipes_tree.proto/title"
+msgstr "Dudy strom"
+
+msgid "unnatural/doodads/vegetation/barebark_bush.proto/description"
+msgstr "Keř bez listů, jehož kůra se loupe v průsvitných, ostrých listech."
+
+msgid "unnatural/doodads/vegetation/barebark_bush.proto/title"
+msgstr "Keř holé kůry"
+
+msgid "unnatural/doodads/vegetation/bifolia_bush.proto/description"
+msgstr "Spárované listy, které mění barvu v závislosti na chemickém složení půdy v okolí."
+
+msgid "unnatural/doodads/vegetation/bifolia_bush.proto/title"
+msgstr "Dvoulistý keř"
+
+msgid "unnatural/doodads/vegetation/brightstripe_bush.proto/description"
+msgstr "Nízký keř s zářivými žilkami."
+
+msgid "unnatural/doodads/vegetation/brightstripe_bush.proto/title"
+msgstr "Keř se zářivými pruhy"
+
+msgid "unnatural/doodads/vegetation/broadleaf_bush.proto/description"
+msgstr "Široké, voskové listy navržené k zachycení i sebemenších stop vlhkosti v suchých oblastech."
+
+msgid "unnatural/doodads/vegetation/broadleaf_bush.proto/title"
+msgstr "Širokolistý keř"
+
+msgid "unnatural/doodads/vegetation/cagefruit_bush.proto/description"
+msgstr "Roste s trnitými kmeny a plody bohatými na živiny."
+
+msgid "unnatural/doodads/vegetation/cagefruit_bush.proto/title"
+msgstr "Plodový keř"
+
+msgid "unnatural/doodads/vegetation/cartographer_tree.proto/description"
+msgstr "Jeho čtyři větve vždy ukazují na hlavní světové strany."
+
+msgid "unnatural/doodads/vegetation/cartographer_tree.proto/title"
+msgstr "Kartografický strom"
+
+msgid "unnatural/doodads/vegetation/chimney_tree.proto/description"
+msgstr "Dutý kmen odvádí teplé páry z hluboké kořenové fermentace."
+
+msgid "unnatural/doodads/vegetation/chimney_tree.proto/title"
+msgstr "Kominový strom"
+
+msgid "unnatural/doodads/vegetation/cilia_bush.proto/description"
+msgstr "Jemné, vlasovité lístky, které reagují na proudění vzduchu a vibrace v okolí."
+
+msgid "unnatural/doodads/vegetation/cilia_bush.proto/title"
+msgstr "Ciliový keř"
+
+msgid "unnatural/doodads/vegetation/claws_stump.proto/description"
+msgstr "Uťatý kmen s roztřepenými větvemi, které připomínají kostnaté drápy."
+
+msgid "unnatural/doodads/vegetation/claws_stump.proto/title"
+msgstr "Drápy pařez"
+
+msgid "unnatural/doodads/vegetation/cup_fruit_tree.proto/description"
+msgstr "Produkuje otevřené plody ve tvaru pohárků, které sbírají dešťovou vodu."
+
+msgid "unnatural/doodads/vegetation/cup_fruit_tree.proto/title"
+msgstr "Strom s pohárkovým plodem"
+
+msgid "unnatural/doodads/vegetation/dart_bush.proto/description"
+msgstr "Vystřeluje semena podobná jehlám, když je vyrušen."
+
+msgid "unnatural/doodads/vegetation/dart_bush.proto/title"
+msgstr "Šípkový keř"
+
+msgid "unnatural/doodads/vegetation/flagpole_tree.proto/description"
+msgstr "Pevný, vysoký kmen zakončený jediným listem ve tvaru praporu."
+
+msgid "unnatural/doodads/vegetation/flagpole_tree.proto/title"
+msgstr "Vlajkový strom"
+
+msgid "unnatural/doodads/vegetation/glow_bulb_stump.proto/description"
+msgstr "Pařez, v jehož kůře se nachází zářící houbové cibulky."
+
+msgid "unnatural/doodads/vegetation/glow_bulb_stump.proto/title"
+msgstr "Pařez se zářivými cibulkami"
+
+msgid "unnatural/doodads/vegetation/greek_column_bush.proto/description"
+msgstr "Jeho žebrovaný stonek roste do dokonale žlábkovitého, sloupovitého tvaru."
+
+msgid "unnatural/doodads/vegetation/greek_column_bush.proto/title"
+msgstr "Řecký sloupový keř"
+
+msgid "unnatural/doodads/vegetation/hairytwig.proto/description"
+msgstr "Tenký stonek pokrytý jemnými, izolačními vlákny, která mu pomáhají přežít drsné klima."
+
+msgid "unnatural/doodads/vegetation/hairytwig.proto/title"
+msgstr "Chlupatý stvol"
+
+msgid "unnatural/doodads/vegetation/helix_tree.proto/description"
+msgstr "Struktura kmenu se čtyřmi spirálami poskytuje oporu pro vysokou korunu."
+
+msgid "unnatural/doodads/vegetation/helix_tree.proto/title"
+msgstr "Helix strom"
+
+msgid "unnatural/doodads/vegetation/indigo_chalix_bush.proto/description"
+msgstr "Sytě fialové listy obsahují sladký halucinogenní nektar."
+
+msgid "unnatural/doodads/vegetation/indigo_chalix_bush.proto/title"
+msgstr "Indigo chalix keř"
+
+msgid "unnatural/doodads/vegetation/jamcollar_tree.proto/description"
+msgstr "Prstencové listy pokryté lepkavou, sladkou pryskyřicí, která láká opylovače."
+
+msgid "unnatural/doodads/vegetation/jamcollar_tree.proto/title"
+msgstr "Džemový strom"
+
+msgid "unnatural/doodads/vegetation/pearltwig.proto/description"
+msgstr "Strom bez větví s obrovským, hladkým, perleťovým semenným luskem."
+
+msgid "unnatural/doodads/vegetation/pearltwig.proto/title"
+msgstr "Perlový stvol"
+
+msgid "unnatural/doodads/vegetation/pincer_tree.proto/description"
+msgstr "Špičky větví se rozštěpují do ostrých, drápovitých úchopů, které se v noci zavírají."
+
+msgid "unnatural/doodads/vegetation/pincer_tree.proto/title"
+msgstr "Klešťový strom"
+
+msgid "unnatural/doodads/vegetation/pipeshroom.proto/description"
+msgstr "Obrovské duté houbové stonky, které se ozývají tichým hučením, když fouká vítr."
+
+msgid "unnatural/doodads/vegetation/pipeshroom.proto/title"
+msgstr "Dýmkový hřib"
+
+msgid "unnatural/doodads/vegetation/potato_bush.proto/description"
+msgstr "Hustý keř s jednou hlízou bohatou na živiny."
+
+msgid "unnatural/doodads/vegetation/potato_bush.proto/title"
+msgstr "Bramborový keř"
+
+msgid "unnatural/doodads/vegetation/pyramid_tree.proto/description"
+msgstr "Masivní vrstvený obdélníkový kmen podporuje jednoduchou korunu."
+
+msgid "unnatural/doodads/vegetation/pyramid_tree.proto/title"
+msgstr "Pyramidový strom"
+
+msgid "unnatural/doodads/vegetation/spiral_trunk_tree.proto/description"
+msgstr "Kroucený kmen spirálovitě stoupá vzhůru a odvádí dešťovou vodu do skrytých kořenových nádrží."
+
+msgid "unnatural/doodads/vegetation/spiral_trunk_tree.proto/title"
+msgstr "Strom se spirálovým kmenem"
+
+msgid "unnatural/doodads/vegetation/spring_fruit_tree.proto/description"
+msgstr "Plody se semeny, které se při dozrání vystřelují ze svých stonků s výbušnou silou."
+
+msgid "unnatural/doodads/vegetation/spring_fruit_tree.proto/title"
+msgstr "Jarní ovocný strom"
+
+msgid "unnatural/doodads/vegetation/star_bush.proto/description"
+msgstr "Kořenový systém uspořádaný do dokonalé sedmicípé hvězdy."
+
+msgid "unnatural/doodads/vegetation/star_bush.proto/title"
+msgstr "Hvězdný keř"
+
+msgid "unnatural/doodads/vegetation/starsky_tree.proto/description"
+msgstr "Vysoká, monolitická koruna s mnoha reflexními body, připomínající noční oblohu."
+
+msgid "unnatural/doodads/vegetation/starsky_tree.proto/title"
+msgstr "Hvězdný strom"
+
+msgid "unnatural/doodads/vegetation/tallmouth_tree.proto/description"
+msgstr "Dutý otvor na vrcholu vydává nízké dunění během bouří."
+
+msgid "unnatural/doodads/vegetation/tallmouth_tree.proto/title"
+msgstr "Vysoký ústní strom"
+
+msgid "unnatural/doodads/vegetation/trifeather_tree.proto/description"
+msgstr "Jeho kmen se dělí do tří větví, každá s listy podobnými peří, které se chvějí v souladu."
+
+msgid "unnatural/doodads/vegetation/trifeather_tree.proto/title"
+msgstr "Třípírový strom"
+
+msgid "unnatural/doodads/vegetation/twisted_trunk_tree.proto/description"
+msgstr "Zkroucený kmen se obtáčí kolem sebe, jako by škrtil neviditelnou kořist, a produkuje nektar."
+
+msgid "unnatural/doodads/vegetation/twisted_trunk_tree.proto/title"
+msgstr "Zkroucený kmenový strom"
+
+msgid "unnatural/doodads/vegetation/violet_bush.proto/description"
+msgstr "Jemné fialové listy vylučují slabý parfém, který odpuzuje hmyz."
+
+msgid "unnatural/doodads/vegetation/violet_bush.proto/title"
+msgstr "Fialový keř"
+
+msgid "unnatural/doodads/vegetation/windmill_bush.proto/description"
+msgstr "Jeho okvětní lístky se pomalu otáčejí ve větru a rozptylují semena do dálky."
+
+msgid "unnatural/doodads/vegetation/windmill_bush.proto/title"
+msgstr "Větrný keř"
