@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: unnatural-worlds\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI\n"
-"PO-Revision-Date: 2025-07-06 13:19\n"
+"PO-Revision-Date: 2025-09-07 16:52\n"
 "Last-Translator: translations <translations@unnatural-worlds.com>\n"
 "Language-Team: Czech\n"
 "MIME-Version: 1.0\n"
@@ -17,68 +17,8 @@ msgstr ""
 "X-Crowdin-File: /doodads/texts/vegetation.pot\n"
 "X-Crowdin-File-ID: 56\n"
 
-msgid "unnatural/doodads/vegetation/plant_1.proto/description"
-msgstr "Domácí flóra."
-
-msgid "unnatural/doodads/vegetation/plant_1.proto/title"
-msgstr "Rostlina 1"
-
-msgid "unnatural/doodads/vegetation/plant_2.proto/description"
-msgstr "Domácí flóra."
-
-msgid "unnatural/doodads/vegetation/plant_2.proto/title"
-msgstr "Rostlina 2"
-
-msgid "unnatural/doodads/vegetation/plant_3.proto/description"
-msgstr "Domácí flóra."
-
-msgid "unnatural/doodads/vegetation/plant_3.proto/title"
-msgstr "Rostlina 3"
-
-msgid "unnatural/doodads/vegetation/plant_4.proto/description"
-msgstr "Domácí flóra."
-
-msgid "unnatural/doodads/vegetation/plant_4.proto/title"
-msgstr "Rostlina 4"
-
-msgid "unnatural/doodads/vegetation/plant_5.proto/description"
-msgstr "Domácí flóra."
-
-msgid "unnatural/doodads/vegetation/plant_5.proto/title"
-msgstr "Rostlina 5"
-
-msgid "unnatural/doodads/vegetation/plant_6.proto/description"
-msgstr "Domácí flóra."
-
-msgid "unnatural/doodads/vegetation/plant_6.proto/title"
-msgstr "Rostlina 6"
-
-msgid "unnatural/doodads/vegetation/tree_1.proto/description"
-msgstr "Domácí flóra."
-
-msgid "unnatural/doodads/vegetation/tree_1.proto/title"
-msgstr "Strom 1"
-
-msgid "unnatural/doodads/vegetation/tree_2.proto/description"
-msgstr "Domácí flóra."
-
-msgid "unnatural/doodads/vegetation/tree_2.proto/title"
-msgstr "Strom 2"
-
-msgid "unnatural/doodads/vegetation/tree_3.proto/description"
-msgstr "Domácí flóra."
-
-msgid "unnatural/doodads/vegetation/tree_3.proto/title"
-msgstr "Strom 3"
-
-msgid "unnatural/doodads/vegetation/tree_4.proto/description"
-msgstr "Domácí flóra."
-
-msgid "unnatural/doodads/vegetation/tree_4.proto/title"
-msgstr "Strom 4"
-
 msgid "unnatural/doodads/vegetation/azure_helicup_tree.proto/description"
-msgstr "Vysoké spirály kobaltového listoví, které chytají vzdušné proudy, aby šířily spory."
+msgstr "Vysoké spirály kobaltově modrého listí, které zachycují větrné proudy k šíření spórů."
 
 msgid "unnatural/doodads/vegetation/azure_helicup_tree.proto/title"
 msgstr "Azurový helikoptérový strom"
@@ -280,3 +220,4 @@ msgstr "Jeho okvětní lístky se pomalu otáčejí ve větru a rozptylují seme
 
 msgid "unnatural/doodads/vegetation/windmill_bush.proto/title"
 msgstr "Větrný keř"
+

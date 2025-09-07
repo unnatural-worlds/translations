@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: unnatural-worlds\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI\n"
-"PO-Revision-Date: 2025-07-06 13:19\n"
+"PO-Revision-Date: 2025-09-07 16:52\n"
 "Last-Translator: translations <translations@unnatural-worlds.com>\n"
 "Language-Team: Czech\n"
 "MIME-Version: 1.0\n"
@@ -82,6 +82,18 @@ msgstr "O Unnatural Worlds"
 
 msgid "unnatural/about/madeByTomasMaly"
 msgstr "Vytvořil Tomáš Malý, 2025."
+
+msgid "unnatural/campaigns/madProtocol"
+msgstr "V.Z.D. Protokol"
+
+msgid "unnatural/campaigns/play"
+msgstr "Hrát"
+
+msgid "unnatural/campaigns/siliconLife"
+msgstr "Křemíkový život"
+
+msgid "unnatural/campaigns/tba"
+msgstr "Bude oznámeno"
 
 msgid "unnatural/cancel"
 msgstr "Zrušit"
@@ -253,6 +265,12 @@ msgstr "Vítěz"
 
 msgid "unnatural/diplomacy/playerTooltip/ping"
 msgstr "Ping: "
+
+msgid "unnatural/diplomacy/resources"
+msgstr "Suroviny"
+
+msgid "unnatural/diplomacy/upgrades"
+msgstr "Vylepšení"
 
 msgid "unnatural/diplomacy/vr/abortGame"
 msgstr "Ukončit hru"
@@ -692,6 +710,9 @@ msgstr "Uložit výběr {0}"
 msgid "unnatural/key/selectionStore/useSelection"
 msgstr "Použít výběr {0}"
 
+msgid "unnatural/ladder/ladder"
+msgstr "Žebřík"
+
 msgid "unnatural/lexicon/buildings"
 msgstr "Budovy"
 
@@ -758,20 +779,32 @@ msgstr "Podpora pro linux je experimentální. Promiňte prosím možné potíž
 msgid "unnatural/mainMenu/menu/about"
 msgstr "O hře"
 
+msgid "unnatural/mainMenu/menu/campaign"
+msgstr "Kampaň"
+
 msgid "unnatural/mainMenu/menu/controls"
 msgstr "Ovládání"
 
 msgid "unnatural/mainMenu/menu/createMp"
 msgstr "Vytvořit MP"
 
+msgid "unnatural/mainMenu/menu/custom"
+msgstr "Vlastní"
+
 msgid "unnatural/mainMenu/menu/findMp"
 msgstr "Najít MP"
+
+msgid "unnatural/mainMenu/menu/ladder"
+msgstr "Žebřík"
 
 msgid "unnatural/mainMenu/menu/options"
 msgstr "Nastavení"
 
 msgid "unnatural/mainMenu/menu/presets"
 msgstr "Předvolby"
+
+msgid "unnatural/mainMenu/menu/quickVsAi"
+msgstr "Rychlé vs. AI"
 
 msgid "unnatural/mainMenu/menu/quit"
 msgstr "Ukončit"
@@ -887,6 +920,9 @@ msgstr "Rychlost přiblížení myší:"
 msgid "unnatural/options/gameplay"
 msgstr "Hra"
 
+msgid "unnatural/options/gameplay/detailedTooltips/description"
+msgstr "Dodatečné informace o jednotkách."
+
 msgid "unnatural/options/gameplay/firstGameMode"
 msgstr "Režim první hry:"
 
@@ -969,13 +1005,19 @@ msgid "unnatural/options/graphics/enableParticles"
 msgstr "Povolit částice:"
 
 msgid "unnatural/options/graphics/enableParticles/description"
-msgstr "Efekty střelby a výbuchů."
+msgstr "Efekty střelby, krve a výbuchů."
 
-msgid "unnatural/options/graphics/enableSsao"
-msgstr "Povolit SSAO:"
+msgid "unnatural/options/graphics/enableVsync"
+msgstr "Povolit v-sync:"
 
-msgid "unnatural/options/graphics/enableSsao/description"
-msgstr "Screen space ambient occlusion (ztmaví hrany)."
+msgid "unnatural/options/graphics/enableVsync/description"
+msgstr "Zabraňuje trhání obrazovky, ale může snížit fps. (Vyžaduje restart.)"
+
+msgid "unnatural/options/graphics/enableWrecks"
+msgstr "Povolit vraky:"
+
+msgid "unnatural/options/graphics/enableWrecks/description"
+msgstr "Jednotky a budovy zanechávají při zabití dočasné trosky."
 
 msgid "unnatural/options/graphics/gamma"
 msgstr "Gamma:"
@@ -983,20 +1025,26 @@ msgstr "Gamma:"
 msgid "unnatural/options/graphics/lightsLimit"
 msgstr "Limit světel:"
 
+msgid "unnatural/options/graphics/quality/high"
+msgstr "Vysoká"
+
+msgid "unnatural/options/graphics/quality/low"
+msgstr "Nízká"
+
+msgid "unnatural/options/graphics/quality/medium"
+msgstr "Střední"
+
+msgid "unnatural/options/graphics/quality/off"
+msgstr "Vypnuto"
+
 msgid "unnatural/options/graphics/shadowsQuality"
 msgstr "Kvalita stínu:"
 
-msgid "unnatural/options/graphics/shadowsQuality/high"
-msgstr "Vysoká"
-
-msgid "unnatural/options/graphics/shadowsQuality/low"
-msgstr "Nízká"
-
-msgid "unnatural/options/graphics/shadowsQuality/medium"
-msgstr "Střední"
-
 msgid "unnatural/options/graphics/sharpening"
 msgstr "Vyostření:"
+
+msgid "unnatural/options/graphics/ssaoQuality"
+msgstr "Kvalita SSAO:"
 
 msgid "unnatural/options/options"
 msgstr "Nastavení"
@@ -1015,6 +1063,9 @@ msgstr "Zvuky"
 
 msgid "unnatural/options/sound/announcerVolume"
 msgstr "Hlasitost oznamovatele:"
+
+msgid "unnatural/options/sound/dialogueVolume"
+msgstr "Hlasitost dialogu:"
 
 msgid "unnatural/options/sound/effectsVolume"
 msgstr "Hlasitost efektů:"
@@ -1036,6 +1087,9 @@ msgstr "Uživatelské rozhraní"
 
 msgid "unnatural/options/userInterface/chatMessageDuration"
 msgstr "Doba zobrazení zprávy:"
+
+msgid "unnatural/options/userInterface/detailedTooltips"
+msgstr "Podrobné popisky:"
 
 msgid "unnatural/options/userInterface/guiScale"
 msgstr "Měřítko GUI:"
@@ -1109,6 +1163,9 @@ msgstr "Přepočítat"
 msgid "unnatural/pathStateEnum/searching"
 msgstr "Vyhledávání"
 
+msgid "unnatural/performanceTooltip/dynamicResolution"
+msgstr "Dynamické rozlišení:"
+
 msgid "unnatural/performanceTooltip/engineObjectsAvgPeak"
 msgstr "Objekty motoru (prům. | špička):"
 
@@ -1120,6 +1177,9 @@ msgstr "Herní objekty:"
 
 msgid "unnatural/performanceTooltip/gameSpeed"
 msgstr "Rychlost hry:"
+
+msgid "unnatural/performanceTooltip/gpuTimeAvgPeak"
+msgstr "Čas GPU (prům. | špička):"
 
 msgid "unnatural/performanceTooltip/mainThreadUtilization"
 msgstr "Využití hlavního vlákna:"
@@ -1583,11 +1643,14 @@ msgstr "Umožňuje umístění"
 msgid "unnatural/tooltips/angle"
 msgstr "{0} °"
 
+msgid "unnatural/tooltips/angle2"
+msgstr "{0} | {1} °"
+
 msgid "unnatural/tooltips/appliesTo"
 msgstr "Vztahuje se na"
 
-msgid "unnatural/tooltips/armor"
-msgstr "Brnění: "
+msgid "unnatural/tooltips/armorType"
+msgstr "Typ zbroje: "
 
 msgid "unnatural/tooltips/attack"
 msgstr "Útok"
@@ -1610,8 +1673,11 @@ msgstr "Výstavba"
 msgid "unnatural/tooltips/consumedBy"
 msgstr "Použito v"
 
-msgid "unnatural/tooltips/damagePerSecond"
-msgstr "{0} poškození/s"
+msgid "unnatural/tooltips/damage"
+msgstr "Poškození: "
+
+msgid "unnatural/tooltips/damageAtLowLife"
+msgstr "Poškození při málo životech: "
 
 msgid "unnatural/tooltips/defense"
 msgstr "Obrana"
@@ -1619,23 +1685,32 @@ msgstr "Obrana"
 msgid "unnatural/tooltips/dps"
 msgstr "Poškození:"
 
-msgid "unnatural/tooltips/dpsAtLowLife"
-msgstr "Poškození při málo životech: "
-
 msgid "unnatural/tooltips/duration"
 msgstr "Trvání: "
 
 msgid "unnatural/tooltips/elevation"
 msgstr "Navýšení: "
 
+msgid "unnatural/tooltips/explosionDamage"
+msgstr "Poškození výbuchem: "
+
+msgid "unnatural/tooltips/explosionEdgeDamage"
+msgstr "Poškození výbuchem na hraně: "
+
+msgid "unnatural/tooltips/explosionFriendlyDamage"
+msgstr "Poškození přátel výbuchem: "
+
+msgid "unnatural/tooltips/explosionRadius"
+msgstr "Poloměr výbuchu: "
+
+msgid "unnatural/tooltips/explosionType"
+msgstr "Typ výbuchu: "
+
 msgid "unnatural/tooltips/life"
 msgstr "Životy: "
 
 msgid "unnatural/tooltips/magic"
 msgstr "Magie"
-
-msgid "unnatural/tooltips/makeSteadyProduction"
-msgstr "Vytvořte stálou produkci:"
 
 msgid "unnatural/tooltips/mana"
 msgstr "Mana: "
@@ -1649,6 +1724,9 @@ msgstr "{0} m/s"
 msgid "unnatural/tooltips/movement"
 msgstr "Pohyb"
 
+msgid "unnatural/tooltips/oneShotDamage"
+msgstr "Poškození jedné střely: "
+
 msgid "unnatural/tooltips/percentDamageTable"
 msgstr "Tabulka % poškození"
 
@@ -1657,6 +1735,9 @@ msgstr "{0} %"
 
 msgid "unnatural/tooltips/perMinute"
 msgstr "{0}/m"
+
+msgid "unnatural/tooltips/perSecond"
+msgstr "{0}/s"
 
 msgid "unnatural/tooltips/placeOver"
 msgstr "Umístit přes"
@@ -1682,14 +1763,20 @@ msgstr "Recepty"
 msgid "unnatural/tooltips/regeneration"
 msgstr "Regenerace: "
 
+msgid "unnatural/tooltips/regenerationDelay"
+msgstr "Zpoždění regenerace: "
+
 msgid "unnatural/tooltips/requirementsToUnlock"
 msgstr "Požadavky na odemknutí"
 
 msgid "unnatural/tooltips/seconds"
 msgstr "{0} s"
 
-msgid "unnatural/tooltips/shotsPerSecond"
-msgstr "{0} výstřelů/s"
+msgid "unnatural/tooltips/splashEdgeDamage"
+msgstr "Poškozené cáknutí na hraně: "
+
+msgid "unnatural/tooltips/splashFriendlyDamage"
+msgstr "Poškození přátel cáknutím: "
 
 msgid "unnatural/tooltips/splashRadius"
 msgstr "Poloměr splashe: "
@@ -1724,8 +1811,8 @@ msgstr "Dostřel: "
 msgid "unnatural/tooltips/upgrade/splashRadius"
 msgstr "Poloměr splashe: "
 
-msgid "unnatural/tooltips/weapon"
-msgstr "Zbraň: "
+msgid "unnatural/tooltips/weaponType"
+msgstr "Typ zbraně: "
 
 msgid "unnatural/units/buildings"
 msgstr "Budovy"
