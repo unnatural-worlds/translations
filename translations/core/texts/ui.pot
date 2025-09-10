@@ -102,6 +102,21 @@ msgstr "Chat"
 msgid "unnatural/chat/messageTemplate"
 msgstr "Message..."
 
+msgid "unnatural/chat/target/allies"
+msgstr "Allies (;)"
+
+msgid "unnatural/chat/target/direct"
+msgstr "Direct"
+
+msgid "unnatural/chat/target/enemies"
+msgstr "Enemies (#)"
+
+msgid "unnatural/chat/target/everyone"
+msgstr "Everyone (*)"
+
+msgid "unnatural/chat/target/observers"
+msgstr "Observers"
+
 msgid "unnatural/close"
 msgstr "Close"
 
