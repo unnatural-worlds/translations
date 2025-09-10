@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: unnatural-worlds\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI\n"
-"PO-Revision-Date: 2025-09-07 19:37\n"
+"PO-Revision-Date: 2025-09-10 12:00\n"
 "Last-Translator: translations <translations@unnatural-worlds.com>\n"
 "Language-Team: Czech\n"
 "MIME-Version: 1.0\n"
@@ -103,6 +103,21 @@ msgstr "Zprávy"
 
 msgid "unnatural/chat/messageTemplate"
 msgstr "Zpráva..."
+
+msgid "unnatural/chat/target/allies"
+msgstr "Spojenci (;)"
+
+msgid "unnatural/chat/target/direct"
+msgstr "Přímá"
+
+msgid "unnatural/chat/target/enemies"
+msgstr "Nepřátelé (#)"
+
+msgid "unnatural/chat/target/everyone"
+msgstr "Všichni (*)"
+
+msgid "unnatural/chat/target/observers"
+msgstr "Pozorovatelé"
 
 msgid "unnatural/close"
 msgstr "Zavřít"
