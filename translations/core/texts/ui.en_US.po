@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: unnatural-worlds\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI\n"
-"PO-Revision-Date: 2025-09-10 12:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI\n"
 "Last-Translator: translations <translations@unnatural-worlds.com>\n"
 "Language-Team: English\n"
 "MIME-Version: 1.0\n"
@@ -14,8 +14,6 @@ msgstr ""
 "X-Crowdin-Project: unnatural-worlds\n"
 "X-Crowdin-Project-ID: 677934\n"
 "X-Crowdin-Language: en\n"
-"X-Crowdin-File: /core/texts/ui.pot\n"
-"X-Crowdin-File-ID: 68\n"
 
 msgid "cage/keybinds/add"
 msgstr "Add one"
@@ -944,6 +942,9 @@ msgstr "First-game mode:"
 msgid "unnatural/options/gameplay/firstGameMode/description"
 msgstr "Provides hints for beginners."
 
+msgid "unnatural/options/gameplay/healthbarsScale"
+msgstr "Healthbars scale:"
+
 msgid "unnatural/options/gameplay/preventAccidentalDeselection"
 msgstr "Prevent accidental deselection:"
 
@@ -964,6 +965,12 @@ msgstr "Shooting range:"
 
 msgid "unnatural/options/gameplay/shootingRange/description"
 msgstr "Show approximate shooting range of a selected unit."
+
+msgid "unnatural/options/gameplay/showHealthbarsThresholdObserver"
+msgstr "Show healthbars threshold (observer):"
+
+msgid "unnatural/options/gameplay/showHealthbarsThresholdPlayer"
+msgstr "Show healthbars threshold (player):"
 
 msgid "unnatural/options/gameplay/showNames/description"
 msgstr "Names shown over icons."
@@ -1336,9 +1343,6 @@ msgstr "Map not found"
 
 msgid "unnatural/replaySelection/select"
 msgstr "Select"
-
-msgid "unnatural/replaySelection/upFolder"
-msgstr "Up folder"
 
 msgid "unnatural/replaySelection/versionMismatch"
 msgstr "Version mismatch"

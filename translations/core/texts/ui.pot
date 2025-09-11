@@ -942,6 +942,9 @@ msgstr "First-game mode:"
 msgid "unnatural/options/gameplay/firstGameMode/description"
 msgstr "Provides hints for beginners."
 
+msgid "unnatural/options/gameplay/healthbarsScale"
+msgstr "Healthbars scale:"
+
 msgid "unnatural/options/gameplay/preventAccidentalDeselection"
 msgstr "Prevent accidental deselection:"
 
@@ -962,6 +965,12 @@ msgstr "Shooting range:"
 
 msgid "unnatural/options/gameplay/shootingRange/description"
 msgstr "Show approximate shooting range of a selected unit."
+
+msgid "unnatural/options/gameplay/showHealthbarsThresholdObserver"
+msgstr "Show healthbars threshold (observer):"
+
+msgid "unnatural/options/gameplay/showHealthbarsThresholdPlayer"
+msgstr "Show healthbars threshold (player):"
 
 msgid "unnatural/options/gameplay/showNames/description"
 msgstr "Names shown over icons."
@@ -1334,9 +1343,6 @@ msgstr "Map not found"
 
 msgid "unnatural/replaySelection/select"
 msgstr "Select"
-
-msgid "unnatural/replaySelection/upFolder"
-msgstr "Up folder"
 
 msgid "unnatural/replaySelection/versionMismatch"
 msgstr "Version mismatch"
