@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: unnatural-worlds\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI\n"
-"PO-Revision-Date: 2025-09-10 12:00\n"
+"PO-Revision-Date: 2025-09-11 19:55\n"
 "Last-Translator: translations <translations@unnatural-worlds.com>\n"
 "Language-Team: Czech\n"
 "MIME-Version: 1.0\n"
@@ -944,6 +944,9 @@ msgstr "Režim první hry:"
 msgid "unnatural/options/gameplay/firstGameMode/description"
 msgstr "Dávat tipy pro začátečníky."
 
+msgid "unnatural/options/gameplay/healthbarsScale"
+msgstr "Zvětšení ukazatelů života:"
+
 msgid "unnatural/options/gameplay/preventAccidentalDeselection"
 msgstr "Zabránit náhodnému zrušení výběru:"
 
@@ -951,7 +954,7 @@ msgid "unnatural/options/gameplay/preventAccidentalDeselection/description"
 msgstr "Zachová předchozí výběr, pokud je nový výběr prázdný."
 
 msgid "unnatural/options/gameplay/recipesIconsScale"
-msgstr "Měřítko ikon receptů:"
+msgstr "Zvětšení ikon receptů:"
 
 msgid "unnatural/options/gameplay/restrictedBuildOrder"
 msgstr "Omezené pořadí stavby:"
@@ -964,6 +967,12 @@ msgstr "Dostřel:"
 
 msgid "unnatural/options/gameplay/shootingRange/description"
 msgstr "Zobrazit přibližný dosah střelby vybrané jednotky."
+
+msgid "unnatural/options/gameplay/showHealthbarsThresholdObserver"
+msgstr "Práh zobrazení ukazatelů života (pozorovatel):"
+
+msgid "unnatural/options/gameplay/showHealthbarsThresholdPlayer"
+msgstr "Práh zobrazení ukazatelů života (hráč):"
 
 msgid "unnatural/options/gameplay/showNames/description"
 msgstr "Názvy zobrazené přes ikony."
@@ -1336,9 +1345,6 @@ msgstr "Mapa nenalezena"
 
 msgid "unnatural/replaySelection/select"
 msgstr "Vybrat"
-
-msgid "unnatural/replaySelection/upFolder"
-msgstr "Složka nahoru"
 
 msgid "unnatural/replaySelection/versionMismatch"
 msgstr "Nesprávná verze"
