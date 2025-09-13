@@ -231,6 +231,36 @@ msgstr "Closest enemy {0}"
 msgid "unnatural/dangerMeter/value"
 msgstr "{0} m"
 
+msgid "unnatural/diplomacy/chatNotification/alliance"
+msgstr "alliance"
+
+msgid "unnatural/diplomacy/chatNotification/declares"
+msgstr "declares {0}"
+
+msgid "unnatural/diplomacy/chatNotification/offer"
+msgstr "offers {0}"
+
+msgid "unnatural/diplomacy/chatNotification/peace"
+msgstr "peace"
+
+msgid "unnatural/diplomacy/chatNotification/war"
+msgstr "war"
+
+msgid "unnatural/diplomacy/detailDesktop/declareWar"
+msgstr "Declare war"
+
+msgid "unnatural/diplomacy/detailDesktop/diplomacy"
+msgstr "Diplomacy"
+
+msgid "unnatural/diplomacy/detailDesktop/offerAlliance"
+msgstr "Offer alliance"
+
+msgid "unnatural/diplomacy/detailDesktop/offerPeace"
+msgstr "Offer peace"
+
+msgid "unnatural/diplomacy/detailDesktop/ourOffer"
+msgstr "Our offer"
+
 msgid "unnatural/diplomacy/detailDesktop/player"
 msgstr "Player"
 
@@ -239,6 +269,9 @@ msgstr "Policy"
 
 msgid "unnatural/diplomacy/detailDesktop/score"
 msgstr "Score"
+
+msgid "unnatural/diplomacy/detailDesktop/theirOffer"
+msgstr "Their offer"
 
 msgid "unnatural/diplomacy/detailObserver/player"
 msgstr "Player"
@@ -1517,6 +1550,12 @@ msgstr "Players"
 
 msgid "unnatural/session/previewMap"
 msgstr "Preview map"
+
+msgid "unnatural/sessionConfig/diplomacy"
+msgstr "Diplomacy:"
+
+msgid "unnatural/sessionConfig/ranked"
+msgstr "Ranked:"
 
 msgid "unnatural/sessionMap/noMap"
 msgstr "No map"
