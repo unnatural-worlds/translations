@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: unnatural-worlds\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI\n"
-"PO-Revision-Date: 2025-09-11 19:55\n"
+"PO-Revision-Date: 2025-09-13 20:47\n"
 "Last-Translator: translations <translations@unnatural-worlds.com>\n"
 "Language-Team: Czech\n"
 "MIME-Version: 1.0\n"
@@ -233,6 +233,36 @@ msgstr "Nejbližší nepřítel {0}"
 msgid "unnatural/dangerMeter/value"
 msgstr "{0} m"
 
+msgid "unnatural/diplomacy/chatNotification/alliance"
+msgstr "alianci"
+
+msgid "unnatural/diplomacy/chatNotification/declares"
+msgstr "prohlásili"
+
+msgid "unnatural/diplomacy/chatNotification/offer"
+msgstr "nabízí"
+
+msgid "unnatural/diplomacy/chatNotification/peace"
+msgstr "mír"
+
+msgid "unnatural/diplomacy/chatNotification/war"
+msgstr "válku"
+
+msgid "unnatural/diplomacy/detailDesktop/declareWar"
+msgstr "Vyhlásit válku"
+
+msgid "unnatural/diplomacy/detailDesktop/diplomacy"
+msgstr "Diplomacie"
+
+msgid "unnatural/diplomacy/detailDesktop/offerAlliance"
+msgstr "Nabídnout alianci"
+
+msgid "unnatural/diplomacy/detailDesktop/offerPeace"
+msgstr "Nabídnout mír"
+
+msgid "unnatural/diplomacy/detailDesktop/ourOffer"
+msgstr "Naše nabídka"
+
 msgid "unnatural/diplomacy/detailDesktop/player"
 msgstr "Hráč"
 
@@ -241,6 +271,9 @@ msgstr "Vazba"
 
 msgid "unnatural/diplomacy/detailDesktop/score"
 msgstr "Skóre"
+
+msgid "unnatural/diplomacy/detailDesktop/theirOffer"
+msgstr "Jejich nabídka"
 
 msgid "unnatural/diplomacy/detailObserver/player"
 msgstr "Hráč"
@@ -1519,6 +1552,12 @@ msgstr "Hráči"
 
 msgid "unnatural/session/previewMap"
 msgstr "Náhled mapy"
+
+msgid "unnatural/sessionConfig/diplomacy"
+msgstr "Diplomacie:"
+
+msgid "unnatural/sessionConfig/ranked"
+msgstr "Hodnocený:"
 
 msgid "unnatural/sessionMap/noMap"
 msgstr "Žádná mapa"
