@@ -756,8 +756,23 @@ msgstr "Save selection {0}"
 msgid "unnatural/key/selectionStore/useSelection"
 msgstr "Use selection {0}"
 
-msgid "unnatural/ladder/ladder"
-msgstr "Ladder"
+msgid "unnatural/ladder/1v1"
+msgstr "1 vs. 1"
+
+msgid "unnatural/ladder/2vsAI"
+msgstr "2 vs. AI"
+
+msgid "unnatural/ladder/play"
+msgstr "Play"
+
+msgid "unnatural/ladder/rank"
+msgstr "Rank"
+
+msgid "unnatural/ladder/requiresFullGame"
+msgstr "Ladder requires full version of the game."
+
+msgid "unnatural/ladder/searching"
+msgstr "Searching"
 
 msgid "unnatural/lexicon/buildings"
 msgstr "Buildings"
@@ -1551,8 +1566,14 @@ msgstr "Players"
 msgid "unnatural/session/previewMap"
 msgstr "Preview map"
 
+msgid "unnatural/sessionConfig/cheats"
+msgstr "Cheats:"
+
 msgid "unnatural/sessionConfig/diplomacy"
 msgstr "Diplomacy:"
+
+msgid "unnatural/sessionConfig/lockedSpeed"
+msgstr "Locked speed:"
 
 msgid "unnatural/sessionConfig/ranked"
 msgstr "Ranked:"
