@@ -762,6 +762,21 @@ msgstr "1 vs. 1"
 msgid "unnatural/ladder/2vsAI"
 msgstr "2 vs. AI"
 
+msgid "unnatural/ladder/disclaimer/DontBeThatGuy"
+msgstr "Don't be that guy."
+
+msgid "unnatural/ladder/disclaimer/rankedGamesDisclaimer"
+msgstr "Ranked games disclaimer"
+
+msgid "unnatural/ladder/disclaimer/TheIntentionIsForPlayersToHaveFun"
+msgstr "The intention is for players to have fun with similarly skilled players."
+
+msgid "unnatural/ladder/disclaimer/thereAreNoGuardsAgainstCheatingAndNoLadder"
+msgstr "There are no guards against cheating, and no ladder."
+
+msgid "unnatural/ladder/disclaimer/thisVersionProvidesRankingAsBestEffortOnly"
+msgstr "This version provides ranking as best effort only."
+
 msgid "unnatural/ladder/play"
 msgstr "Play"
 
@@ -773,6 +788,9 @@ msgstr "Ladder requires full version of the game."
 
 msgid "unnatural/ladder/searching"
 msgstr "Searching"
+
+msgid "unnatural/ladder/waiting"
+msgstr "Waiting"
 
 msgid "unnatural/lexicon/buildings"
 msgstr "Buildings"
@@ -855,9 +873,6 @@ msgstr "Custom"
 msgid "unnatural/mainMenu/menu/findMp"
 msgstr "Find MP"
 
-msgid "unnatural/mainMenu/menu/ladder"
-msgstr "Ladder"
-
 msgid "unnatural/mainMenu/menu/options"
 msgstr "Options"
 
@@ -869,6 +884,9 @@ msgstr "Quick vs. AI"
 
 msgid "unnatural/mainMenu/menu/quit"
 msgstr "Quit"
+
+msgid "unnatural/mainMenu/menu/ranked"
+msgstr "Ranked"
 
 msgid "unnatural/mainMenu/menu/replays"
 msgstr "Replays"
@@ -1054,7 +1072,7 @@ msgid "unnatural/options/graphics/enableBloom"
 msgstr "Enable bloom:"
 
 msgid "unnatural/options/graphics/enableBloom/description"
-msgstr "Makes bright points look actually bright."
+msgstr "Makes bright spots look actually bright."
 
 msgid "unnatural/options/graphics/enableDof"
 msgstr "Enable DOF:"
@@ -1063,7 +1081,10 @@ msgid "unnatural/options/graphics/enableDof/description"
 msgstr "Depth of field (blurred background)."
 
 msgid "unnatural/options/graphics/enableDynamicResolution"
-msgstr "Enable dynamic resolution:"
+msgstr "Enable dynamic render resolution:"
+
+msgid "unnatural/options/graphics/enableDynamicResolution/description"
+msgstr "Automatically reduces resolution to maintain target FPS."
 
 msgid "unnatural/options/graphics/enableFxaa"
 msgstr "Enable FXAA:"
@@ -1081,13 +1102,16 @@ msgid "unnatural/options/graphics/enableVsync"
 msgstr "Enable v-sync:"
 
 msgid "unnatural/options/graphics/enableVsync/description"
-msgstr "Prevents screen tearing, but may reduce fps. (Requires restart.)"
+msgstr "Prevents screen tearing. (Requires restart.)"
 
 msgid "unnatural/options/graphics/enableWrecks"
 msgstr "Enable wrecks:"
 
 msgid "unnatural/options/graphics/enableWrecks/description"
 msgstr "Units and buildings leave temporary wrecks when killed."
+
+msgid "unnatural/options/graphics/fullscreen"
+msgstr "Fullscreen:"
 
 msgid "unnatural/options/graphics/gamma"
 msgstr "Gamma:"
@@ -1106,6 +1130,9 @@ msgstr "Medium"
 
 msgid "unnatural/options/graphics/quality/off"
 msgstr "Off"
+
+msgid "unnatural/options/graphics/screenResolution"
+msgstr "Screen resolution:"
 
 msgid "unnatural/options/graphics/shadowsQuality"
 msgstr "Shadows quality:"
