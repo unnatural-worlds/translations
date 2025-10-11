@@ -1593,11 +1593,17 @@ msgstr "Players"
 msgid "unnatural/session/previewMap"
 msgstr "Preview map"
 
+msgid "unnatural/sessionConfig/automaticColors"
+msgstr "Automatic colors:"
+
 msgid "unnatural/sessionConfig/cheats"
 msgstr "Cheats:"
 
 msgid "unnatural/sessionConfig/diplomacy"
 msgstr "Diplomacy:"
+
+msgid "unnatural/sessionConfig/fogOfWar"
+msgstr "Fog of war:"
 
 msgid "unnatural/sessionConfig/lockedSpeed"
 msgstr "Locked speed:"
