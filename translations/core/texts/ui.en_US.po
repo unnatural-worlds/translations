@@ -855,6 +855,12 @@ msgstr "Linux version"
 msgid "unnatural/mainMenu/linux/supportForLinuxIsExperimental"
 msgstr "Support for linux is experimental. Please excuse potential difficulties."
 
+msgid "unnatural/mainMenu/macos/macosVersion"
+msgstr "Macos version"
+
+msgid "unnatural/mainMenu/macos/supportForMacosIsExperimental"
+msgstr "Support for macos is experimental. Please excuse potential difficulties."
+
 msgid "unnatural/mainMenu/menu/about"
 msgstr "About"
 
