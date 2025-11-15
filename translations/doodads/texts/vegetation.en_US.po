@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: unnatural-worlds\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI\n"
-"PO-Revision-Date: 2025-09-16 22:24\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI\n"
 "Last-Translator: translations <translations@unnatural-worlds.com>\n"
 "Language-Team: English\n"
 "MIME-Version: 1.0\n"
@@ -14,8 +14,6 @@ msgstr ""
 "X-Crowdin-Project: unnatural-worlds\n"
 "X-Crowdin-Project-ID: 677934\n"
 "X-Crowdin-Language: en\n"
-"X-Crowdin-File: /doodads/texts/vegetation.pot\n"
-"X-Crowdin-File-ID: 56\n"
 
 msgid "unnatural/doodads/vegetation/azure_helicup_tree.proto/description"
 msgstr "Tall spirals of cobalt foliage that catch wind currents to spread spores."
@@ -149,18 +147,6 @@ msgstr "Branch tips split into sharp, claw-like grips that close at night."
 msgid "unnatural/doodads/vegetation/pincer_tree.proto/title"
 msgstr "Pincer tree"
 
-msgid "unnatural/doodads/vegetation/pipeshroom.proto/description"
-msgstr "Giant hollow fungal stalks that echo with a low hum when the wind blows."
-
-msgid "unnatural/doodads/vegetation/pipeshroom.proto/title"
-msgstr "Pipeshroom"
-
-msgid "unnatural/doodads/vegetation/potato_bush.proto/description"
-msgstr "Dense shrub with single nutrient-packed tuber."
-
-msgid "unnatural/doodads/vegetation/potato_bush.proto/title"
-msgstr "Potato bush"
-
 msgid "unnatural/doodads/vegetation/pyramid_tree.proto/description"
 msgstr "Massive layered rectangular trunk supports a simple canopy."
 
@@ -202,12 +188,6 @@ msgstr "Its trunk splits into three branches, each with feather-like leaves that
 
 msgid "unnatural/doodads/vegetation/trifeather_tree.proto/title"
 msgstr "Trifeather tree"
-
-msgid "unnatural/doodads/vegetation/twisted_trunk_tree.proto/description"
-msgstr "Warped trunk coils around itself as if strangling invisible prey, producing nectar."
-
-msgid "unnatural/doodads/vegetation/twisted_trunk_tree.proto/title"
-msgstr "Twisted trunk tree"
 
 msgid "unnatural/doodads/vegetation/violet_bush.proto/description"
 msgstr "Soft purple leaves exude a faint perfume that deters insects."

@@ -451,17 +451,23 @@ msgstr "Accelerated and experimental evolution."
 msgid "unnatural/base/biomass/buildings/mutapod.proto/title"
 msgstr "Mutapod"
 
-msgid "unnatural/base/biomass/buildings/nutritree.proto/description"
-msgstr "Using the power of sunlight, and deep water, it produces nutritious sacks at its roots, ready for harvest"
+msgid "unnatural/base/biomass/buildings/phytopod.proto/description"
+msgstr "Phytopod"
 
-msgid "unnatural/base/biomass/buildings/nutritree.proto/title"
-msgstr "Nutritree"
+msgid "unnatural/base/biomass/buildings/phytopod.proto/title"
+msgstr "Phytopod"
 
-msgid "unnatural/base/biomass/buildings/phytomorph.proto/description"
-msgstr "Quickly morphs new combatants for the war."
+msgid "unnatural/base/biomass/buildings/pipeshroom.proto/description"
+msgstr "Pipeshroom"
 
-msgid "unnatural/base/biomass/buildings/phytomorph.proto/title"
-msgstr "Phytomorph"
+msgid "unnatural/base/biomass/buildings/pipeshroom.proto/title"
+msgstr "Pipeshroom"
+
+msgid "unnatural/base/biomass/buildings/scarenest.proto/description"
+msgstr "Scarenest"
+
+msgid "unnatural/base/biomass/buildings/scarenest.proto/title"
+msgstr "Scarenest"
 
 msgid "unnatural/base/biomass/buildings/spike_wall.proto/description"
 msgstr "Giant column with spikes. Nothing comes through."
@@ -469,23 +475,41 @@ msgstr "Giant column with spikes. Nothing comes through."
 msgid "unnatural/base/biomass/buildings/spike_wall.proto/title"
 msgstr "Spike wall"
 
+msgid "unnatural/base/biomass/buildings/willow.proto/description"
+msgstr "Willow"
+
+msgid "unnatural/base/biomass/buildings/willow.proto/title"
+msgstr "Willow"
+
+msgid "unnatural/base/biomass/buildings/wombtree.proto/description"
+msgstr "Wombtree"
+
+msgid "unnatural/base/biomass/buildings/wombtree.proto/title"
+msgstr "Wombtree"
+
+msgid "unnatural/base/biomass/resources/algaesack.proto/description"
+msgstr "Algaesack"
+
+msgid "unnatural/base/biomass/resources/algaesack.proto/title"
+msgstr "Algaesack"
+
 msgid "unnatural/base/biomass/resources/biomass.proto/description"
 msgstr "Densely packed nutrients."
 
 msgid "unnatural/base/biomass/resources/biomass.proto/title"
 msgstr "Biomass"
 
-msgid "unnatural/base/biomass/resources/metal.proto/description"
-msgstr "Crude, rough, but sometimes useful."
+msgid "unnatural/base/biomass/resources/fertilizer.proto/description"
+msgstr "Fertilizer"
 
-msgid "unnatural/base/biomass/resources/metal.proto/title"
-msgstr "Metal"
+msgid "unnatural/base/biomass/resources/fertilizer.proto/title"
+msgstr "Fertilizer"
 
-msgid "unnatural/base/biomass/resources/seed.proto/description"
-msgstr "A piece of genetic material - the essence of all life."
+msgid "unnatural/base/biomass/resources/genemass.proto/description"
+msgstr "Genemass"
 
-msgid "unnatural/base/biomass/resources/seed.proto/title"
-msgstr "Seed"
+msgid "unnatural/base/biomass/resources/genemass.proto/title"
+msgstr "Genemass"
 
 msgid "unnatural/base/biomass/units/blazepup.proto/description"
 msgstr "Flamethrower mounted on a hound."
@@ -493,29 +517,29 @@ msgstr "Flamethrower mounted on a hound."
 msgid "unnatural/base/biomass/units/blazepup.proto/title"
 msgstr "Blazepup"
 
-msgid "unnatural/base/biomass/units/gorescythe.proto/description"
-msgstr "Long arms with claws that tear through anything."
-
-msgid "unnatural/base/biomass/units/gorescythe.proto/title"
-msgstr "Gorescythe"
-
-msgid "unnatural/base/biomass/units/jumpscare.proto/description"
-msgstr "Creepy crawly. All else equal, larger army wins."
-
-msgid "unnatural/base/biomass/units/jumpscare.proto/title"
-msgstr "Jumpscare"
-
 msgid "unnatural/base/biomass/units/crysthide.proto/description"
 msgstr "Skin hardened with metal and carbon."
 
 msgid "unnatural/base/biomass/units/crysthide.proto/title"
 msgstr "Crysthide"
 
+msgid "unnatural/base/biomass/units/gorescythe.proto/description"
+msgstr "Long arms with claws that tear through anything."
+
+msgid "unnatural/base/biomass/units/gorescythe.proto/title"
+msgstr "Gorescythe"
+
 msgid "unnatural/base/biomass/units/hound.proto/description"
 msgstr "Just muscles and eyes. Best scout."
 
 msgid "unnatural/base/biomass/units/hound.proto/title"
 msgstr "Hound"
+
+msgid "unnatural/base/biomass/units/jumpscare.proto/description"
+msgstr "Creepy crawly. All else equal, larger army wins."
+
+msgid "unnatural/base/biomass/units/jumpscare.proto/title"
+msgstr "Jumpscare"
 
 msgid "unnatural/base/biomass/units/lasher.proto/description"
 msgstr "Naval and ground hybrid combatant."
@@ -546,12 +570,6 @@ msgstr "Big ball of muscles, propels itself at the target, dealing massive damag
 
 msgid "unnatural/base/biomass/units/rhino.proto/title"
 msgstr "Rhino"
-
-msgid "unnatural/base/biomass/units/wardkin.proto/description"
-msgstr "Has a special organ that emits energy shield around it."
-
-msgid "unnatural/base/biomass/units/wardkin.proto/title"
-msgstr "Wardkin"
 
 msgid "unnatural/base/biomass/units/slitherer.proto/description"
 msgstr "Adept navy combatant."
@@ -589,65 +607,29 @@ msgstr "Well rounded combatant. Good at everything. Excels at nothing."
 msgid "unnatural/base/biomass/units/venomite.proto/title"
 msgstr "Venomite"
 
-msgid "unnatural/base/biomass/upgrades/acid.proto/description"
-msgstr "More toxic."
+msgid "unnatural/base/biomass/units/wardkin.proto/description"
+msgstr "Has a special organ that emits energy shield around it."
 
-msgid "unnatural/base/biomass/upgrades/acid.proto/title"
-msgstr "Acid"
+msgid "unnatural/base/biomass/units/wardkin.proto/title"
+msgstr "Wardkin"
 
-msgid "unnatural/base/biomass/upgrades/aim.proto/description"
-msgstr "Improved sight."
+msgid "unnatural/base/biomass/upgrades/awakening.proto/description"
+msgstr "Awakening"
 
-msgid "unnatural/base/biomass/upgrades/aim.proto/title"
-msgstr "Aim"
+msgid "unnatural/base/biomass/upgrades/awakening.proto/title"
+msgstr "Awakening"
 
-msgid "unnatural/base/biomass/upgrades/chitin.proto/description"
-msgstr "Reinforced with some bone structure."
+msgid "unnatural/base/biomass/upgrades/fertility.proto/description"
+msgstr "Fertility"
 
-msgid "unnatural/base/biomass/upgrades/chitin.proto/title"
-msgstr "Chitin"
+msgid "unnatural/base/biomass/upgrades/fertility.proto/title"
+msgstr "Fertility"
 
-msgid "unnatural/base/biomass/upgrades/claws.proto/description"
-msgstr "Sharper!"
+msgid "unnatural/base/biomass/upgrades/prosperity.proto/description"
+msgstr "Prosperity"
 
-msgid "unnatural/base/biomass/upgrades/claws.proto/title"
-msgstr "Claws"
-
-msgid "unnatural/base/biomass/upgrades/crawling.proto/description"
-msgstr "More agile limbs, appendages, or whatever is the source of your locomotion."
-
-msgid "unnatural/base/biomass/upgrades/crawling.proto/title"
-msgstr "Crawling"
-
-msgid "unnatural/base/biomass/upgrades/evasion.proto/description"
-msgstr "Cannot hit what moves quicker than the bullet."
-
-msgid "unnatural/base/biomass/upgrades/evasion.proto/title"
-msgstr "Evasion"
-
-msgid "unnatural/base/biomass/upgrades/precision.proto/description"
-msgstr "Steady, steady, now!"
-
-msgid "unnatural/base/biomass/upgrades/precision.proto/title"
-msgstr "Precision"
-
-msgid "unnatural/base/biomass/upgrades/regeneration.proto/description"
-msgstr "Artificially smarter tissue."
-
-msgid "unnatural/base/biomass/upgrades/regeneration.proto/title"
-msgstr "Regeneration"
-
-msgid "unnatural/base/biomass/upgrades/running.proto/description"
-msgstr "More muscles, more speed."
-
-msgid "unnatural/base/biomass/upgrades/running.proto/title"
-msgstr "Running"
-
-msgid "unnatural/base/biomass/upgrades/splash.proto/description"
-msgstr "Better dispersal."
-
-msgid "unnatural/base/biomass/upgrades/splash.proto/title"
-msgstr "Splash"
+msgid "unnatural/base/biomass/upgrades/prosperity.proto/title"
+msgstr "Prosperity"
 
 msgid "unnatural/base/ores/aether_deposit.proto/description"
 msgstr "Gaseous substance that defies scientific understanding."
@@ -673,17 +655,23 @@ msgstr "Produces F/F (flying or floating) machines."
 msgid "unnatural/base/technocracy/buildings/air_factory.proto/title"
 msgstr "Air factory"
 
+msgid "unnatural/base/technocracy/buildings/armory.proto/description"
+msgstr "Armory"
+
+msgid "unnatural/base/technocracy/buildings/armory.proto/title"
+msgstr "Armory"
+
+msgid "unnatural/base/technocracy/buildings/arsenal.proto/description"
+msgstr "Arsenal"
+
+msgid "unnatural/base/technocracy/buildings/arsenal.proto/title"
+msgstr "Arsenal"
+
 msgid "unnatural/base/technocracy/buildings/bots_factory.proto/description"
 msgstr "Produces bipedal and multipedal robots."
 
 msgid "unnatural/base/technocracy/buildings/bots_factory.proto/title"
 msgstr "Bots factory"
-
-msgid "unnatural/base/technocracy/buildings/capacitor.proto/description"
-msgstr "Stores additional power for releasing it in bigger bursts. Improves damage of Thors."
-
-msgid "unnatural/base/technocracy/buildings/capacitor.proto/title"
-msgstr "Capacitor"
 
 msgid "unnatural/base/technocracy/buildings/control_core.proto/description"
 msgstr "Housing for all AI processors. Keep it secret. Keep it safe."
@@ -709,23 +697,11 @@ msgstr "Assembles most powerful robots."
 msgid "unnatural/base/technocracy/buildings/experimental_assembler.proto/title"
 msgstr "Experimental assembler"
 
-msgid "unnatural/base/technocracy/buildings/fabricator.proto/description"
-msgstr "Provides few extra mechanical arms for your factories to speed up their operations."
-
-msgid "unnatural/base/technocracy/buildings/fabricator.proto/title"
-msgstr "Fabricator"
-
 msgid "unnatural/base/technocracy/buildings/generator.proto/description"
 msgstr "Excites the energy stored in fuel rods and turns it into plasma, for more rapid charging."
 
 msgid "unnatural/base/technocracy/buildings/generator.proto/title"
 msgstr "Generator"
-
-msgid "unnatural/base/technocracy/buildings/heimdall.proto/description"
-msgstr "Powerful defensive tower."
-
-msgid "unnatural/base/technocracy/buildings/heimdall.proto/title"
-msgstr "Heimdall"
 
 msgid "unnatural/base/technocracy/buildings/laboratory.proto/description"
 msgstr "Mad scientist, surfing on the waves of Aether, with a microscope and large antenna, broadcasting tweaks and tunes to empower everyone."
@@ -744,6 +720,12 @@ msgstr "Some small stuff. Little bit of tiny stuff. And traces of micro stuff. P
 
 msgid "unnatural/base/technocracy/buildings/nanoforge.proto/title"
 msgstr "Nanoforge"
+
+msgid "unnatural/base/technocracy/buildings/radar.proto/description"
+msgstr "Radar"
+
+msgid "unnatural/base/technocracy/buildings/radar.proto/title"
+msgstr "Radar"
 
 msgid "unnatural/base/technocracy/buildings/refinery.proto/description"
 msgstr "Highly flammable. Kids used to love the flame flares. Compacts raw oil into usable fuel rods."
@@ -781,18 +763,6 @@ msgstr "Build a wall. Literally."
 msgid "unnatural/base/technocracy/buildings/wall.proto/title"
 msgstr "Wall"
 
-msgid "unnatural/base/technocracy/recipes/deep_oil.proto/description"
-msgstr "Oil must flow. More power."
-
-msgid "unnatural/base/technocracy/recipes/deep_oil.proto/title"
-msgstr "Deep oil"
-
-msgid "unnatural/base/technocracy/recipes/smelting_ore.proto/description"
-msgstr "Watching useless stone crust evaporating and all bright-red metal flowing into a cast is weirdly satisfying."
-
-msgid "unnatural/base/technocracy/recipes/smelting_ore.proto/title"
-msgstr "Smelting ore"
-
 msgid "unnatural/base/technocracy/resources/aether.proto/description"
 msgstr "Gaseous substance that defies scientific understanding."
 
@@ -804,6 +774,12 @@ msgstr "Backup consciousness package of the AI."
 
 msgid "unnatural/base/technocracy/resources/ai_shard.proto/title"
 msgstr "Ai shard"
+
+msgid "unnatural/base/technocracy/resources/alloy.proto/description"
+msgstr "Alloy"
+
+msgid "unnatural/base/technocracy/resources/alloy.proto/title"
+msgstr "Alloy"
 
 msgid "unnatural/base/technocracy/resources/fuel_rods.proto/description"
 msgstr "All the power ready to be exploited."
@@ -822,12 +798,6 @@ msgstr "Viscous liquid packed with energy."
 
 msgid "unnatural/base/technocracy/resources/oil.proto/title"
 msgstr "Oil"
-
-msgid "unnatural/base/technocracy/resources/ore.proto/description"
-msgstr "Mixture of rare metals and useless rock."
-
-msgid "unnatural/base/technocracy/resources/ore.proto/title"
-msgstr "Ore"
 
 msgid "unnatural/base/technocracy/resources/plasma_cell.proto/description"
 msgstr "Excited raw power ready for rapid discharge."
@@ -944,41 +914,29 @@ msgstr "Sneaky little bastard with antimatter gun that razes buildings in second
 msgid "unnatural/base/technocracy/units/yatag.proto/title"
 msgstr "Yatag"
 
-msgid "unnatural/base/technocracy/upgrades/atv_hull.proto/description"
-msgstr "Protect the precious cargo."
+msgid "unnatural/base/technocracy/upgrades/atv.proto/description"
+msgstr "Atv"
 
-msgid "unnatural/base/technocracy/upgrades/atv_hull.proto/title"
-msgstr "Atv hull"
+msgid "unnatural/base/technocracy/upgrades/atv.proto/title"
+msgstr "Atv"
 
-msgid "unnatural/base/technocracy/upgrades/big_boom_boy_servos.proto/description"
-msgstr "Faster movement for the big guy. Who would want to wait for the package to be delivered, right?"
+msgid "unnatural/base/technocracy/upgrades/big_boom_boy.proto/description"
+msgstr "Big boom boy"
 
-msgid "unnatural/base/technocracy/upgrades/big_boom_boy_servos.proto/title"
-msgstr "Big boom boy servos"
+msgid "unnatural/base/technocracy/upgrades/big_boom_boy.proto/title"
+msgstr "Big boom boy"
 
-msgid "unnatural/base/technocracy/upgrades/capacitor.proto/description"
-msgstr "Stores additional power for releasing it in bigger bursts."
+msgid "unnatural/base/technocracy/upgrades/cyclops.proto/description"
+msgstr "Cyclops"
 
-msgid "unnatural/base/technocracy/upgrades/capacitor.proto/title"
-msgstr "Capacitor"
+msgid "unnatural/base/technocracy/upgrades/cyclops.proto/title"
+msgstr "Cyclops"
 
-msgid "unnatural/base/technocracy/upgrades/cyclops_damage.proto/description"
-msgstr "Focuses its one eye as a scope."
+msgid "unnatural/base/technocracy/upgrades/drone.proto/description"
+msgstr "Drone"
 
-msgid "unnatural/base/technocracy/upgrades/cyclops_damage.proto/title"
-msgstr "Cyclops damage"
-
-msgid "unnatural/base/technocracy/upgrades/drone_rotors.proto/description"
-msgstr "Spin faster, fly faster."
-
-msgid "unnatural/base/technocracy/upgrades/drone_rotors.proto/title"
-msgstr "Drone rotors"
-
-msgid "unnatural/base/technocracy/upgrades/fabrication.proto/description"
-msgstr "Provides few extra mechanical arms for your factories to speed up their operations."
-
-msgid "unnatural/base/technocracy/upgrades/fabrication.proto/title"
-msgstr "Fabrication"
+msgid "unnatural/base/technocracy/upgrades/drone.proto/title"
+msgstr "Drone"
 
 msgid "unnatural/base/technocracy/upgrades/fortification.proto/description"
 msgstr "Reinforced concrete for some buildings."
@@ -986,63 +944,75 @@ msgstr "Reinforced concrete for some buildings."
 msgid "unnatural/base/technocracy/upgrades/fortification.proto/title"
 msgstr "Fortification"
 
-msgid "unnatural/base/technocracy/upgrades/golem_fires.proto/description"
-msgstr "Makes the plasma even hotter."
+msgid "unnatural/base/technocracy/upgrades/golem.proto/description"
+msgstr "Golem"
 
-msgid "unnatural/base/technocracy/upgrades/golem_fires.proto/title"
-msgstr "Golem fires"
+msgid "unnatural/base/technocracy/upgrades/golem.proto/title"
+msgstr "Golem"
 
-msgid "unnatural/base/technocracy/upgrades/juggernaut_range.proto/description"
-msgstr "Fire first, ask second."
+msgid "unnatural/base/technocracy/upgrades/juggernaut.proto/description"
+msgstr "Juggernaut"
 
-msgid "unnatural/base/technocracy/upgrades/juggernaut_range.proto/title"
-msgstr "Juggernaut range"
+msgid "unnatural/base/technocracy/upgrades/juggernaut.proto/title"
+msgstr "Juggernaut"
 
-msgid "unnatural/base/technocracy/upgrades/kitsune_evasion.proto/description"
-msgstr "No need for armor, if they cannot hit you."
+msgid "unnatural/base/technocracy/upgrades/kitsune.proto/description"
+msgstr "Kitsune"
 
-msgid "unnatural/base/technocracy/upgrades/kitsune_evasion.proto/title"
-msgstr "Kitsune evasion"
+msgid "unnatural/base/technocracy/upgrades/kitsune.proto/title"
+msgstr "Kitsune"
 
-msgid "unnatural/base/technocracy/upgrades/lurker_precision.proto/description"
-msgstr "Improved focus for the laser, dealing more damage."
+msgid "unnatural/base/technocracy/upgrades/lurker.proto/description"
+msgstr "Lurker"
 
-msgid "unnatural/base/technocracy/upgrades/lurker_precision.proto/title"
-msgstr "Lurker precision"
+msgid "unnatural/base/technocracy/upgrades/lurker.proto/title"
+msgstr "Lurker"
 
-msgid "unnatural/base/technocracy/upgrades/mermaid_speed.proto/description"
-msgstr "Improved air cushion for faster traversal of all terrain."
+msgid "unnatural/base/technocracy/upgrades/mermaid.proto/description"
+msgstr "Mermaid"
 
-msgid "unnatural/base/technocracy/upgrades/mermaid_speed.proto/title"
-msgstr "Mermaid speed"
+msgid "unnatural/base/technocracy/upgrades/mermaid.proto/title"
+msgstr "Mermaid"
 
-msgid "unnatural/base/technocracy/upgrades/paladin_overcharge.proto/description"
-msgstr "Overcharge the shield, providing additional protection."
+msgid "unnatural/base/technocracy/upgrades/paladin.proto/description"
+msgstr "Paladin"
 
-msgid "unnatural/base/technocracy/upgrades/paladin_overcharge.proto/title"
-msgstr "Paladin overcharge"
+msgid "unnatural/base/technocracy/upgrades/paladin.proto/title"
+msgstr "Paladin"
 
-msgid "unnatural/base/technocracy/upgrades/tripod_range.proto/description"
-msgstr "You have the longest range mobile unit already. So what do you upgrade?"
+msgid "unnatural/base/technocracy/upgrades/thor.proto/description"
+msgstr "Thor"
 
-msgid "unnatural/base/technocracy/upgrades/tripod_range.proto/title"
-msgstr "Tripod range"
+msgid "unnatural/base/technocracy/upgrades/thor.proto/title"
+msgstr "Thor"
 
-msgid "unnatural/base/technocracy/upgrades/twinfire_quadfire.proto/description"
-msgstr "What is better that two cannons? Four cannons."
+msgid "unnatural/base/technocracy/upgrades/tripod.proto/description"
+msgstr "Tripod"
 
-msgid "unnatural/base/technocracy/upgrades/twinfire_quadfire.proto/title"
-msgstr "Twinfire quadfire"
+msgid "unnatural/base/technocracy/upgrades/tripod.proto/title"
+msgstr "Tripod"
 
-msgid "unnatural/base/technocracy/upgrades/warlord_offensive.proto/description"
-msgstr "More power!"
+msgid "unnatural/base/technocracy/upgrades/twinfire.proto/description"
+msgstr "Twinfire"
 
-msgid "unnatural/base/technocracy/upgrades/warlord_offensive.proto/title"
-msgstr "Warlord offensive"
+msgid "unnatural/base/technocracy/upgrades/twinfire.proto/title"
+msgstr "Twinfire"
 
-msgid "unnatural/base/technocracy/upgrades/yatag_siege.proto/description"
-msgstr "Improved antimatter containment field allows larger bursts."
+msgid "unnatural/base/technocracy/upgrades/warlord.proto/description"
+msgstr "Warlord"
 
-msgid "unnatural/base/technocracy/upgrades/yatag_siege.proto/title"
-msgstr "Yatag siege"
+msgid "unnatural/base/technocracy/upgrades/warlord.proto/title"
+msgstr "Warlord"
+
+msgid "unnatural/base/technocracy/upgrades/weapons.proto/description"
+msgstr "Weapons"
+
+msgid "unnatural/base/technocracy/upgrades/weapons.proto/title"
+msgstr "Weapons"
+
+msgid "unnatural/base/technocracy/upgrades/yatag.proto/description"
+msgstr "Yatag"
+
+msgid "unnatural/base/technocracy/upgrades/yatag.proto/title"
+msgstr "Yatag"
 
