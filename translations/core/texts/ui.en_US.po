@@ -1776,11 +1776,11 @@ msgstr "Attack"
 msgid "unnatural/tooltips/availableUpgrades"
 msgstr "Available upgrades"
 
-msgid "unnatural/tooltips/bonuses"
-msgstr "Bonuses"
-
 msgid "unnatural/tooltips/buildingNeedsPrerequisitesForAtLeastOneRecipe"
 msgstr "The building needs prerequisites for at least one recipe. See below."
+
+msgid "unnatural/tooltips/combat"
+msgstr "Combat"
 
 msgid "unnatural/tooltips/constructedBy"
 msgstr "Constructed by"
@@ -1857,9 +1857,6 @@ msgstr "{0}/m"
 msgid "unnatural/tooltips/perSecond"
 msgstr "{0}/s"
 
-msgid "unnatural/tooltips/placeOver"
-msgstr "Place over"
-
 msgid "unnatural/tooltips/processingSpeed"
 msgstr "Processing speed: "
 
@@ -1902,6 +1899,9 @@ msgstr "Splash radius: "
 msgid "unnatural/tooltips/stackingLimit"
 msgstr "Stacking limit: "
 
+msgid "unnatural/tooltips/stealth"
+msgstr "Stealth: "
+
 msgid "unnatural/tooltips/Upgrade"
 msgstr "Upgrade"
 
@@ -1928,6 +1928,9 @@ msgstr "Shooting range: "
 
 msgid "unnatural/tooltips/upgrade/splashRadius"
 msgstr "Splash radius: "
+
+msgid "unnatural/tooltips/vision"
+msgstr "Vision: "
 
 msgid "unnatural/tooltips/weaponType"
 msgstr "Weapon type: "
