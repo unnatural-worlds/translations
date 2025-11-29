@@ -81,6 +81,42 @@ msgstr "About Unnatural Worlds"
 msgid "unnatural/about/madeByTomasMaly"
 msgstr "Made by Tomáš Malý, 2025."
 
+msgid "unnatural/announcer/approachingEnemy"
+msgstr "Approaching enemy."
+
+msgid "unnatural/announcer/BuildingNeedsRecipe"
+msgstr "Building needs a recipe."
+
+msgid "unnatural/announcer/gameIsStarting"
+msgstr "Game is starting."
+
+msgid "unnatural/announcer/gameOver"
+msgstr "Game over."
+
+msgid "unnatural/announcer/gamePaused"
+msgstr "Game paused."
+
+msgid "unnatural/announcer/gameResumed"
+msgstr "Game resumed."
+
+msgid "unnatural/announcer/playerHasBeenEliminated"
+msgstr "A player has been eliminated."
+
+msgid "unnatural/announcer/trucksAreAutonomousPlaceConstruction"
+msgstr "Trucks are autonomous. Start by placing a construction."
+
+msgid "unnatural/announcer/waitForTrucksToDeliverResources"
+msgstr "Wait for trucks to deliver resources."
+
+msgid "unnatural/announcer/weAreUnderAttack"
+msgstr "We are under attack."
+
+msgid "unnatural/announcer/weHaveBeenEliminated"
+msgstr "We have been eliminated."
+
+msgid "unnatural/announcer/weHaveWon"
+msgstr "We have won."
+
 msgid "unnatural/campaigns/madProtocol"
 msgstr "M.A.D. Protocol"
 

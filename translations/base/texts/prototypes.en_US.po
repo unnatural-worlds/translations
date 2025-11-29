@@ -631,6 +631,12 @@ msgstr "Prosperity"
 msgid "unnatural/base/biomass/upgrades/prosperity.proto/title"
 msgstr "Prosperity"
 
+msgid "unnatural/base/biomass/upgrades/regeneration.proto/description"
+msgstr "Regeneration"
+
+msgid "unnatural/base/biomass/upgrades/regeneration.proto/title"
+msgstr "Regeneration"
+
 msgid "unnatural/base/ores/aether_deposit.proto/description"
 msgstr "Gaseous substance that defies scientific understanding."
 
