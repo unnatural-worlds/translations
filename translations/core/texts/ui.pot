@@ -1515,20 +1515,23 @@ msgstr "Productive time percentage spend on processing the recipe."
 msgid "unnatural/selectedInfo/recipe"
 msgstr "Recipe:"
 
+msgid "unnatural/selectedInfo/statusChangingRecipe"
+msgstr "Status: changing recipe"
+
+msgid "unnatural/selectedInfo/statusConstructing"
+msgstr "Status: constructing"
+
 msgid "unnatural/selectedInfo/statusDamaged"
 msgstr "Status: damaged"
 
-msgid "unnatural/selectedInfo/statusProcessing"
-msgstr "Status: processing"
-
-msgid "unnatural/selectedInfo/statusRebuilding"
-msgstr "Status: rebuilding"
+msgid "unnatural/selectedInfo/statusProcessingRecipe"
+msgstr "Status: processing recipe"
 
 msgid "unnatural/selectedInfo/statusShooting"
 msgstr "Status: shooting"
 
-msgid "unnatural/selectedInfo/statusStalling"
-msgstr "Status: stalling"
+msgid "unnatural/selectedInfo/statusStallingRecipe"
+msgstr "Status: stalling recipe"
 
 msgid "unnatural/selectedInfo/upgradeDamage"
 msgstr "Damage: {0} %"
@@ -1542,6 +1545,9 @@ msgstr "Movement speed: {0} %"
 msgid "unnatural/selectedInfo/upgradeProcessingSpeed"
 msgstr "Processing speed: {0} %"
 
+msgid "unnatural/selectedInfo/upgradeRegenerationDelay"
+msgstr "Regeneration delay: {0} %"
+
 msgid "unnatural/selectedInfo/upgradeRegenerationSpeed"
 msgstr "Regeneration speed: {0} %"
 
@@ -1550,6 +1556,12 @@ msgstr "Shooting range: {0} %"
 
 msgid "unnatural/selectedInfo/upgradeSplashRadius"
 msgstr "Splash radius: {0} %"
+
+msgid "unnatural/selectedInfo/upgradeStealth"
+msgstr "Stealth: {0} %"
+
+msgid "unnatural/selectedInfo/upgradeVision"
+msgstr "Vision: {0} %"
 
 msgid "unnatural/selectedInfo/uptime"
 msgstr "Uptime: {0} %"
@@ -1920,6 +1932,9 @@ msgstr "{0} %"
 msgid "unnatural/tooltips/upgrade/processingSpeed"
 msgstr "Processing speed: "
 
+msgid "unnatural/tooltips/upgrade/regenerationDelay"
+msgstr "Regeneration delay: "
+
 msgid "unnatural/tooltips/upgrade/regenerationSpeed"
 msgstr "Regeneration speed: "
 
@@ -1928,6 +1943,12 @@ msgstr "Shooting range: "
 
 msgid "unnatural/tooltips/upgrade/splashRadius"
 msgstr "Splash radius: "
+
+msgid "unnatural/tooltips/upgrade/stealthRange"
+msgstr "Detection range: "
+
+msgid "unnatural/tooltips/upgrade/visionRange"
+msgstr "Vision range: "
 
 msgid "unnatural/tooltips/vision"
 msgstr "Vision: "
