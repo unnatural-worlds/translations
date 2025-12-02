@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: unnatural-worlds\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI\n"
-"PO-Revision-Date: 2025-09-16 22:24\n"
+"PO-Revision-Date: 2025-12-02 13:35\n"
 "Last-Translator: translations <translations@unnatural-worlds.com>\n"
 "Language-Team: Czech\n"
 "MIME-Version: 1.0\n"
@@ -149,18 +149,6 @@ msgstr "Špičky větví se rozštěpují do ostrých, drápovitých úchopů, k
 msgid "unnatural/doodads/vegetation/pincer_tree.proto/title"
 msgstr "Klešťový strom"
 
-msgid "unnatural/doodads/vegetation/pipeshroom.proto/description"
-msgstr "Obrovské duté houbové stonky, které se ozývají tichým hučením, když fouká vítr."
-
-msgid "unnatural/doodads/vegetation/pipeshroom.proto/title"
-msgstr "Dýmkový hřib"
-
-msgid "unnatural/doodads/vegetation/potato_bush.proto/description"
-msgstr "Hustý keř s jednou hlízou bohatou na živiny."
-
-msgid "unnatural/doodads/vegetation/potato_bush.proto/title"
-msgstr "Bramborový keř"
-
 msgid "unnatural/doodads/vegetation/pyramid_tree.proto/description"
 msgstr "Masivní vrstvený obdélníkový kmen podporuje jednoduchou korunu."
 
@@ -202,12 +190,6 @@ msgstr "Jeho kmen se dělí do tří větví, každá s listy podobnými peří,
 
 msgid "unnatural/doodads/vegetation/trifeather_tree.proto/title"
 msgstr "Třípírový strom"
-
-msgid "unnatural/doodads/vegetation/twisted_trunk_tree.proto/description"
-msgstr "Zkroucený kmen se obtáčí kolem sebe, jako by škrtil neviditelnou kořist, a produkuje nektar."
-
-msgid "unnatural/doodads/vegetation/twisted_trunk_tree.proto/title"
-msgstr "Zkroucený kmenový strom"
 
 msgid "unnatural/doodads/vegetation/violet_bush.proto/description"
 msgstr "Jemné fialové listy vylučují slabý parfém, který odpuzuje hmyz."

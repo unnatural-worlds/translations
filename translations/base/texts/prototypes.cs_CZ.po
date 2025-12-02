@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: unnatural-worlds\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI\n"
-"PO-Revision-Date: 2025-09-16 22:24\n"
+"PO-Revision-Date: 2025-12-02 13:35\n"
 "Last-Translator: translations <translations@unnatural-worlds.com>\n"
 "Language-Team: Czech\n"
 "MIME-Version: 1.0\n"
@@ -20,7 +20,7 @@ msgstr ""
 msgid "unnatural/base/archaics/archaics.proto/description"
 msgstr "Potomci původních lidí, kteří si cení tradičních hodnot. Vyhýbání se AI technologiím způsobilo stagnaci.\n"
 "Ale přesto stále přežívají.\n\n"
-"Tato rasa ještě není dokončená. NEHRÁT."
+"Tato rasa bude v budoucí verzi odstraněna. NEHRÁT."
 
 msgid "unnatural/base/archaics/archaics.proto/title"
 msgstr "Zastaralí"
@@ -419,7 +419,7 @@ msgid "unnatural/base/biomass/buildings/dart_trap.proto/title"
 msgstr "Šipková past"
 
 msgid "unnatural/base/biomass/buildings/deeproot.proto/description"
-msgstr "Extrahuje kovové těžké živiny z hlubokého dolu."
+msgstr "Extrahuje živiny z velké hloubky."
 
 msgid "unnatural/base/biomass/buildings/deeproot.proto/title"
 msgstr "Deeproot"
@@ -431,7 +431,7 @@ msgid "unnatural/base/biomass/buildings/gas_trap.proto/title"
 msgstr "Plynová past"
 
 msgid "unnatural/base/biomass/buildings/incubator.proto/description"
-msgstr "Roste pokročilé bojovníky, kteří jsou infuťováni kovovým obsahem."
+msgstr "Roste pokročilé bojovníky, kteří jsou vylepšení extra geny."
 
 msgid "unnatural/base/biomass/buildings/incubator.proto/title"
 msgstr "Inkubátor"
@@ -443,22 +443,28 @@ msgid "unnatural/base/biomass/buildings/lotus.proto/title"
 msgstr "Leknín"
 
 msgid "unnatural/base/biomass/buildings/mutapod.proto/description"
-msgstr "Zrychlený a experimentální vývoj."
+msgstr "Konvertuje biomasu na genetikon."
 
 msgid "unnatural/base/biomass/buildings/mutapod.proto/title"
 msgstr "Mutapod"
 
-msgid "unnatural/base/biomass/buildings/nutritree.proto/description"
-msgstr "Pomocí slunečního světla a hluboké vody produkuje u kořenů výživné pytle, které jsou připraveny ke sklizni"
+msgid "unnatural/base/biomass/buildings/phytopod.proto/description"
+msgstr "Konvertuje hnojivo na biomasu."
 
-msgid "unnatural/base/biomass/buildings/nutritree.proto/title"
-msgstr "Nutritree"
+msgid "unnatural/base/biomass/buildings/phytopod.proto/title"
+msgstr "Fytolusk"
 
-msgid "unnatural/base/biomass/buildings/phytomorph.proto/description"
-msgstr "Rychle morfuje nové bojovníky do války."
+msgid "unnatural/base/biomass/buildings/pipeshroom.proto/description"
+msgstr "Velká kolonie fungi hledající moudrost."
 
-msgid "unnatural/base/biomass/buildings/phytomorph.proto/title"
-msgstr "Phytomorph"
+msgid "unnatural/base/biomass/buildings/pipeshroom.proto/title"
+msgstr "Trubkovec"
+
+msgid "unnatural/base/biomass/buildings/scarenest.proto/description"
+msgstr "Rodí jumpscare."
+
+msgid "unnatural/base/biomass/buildings/scarenest.proto/title"
+msgstr "Strašín"
 
 msgid "unnatural/base/biomass/buildings/spike_wall.proto/description"
 msgstr "Obří sloup s hroty. Nic neprojde."
@@ -466,23 +472,41 @@ msgstr "Obří sloup s hroty. Nic neprojde."
 msgid "unnatural/base/biomass/buildings/spike_wall.proto/title"
 msgstr "Sloup s hroty"
 
+msgid "unnatural/base/biomass/buildings/willow.proto/description"
+msgstr "Dumá nad životem, a produkuje algoměchy."
+
+msgid "unnatural/base/biomass/buildings/willow.proto/title"
+msgstr "Vrba"
+
+msgid "unnatural/base/biomass/buildings/wombtree.proto/description"
+msgstr "Roste bojovníky a posluhovače."
+
+msgid "unnatural/base/biomass/buildings/wombtree.proto/title"
+msgstr "Ploďák"
+
+msgid "unnatural/base/biomass/resources/algaesack.proto/description"
+msgstr "Zamyšlení se nad životem pěkně zabalené na přepravu."
+
+msgid "unnatural/base/biomass/resources/algaesack.proto/title"
+msgstr "Algoměch"
+
 msgid "unnatural/base/biomass/resources/biomass.proto/description"
 msgstr "Hustě balené živiny."
 
 msgid "unnatural/base/biomass/resources/biomass.proto/title"
 msgstr "Biomasa"
 
-msgid "unnatural/base/biomass/resources/metal.proto/description"
-msgstr "Surová, suchá, ale někdy užitečná."
+msgid "unnatural/base/biomass/resources/fertilizer.proto/description"
+msgstr "Používá se na výrobu biomasy."
 
-msgid "unnatural/base/biomass/resources/metal.proto/title"
-msgstr "Kov"
+msgid "unnatural/base/biomass/resources/fertilizer.proto/title"
+msgstr "Hnojivo"
 
-msgid "unnatural/base/biomass/resources/seed.proto/description"
-msgstr "Kus genetického materiálu - podstata všeho života."
+msgid "unnatural/base/biomass/resources/genemass.proto/description"
+msgstr "Koncentrované mutace pro pokročilá použití."
 
-msgid "unnatural/base/biomass/resources/seed.proto/title"
-msgstr "Semena"
+msgid "unnatural/base/biomass/resources/genemass.proto/title"
+msgstr "Genetikon"
 
 msgid "unnatural/base/biomass/units/blazepup.proto/description"
 msgstr "Plamenometr namontovaný na ohaři."
@@ -490,29 +514,29 @@ msgstr "Plamenometr namontovaný na ohaři."
 msgid "unnatural/base/biomass/units/blazepup.proto/title"
 msgstr "Blazepup"
 
-msgid "unnatural/base/biomass/units/gorescythe.proto/description"
-msgstr "Dlouhé hnáty s drápy, které roztrhají cokoliv."
-
-msgid "unnatural/base/biomass/units/gorescythe.proto/title"
-msgstr "Gorescythe"
-
-msgid "unnatural/base/biomass/units/jumpscare.proto/description"
-msgstr "Všechno ostatní rovno a větší armáda vyhrává."
-
-msgid "unnatural/base/biomass/units/jumpscare.proto/title"
-msgstr "Jumpscare"
-
 msgid "unnatural/base/biomass/units/crysthide.proto/description"
 msgstr "Kůže tvrzená kovem a uhlíkem."
 
 msgid "unnatural/base/biomass/units/crysthide.proto/title"
 msgstr "Crysthide"
 
+msgid "unnatural/base/biomass/units/gorescythe.proto/description"
+msgstr "Dlouhé hnáty s drápy, které roztrhají cokoliv."
+
+msgid "unnatural/base/biomass/units/gorescythe.proto/title"
+msgstr "Gorescythe"
+
 msgid "unnatural/base/biomass/units/hound.proto/description"
 msgstr "Jen svaly a oči. Nejlepší průzkumník."
 
 msgid "unnatural/base/biomass/units/hound.proto/title"
 msgstr "Ohař"
+
+msgid "unnatural/base/biomass/units/jumpscare.proto/description"
+msgstr "Všechno ostatní rovno a větší armáda vyhrává."
+
+msgid "unnatural/base/biomass/units/jumpscare.proto/title"
+msgstr "Jumpscare"
 
 msgid "unnatural/base/biomass/units/lasher.proto/description"
 msgstr "Námořní a pozemní hybridní bojovník."
@@ -543,12 +567,6 @@ msgstr "Velká koule svalů, bezhlavě se vrhá na nepřítele a způsobuje velk
 
 msgid "unnatural/base/biomass/units/rhino.proto/title"
 msgstr "Nosorožec"
-
-msgid "unnatural/base/biomass/units/wardkin.proto/description"
-msgstr "Má speciální orgán, který vydává energetický štít kolem něj."
-
-msgid "unnatural/base/biomass/units/wardkin.proto/title"
-msgstr "Wardkin"
 
 msgid "unnatural/base/biomass/units/slitherer.proto/description"
 msgstr "Adept námořní bojovník."
@@ -586,65 +604,35 @@ msgstr "Všestranný bojovník, dobrý ve všem, skvělý v ničem."
 msgid "unnatural/base/biomass/units/venomite.proto/title"
 msgstr "Venomite"
 
-msgid "unnatural/base/biomass/upgrades/acid.proto/description"
-msgstr "Více toxické."
+msgid "unnatural/base/biomass/units/wardkin.proto/description"
+msgstr "Má speciální orgán, který vydává energetický štít kolem něj."
 
-msgid "unnatural/base/biomass/upgrades/acid.proto/title"
-msgstr "Kyselina"
+msgid "unnatural/base/biomass/units/wardkin.proto/title"
+msgstr "Wardkin"
 
-msgid "unnatural/base/biomass/upgrades/aim.proto/description"
-msgstr "Vylepšený pohled."
+msgid "unnatural/base/biomass/upgrades/awakening.proto/description"
+msgstr "Elfové učí stromy mluvit."
 
-msgid "unnatural/base/biomass/upgrades/aim.proto/title"
-msgstr "Zamířit"
+msgid "unnatural/base/biomass/upgrades/awakening.proto/title"
+msgstr "Probuzení"
 
-msgid "unnatural/base/biomass/upgrades/chitin.proto/description"
-msgstr "Zpevněno nějakou kostní strukturou."
+msgid "unnatural/base/biomass/upgrades/fertility.proto/description"
+msgstr "Jedna žena potřebuje 9 měsíců na jedno dítě. Takže 9 žen stačí jeden měsíc, že?"
 
-msgid "unnatural/base/biomass/upgrades/chitin.proto/title"
-msgstr "Chitin"
+msgid "unnatural/base/biomass/upgrades/fertility.proto/title"
+msgstr "Plodnost"
 
-msgid "unnatural/base/biomass/upgrades/claws.proto/description"
-msgstr "Broušení!"
+msgid "unnatural/base/biomass/upgrades/prosperity.proto/description"
+msgstr "Kutat hlouběji, kutat více."
 
-msgid "unnatural/base/biomass/upgrades/claws.proto/title"
-msgstr "Drápy"
-
-msgid "unnatural/base/biomass/upgrades/crawling.proto/description"
-msgstr "Více obratné končetiny, chapadla, nebo cokoli používáte k pohybu."
-
-msgid "unnatural/base/biomass/upgrades/crawling.proto/title"
-msgstr "Plýžení"
-
-msgid "unnatural/base/biomass/upgrades/evasion.proto/description"
-msgstr "Nelze zasáhnout, co se pohybuje rychleji než kulka."
-
-msgid "unnatural/base/biomass/upgrades/evasion.proto/title"
-msgstr "Uhýbání"
-
-msgid "unnatural/base/biomass/upgrades/precision.proto/description"
-msgstr "Drž, drž, a teď!"
-
-msgid "unnatural/base/biomass/upgrades/precision.proto/title"
-msgstr "Přesnost"
+msgid "unnatural/base/biomass/upgrades/prosperity.proto/title"
+msgstr "Prosperita"
 
 msgid "unnatural/base/biomass/upgrades/regeneration.proto/description"
-msgstr "Uměle chytřejší tkáň."
+msgstr "Dorůstání končetin."
 
 msgid "unnatural/base/biomass/upgrades/regeneration.proto/title"
 msgstr "Regenerace"
-
-msgid "unnatural/base/biomass/upgrades/running.proto/description"
-msgstr "Více svalů, větší rychlost."
-
-msgid "unnatural/base/biomass/upgrades/running.proto/title"
-msgstr "Běh"
-
-msgid "unnatural/base/biomass/upgrades/splash.proto/description"
-msgstr "Lepší disperze."
-
-msgid "unnatural/base/biomass/upgrades/splash.proto/title"
-msgstr "Splash"
 
 msgid "unnatural/base/ores/aether_deposit.proto/description"
 msgstr "Plynná látka, která se vzpírá vědeckému porozumění."
@@ -670,17 +658,23 @@ msgstr "Vyrábí plovoucí a vznášející se stroje."
 msgid "unnatural/base/technocracy/buildings/air_factory.proto/title"
 msgstr "Vzdušná továrna"
 
+msgid "unnatural/base/technocracy/buildings/armory.proto/description"
+msgstr "Poskytuje zpevněný armor všem jednotkám."
+
+msgid "unnatural/base/technocracy/buildings/armory.proto/title"
+msgstr "Zbrojnice"
+
+msgid "unnatural/base/technocracy/buildings/arsenal.proto/description"
+msgstr "Více kulky v každé kulce."
+
+msgid "unnatural/base/technocracy/buildings/arsenal.proto/title"
+msgstr "Arzenál"
+
 msgid "unnatural/base/technocracy/buildings/bots_factory.proto/description"
 msgstr "Produkuje dvojnohé a vícenohé roboty."
 
 msgid "unnatural/base/technocracy/buildings/bots_factory.proto/title"
 msgstr "Továrna na roboty"
-
-msgid "unnatural/base/technocracy/buildings/capacitor.proto/description"
-msgstr "Uloží dodatečnou energii pro její uvolnění ve větších dávkách. Zvyšuje poškození Thorů."
-
-msgid "unnatural/base/technocracy/buildings/capacitor.proto/title"
-msgstr "Kondenzátor"
 
 msgid "unnatural/base/technocracy/buildings/control_core.proto/description"
 msgstr "Skladiště pro všechny AI procesory. Udržujte ho v tajnosti. Udržujte ho v bezpečí."
@@ -706,23 +700,11 @@ msgstr "Sestavuje nejsilnější roboty."
 msgid "unnatural/base/technocracy/buildings/experimental_assembler.proto/title"
 msgstr "Experimentální továrna"
 
-msgid "unnatural/base/technocracy/buildings/fabricator.proto/description"
-msgstr "Poskytuje pár pomocných mehcanických rukou na zrychlení operací ostatních továren."
-
-msgid "unnatural/base/technocracy/buildings/fabricator.proto/title"
-msgstr "Fabrikátor"
-
 msgid "unnatural/base/technocracy/buildings/generator.proto/description"
 msgstr "Excituje elektrony v palivových článcích a promění je v plasmu, což umožnuje rychlejší nabíjení."
 
 msgid "unnatural/base/technocracy/buildings/generator.proto/title"
 msgstr "Generátor"
-
-msgid "unnatural/base/technocracy/buildings/heimdall.proto/description"
-msgstr "Silná obranná věž."
-
-msgid "unnatural/base/technocracy/buildings/heimdall.proto/title"
-msgstr "Heimdall"
 
 msgid "unnatural/base/technocracy/buildings/laboratory.proto/description"
 msgstr "Šílený vědec, který přežívá na dávkách Aetheru, s mikroskopem a anténou, a vysílá melodie na zlepšení nálady všech ostatních."
@@ -741,6 +723,12 @@ msgstr "Nějaké drobné věci. Troška menších věcí. A zbytečky minivěcí
 
 msgid "unnatural/base/technocracy/buildings/nanoforge.proto/title"
 msgstr "Nanopec"
+
+msgid "unnatural/base/technocracy/buildings/radar.proto/description"
+msgstr "Poskytuje rozhled ve velké oblasti."
+
+msgid "unnatural/base/technocracy/buildings/radar.proto/title"
+msgstr "Radar"
 
 msgid "unnatural/base/technocracy/buildings/refinery.proto/description"
 msgstr "Vysoce hořlavé. Děti milovaly plamen stoupající z komínů. Zahušťuje surový olej do použitelných palivových tyčí."
@@ -778,18 +766,6 @@ msgstr "Staví zeď. Doslova."
 msgid "unnatural/base/technocracy/buildings/wall.proto/title"
 msgstr "Zeď"
 
-msgid "unnatural/base/technocracy/recipes/deep_oil.proto/description"
-msgstr "Ropa musí proudit - více energie."
-
-msgid "unnatural/base/technocracy/recipes/deep_oil.proto/title"
-msgstr "Hlubinný vrt"
-
-msgid "unnatural/base/technocracy/recipes/smelting_ore.proto/description"
-msgstr "Je to relaxující pohled, jak se krusta kamene pomalu vypařuje, a jasně červený kov stéká do formy."
-
-msgid "unnatural/base/technocracy/recipes/smelting_ore.proto/title"
-msgstr "Tavení rudy"
-
 msgid "unnatural/base/technocracy/resources/aether.proto/description"
 msgstr "Plynná látka, která se vzpírá vědeckému porozumění."
 
@@ -801,6 +777,12 @@ msgstr "Záložní balíček vědomí AI."
 
 msgid "unnatural/base/technocracy/resources/ai_shard.proto/title"
 msgstr "Záložní AI"
+
+msgid "unnatural/base/technocracy/resources/alloy.proto/description"
+msgstr "Pokročilý kovový materiál."
+
+msgid "unnatural/base/technocracy/resources/alloy.proto/title"
+msgstr "Slitina"
 
 msgid "unnatural/base/technocracy/resources/fuel_rods.proto/description"
 msgstr "Veškerá energie připravená k využití."
@@ -819,12 +801,6 @@ msgstr "Viskózní kapalina plná energie."
 
 msgid "unnatural/base/technocracy/resources/oil.proto/title"
 msgstr "Ropa"
-
-msgid "unnatural/base/technocracy/resources/ore.proto/description"
-msgstr "Směs vzácných kovů a nepoužitelné horniny."
-
-msgid "unnatural/base/technocracy/resources/ore.proto/title"
-msgstr "Ruda"
 
 msgid "unnatural/base/technocracy/resources/plasma_cell.proto/description"
 msgstr "Rozšířená surová energie připravená k rychlému vybíjení."
@@ -939,105 +915,105 @@ msgstr "Nepostřehnutelný malý raskal se zbraní s antihmotou, kterou ničí b
 msgid "unnatural/base/technocracy/units/yatag.proto/title"
 msgstr "Yatag"
 
-msgid "unnatural/base/technocracy/upgrades/atv_hull.proto/description"
-msgstr "Chránit drahocenný náklad."
+msgid "unnatural/base/technocracy/upgrades/atv.proto/description"
+msgstr "Vylepšení A.T.V."
 
-msgid "unnatural/base/technocracy/upgrades/atv_hull.proto/title"
-msgstr "Atv plátování"
+msgid "unnatural/base/technocracy/upgrades/atv.proto/title"
+msgstr "A.T.V."
 
-msgid "unnatural/base/technocracy/upgrades/big_boom_boy_servos.proto/description"
-msgstr "Rychlejší pohyb pro velký výbuch. Kdo by na to chtěl čekat, že?"
+msgid "unnatural/base/technocracy/upgrades/big_boom_boy.proto/description"
+msgstr "Vylepšení velkého výbuchu."
 
-msgid "unnatural/base/technocracy/upgrades/big_boom_boy_servos.proto/title"
-msgstr "Serva pro Velký výbuch"
+msgid "unnatural/base/technocracy/upgrades/big_boom_boy.proto/title"
+msgstr "Velký výbuch"
 
-msgid "unnatural/base/technocracy/upgrades/capacitor.proto/description"
-msgstr "Uloží dodatečnou energii pro její uvolnění ve větších dávkách."
+msgid "unnatural/base/technocracy/upgrades/cyclops.proto/description"
+msgstr "Vylepšení kyklopa."
 
-msgid "unnatural/base/technocracy/upgrades/capacitor.proto/title"
-msgstr "Kapacitor"
+msgid "unnatural/base/technocracy/upgrades/cyclops.proto/title"
+msgstr "Kyklop"
 
-msgid "unnatural/base/technocracy/upgrades/cyclops_damage.proto/description"
-msgstr "Používá svůj jeden kanón jako hledí."
+msgid "unnatural/base/technocracy/upgrades/drone.proto/description"
+msgstr "Vylepšení drona."
 
-msgid "unnatural/base/technocracy/upgrades/cyclops_damage.proto/title"
-msgstr "Poškození kyklopů"
-
-msgid "unnatural/base/technocracy/upgrades/drone_rotors.proto/description"
-msgstr "Rychlejší rotace, rychlejší let."
-
-msgid "unnatural/base/technocracy/upgrades/drone_rotors.proto/title"
-msgstr "Rotory pro drony"
-
-msgid "unnatural/base/technocracy/upgrades/fabrication.proto/description"
-msgstr "Poskytuje pár pomocných mehcanických rukou na zrychlení operací ostatních továren."
-
-msgid "unnatural/base/technocracy/upgrades/fabrication.proto/title"
-msgstr "Fabrikace"
+msgid "unnatural/base/technocracy/upgrades/drone.proto/title"
+msgstr "Dron"
 
 msgid "unnatural/base/technocracy/upgrades/fortification.proto/description"
-msgstr "Vyztužený beton pro některé budovy."
+msgstr "Opevnění pro všechny jednotky."
 
 msgid "unnatural/base/technocracy/upgrades/fortification.proto/title"
 msgstr "Opevnění"
 
-msgid "unnatural/base/technocracy/upgrades/golem_fires.proto/description"
-msgstr "Udělá plazmu ještě teplejší."
+msgid "unnatural/base/technocracy/upgrades/golem.proto/description"
+msgstr "Vylepšení golema."
 
-msgid "unnatural/base/technocracy/upgrades/golem_fires.proto/title"
-msgstr "Střelba golemů"
+msgid "unnatural/base/technocracy/upgrades/golem.proto/title"
+msgstr "Golem"
 
-msgid "unnatural/base/technocracy/upgrades/juggernaut_range.proto/description"
-msgstr "Nejdřív střílí, teprve pak se ptá."
+msgid "unnatural/base/technocracy/upgrades/juggernaut.proto/description"
+msgstr "Vylepšení juggernauta."
 
-msgid "unnatural/base/technocracy/upgrades/juggernaut_range.proto/title"
-msgstr "Dostřel juggernautů"
+msgid "unnatural/base/technocracy/upgrades/juggernaut.proto/title"
+msgstr "Juggernaut"
 
-msgid "unnatural/base/technocracy/upgrades/kitsune_evasion.proto/description"
-msgstr "Není potřeba zbroje, pokud vás nemohou zasáhnout."
+msgid "unnatural/base/technocracy/upgrades/kitsune.proto/description"
+msgstr "Vylepšení kitsune."
 
-msgid "unnatural/base/technocracy/upgrades/kitsune_evasion.proto/title"
-msgstr "Manévrování kitsune"
+msgid "unnatural/base/technocracy/upgrades/kitsune.proto/title"
+msgstr "Kitsune"
 
-msgid "unnatural/base/technocracy/upgrades/lurker_precision.proto/description"
-msgstr "Vylepšené zaměření pro laserové zařízení s větším poškozením."
+msgid "unnatural/base/technocracy/upgrades/lurker.proto/description"
+msgstr "Vylepšení číhače."
 
-msgid "unnatural/base/technocracy/upgrades/lurker_precision.proto/title"
-msgstr "Přesnost Lurkeru"
+msgid "unnatural/base/technocracy/upgrades/lurker.proto/title"
+msgstr "Číhač"
 
-msgid "unnatural/base/technocracy/upgrades/mermaid_speed.proto/description"
-msgstr "Vylepšený vzduchový polštář pro rychlejší cestování do všech terénů."
+msgid "unnatural/base/technocracy/upgrades/mermaid.proto/description"
+msgstr "Vylepšení mořské panny."
 
-msgid "unnatural/base/technocracy/upgrades/mermaid_speed.proto/title"
-msgstr "Rychlost Mermaidu"
+msgid "unnatural/base/technocracy/upgrades/mermaid.proto/title"
+msgstr "Mořská Panna"
 
-msgid "unnatural/base/technocracy/upgrades/paladin_overcharge.proto/description"
-msgstr "Nadměrný náboj štítu, který poskytuje dodatečnou ochranu."
+msgid "unnatural/base/technocracy/upgrades/paladin.proto/description"
+msgstr "Vylepšení paladina"
 
-msgid "unnatural/base/technocracy/upgrades/paladin_overcharge.proto/title"
-msgstr "Přepětí paladina"
+msgid "unnatural/base/technocracy/upgrades/paladin.proto/title"
+msgstr "Paladin"
 
-msgid "unnatural/base/technocracy/upgrades/tripod_range.proto/description"
-msgstr "Máte jednotku s nejdělším dostřelem. Takže co vylepšíte?"
+msgid "unnatural/base/technocracy/upgrades/thor.proto/description"
+msgstr "Vylepšení thora."
 
-msgid "unnatural/base/technocracy/upgrades/tripod_range.proto/title"
-msgstr "Dostřel tripodů"
+msgid "unnatural/base/technocracy/upgrades/thor.proto/title"
+msgstr "Thór"
 
-msgid "unnatural/base/technocracy/upgrades/twinfire_quadfire.proto/description"
-msgstr "Co je lepší než dvě děla? Čtyři děla."
+msgid "unnatural/base/technocracy/upgrades/tripod.proto/description"
+msgstr "Vylepšení tripoda."
 
-msgid "unnatural/base/technocracy/upgrades/twinfire_quadfire.proto/title"
-msgstr "Dvojkanóny pro twinfire"
+msgid "unnatural/base/technocracy/upgrades/tripod.proto/title"
+msgstr "Tripod"
 
-msgid "unnatural/base/technocracy/upgrades/warlord_offensive.proto/description"
-msgstr "Více moci!"
+msgid "unnatural/base/technocracy/upgrades/twinfire.proto/description"
+msgstr "Vylepšení dvojděla."
 
-msgid "unnatural/base/technocracy/upgrades/warlord_offensive.proto/title"
-msgstr "Ofensiva warlorda"
+msgid "unnatural/base/technocracy/upgrades/twinfire.proto/title"
+msgstr "Dvojdělo"
 
-msgid "unnatural/base/technocracy/upgrades/yatag_siege.proto/description"
-msgstr "Vylepšení zádržního pole pro antihmotu, což umožní větší dávky."
+msgid "unnatural/base/technocracy/upgrades/warlord.proto/description"
+msgstr "Vylepšení vojevůdce."
 
-msgid "unnatural/base/technocracy/upgrades/yatag_siege.proto/title"
-msgstr "Obléhání yatagy"
+msgid "unnatural/base/technocracy/upgrades/warlord.proto/title"
+msgstr "Vojevůdce"
+
+msgid "unnatural/base/technocracy/upgrades/weapons.proto/description"
+msgstr "Vylepšení útoku všech jednotek."
+
+msgid "unnatural/base/technocracy/upgrades/weapons.proto/title"
+msgstr "Zbraně"
+
+msgid "unnatural/base/technocracy/upgrades/yatag.proto/description"
+msgstr "Vylepšení yataga."
+
+msgid "unnatural/base/technocracy/upgrades/yatag.proto/title"
+msgstr "Yatag"
 
