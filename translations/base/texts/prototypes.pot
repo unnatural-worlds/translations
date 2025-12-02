@@ -422,7 +422,7 @@ msgid "unnatural/base/biomass/buildings/dart_trap.proto/title"
 msgstr "Dart trap"
 
 msgid "unnatural/base/biomass/buildings/deeproot.proto/description"
-msgstr "Extracts metal-heavy nutrients from deep down."
+msgstr "Extracts nutrients from deep down."
 
 msgid "unnatural/base/biomass/buildings/deeproot.proto/title"
 msgstr "Deeproot"
@@ -434,7 +434,7 @@ msgid "unnatural/base/biomass/buildings/gas_trap.proto/title"
 msgstr "Gas trap"
 
 msgid "unnatural/base/biomass/buildings/incubator.proto/description"
-msgstr "Grows advanced combatants, infused with metallic contents."
+msgstr "Grows advanced combatants, enhanced with extra genes."
 
 msgid "unnatural/base/biomass/buildings/incubator.proto/title"
 msgstr "Incubator"
@@ -446,25 +446,25 @@ msgid "unnatural/base/biomass/buildings/lotus.proto/title"
 msgstr "Lotus"
 
 msgid "unnatural/base/biomass/buildings/mutapod.proto/description"
-msgstr "Accelerated and experimental evolution."
+msgstr "Converts biomass into genemass, with genetically enhanced properties."
 
 msgid "unnatural/base/biomass/buildings/mutapod.proto/title"
 msgstr "Mutapod"
 
 msgid "unnatural/base/biomass/buildings/phytopod.proto/description"
-msgstr "Phytopod"
+msgstr "Converts fertilizer to biomass."
 
 msgid "unnatural/base/biomass/buildings/phytopod.proto/title"
 msgstr "Phytopod"
 
 msgid "unnatural/base/biomass/buildings/pipeshroom.proto/description"
-msgstr "Pipeshroom"
+msgstr "Large colony of fungi slowly looking for wisdom."
 
 msgid "unnatural/base/biomass/buildings/pipeshroom.proto/title"
 msgstr "Pipeshroom"
 
 msgid "unnatural/base/biomass/buildings/scarenest.proto/description"
-msgstr "Scarenest"
+msgstr "Births scarejumps."
 
 msgid "unnatural/base/biomass/buildings/scarenest.proto/title"
 msgstr "Scarenest"
@@ -476,19 +476,19 @@ msgid "unnatural/base/biomass/buildings/spike_wall.proto/title"
 msgstr "Spike wall"
 
 msgid "unnatural/base/biomass/buildings/willow.proto/description"
-msgstr "Willow"
+msgstr "Contemplates life while producing algaesacks."
 
 msgid "unnatural/base/biomass/buildings/willow.proto/title"
 msgstr "Willow"
 
 msgid "unnatural/base/biomass/buildings/wombtree.proto/description"
-msgstr "Wombtree"
+msgstr "Grows combatants and servants."
 
 msgid "unnatural/base/biomass/buildings/wombtree.proto/title"
 msgstr "Wombtree"
 
 msgid "unnatural/base/biomass/resources/algaesack.proto/description"
-msgstr "Algaesack"
+msgstr "Life ponderment neatly packaged for transportation."
 
 msgid "unnatural/base/biomass/resources/algaesack.proto/title"
 msgstr "Algaesack"
@@ -500,13 +500,13 @@ msgid "unnatural/base/biomass/resources/biomass.proto/title"
 msgstr "Biomass"
 
 msgid "unnatural/base/biomass/resources/fertilizer.proto/description"
-msgstr "Fertilizer"
+msgstr "Used for producing biomass."
 
 msgid "unnatural/base/biomass/resources/fertilizer.proto/title"
 msgstr "Fertilizer"
 
 msgid "unnatural/base/biomass/resources/genemass.proto/description"
-msgstr "Genemass"
+msgstr "Concentrated mutations for advanced uses."
 
 msgid "unnatural/base/biomass/resources/genemass.proto/title"
 msgstr "Genemass"
@@ -614,25 +614,25 @@ msgid "unnatural/base/biomass/units/wardkin.proto/title"
 msgstr "Wardkin"
 
 msgid "unnatural/base/biomass/upgrades/awakening.proto/description"
-msgstr "Awakening"
+msgstr "The elves are teaching the trees to speak."
 
 msgid "unnatural/base/biomass/upgrades/awakening.proto/title"
 msgstr "Awakening"
 
 msgid "unnatural/base/biomass/upgrades/fertility.proto/description"
-msgstr "Fertility"
+msgstr "One women needs 9 months for 1 baby. So 9 women needs 1 month only, right?"
 
 msgid "unnatural/base/biomass/upgrades/fertility.proto/title"
 msgstr "Fertility"
 
 msgid "unnatural/base/biomass/upgrades/prosperity.proto/description"
-msgstr "Prosperity"
+msgstr "Dig deeper, dig bigger."
 
 msgid "unnatural/base/biomass/upgrades/prosperity.proto/title"
 msgstr "Prosperity"
 
 msgid "unnatural/base/biomass/upgrades/regeneration.proto/description"
-msgstr "Regeneration"
+msgstr "Flesh mending."
 
 msgid "unnatural/base/biomass/upgrades/regeneration.proto/title"
 msgstr "Regeneration"
@@ -662,13 +662,13 @@ msgid "unnatural/base/technocracy/buildings/air_factory.proto/title"
 msgstr "Air factory"
 
 msgid "unnatural/base/technocracy/buildings/armory.proto/description"
-msgstr "Armory"
+msgstr "Provides reinforced armor to all units."
 
 msgid "unnatural/base/technocracy/buildings/armory.proto/title"
 msgstr "Armory"
 
 msgid "unnatural/base/technocracy/buildings/arsenal.proto/description"
-msgstr "Arsenal"
+msgstr "More bullet, per bullet."
 
 msgid "unnatural/base/technocracy/buildings/arsenal.proto/title"
 msgstr "Arsenal"
@@ -728,7 +728,7 @@ msgid "unnatural/base/technocracy/buildings/nanoforge.proto/title"
 msgstr "Nanoforge"
 
 msgid "unnatural/base/technocracy/buildings/radar.proto/description"
-msgstr "Radar"
+msgstr "Provides vision in large area."
 
 msgid "unnatural/base/technocracy/buildings/radar.proto/title"
 msgstr "Radar"
@@ -782,7 +782,7 @@ msgid "unnatural/base/technocracy/resources/ai_shard.proto/title"
 msgstr "Ai shard"
 
 msgid "unnatural/base/technocracy/resources/alloy.proto/description"
-msgstr "Alloy"
+msgstr "Advanced metal material."
 
 msgid "unnatural/base/technocracy/resources/alloy.proto/title"
 msgstr "Alloy"
@@ -945,7 +945,7 @@ msgid "unnatural/base/technocracy/upgrades/drone.proto/title"
 msgstr "Drone"
 
 msgid "unnatural/base/technocracy/upgrades/fortification.proto/description"
-msgstr "Reinforced concrete for some buildings."
+msgstr "Fortification"
 
 msgid "unnatural/base/technocracy/upgrades/fortification.proto/title"
 msgstr "Fortification"
