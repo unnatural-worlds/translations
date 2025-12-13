@@ -1836,6 +1836,9 @@ msgstr "Constructed by"
 msgid "unnatural/tooltips/construction"
 msgstr "Construction"
 
+msgid "unnatural/tooltips/constructionTime"
+msgstr "Construction time: "
+
 msgid "unnatural/tooltips/consumedBy"
 msgstr "Consumed by"
 
