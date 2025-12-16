@@ -84,8 +84,14 @@ msgstr "Made by Tomáš Malý, 2025."
 msgid "unnatural/announcer/approachingEnemy"
 msgstr "Approaching enemy."
 
+msgid "unnatural/announcer/buildingLost"
+msgstr "Building lost."
+
 msgid "unnatural/announcer/BuildingNeedsRecipe"
 msgstr "Building needs a recipe."
+
+msgid "unnatural/announcer/enemyIsInSight"
+msgstr "Enemy is in sight."
 
 msgid "unnatural/announcer/gameIsStarting"
 msgstr "Game is starting."
@@ -99,11 +105,26 @@ msgstr "Game paused."
 msgid "unnatural/announcer/gameResumed"
 msgstr "Game resumed."
 
+msgid "unnatural/announcer/ourArmyIsUnderAttack"
+msgstr "Our army is under attack."
+
+msgid "unnatural/announcer/ourBaseIsUnderAttack"
+msgstr "Our base is under attack."
+
+msgid "unnatural/announcer/ourTrucksAreUnderAttack"
+msgstr "Our trucks are under attack."
+
+msgid "unnatural/announcer/ourUnitsAreUnderAttack"
+msgstr "Our units are under attack."
+
 msgid "unnatural/announcer/playerHasBeenEliminated"
 msgstr "A player has been eliminated."
 
 msgid "unnatural/announcer/trucksAreAutonomousPlaceConstruction"
 msgstr "Trucks are autonomous. Start by placing a construction."
+
+msgid "unnatural/announcer/unitLost"
+msgstr "Unit lost."
 
 msgid "unnatural/announcer/waitForTrucksToDeliverResources"
 msgstr "Wait for trucks to deliver resources."
@@ -116,6 +137,9 @@ msgstr "We have been eliminated."
 
 msgid "unnatural/announcer/weHaveWon"
 msgstr "We have won."
+
+msgid "unnatural/announcer/weNeedMoreTrucks"
+msgstr "We need more trucks."
 
 msgid "unnatural/campaigns/madProtocol"
 msgstr "M.A.D. Protocol"
