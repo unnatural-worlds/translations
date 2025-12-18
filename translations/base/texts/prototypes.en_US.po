@@ -393,8 +393,7 @@ msgstr "Smoother propellers"
 msgid "unnatural/base/biomass/biomass.proto/description"
 msgstr "Evolution gone wrong - or right, depends on who is asking.\n"
 "There might have been some outside influence too.\n"
-"Either way, this race is driven by photosynthesis, mutation, acid, and claws.\n\n"
-"This race is early in development."
+"Either way, they are driven by photosynthesis, mutation, acid, and claws."
 
 msgid "unnatural/base/biomass/biomass.proto/title"
 msgstr "Biomass"
@@ -664,7 +663,7 @@ msgid "unnatural/base/technocracy/buildings/armory.proto/title"
 msgstr "Armory"
 
 msgid "unnatural/base/technocracy/buildings/arsenal.proto/description"
-msgstr "More bullet, per bullet."
+msgstr "Provides additional firepower to all units."
 
 msgid "unnatural/base/technocracy/buildings/arsenal.proto/title"
 msgstr "Arsenal"
@@ -676,7 +675,8 @@ msgid "unnatural/base/technocracy/buildings/bots_factory.proto/title"
 msgstr "Bots factory"
 
 msgid "unnatural/base/technocracy/buildings/control_core.proto/description"
-msgstr "Housing for all AI processors. Keep it secret. Keep it safe."
+msgstr "Housing for all AI processors.\n"
+"Keep it secret. Keep it safe."
 
 msgid "unnatural/base/technocracy/buildings/control_core.proto/title"
 msgstr "Control core"
@@ -688,7 +688,7 @@ msgid "unnatural/base/technocracy/buildings/drill.proto/title"
 msgstr "Drill"
 
 msgid "unnatural/base/technocracy/buildings/excavator.proto/description"
-msgstr "Bigger, better, stronger drill. The excavated resources may need additional processing. But it is worth it."
+msgstr "Faster, better, stronger drill."
 
 msgid "unnatural/base/technocracy/buildings/excavator.proto/title"
 msgstr "Excavator"
@@ -700,7 +700,7 @@ msgid "unnatural/base/technocracy/buildings/experimental_assembler.proto/title"
 msgstr "Experimental assembler"
 
 msgid "unnatural/base/technocracy/buildings/generator.proto/description"
-msgstr "Excites the energy stored in fuel rods and turns it into plasma, for more rapid charging."
+msgstr "Provides additional power to all Thors."
 
 msgid "unnatural/base/technocracy/buildings/generator.proto/title"
 msgstr "Generator"
@@ -724,31 +724,32 @@ msgid "unnatural/base/technocracy/buildings/nanoforge.proto/title"
 msgstr "Nanoforge"
 
 msgid "unnatural/base/technocracy/buildings/radar.proto/description"
-msgstr "Provides vision in large area."
+msgstr "Provides vision in large area and detects stealth units."
 
 msgid "unnatural/base/technocracy/buildings/radar.proto/title"
 msgstr "Radar"
 
 msgid "unnatural/base/technocracy/buildings/refinery.proto/description"
-msgstr "Highly flammable. Kids used to love the flame flares. Compacts raw oil into usable fuel rods."
+msgstr "Compacts raw oil into usable fuel rods or plasma cells."
 
 msgid "unnatural/base/technocracy/buildings/refinery.proto/title"
 msgstr "Refinery"
 
 msgid "unnatural/base/technocracy/buildings/smelter.proto/description"
-msgstr "Watching useless stone crust evaporating and all bright-red metal flowing into a cast is weirdly satisfying."
+msgstr "Refines metals into stronger alloys."
 
 msgid "unnatural/base/technocracy/buildings/smelter.proto/title"
 msgstr "Smelter"
 
 msgid "unnatural/base/technocracy/buildings/talos.proto/description"
-msgstr "Cheap defensive tower."
+msgstr "Defensive tower with large range."
 
 msgid "unnatural/base/technocracy/buildings/talos.proto/title"
 msgstr "Talos"
 
 msgid "unnatural/base/technocracy/buildings/thor.proto/description"
-msgstr "A weapon of terror. Casts lightning on distant enemies. Because throwing a hammer would have annoying cooldown."
+msgstr "A weapon of terror. Casts lightning on distant enemies.\n"
+"Because throwing a hammer would have annoying cooldown."
 
 msgid "unnatural/base/technocracy/buildings/thor.proto/title"
 msgstr "Thor"
@@ -815,7 +816,8 @@ msgid "unnatural/base/technocracy/resources/quark_foam.proto/title"
 msgstr "Quark foam"
 
 msgid "unnatural/base/technocracy/resources/voidspace_block.proto/description"
-msgstr "The vast and empty space inside molecules, after the atoms were removed. Much technical. Much advanced. No idea."
+msgstr "The vast and empty space inside molecules, after the atoms were removed.\n"
+"Much technical. Much advanced. No idea."
 
 msgid "unnatural/base/technocracy/resources/voidspace_block.proto/title"
 msgstr "Voidspace block"
@@ -848,13 +850,14 @@ msgid "unnatural/base/technocracy/units/cyclops.proto/title"
 msgstr "Cyclops"
 
 msgid "unnatural/base/technocracy/units/drone.proto/description"
-msgstr "Long-range laser gun mounted on a quad-copter."
+msgstr "Scout quad-copter that detects stealth units."
 
 msgid "unnatural/base/technocracy/units/drone.proto/title"
 msgstr "Drone"
 
 msgid "unnatural/base/technocracy/units/golem.proto/description"
-msgstr "Slightly derailed robot, with a gun with splash effect. What could possibly go wrong?"
+msgstr "Slightly derailed robot, with a gun with splash effect.\n"
+"What could possibly go wrong?"
 
 msgid "unnatural/base/technocracy/units/golem.proto/title"
 msgstr "Golem"
@@ -872,13 +875,13 @@ msgid "unnatural/base/technocracy/units/kitsune.proto/title"
 msgstr "Kitsune"
 
 msgid "unnatural/base/technocracy/units/lurker.proto/description"
-msgstr "Crawls over cliffs."
+msgstr "Crawls over cliffs, with stealth."
 
 msgid "unnatural/base/technocracy/units/lurker.proto/title"
 msgstr "Lurker"
 
 msgid "unnatural/base/technocracy/units/mermaid.proto/description"
-msgstr "Sneaky attacks from over water."
+msgstr "Can sneak over water. Can shoot over cliffs."
 
 msgid "unnatural/base/technocracy/units/mermaid.proto/title"
 msgstr "Mermaid"
@@ -896,7 +899,7 @@ msgid "unnatural/base/technocracy/units/tripod.proto/title"
 msgstr "Tripod"
 
 msgid "unnatural/base/technocracy/units/twinfire.proto/description"
-msgstr "Assault vehicle with short-range flamethrower."
+msgstr "Assault vehicle with flamethrower."
 
 msgid "unnatural/base/technocracy/units/twinfire.proto/title"
 msgstr "Twinfire"
@@ -908,110 +911,110 @@ msgid "unnatural/base/technocracy/units/warlord.proto/title"
 msgstr "Warlord"
 
 msgid "unnatural/base/technocracy/units/yatag.proto/description"
-msgstr "Sneaky little bastard with antimatter gun that razes buildings in seconds."
+msgstr "Stealthy, shielded robot with antimatter gun that razes buildings in seconds."
 
 msgid "unnatural/base/technocracy/units/yatag.proto/title"
 msgstr "Yatag"
 
 msgid "unnatural/base/technocracy/upgrades/atv.proto/description"
-msgstr "Atv"
+msgstr "A.T.V. upgrade"
 
 msgid "unnatural/base/technocracy/upgrades/atv.proto/title"
-msgstr "Atv"
+msgstr "A.T.V. upgrade"
 
 msgid "unnatural/base/technocracy/upgrades/big_boom_boy.proto/description"
-msgstr "Big boom boy"
+msgstr "Big boom boy upgrade"
 
 msgid "unnatural/base/technocracy/upgrades/big_boom_boy.proto/title"
-msgstr "Big boom boy"
+msgstr "Big boom boy upgrade"
 
 msgid "unnatural/base/technocracy/upgrades/cyclops.proto/description"
-msgstr "Cyclops"
+msgstr "Cyclops upgrade"
 
 msgid "unnatural/base/technocracy/upgrades/cyclops.proto/title"
-msgstr "Cyclops"
+msgstr "Cyclops upgrade"
 
 msgid "unnatural/base/technocracy/upgrades/drone.proto/description"
-msgstr "Drone"
+msgstr "Drone upgrade"
 
 msgid "unnatural/base/technocracy/upgrades/drone.proto/title"
-msgstr "Drone"
+msgstr "Drone upgrade"
 
 msgid "unnatural/base/technocracy/upgrades/fortification.proto/description"
-msgstr "Fortified armor for all units."
+msgstr "Improves defenses of all units."
 
 msgid "unnatural/base/technocracy/upgrades/fortification.proto/title"
 msgstr "Fortification"
 
 msgid "unnatural/base/technocracy/upgrades/golem.proto/description"
-msgstr "Golem"
+msgstr "Golem upgrade"
 
 msgid "unnatural/base/technocracy/upgrades/golem.proto/title"
-msgstr "Golem"
+msgstr "Golem upgrade"
 
 msgid "unnatural/base/technocracy/upgrades/juggernaut.proto/description"
-msgstr "Juggernaut"
+msgstr "Juggernaut upgrade"
 
 msgid "unnatural/base/technocracy/upgrades/juggernaut.proto/title"
-msgstr "Juggernaut"
+msgstr "Juggernaut upgrade"
 
 msgid "unnatural/base/technocracy/upgrades/kitsune.proto/description"
-msgstr "Kitsune"
+msgstr "Kitsune upgrade"
 
 msgid "unnatural/base/technocracy/upgrades/kitsune.proto/title"
-msgstr "Kitsune"
+msgstr "Kitsune upgrade"
 
 msgid "unnatural/base/technocracy/upgrades/lurker.proto/description"
-msgstr "Lurker"
+msgstr "Lurker upgrade"
 
 msgid "unnatural/base/technocracy/upgrades/lurker.proto/title"
-msgstr "Lurker"
+msgstr "Lurker upgrade"
 
 msgid "unnatural/base/technocracy/upgrades/mermaid.proto/description"
-msgstr "Mermaid"
+msgstr "Mermaid upgrade"
 
 msgid "unnatural/base/technocracy/upgrades/mermaid.proto/title"
-msgstr "Mermaid"
+msgstr "Mermaid upgrade"
 
 msgid "unnatural/base/technocracy/upgrades/paladin.proto/description"
-msgstr "Paladin"
+msgstr "Paladin upgrade"
 
 msgid "unnatural/base/technocracy/upgrades/paladin.proto/title"
-msgstr "Paladin"
+msgstr "Paladin upgrade"
 
 msgid "unnatural/base/technocracy/upgrades/thor.proto/description"
-msgstr "Thor"
+msgstr "Thor upgrade"
 
 msgid "unnatural/base/technocracy/upgrades/thor.proto/title"
-msgstr "Thor"
+msgstr "Thor upgrade"
 
 msgid "unnatural/base/technocracy/upgrades/tripod.proto/description"
-msgstr "Tripod"
+msgstr "Tripod upgrade"
 
 msgid "unnatural/base/technocracy/upgrades/tripod.proto/title"
-msgstr "Tripod"
+msgstr "Tripod upgrade"
 
 msgid "unnatural/base/technocracy/upgrades/twinfire.proto/description"
-msgstr "Twinfire"
+msgstr "Twinfire upgrade"
 
 msgid "unnatural/base/technocracy/upgrades/twinfire.proto/title"
-msgstr "Twinfire"
+msgstr "Twinfire upgrade"
 
 msgid "unnatural/base/technocracy/upgrades/warlord.proto/description"
-msgstr "Warlord"
+msgstr "Warlord upgrade"
 
 msgid "unnatural/base/technocracy/upgrades/warlord.proto/title"
-msgstr "Warlord"
+msgstr "Warlord upgrade"
 
 msgid "unnatural/base/technocracy/upgrades/weapons.proto/description"
-msgstr "Weapons"
+msgstr "Improves firepower of all units."
 
 msgid "unnatural/base/technocracy/upgrades/weapons.proto/title"
 msgstr "Weapons"
 
 msgid "unnatural/base/technocracy/upgrades/yatag.proto/description"
-msgstr "Yatag"
+msgstr "Yatag upgrade"
 
 msgid "unnatural/base/technocracy/upgrades/yatag.proto/title"
-msgstr "Yatag"
+msgstr "Yatag upgrade"
 
