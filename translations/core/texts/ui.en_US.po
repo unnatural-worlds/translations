@@ -78,8 +78,32 @@ msgstr "Abort"
 msgid "unnatural/about/aboutUnnaturalWorlds"
 msgstr "About Unnatural Worlds"
 
+msgid "unnatural/about/apiProgrammer"
+msgstr "(API programmer)"
+
+msgid "unnatural/about/conceptArtist"
+msgstr "(Concept artist)"
+
+msgid "unnatural/about/contributors"
+msgstr "Contributors:"
+
+msgid "unnatural/about/discord"
+msgstr "Discord"
+
 msgid "unnatural/about/madeByTomasMaly"
-msgstr "Made by Tomáš Malý, 2025."
+msgstr "Made by Tomáš Malý."
+
+msgid "unnatural/about/soundsArtist"
+msgstr "(Sounds artist)"
+
+msgid "unnatural/about/testing"
+msgstr "(Testing)"
+
+msgid "unnatural/about/vrProgramming"
+msgstr "(VR programmer)"
+
+msgid "unnatural/about/website"
+msgstr "Website"
 
 msgid "unnatural/announcer/approachingEnemy"
 msgstr "Approaching enemy."
@@ -141,6 +165,12 @@ msgstr "We have won."
 msgid "unnatural/announcer/weNeedMoreTrucks"
 msgstr "We need more trucks."
 
+msgid "unnatural/campaigns/campaigns"
+msgstr "Campaigns"
+
+msgid "unnatural/campaigns/firstEncounter"
+msgstr "First encounter"
+
 msgid "unnatural/campaigns/madProtocol"
 msgstr "M.A.D. Protocol"
 
@@ -149,9 +179,6 @@ msgstr "Play"
 
 msgid "unnatural/campaigns/siliconLife"
 msgstr "Silicon Life"
-
-msgid "unnatural/campaigns/tba"
-msgstr "TBA"
 
 msgid "unnatural/cancel"
 msgstr "Cancel"
@@ -180,6 +207,12 @@ msgstr "Observers"
 msgid "unnatural/close"
 msgstr "Close"
 
+msgid "unnatural/closeWindowTooltip"
+msgstr "Close {0}"
+
+msgid "unnatural/closeWindowX"
+msgstr "X"
+
 msgid "unnatural/commonGame/chat"
 msgstr "Chat {0}"
 
@@ -191,6 +224,9 @@ msgstr "Diplomacy {0}"
 
 msgid "unnatural/commonGame/freeDevelopmentPreview"
 msgstr "Free development preview "
+
+msgid "unnatural/commonGame/gameOverview"
+msgstr "Game overview"
 
 msgid "unnatural/commonGame/lexicon"
 msgstr "Lexicon {0}"
@@ -465,15 +501,6 @@ msgstr "Follow Camera"
 msgid "unnatural/gameMenu/continue"
 msgstr "Continue"
 
-msgid "unnatural/gameMenu/controls"
-msgstr "Controls"
-
-msgid "unnatural/gameMenu/options"
-msgstr "Options"
-
-msgid "unnatural/gameMenu/presets"
-msgstr "Presets"
-
 msgid "unnatural/groupsIcons/armyGroup"
 msgstr "Army group {0}"
 
@@ -485,6 +512,9 @@ msgstr "Home {0}"
 
 msgid "unnatural/groupsIcons/selectAllArmy"
 msgstr "Select all army {0}"
+
+msgid "unnatural/inviteFriends/copyLobbyId"
+msgstr "Copy lobby ID"
 
 msgid "unnatural/inviteFriends/invite"
 msgstr "Invite"
@@ -837,14 +867,14 @@ msgstr "There are no guards against cheating, and no ladder."
 msgid "unnatural/ladder/disclaimer/thisVersionProvidesRankingAsBestEffortOnly"
 msgstr "This version provides ranking as best effort only."
 
+msgid "unnatural/ladder/ladder"
+msgstr "Ladder"
+
 msgid "unnatural/ladder/play"
 msgstr "Play"
 
 msgid "unnatural/ladder/rank"
 msgstr "Rank"
-
-msgid "unnatural/ladder/requiresFullGame"
-msgstr "Ladder requires full version of the game."
 
 msgid "unnatural/ladder/searching"
 msgstr "Searching"
@@ -1518,9 +1548,6 @@ msgstr "Needed"
 msgid "unnatural/resources/updateDetailsPlayer/production"
 msgstr "Production"
 
-msgid "unnatural/save"
-msgstr "Save"
-
 msgid "unnatural/selectedInfo/aim"
 msgstr "Aim: {0}"
 
@@ -1646,9 +1673,6 @@ msgstr "Add AI"
 
 msgid "unnatural/session/chooseMap"
 msgstr "Choose map"
-
-msgid "unnatural/session/copyLobbyId"
-msgstr "Copy lobby ID"
 
 msgid "unnatural/session/gameSession"
 msgstr "Game session"
