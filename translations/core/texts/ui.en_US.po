@@ -1002,6 +1002,9 @@ msgstr "Max players: {0}"
 msgid "unnatural/mapDescription/tiles"
 msgstr "Tiles: {0}"
 
+msgid "unnatural/mapDescription/unofficialMap"
+msgstr "Unofficial map!"
+
 msgid "unnatural/mapDescription/version"
 msgstr "Version: {0}"
 
@@ -1095,8 +1098,29 @@ msgstr "Mouse zoom speed:"
 msgid "unnatural/options/gameplay"
 msgstr "Gameplay"
 
-msgid "unnatural/options/gameplay/detailedTooltips/description"
-msgstr "Additional information about units."
+msgid "unnatural/options/gameplay/color/ally"
+msgstr "Ally color:"
+
+msgid "unnatural/options/gameplay/color/enemy"
+msgstr "Enemy color:"
+
+msgid "unnatural/options/gameplay/color/inMinimap"
+msgstr "Alternate colors (minimap):"
+
+msgid "unnatural/options/gameplay/color/inMinimap/description"
+msgstr "Use colors defined below in the minimap."
+
+msgid "unnatural/options/gameplay/color/inWorld"
+msgstr "Alternate colors (world):"
+
+msgid "unnatural/options/gameplay/color/inWorld/description"
+msgstr "Use colors defined below in the world."
+
+msgid "unnatural/options/gameplay/color/neutral"
+msgstr "Neutral color:"
+
+msgid "unnatural/options/gameplay/color/self"
+msgstr "Own color:"
 
 msgid "unnatural/options/gameplay/firstGameMode"
 msgstr "First-game mode:"
@@ -1133,9 +1157,6 @@ msgstr "Show healthbars threshold (observer):"
 
 msgid "unnatural/options/gameplay/showHealthbarsThresholdPlayer"
 msgstr "Show healthbars threshold (player):"
-
-msgid "unnatural/options/gameplay/showNames/description"
-msgstr "Names shown over icons."
 
 msgid "unnatural/options/gameplay/smartOrderPrefersFight"
 msgstr "Smart order prefers fight:"
@@ -1278,11 +1299,20 @@ msgstr "Music volume:"
 msgid "unnatural/options/userInterface"
 msgstr "User interface"
 
+msgid "unnatural/options/userInterface/announcerCaptions"
+msgstr "Announcer captions:"
+
+msgid "unnatural/options/userInterface/announcerCaptions/description"
+msgstr "Captions for 'We are under attack', etc."
+
 msgid "unnatural/options/userInterface/chatMessageDuration"
 msgstr "Chat message duration:"
 
 msgid "unnatural/options/userInterface/detailedTooltips"
 msgstr "Detailed tooltips:"
+
+msgid "unnatural/options/userInterface/detailedTooltips/description"
+msgstr "Additional information about units."
 
 msgid "unnatural/options/userInterface/guiScale"
 msgstr "GUI scale:"
@@ -1307,6 +1337,9 @@ msgstr "On"
 
 msgid "unnatural/options/userInterface/showNames"
 msgstr "Show names:"
+
+msgid "unnatural/options/userInterface/showNames/description"
+msgstr "Names shown over icons."
 
 msgid "unnatural/options/userInterface/tooltipDelay"
 msgstr "Tooltip delay:"
@@ -1986,6 +2019,30 @@ msgstr "Requirements to unlock"
 msgid "unnatural/tooltips/seconds"
 msgstr "{0} s"
 
+msgid "unnatural/tooltips/simpleCombat/averageDamagePerSecond"
+msgstr "Average damage per second"
+
+msgid "unnatural/tooltips/simpleCombat/deathExplosionDamage"
+msgstr "Death explosion damage"
+
+msgid "unnatural/tooltips/simpleCombat/deathExplosionRadius"
+msgstr "Death explosion radius"
+
+msgid "unnatural/tooltips/simpleCombat/healthRegeneration"
+msgstr "Health regeneration"
+
+msgid "unnatural/tooltips/simpleCombat/maximumHealth"
+msgstr "Maximum health"
+
+msgid "unnatural/tooltips/simpleCombat/movementSpeed"
+msgstr "Movement speed"
+
+msgid "unnatural/tooltips/simpleCombat/shootingRange"
+msgstr "Shooting range"
+
+msgid "unnatural/tooltips/simpleCombat/splashRadius"
+msgstr "Splash radius"
+
 msgid "unnatural/tooltips/splashEdgeDamage"
 msgstr "Splash edge damage: "
 
@@ -2032,7 +2089,7 @@ msgid "unnatural/tooltips/upgrade/splashRadius"
 msgstr "Splash radius: "
 
 msgid "unnatural/tooltips/upgrade/stealthRange"
-msgstr "Detection range: "
+msgstr "Stealth range: "
 
 msgid "unnatural/tooltips/upgrade/visionRange"
 msgstr "Vision range: "

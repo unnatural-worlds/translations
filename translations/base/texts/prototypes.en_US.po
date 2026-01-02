@@ -17,9 +17,10 @@ msgstr ""
 
 msgid "unnatural/base/archaics/archaics.proto/description"
 msgstr "Descendants of original humans, who value tradition above all.\n"
-"Avoiding integration of any AI has stagnated their advancement to almost complete halt in the recent centuries.\n"
+"Avoiding integration of any AI has stagnated their advancement to almost complete halt.\n"
 "And yet they are surviving and prosper.\n\n"
-"This race will be removed in future update. DO NOT PLAY."
+"This race will be removed in future update.\n"
+"DO NOT PLAY."
 
 msgid "unnatural/base/archaics/archaics.proto/title"
 msgstr "Archaics"
@@ -399,13 +400,13 @@ msgid "unnatural/base/biomass/biomass.proto/title"
 msgstr "Biomass"
 
 msgid "unnatural/base/biomass/buildings/anchor_bulb.proto/description"
-msgstr "Splashes any intruder with a corrosive gel."
+msgstr "Explodes, splashing the intruder with a corrosive gel."
 
 msgid "unnatural/base/biomass/buildings/anchor_bulb.proto/title"
 msgstr "Anchor bulb"
 
 msgid "unnatural/base/biomass/buildings/anchor_spikes.proto/description"
-msgstr "Spikes anchored in a place."
+msgstr "Spikes anchored in a place. A floating wall."
 
 msgid "unnatural/base/biomass/buildings/anchor_spikes.proto/title"
 msgstr "Anchor spikes"
@@ -429,7 +430,7 @@ msgid "unnatural/base/biomass/buildings/gas_trap.proto/title"
 msgstr "Gas trap"
 
 msgid "unnatural/base/biomass/buildings/incubator.proto/description"
-msgstr "Grows advanced combatants, enhanced with extra genes."
+msgstr "Grows advanced combatants, artificially enhanced with extra genes."
 
 msgid "unnatural/base/biomass/buildings/incubator.proto/title"
 msgstr "Incubator"
@@ -525,13 +526,13 @@ msgid "unnatural/base/biomass/units/gorescythe.proto/title"
 msgstr "Gorescythe"
 
 msgid "unnatural/base/biomass/units/hound.proto/description"
-msgstr "Just muscles and eyes. Best scout."
+msgstr "Just muscles and sensory organs. Best scout."
 
 msgid "unnatural/base/biomass/units/hound.proto/title"
 msgstr "Hound"
 
 msgid "unnatural/base/biomass/units/jumpscare.proto/description"
-msgstr "Creepy crawly. All else equal, larger army wins."
+msgstr "Creepy crawly."
 
 msgid "unnatural/base/biomass/units/jumpscare.proto/title"
 msgstr "Jumpscare"
@@ -579,7 +580,7 @@ msgid "unnatural/base/biomass/units/slug.proto/title"
 msgstr "Slug"
 
 msgid "unnatural/base/biomass/units/stingray.proto/description"
-msgstr "Long-range navy."
+msgstr "Long-range navy combatant."
 
 msgid "unnatural/base/biomass/units/stingray.proto/title"
 msgstr "Stingray"
@@ -597,13 +598,13 @@ msgid "unnatural/base/biomass/units/toxiloon.proto/title"
 msgstr "Toxiloon"
 
 msgid "unnatural/base/biomass/units/venomite.proto/description"
-msgstr "Well rounded combatant. Good at everything. Excels at nothing."
+msgstr "Stealthy crawler."
 
 msgid "unnatural/base/biomass/units/venomite.proto/title"
 msgstr "Venomite"
 
 msgid "unnatural/base/biomass/units/wardkin.proto/description"
-msgstr "Has a special organ that emits energy shield around it."
+msgstr "Has an electrifying organ that emits energy shield around it."
 
 msgid "unnatural/base/biomass/units/wardkin.proto/title"
 msgstr "Wardkin"
@@ -615,7 +616,7 @@ msgid "unnatural/base/biomass/upgrades/awakening.proto/title"
 msgstr "Awakening"
 
 msgid "unnatural/base/biomass/upgrades/fertility.proto/description"
-msgstr "One woman needs 9 months for 1 baby. So 9 woman needs 1 month only, right?"
+msgstr "One woman needs 9 months for 1 baby. So 9 women needs 1 month only, right?"
 
 msgid "unnatural/base/biomass/upgrades/fertility.proto/title"
 msgstr "Fertility"
@@ -730,7 +731,7 @@ msgid "unnatural/base/technocracy/buildings/radar.proto/title"
 msgstr "Radar"
 
 msgid "unnatural/base/technocracy/buildings/refinery.proto/description"
-msgstr "Compacts raw oil into usable fuel rods or plasma cells."
+msgstr "Compacts raw oil into usable derivatives."
 
 msgid "unnatural/base/technocracy/buildings/refinery.proto/title"
 msgstr "Refinery"
@@ -742,7 +743,7 @@ msgid "unnatural/base/technocracy/buildings/smelter.proto/title"
 msgstr "Smelter"
 
 msgid "unnatural/base/technocracy/buildings/talos.proto/description"
-msgstr "Defensive tower with large range."
+msgstr "Defensive tower with long range gun."
 
 msgid "unnatural/base/technocracy/buildings/talos.proto/title"
 msgstr "Talos"
@@ -816,7 +817,7 @@ msgid "unnatural/base/technocracy/resources/quark_foam.proto/title"
 msgstr "Quark foam"
 
 msgid "unnatural/base/technocracy/resources/voidspace_block.proto/description"
-msgstr "The vast and empty space inside molecules, after the atoms were removed.\n"
+msgstr "The vast and empty space inside molecules, after the atoms were removed, encased in a box.\n"
 "Much technical. Much advanced. No idea."
 
 msgid "unnatural/base/technocracy/resources/voidspace_block.proto/title"
@@ -844,13 +845,13 @@ msgid "unnatural/base/technocracy/units/big_boom_boy.proto/title"
 msgstr "Big boom boy"
 
 msgid "unnatural/base/technocracy/units/cyclops.proto/description"
-msgstr "Fast and long range gun. Provides supplemental damage."
+msgstr "Fast and long range artillery vehicle."
 
 msgid "unnatural/base/technocracy/units/cyclops.proto/title"
 msgstr "Cyclops"
 
 msgid "unnatural/base/technocracy/units/drone.proto/description"
-msgstr "Scout quad-copter that detects stealth units."
+msgstr "Quad-copter scout that detects stealth units."
 
 msgid "unnatural/base/technocracy/units/drone.proto/title"
 msgstr "Drone"
@@ -869,7 +870,7 @@ msgid "unnatural/base/technocracy/units/juggernaut.proto/title"
 msgstr "Juggernaut"
 
 msgid "unnatural/base/technocracy/units/kitsune.proto/description"
-msgstr "Quick as a fox. Good for harassing weak units."
+msgstr "Quick as a fox. Stealthy scout."
 
 msgid "unnatural/base/technocracy/units/kitsune.proto/title"
 msgstr "Kitsune"
@@ -881,7 +882,7 @@ msgid "unnatural/base/technocracy/units/lurker.proto/title"
 msgstr "Lurker"
 
 msgid "unnatural/base/technocracy/units/mermaid.proto/description"
-msgstr "Can sneak over water. Can shoot over cliffs."
+msgstr "Sneaks over water. Shoots over cliffs."
 
 msgid "unnatural/base/technocracy/units/mermaid.proto/title"
 msgstr "Mermaid"
@@ -893,7 +894,7 @@ msgid "unnatural/base/technocracy/units/paladin.proto/title"
 msgstr "Paladin"
 
 msgid "unnatural/base/technocracy/units/tripod.proto/description"
-msgstr "Very-long range pinpoint-accurate laser ... pointer."
+msgstr "Very long range pinpoint-accurate laser ... pointer."
 
 msgid "unnatural/base/technocracy/units/tripod.proto/title"
 msgstr "Tripod"
@@ -911,7 +912,7 @@ msgid "unnatural/base/technocracy/units/warlord.proto/title"
 msgstr "Warlord"
 
 msgid "unnatural/base/technocracy/units/yatag.proto/description"
-msgstr "Stealthy, shielded robot with antimatter gun that razes buildings in seconds."
+msgstr "Robot with antimatter gun that razes buildings in seconds."
 
 msgid "unnatural/base/technocracy/units/yatag.proto/title"
 msgstr "Yatag"
