@@ -169,7 +169,7 @@ msgid "unnatural/campaigns/campaigns"
 msgstr "Campaigns"
 
 msgid "unnatural/campaigns/firstEncounter"
-msgstr "First encounter"
+msgstr "First Encounter"
 
 msgid "unnatural/campaigns/madProtocol"
 msgstr "M.A.D. Protocol"
