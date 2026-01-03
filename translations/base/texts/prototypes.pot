@@ -483,6 +483,15 @@ msgstr "Grows combatants and servants."
 msgid "unnatural/base/biomass/buildings/wombtree.proto/title"
 msgstr "Wombtree"
 
+msgid "unnatural/base/biomass/recipes/fertilizer_aether.proto/description"
+msgstr "Extracts fertilizer from aether deposit."
+
+msgid "unnatural/base/biomass/recipes/fertilizer_metal.proto/description"
+msgstr "Extracts fertilizer from metal deposit."
+
+msgid "unnatural/base/biomass/recipes/fertilizer_oil.proto/description"
+msgstr "Extracts fertilizer from oil deposit."
+
 msgid "unnatural/base/biomass/resources/algaesack.proto/description"
 msgstr "Life ponderment neatly packaged for transportation."
 
