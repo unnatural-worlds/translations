@@ -392,9 +392,10 @@ msgid "unnatural/base/archaics/upgrades/smoother_propellers.proto/title"
 msgstr "Smoother propellers"
 
 msgid "unnatural/base/biomass/biomass.proto/description"
-msgstr "Evolution gone wrong - or right, depends on who is asking.\n"
+msgstr "Evolution gone wrong - or right, depends on who you ask.\n"
 "There might have been some outside influence too.\n"
-"Either way, they are driven by photosynthesis, mutation, acid, and claws."
+"Either way, Biomass is driven by photosynthesis, mutation, acid, and claws.\n"
+"Throwing endless hordes at opponents."
 
 msgid "unnatural/base/biomass/biomass.proto/title"
 msgstr "Biomass"
@@ -412,7 +413,7 @@ msgid "unnatural/base/biomass/buildings/anchor_spikes.proto/title"
 msgstr "Anchor spikes"
 
 msgid "unnatural/base/biomass/buildings/dart_trap.proto/description"
-msgstr "Surgical dart throwing trap."
+msgstr "Surgical dart-throwing trap."
 
 msgid "unnatural/base/biomass/buildings/dart_trap.proto/title"
 msgstr "Dart trap"
@@ -430,7 +431,7 @@ msgid "unnatural/base/biomass/buildings/gas_trap.proto/title"
 msgstr "Gas trap"
 
 msgid "unnatural/base/biomass/buildings/incubator.proto/description"
-msgstr "Grows advanced combatants, artificially enhanced with extra genes."
+msgstr "Grows advanced combatants, artificially enhanced with modified genes."
 
 msgid "unnatural/base/biomass/buildings/incubator.proto/title"
 msgstr "Incubator"
@@ -454,7 +455,7 @@ msgid "unnatural/base/biomass/buildings/phytopod.proto/title"
 msgstr "Phytopod"
 
 msgid "unnatural/base/biomass/buildings/pipeshroom.proto/description"
-msgstr "Large colony of fungi slowly looking for wisdom."
+msgstr "Large colony of fungi tirelessly looking for wisdom."
 
 msgid "unnatural/base/biomass/buildings/pipeshroom.proto/title"
 msgstr "Pipeshroom"
@@ -472,7 +473,7 @@ msgid "unnatural/base/biomass/buildings/spike_wall.proto/title"
 msgstr "Spike wall"
 
 msgid "unnatural/base/biomass/buildings/willow.proto/description"
-msgstr "Contemplates life while producing algaesacks."
+msgstr "Contemplates life and produces algaesacks."
 
 msgid "unnatural/base/biomass/buildings/willow.proto/title"
 msgstr "Willow"
@@ -541,13 +542,13 @@ msgid "unnatural/base/biomass/units/hound.proto/title"
 msgstr "Hound"
 
 msgid "unnatural/base/biomass/units/jumpscare.proto/description"
-msgstr "Creepy crawly."
+msgstr "Creepy stealthy crawler."
 
 msgid "unnatural/base/biomass/units/jumpscare.proto/title"
 msgstr "Jumpscare"
 
 msgid "unnatural/base/biomass/units/lasher.proto/description"
-msgstr "Naval and ground hybrid combatant."
+msgstr "Amphibious ranged combatant."
 
 msgid "unnatural/base/biomass/units/lasher.proto/title"
 msgstr "Lasher"
@@ -565,13 +566,14 @@ msgid "unnatural/base/biomass/units/mechlas.proto/title"
 msgstr "Mechlas"
 
 msgid "unnatural/base/biomass/units/overlord.proto/description"
-msgstr "Local area mind-control authority. Without it, they are just plants."
+msgstr "Local area mind-control authority. Without it, they are just plants.\n"
+"Keep it safe and secret."
 
 msgid "unnatural/base/biomass/units/overlord.proto/title"
 msgstr "Overlord"
 
 msgid "unnatural/base/biomass/units/rhino.proto/description"
-msgstr "Big ball of muscles, propels itself at the target, dealing massive damage."
+msgstr "Big ball of muscles, propels itself at a target, dealing massive damage."
 
 msgid "unnatural/base/biomass/units/rhino.proto/title"
 msgstr "Rhino"
@@ -583,19 +585,19 @@ msgid "unnatural/base/biomass/units/slitherer.proto/title"
 msgstr "Slitherer"
 
 msgid "unnatural/base/biomass/units/slug.proto/description"
-msgstr "Stores antimatter in its intestines, and can eject it at buildings to quickly raze them down."
+msgstr "Stores antimatter in its intestines, and can eject it at buildings to quickly raze them down. Stealthy."
 
 msgid "unnatural/base/biomass/units/slug.proto/title"
 msgstr "Slug"
 
 msgid "unnatural/base/biomass/units/stingray.proto/description"
-msgstr "Long-range navy combatant."
+msgstr "Long-range stealthy navy combatant."
 
 msgid "unnatural/base/biomass/units/stingray.proto/title"
 msgstr "Stingray"
 
 msgid "unnatural/base/biomass/units/sunbeam.proto/description"
-msgstr "Channels large beam of energy at long range."
+msgstr "Channels thick beam of energy at long range."
 
 msgid "unnatural/base/biomass/units/sunbeam.proto/title"
 msgstr "Sunbeam"
@@ -613,19 +615,21 @@ msgid "unnatural/base/biomass/units/venomite.proto/title"
 msgstr "Venomite"
 
 msgid "unnatural/base/biomass/units/wardkin.proto/description"
-msgstr "Has an electrifying organ that emits energy shield around it."
+msgstr "Has an electrifying organ that emits energy shield around it.\n"
+"Also detects stealthy units."
 
 msgid "unnatural/base/biomass/units/wardkin.proto/title"
 msgstr "Wardkin"
 
 msgid "unnatural/base/biomass/upgrades/awakening.proto/description"
-msgstr "The elves are teaching the trees to speak."
+msgstr "Teaching the plants to speak and haste.\n"
+"Speech has not yet worked."
 
 msgid "unnatural/base/biomass/upgrades/awakening.proto/title"
 msgstr "Awakening"
 
 msgid "unnatural/base/biomass/upgrades/fertility.proto/description"
-msgstr "One woman needs 9 months for 1 baby. So 9 women needs 1 month only, right?"
+msgstr "Nightmare fuel."
 
 msgid "unnatural/base/biomass/upgrades/fertility.proto/title"
 msgstr "Fertility"
@@ -643,19 +647,19 @@ msgid "unnatural/base/biomass/upgrades/regeneration.proto/title"
 msgstr "Regeneration"
 
 msgid "unnatural/base/ores/aether_deposit.proto/description"
-msgstr "Gaseous substance that defies scientific understanding."
+msgstr "Aether deposit"
 
 msgid "unnatural/base/ores/aether_deposit.proto/title"
 msgstr "Aether deposit"
 
 msgid "unnatural/base/ores/metal_deposit.proto/description"
-msgstr "Humans were obsessed with gold. But the best metal is iron."
+msgstr "Metal deposit"
 
 msgid "unnatural/base/ores/metal_deposit.proto/title"
 msgstr "Metal deposit"
 
 msgid "unnatural/base/ores/oil_deposit.proto/description"
-msgstr "Viscous liquid packed with energy."
+msgstr "Oil deposit"
 
 msgid "unnatural/base/ores/oil_deposit.proto/title"
 msgstr "Oil deposit"
@@ -854,7 +858,7 @@ msgid "unnatural/base/technocracy/units/big_boom_boy.proto/title"
 msgstr "Big boom boy"
 
 msgid "unnatural/base/technocracy/units/cyclops.proto/description"
-msgstr "Fast and long range artillery vehicle."
+msgstr "Fast and long-range artillery vehicle."
 
 msgid "unnatural/base/technocracy/units/cyclops.proto/title"
 msgstr "Cyclops"
@@ -873,7 +877,7 @@ msgid "unnatural/base/technocracy/units/golem.proto/title"
 msgstr "Golem"
 
 msgid "unnatural/base/technocracy/units/juggernaut.proto/description"
-msgstr "Assault bot. Well-rounded main battle unit."
+msgstr "Assault bot. Big gun."
 
 msgid "unnatural/base/technocracy/units/juggernaut.proto/title"
 msgstr "Juggernaut"
@@ -885,7 +889,7 @@ msgid "unnatural/base/technocracy/units/kitsune.proto/title"
 msgstr "Kitsune"
 
 msgid "unnatural/base/technocracy/units/lurker.proto/description"
-msgstr "Crawls over cliffs, with stealth."
+msgstr "Stealthily crawls over cliffs."
 
 msgid "unnatural/base/technocracy/units/lurker.proto/title"
 msgstr "Lurker"
@@ -915,7 +919,7 @@ msgid "unnatural/base/technocracy/units/twinfire.proto/title"
 msgstr "Twinfire"
 
 msgid "unnatural/base/technocracy/units/warlord.proto/description"
-msgstr "The ultimate warmachine - towering over the battlefield, and spreading death."
+msgstr "The ultimate warmachine. Designed for breaching the thickest of fortifications."
 
 msgid "unnatural/base/technocracy/units/warlord.proto/title"
 msgstr "Warlord"
