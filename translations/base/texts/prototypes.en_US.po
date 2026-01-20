@@ -597,7 +597,7 @@ msgid "unnatural/base/biomass/units/stingray.proto/title"
 msgstr "Stingray"
 
 msgid "unnatural/base/biomass/units/sunbeam.proto/description"
-msgstr "Channels thick beam of energy at long range."
+msgstr "Channels thick beam of energy at long range, over horizon."
 
 msgid "unnatural/base/biomass/units/sunbeam.proto/title"
 msgstr "Sunbeam"
@@ -623,7 +623,7 @@ msgstr "Wardkin"
 
 msgid "unnatural/base/biomass/upgrades/awakening.proto/description"
 msgstr "Teaching the plants to speak and haste.\n"
-"Speech has not yet worked."
+"Speech has not worked, yet."
 
 msgid "unnatural/base/biomass/upgrades/awakening.proto/title"
 msgstr "Awakening"

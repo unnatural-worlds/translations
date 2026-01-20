@@ -1791,12 +1791,6 @@ msgstr "Wait for an admin"
 msgid "unnatural/sessionPlayers/waiting"
 msgstr "Waiting"
 
-msgid "unnatural/sessionRaces/noRacesToChooseFrom"
-msgstr "No races to choose from"
-
-msgid "unnatural/sessionRaces/randomRace"
-msgstr "Random"
-
 msgid "unnatural/sessionRaces/waitingForMap"
 msgstr "Waiting for map"
 
@@ -1931,6 +1925,9 @@ msgstr "Damage at low life: "
 
 msgid "unnatural/tooltips/defense"
 msgstr "Defense"
+
+msgid "unnatural/tooltips/detector"
+msgstr "Detector"
 
 msgid "unnatural/tooltips/dps"
 msgstr "DPS: "
