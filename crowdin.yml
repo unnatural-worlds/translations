@@ -5,9 +5,3 @@ preserve_hierarchy: true
 files:
   - source: "/**/*.pot"
     translation: "%original_path%/%file_name%.%locale_with_underscore%.po"
-
-  - source: "/steam/storepage_550961_english.json"
-    translation: "%original_path%/%file_name%_%locale_with_underscore%.json"
-    translation_replace:
-      "_english": ""
-
