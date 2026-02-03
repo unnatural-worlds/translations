@@ -1104,6 +1104,12 @@ msgstr "Ally color:"
 msgid "unnatural/options/gameplay/color/enemy"
 msgstr "Enemy color:"
 
+msgid "unnatural/options/gameplay/color/inHealthbars"
+msgstr "Alternate colors (healthbars):"
+
+msgid "unnatural/options/gameplay/color/inHealthbars/description"
+msgstr "Use colors defined below in healthbars."
+
 msgid "unnatural/options/gameplay/color/inMinimap"
 msgstr "Alternate colors (minimap):"
 
@@ -1728,23 +1734,53 @@ msgstr "Players"
 msgid "unnatural/session/previewMap"
 msgstr "Preview map"
 
+msgid "unnatural/sessionConfig/assassination"
+msgstr "Assassination:"
+
+msgid "unnatural/sessionConfig/assassination/tooltip"
+msgstr "Player is eliminated with the last 'vital' building/unit.\nOtherwise, all buildings and units must be destroyed."
+
 msgid "unnatural/sessionConfig/automaticColors"
 msgstr "Automatic colors:"
+
+msgid "unnatural/sessionConfig/automaticColors/tooltip"
+msgstr "Automatically assigns colors to all players,\nensuring that teammates have similar colors,\nwhereas teams are more distinct."
 
 msgid "unnatural/sessionConfig/cheats"
 msgstr "Cheats:"
 
+msgid "unnatural/sessionConfig/cheats/tooltip"
+msgstr "Allows players to use cheat codes."
+
 msgid "unnatural/sessionConfig/diplomacy"
 msgstr "Diplomacy:"
+
+msgid "unnatural/sessionConfig/diplomacy/tooltip"
+msgstr "Allows proposing alliances and declaring wars freely during the whole match."
 
 msgid "unnatural/sessionConfig/fogOfWar"
 msgstr "Fog of war:"
 
+msgid "unnatural/sessionConfig/fogOfWar/tooltip"
+msgstr "Hides enemy units that are too far, out of sight."
+
 msgid "unnatural/sessionConfig/lockedSpeed"
 msgstr "Locked speed:"
 
-msgid "unnatural/sessionConfig/ranked"
-msgstr "Ranked:"
+msgid "unnatural/sessionConfig/lockedSpeed/tooltip"
+msgstr "Prevents players from adjusting game speed during the match."
+
+msgid "unnatural/sessionConfig/secrets"
+msgstr "Secrets:"
+
+msgid "unnatural/sessionConfig/secrets/tooltip"
+msgstr "Hides enemy healthbars and recipes."
+
+msgid "unnatural/sessionConfig/standard"
+msgstr "Standard:"
+
+msgid "unnatural/sessionConfig/standard/tooltip"
+msgstr "Standard rules designed for tournaments and ranked matches."
 
 msgid "unnatural/sessionMap/noMap"
 msgstr "No map"
