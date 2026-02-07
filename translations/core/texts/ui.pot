@@ -846,42 +846,6 @@ msgstr "Save selection {0}"
 msgid "unnatural/key/selectionStore/useSelection"
 msgstr "Use selection {0}"
 
-msgid "unnatural/ladder/1v1"
-msgstr "1 vs. 1"
-
-msgid "unnatural/ladder/2vsAI"
-msgstr "2 vs. AI"
-
-msgid "unnatural/ladder/disclaimer/DontBeThatGuy"
-msgstr "Don't be that guy."
-
-msgid "unnatural/ladder/disclaimer/rankedGamesDisclaimer"
-msgstr "Ranked games disclaimer"
-
-msgid "unnatural/ladder/disclaimer/TheIntentionIsForPlayersToHaveFun"
-msgstr "The intention is for players to have fun with similarly skilled players."
-
-msgid "unnatural/ladder/disclaimer/thereAreNoGuardsAgainstCheatingAndNoLadder"
-msgstr "There are no guards against cheating, and no ladder."
-
-msgid "unnatural/ladder/disclaimer/thisVersionProvidesRankingAsBestEffortOnly"
-msgstr "This version provides ranking as best effort only."
-
-msgid "unnatural/ladder/ladder"
-msgstr "Ladder"
-
-msgid "unnatural/ladder/play"
-msgstr "Play"
-
-msgid "unnatural/ladder/rank"
-msgstr "Rank"
-
-msgid "unnatural/ladder/searching"
-msgstr "Searching"
-
-msgid "unnatural/ladder/waiting"
-msgstr "Waiting"
-
 msgid "unnatural/lexicon/buildings"
 msgstr "Buildings"
 
@@ -1278,6 +1242,27 @@ msgstr "Your color:"
 msgid "unnatural/options/player/yourName"
 msgstr "Your name:"
 
+msgid "unnatural/options/ranked"
+msgstr "Ranked"
+
+msgid "unnatural/options/ranked/maxRatingDifference"
+msgstr "Max rating difference:"
+
+msgid "unnatural/options/ranked/searchRegionDistance"
+msgstr "Search region distance:"
+
+msgid "unnatural/options/ranked/searchRegionDistance/closeby"
+msgstr "Close by"
+
+msgid "unnatural/options/ranked/searchRegionDistance/default"
+msgstr "Default"
+
+msgid "unnatural/options/ranked/searchRegionDistance/far"
+msgstr "Far"
+
+msgid "unnatural/options/ranked/searchRegionDistance/worldwide"
+msgstr "World wide"
+
 msgid "unnatural/options/sound"
 msgstr "Sound"
 
@@ -1523,6 +1508,69 @@ msgstr "Unit"
 
 msgid "unnatural/protoTypeEnum/upgrade"
 msgstr "Upgrade"
+
+msgid "unnatural/ranked/1v1"
+msgstr "1 vs. 1"
+
+msgid "unnatural/ranked/1vsAI"
+msgstr "Solo 1 vs. AI"
+
+msgid "unnatural/ranked/2vsAI"
+msgstr "Coop 2 vs. AI"
+
+msgid "unnatural/ranked/disclaimer/cheatingIsForbiddenButTechnicallyPossible"
+msgstr "Cheating is forbidden, but technically possible."
+
+msgid "unnatural/ranked/disclaimer/ifYouNoticeSomeoneCheatingReportThemInSteam"
+msgstr "If you notice someone cheating, report them in Steam."
+
+msgid "unnatural/ranked/disclaimer/rankedGamesAreProvidedAsBestEffortOnly"
+msgstr "Ranked games are provided as 'best effort' only."
+
+msgid "unnatural/ranked/disclaimer/rankedGamesDisclaimer"
+msgstr "Ranked games disclaimer"
+
+msgid "unnatural/ranked/play"
+msgstr "Play"
+
+msgid "unnatural/ranked/rank"
+msgstr "Rank"
+
+msgid "unnatural/ranked/ranked"
+msgstr "Ranked"
+
+msgid "unnatural/ranked/results"
+msgstr "Results"
+
+msgid "unnatural/ranked/results/defeat"
+msgstr "Defeat"
+
+msgid "unnatural/ranked/results/friends"
+msgstr "Friends"
+
+msgid "unnatural/ranked/results/history"
+msgstr "History"
+
+msgid "unnatural/ranked/results/player"
+msgstr "Player"
+
+msgid "unnatural/ranked/results/rank"
+msgstr "Rank"
+
+msgid "unnatural/ranked/results/rating"
+msgstr "Rating"
+
+msgid "unnatural/ranked/results/result"
+msgstr "Result"
+
+msgid "unnatural/ranked/results/victory"
+msgstr "Victory"
+
+msgid "unnatural/ranked/searching"
+msgstr "Searching"
+
+msgid "unnatural/ranked/waiting"
+msgstr "Waiting"
 
 msgid "unnatural/recipeSelection/recipe"
 msgstr "Recipe"
