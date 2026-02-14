@@ -15,382 +15,6 @@ msgstr ""
 "X-Crowdin-Project-ID: 677934\n"
 "X-Crowdin-Language: en\n"
 
-msgid "unnatural/base/archaics/archaics.proto/description"
-msgstr "Descendants of original humans, who value tradition above all.\n"
-"Avoiding integration of any AI has stagnated their advancement to almost complete halt.\n"
-"And yet they are surviving and prosper.\n\n"
-"This race will be removed in future update.\n"
-"DO NOT PLAY."
-
-msgid "unnatural/base/archaics/archaics.proto/title"
-msgstr "Archaics"
-
-msgid "unnatural/base/archaics/buildings/assembly_yard.proto/description"
-msgstr "Assembly yard"
-
-msgid "unnatural/base/archaics/buildings/assembly_yard.proto/title"
-msgstr "Assembly yard"
-
-msgid "unnatural/base/archaics/buildings/barracks.proto/description"
-msgstr "Barracks"
-
-msgid "unnatural/base/archaics/buildings/barracks.proto/title"
-msgstr "Barracks"
-
-msgid "unnatural/base/archaics/buildings/bunker.proto/description"
-msgstr "Bunker"
-
-msgid "unnatural/base/archaics/buildings/bunker.proto/title"
-msgstr "Bunker"
-
-msgid "unnatural/base/archaics/buildings/chemical_plant.proto/description"
-msgstr "Chemical plant"
-
-msgid "unnatural/base/archaics/buildings/chemical_plant.proto/title"
-msgstr "Chemical plant"
-
-msgid "unnatural/base/archaics/buildings/concrete_plant.proto/description"
-msgstr "Concrete plant"
-
-msgid "unnatural/base/archaics/buildings/concrete_plant.proto/title"
-msgstr "Concrete plant"
-
-msgid "unnatural/base/archaics/buildings/factory.proto/description"
-msgstr "Factory"
-
-msgid "unnatural/base/archaics/buildings/factory.proto/title"
-msgstr "Factory"
-
-msgid "unnatural/base/archaics/buildings/field.proto/description"
-msgstr "Field"
-
-msgid "unnatural/base/archaics/buildings/field.proto/title"
-msgstr "Field"
-
-msgid "unnatural/base/archaics/buildings/foundry.proto/description"
-msgstr "Foundry"
-
-msgid "unnatural/base/archaics/buildings/foundry.proto/title"
-msgstr "Foundry"
-
-msgid "unnatural/base/archaics/buildings/hedgehog.proto/description"
-msgstr "Hedgehog"
-
-msgid "unnatural/base/archaics/buildings/hedgehog.proto/title"
-msgstr "Hedgehog"
-
-msgid "unnatural/base/archaics/buildings/house.proto/description"
-msgstr "House"
-
-msgid "unnatural/base/archaics/buildings/house.proto/title"
-msgstr "House"
-
-msgid "unnatural/base/archaics/buildings/laboratory.proto/description"
-msgstr "Laboratory"
-
-msgid "unnatural/base/archaics/buildings/laboratory.proto/title"
-msgstr "Laboratory"
-
-msgid "unnatural/base/archaics/buildings/lumber_mill.proto/description"
-msgstr "Lumber mill"
-
-msgid "unnatural/base/archaics/buildings/lumber_mill.proto/title"
-msgstr "Lumber mill"
-
-msgid "unnatural/base/archaics/buildings/mine.proto/description"
-msgstr "Mine"
-
-msgid "unnatural/base/archaics/buildings/mine.proto/title"
-msgstr "Mine"
-
-msgid "unnatural/base/archaics/buildings/oil_refinery.proto/description"
-msgstr "Oil refinery"
-
-msgid "unnatural/base/archaics/buildings/oil_refinery.proto/title"
-msgstr "Oil refinery"
-
-msgid "unnatural/base/archaics/buildings/plantation.proto/description"
-msgstr "Plantation"
-
-msgid "unnatural/base/archaics/buildings/plantation.proto/title"
-msgstr "Plantation"
-
-msgid "unnatural/base/archaics/buildings/pumpjack.proto/description"
-msgstr "Pumpjack"
-
-msgid "unnatural/base/archaics/buildings/pumpjack.proto/title"
-msgstr "Pumpjack"
-
-msgid "unnatural/base/archaics/buildings/shipyard.proto/description"
-msgstr "Shipyard"
-
-msgid "unnatural/base/archaics/buildings/shipyard.proto/title"
-msgstr "Shipyard"
-
-msgid "unnatural/base/archaics/buildings/vineyard.proto/description"
-msgstr "Vineyard"
-
-msgid "unnatural/base/archaics/buildings/vineyard.proto/title"
-msgstr "Vineyard"
-
-msgid "unnatural/base/archaics/buildings/workshop.proto/description"
-msgstr "Workshop"
-
-msgid "unnatural/base/archaics/buildings/workshop.proto/title"
-msgstr "Workshop"
-
-msgid "unnatural/base/archaics/resources/appliance.proto/description"
-msgstr "Appliance"
-
-msgid "unnatural/base/archaics/resources/appliance.proto/title"
-msgstr "Appliance"
-
-msgid "unnatural/base/archaics/resources/cannon.proto/description"
-msgstr "Cannon"
-
-msgid "unnatural/base/archaics/resources/cannon.proto/title"
-msgstr "Cannon"
-
-msgid "unnatural/base/archaics/resources/civilian.proto/description"
-msgstr "Civilian"
-
-msgid "unnatural/base/archaics/resources/civilian.proto/title"
-msgstr "Civilian"
-
-msgid "unnatural/base/archaics/resources/composite_plating.proto/description"
-msgstr "Composite plating"
-
-msgid "unnatural/base/archaics/resources/composite_plating.proto/title"
-msgstr "Composite plating"
-
-msgid "unnatural/base/archaics/resources/computer.proto/description"
-msgstr "Computer"
-
-msgid "unnatural/base/archaics/resources/computer.proto/title"
-msgstr "Computer"
-
-msgid "unnatural/base/archaics/resources/concrete.proto/description"
-msgstr "Concrete"
-
-msgid "unnatural/base/archaics/resources/concrete.proto/title"
-msgstr "Concrete"
-
-msgid "unnatural/base/archaics/resources/crude_oil.proto/description"
-msgstr "Crude oil"
-
-msgid "unnatural/base/archaics/resources/crude_oil.proto/title"
-msgstr "Crude oil"
-
-msgid "unnatural/base/archaics/resources/engine.proto/description"
-msgstr "Engine"
-
-msgid "unnatural/base/archaics/resources/engine.proto/title"
-msgstr "Engine"
-
-msgid "unnatural/base/archaics/resources/fuel.proto/description"
-msgstr "Fuel"
-
-msgid "unnatural/base/archaics/resources/fuel.proto/title"
-msgstr "Fuel"
-
-msgid "unnatural/base/archaics/resources/furniture.proto/description"
-msgstr "Furniture"
-
-msgid "unnatural/base/archaics/resources/furniture.proto/title"
-msgstr "Furniture"
-
-msgid "unnatural/base/archaics/resources/machine_gun.proto/description"
-msgstr "Machine gun"
-
-msgid "unnatural/base/archaics/resources/machine_gun.proto/title"
-msgstr "Machine gun"
-
-msgid "unnatural/base/archaics/resources/pastry.proto/description"
-msgstr "Pastry"
-
-msgid "unnatural/base/archaics/resources/pastry.proto/title"
-msgstr "Pastry"
-
-msgid "unnatural/base/archaics/resources/plastic.proto/description"
-msgstr "Plastic"
-
-msgid "unnatural/base/archaics/resources/plastic.proto/title"
-msgstr "Plastic"
-
-msgid "unnatural/base/archaics/resources/rocket_mount.proto/description"
-msgstr "Rocket mount"
-
-msgid "unnatural/base/archaics/resources/rocket_mount.proto/title"
-msgstr "Rocket mount"
-
-msgid "unnatural/base/archaics/resources/scaffolding.proto/description"
-msgstr "Scaffolding"
-
-msgid "unnatural/base/archaics/resources/scaffolding.proto/title"
-msgstr "Scaffolding"
-
-msgid "unnatural/base/archaics/resources/soldier.proto/description"
-msgstr "Soldier"
-
-msgid "unnatural/base/archaics/resources/soldier.proto/title"
-msgstr "Soldier"
-
-msgid "unnatural/base/archaics/resources/steel.proto/description"
-msgstr "Steel"
-
-msgid "unnatural/base/archaics/resources/steel.proto/title"
-msgstr "Steel"
-
-msgid "unnatural/base/archaics/resources/sturdy_plating.proto/description"
-msgstr "Sturdy plating"
-
-msgid "unnatural/base/archaics/resources/sturdy_plating.proto/title"
-msgstr "Sturdy plating"
-
-msgid "unnatural/base/archaics/resources/veggies.proto/description"
-msgstr "Veggies"
-
-msgid "unnatural/base/archaics/resources/veggies.proto/title"
-msgstr "Veggies"
-
-msgid "unnatural/base/archaics/resources/wine.proto/description"
-msgstr "Wine"
-
-msgid "unnatural/base/archaics/resources/wine.proto/title"
-msgstr "Wine"
-
-msgid "unnatural/base/archaics/resources/wood.proto/description"
-msgstr "Wood"
-
-msgid "unnatural/base/archaics/resources/wood.proto/title"
-msgstr "Wood"
-
-msgid "unnatural/base/archaics/units/amphibious_tank.proto/description"
-msgstr "Amphibious tank"
-
-msgid "unnatural/base/archaics/units/amphibious_tank.proto/title"
-msgstr "Amphibious tank"
-
-msgid "unnatural/base/archaics/units/armored_car.proto/description"
-msgstr "Armored car"
-
-msgid "unnatural/base/archaics/units/armored_car.proto/title"
-msgstr "Armored car"
-
-msgid "unnatural/base/archaics/units/assault_boat.proto/description"
-msgstr "Assault boat"
-
-msgid "unnatural/base/archaics/units/assault_boat.proto/title"
-msgstr "Assault boat"
-
-msgid "unnatural/base/archaics/units/assault_car.proto/description"
-msgstr "Assault car"
-
-msgid "unnatural/base/archaics/units/assault_car.proto/title"
-msgstr "Assault car"
-
-msgid "unnatural/base/archaics/units/assault_hovercraft.proto/description"
-msgstr "Assault hovercraft"
-
-msgid "unnatural/base/archaics/units/assault_hovercraft.proto/title"
-msgstr "Assault hovercraft"
-
-msgid "unnatural/base/archaics/units/heavy_tank.proto/description"
-msgstr "Heavy tank"
-
-msgid "unnatural/base/archaics/units/heavy_tank.proto/title"
-msgstr "Heavy tank"
-
-msgid "unnatural/base/archaics/units/howitzer.proto/description"
-msgstr "Howitzer"
-
-msgid "unnatural/base/archaics/units/howitzer.proto/title"
-msgstr "Howitzer"
-
-msgid "unnatural/base/archaics/units/light_tank.proto/description"
-msgstr "Light tank"
-
-msgid "unnatural/base/archaics/units/light_tank.proto/title"
-msgstr "Light tank"
-
-msgid "unnatural/base/archaics/units/rocket_boat.proto/description"
-msgstr "Rocket boat"
-
-msgid "unnatural/base/archaics/units/rocket_boat.proto/title"
-msgstr "Rocket boat"
-
-msgid "unnatural/base/archaics/units/rocket_launcher.proto/description"
-msgstr "Rocket launcher"
-
-msgid "unnatural/base/archaics/units/rocket_launcher.proto/title"
-msgstr "Rocket launcher"
-
-msgid "unnatural/base/archaics/units/strike_boat.proto/description"
-msgstr "Strike boat"
-
-msgid "unnatural/base/archaics/units/strike_boat.proto/title"
-msgstr "Strike boat"
-
-msgid "unnatural/base/archaics/units/strike_tank.proto/description"
-msgstr "Strike tank"
-
-msgid "unnatural/base/archaics/units/strike_tank.proto/title"
-msgstr "Strike tank"
-
-msgid "unnatural/base/archaics/units/truck.proto/description"
-msgstr "Truck"
-
-msgid "unnatural/base/archaics/units/truck.proto/title"
-msgstr "Truck"
-
-msgid "unnatural/base/archaics/upgrades/cannon_stabilization.proto/description"
-msgstr "Cannon stabilization"
-
-msgid "unnatural/base/archaics/upgrades/cannon_stabilization.proto/title"
-msgstr "Cannon stabilization"
-
-msgid "unnatural/base/archaics/upgrades/fertilizer.proto/description"
-msgstr "Fertilizer"
-
-msgid "unnatural/base/archaics/upgrades/fertilizer.proto/title"
-msgstr "Fertilizer"
-
-msgid "unnatural/base/archaics/upgrades/militia.proto/description"
-msgstr "Militia"
-
-msgid "unnatural/base/archaics/upgrades/militia.proto/title"
-msgstr "Militia"
-
-msgid "unnatural/base/archaics/upgrades/reactive_plates.proto/description"
-msgstr "Reactive plates"
-
-msgid "unnatural/base/archaics/upgrades/reactive_plates.proto/title"
-msgstr "Reactive plates"
-
-msgid "unnatural/base/archaics/upgrades/rocket_filling.proto/description"
-msgstr "Rocket filling"
-
-msgid "unnatural/base/archaics/upgrades/rocket_filling.proto/title"
-msgstr "Rocket filling"
-
-msgid "unnatural/base/archaics/upgrades/rubber_tracks.proto/description"
-msgstr "Rubber tracks"
-
-msgid "unnatural/base/archaics/upgrades/rubber_tracks.proto/title"
-msgstr "Rubber tracks"
-
-msgid "unnatural/base/archaics/upgrades/shell_filling.proto/description"
-msgstr "Shell filling"
-
-msgid "unnatural/base/archaics/upgrades/shell_filling.proto/title"
-msgstr "Shell filling"
-
-msgid "unnatural/base/archaics/upgrades/smoother_propellers.proto/description"
-msgstr "Smoother propellers"
-
-msgid "unnatural/base/archaics/upgrades/smoother_propellers.proto/title"
-msgstr "Smoother propellers"
-
 msgid "unnatural/base/biomass/biomass.proto/description"
 msgstr "Evolution gone wrong - or right, depends on who you ask.\n"
 "There might have been some outside influence too.\n"
@@ -401,7 +25,7 @@ msgid "unnatural/base/biomass/biomass.proto/title"
 msgstr "Biomass"
 
 msgid "unnatural/base/biomass/buildings/anchor_bulb.proto/description"
-msgstr "Explodes, splashing the intruder with a corrosive gel."
+msgstr "Explodes, splashing the intruder with a flammable gel."
 
 msgid "unnatural/base/biomass/buildings/anchor_bulb.proto/title"
 msgstr "Anchor bulb"
@@ -425,7 +49,7 @@ msgid "unnatural/base/biomass/buildings/deeproot.proto/title"
 msgstr "Deeproot"
 
 msgid "unnatural/base/biomass/buildings/gas_trap.proto/description"
-msgstr "Violently explodes and releases toxic gas towards the intruder."
+msgstr "Violently explodes and releases flammable gas towards the intruder."
 
 msgid "unnatural/base/biomass/buildings/gas_trap.proto/title"
 msgstr "Gas trap"
@@ -455,7 +79,8 @@ msgid "unnatural/base/biomass/buildings/phytopod.proto/title"
 msgstr "Phytopod"
 
 msgid "unnatural/base/biomass/buildings/pipeshroom.proto/description"
-msgstr "Large colony of fungi tirelessly looking for wisdom."
+msgstr "Large colony of fungi tirelessly looking for wisdom.\n"
+"Performs advanced upgrades."
 
 msgid "unnatural/base/biomass/buildings/pipeshroom.proto/title"
 msgstr "Pipeshroom"
@@ -473,7 +98,8 @@ msgid "unnatural/base/biomass/buildings/spike_wall.proto/title"
 msgstr "Spike wall"
 
 msgid "unnatural/base/biomass/buildings/willow.proto/description"
-msgstr "Contemplates life and produces algaesacks."
+msgstr "Awakens all of biomass.\n"
+"Or contemplates life and produces algaesacks."
 
 msgid "unnatural/base/biomass/buildings/willow.proto/title"
 msgstr "Willow"
@@ -518,37 +144,42 @@ msgid "unnatural/base/biomass/resources/genemass.proto/title"
 msgstr "Genemass"
 
 msgid "unnatural/base/biomass/units/blazepup.proto/description"
-msgstr "Flamethrower mounted on a hound."
+msgstr "Flamethrower mounted on a hound.\n"
+"Flanking unit."
 
 msgid "unnatural/base/biomass/units/blazepup.proto/title"
 msgstr "Blazepup"
 
 msgid "unnatural/base/biomass/units/crysthide.proto/description"
-msgstr "Skin hardened with metal and carbon."
+msgstr "Skin hardened with metal and carbon.\n"
+"Front-line unit."
 
 msgid "unnatural/base/biomass/units/crysthide.proto/title"
 msgstr "Crysthide"
 
 msgid "unnatural/base/biomass/units/gorescythe.proto/description"
-msgstr "Long arms with claws that tear through anything."
+msgstr "Long arms with claws that tear through anything.\n"
+"Front-line with small splash."
 
 msgid "unnatural/base/biomass/units/gorescythe.proto/title"
 msgstr "Gorescythe"
 
 msgid "unnatural/base/biomass/units/hound.proto/description"
-msgstr "Just muscles and sensory organs. Best scout."
+msgstr "Just muscles and sensory organs.\n"
+"Scout."
 
 msgid "unnatural/base/biomass/units/hound.proto/title"
 msgstr "Hound"
 
 msgid "unnatural/base/biomass/units/jumpscare.proto/description"
-msgstr "Creepy stealthy crawler."
+msgstr "Creepy crawler.\n"
+"Front-line unit."
 
 msgid "unnatural/base/biomass/units/jumpscare.proto/title"
 msgstr "Jumpscare"
 
 msgid "unnatural/base/biomass/units/lasher.proto/description"
-msgstr "Amphibious ranged combatant."
+msgstr "Amphibious fire support unit."
 
 msgid "unnatural/base/biomass/units/lasher.proto/title"
 msgstr "Lasher"
@@ -560,7 +191,8 @@ msgid "unnatural/base/biomass/units/maggot.proto/title"
 msgstr "Maggot"
 
 msgid "unnatural/base/biomass/units/mechlas.proto/description"
-msgstr "Absorbed piece of technical machinery, and evolved. Flying pinpointer."
+msgstr "Absorbed piece of technical machinery, and evolved.\n"
+"Flying fire support unit."
 
 msgid "unnatural/base/biomass/units/mechlas.proto/title"
 msgstr "Mechlas"
@@ -573,50 +205,54 @@ msgid "unnatural/base/biomass/units/overlord.proto/title"
 msgstr "Overlord"
 
 msgid "unnatural/base/biomass/units/rhino.proto/description"
-msgstr "Big ball of muscles, propels itself at a target, dealing massive damage."
+msgstr "Big ball of muscles, propels itself at a target, dealing massive damage.\n"
+"Flanking unit."
 
 msgid "unnatural/base/biomass/units/rhino.proto/title"
 msgstr "Rhino"
 
 msgid "unnatural/base/biomass/units/slitherer.proto/description"
-msgstr "Adept navy combatant."
+msgstr "Navy front-line unit."
 
 msgid "unnatural/base/biomass/units/slitherer.proto/title"
 msgstr "Slitherer"
 
 msgid "unnatural/base/biomass/units/slug.proto/description"
-msgstr "Stores antimatter in its intestines, and can eject it at buildings to quickly raze them down. Stealthy."
+msgstr "Stores antimatter in its intestines, and can eject it at buildings to quickly raze them down.\n"
+"Siege unit."
 
 msgid "unnatural/base/biomass/units/slug.proto/title"
 msgstr "Slug"
 
 msgid "unnatural/base/biomass/units/stingray.proto/description"
-msgstr "Long-range stealthy navy combatant."
+msgstr "Stealthy nave flanking unit."
 
 msgid "unnatural/base/biomass/units/stingray.proto/title"
 msgstr "Stingray"
 
 msgid "unnatural/base/biomass/units/sunbeam.proto/description"
-msgstr "Channels thick beam of energy at long range, over horizon."
+msgstr "Channels thick beam of energy.\n"
+"Fire support unit."
 
 msgid "unnatural/base/biomass/units/sunbeam.proto/title"
 msgstr "Sunbeam"
 
 msgid "unnatural/base/biomass/units/toxiloon.proto/description"
-msgstr "Giant flying sack full of toxic aerosol. Bursts open at an opportune moment."
+msgstr "Giant flying sack full of plasma.\n"
+"Suicidal flying flanking unit."
 
 msgid "unnatural/base/biomass/units/toxiloon.proto/title"
 msgstr "Toxiloon"
 
 msgid "unnatural/base/biomass/units/venomite.proto/description"
-msgstr "Stealthy crawler."
+msgstr "Stealthy fire support unit."
 
 msgid "unnatural/base/biomass/units/venomite.proto/title"
 msgstr "Venomite"
 
 msgid "unnatural/base/biomass/units/wardkin.proto/description"
 msgstr "Has an electrifying organ that emits energy shield around it.\n"
-"Also detects stealthy units."
+"Front-line detector unit."
 
 msgid "unnatural/base/biomass/units/wardkin.proto/title"
 msgstr "Wardkin"
@@ -671,7 +307,7 @@ msgid "unnatural/base/technocracy/buildings/air_factory.proto/title"
 msgstr "Air factory"
 
 msgid "unnatural/base/technocracy/buildings/armory.proto/description"
-msgstr "Provides reinforced armor to all units."
+msgstr "Provides reinforced armor to all buildings."
 
 msgid "unnatural/base/technocracy/buildings/armory.proto/title"
 msgstr "Armory"
@@ -714,7 +350,7 @@ msgid "unnatural/base/technocracy/buildings/experimental_assembler.proto/title"
 msgstr "Experimental assembler"
 
 msgid "unnatural/base/technocracy/buildings/generator.proto/description"
-msgstr "Provides additional power to all Thors."
+msgstr "Converts high-energy resources to other substances."
 
 msgid "unnatural/base/technocracy/buildings/generator.proto/title"
 msgstr "Generator"
@@ -756,14 +392,13 @@ msgid "unnatural/base/technocracy/buildings/smelter.proto/title"
 msgstr "Smelter"
 
 msgid "unnatural/base/technocracy/buildings/talos.proto/description"
-msgstr "Defensive tower with long range gun."
+msgstr "Defensive tower with laser gun."
 
 msgid "unnatural/base/technocracy/buildings/talos.proto/title"
 msgstr "Talos"
 
 msgid "unnatural/base/technocracy/buildings/thor.proto/description"
-msgstr "A weapon of terror. Casts lightning on distant enemies.\n"
-"Because throwing a hammer would have annoying cooldown."
+msgstr "Stronger defensive tower with plasma gun."
 
 msgid "unnatural/base/technocracy/buildings/thor.proto/title"
 msgstr "Thor"
@@ -779,6 +414,30 @@ msgstr "Build a wall. Literally."
 
 msgid "unnatural/base/technocracy/buildings/wall.proto/title"
 msgstr "Wall"
+
+msgid "unnatural/base/technocracy/recipes/convert_aether_to_metal.proto/description"
+msgstr "Converts aether to metal."
+
+msgid "unnatural/base/technocracy/recipes/convert_aether_to_metal.proto/title"
+msgstr "Aether to metal"
+
+msgid "unnatural/base/technocracy/recipes/convert_aether_to_oil.proto/description"
+msgstr "Converts aether to oil."
+
+msgid "unnatural/base/technocracy/recipes/convert_aether_to_oil.proto/title"
+msgstr "Aether to oil"
+
+msgid "unnatural/base/technocracy/recipes/convert_oil_to_aether.proto/description"
+msgstr "Converts oil to aether."
+
+msgid "unnatural/base/technocracy/recipes/convert_oil_to_aether.proto/title"
+msgstr "Oil to aether"
+
+msgid "unnatural/base/technocracy/recipes/convert_oil_to_metal.proto/description"
+msgstr "Converts oil to metal."
+
+msgid "unnatural/base/technocracy/recipes/convert_oil_to_metal.proto/title"
+msgstr "Oil to metal"
 
 msgid "unnatural/base/technocracy/resources/aether.proto/description"
 msgstr "Gaseous substance that defies scientific understanding."
@@ -824,7 +483,7 @@ msgstr "Plasma cell"
 
 msgid "unnatural/base/technocracy/resources/quark_foam.proto/description"
 msgstr "Highly technologically advanced material.\n"
-"Honestly, it is just a technobabble term that is not used anywhere else."
+"Honestly, it is just a technobabble term that does not exist anywhere else."
 
 msgid "unnatural/base/technocracy/resources/quark_foam.proto/title"
 msgstr "Quark foam"
@@ -839,7 +498,7 @@ msgstr "Voidspace block"
 msgid "unnatural/base/technocracy/technocracy.proto/description"
 msgstr "The key is to automate the automation itself.\n"
 "Use of AI technologies has replaced most of humans, almost to the point of extinction.\n"
-"The machine itself is now live, and evolves rapidly.\n\n"
+"The machine itself is now alive, and evolves rapidly.\n\n"
 "Recommended for beginners."
 
 msgid "unnatural/base/technocracy/technocracy.proto/title"
@@ -858,74 +517,78 @@ msgid "unnatural/base/technocracy/units/big_boom_boy.proto/title"
 msgstr "Big boom boy"
 
 msgid "unnatural/base/technocracy/units/cyclops.proto/description"
-msgstr "Fast and long-range artillery vehicle."
+msgstr "Flanking unit."
 
 msgid "unnatural/base/technocracy/units/cyclops.proto/title"
 msgstr "Cyclops"
 
 msgid "unnatural/base/technocracy/units/drone.proto/description"
-msgstr "Quad-copter scout that detects stealth units."
+msgstr "Quad-copter.\n"
+"Flying detector scout."
 
 msgid "unnatural/base/technocracy/units/drone.proto/title"
 msgstr "Drone"
 
 msgid "unnatural/base/technocracy/units/golem.proto/description"
 msgstr "Slightly derailed robot, with a gun with splash effect.\n"
-"What could possibly go wrong?"
+"Fire support unit with splash."
 
 msgid "unnatural/base/technocracy/units/golem.proto/title"
 msgstr "Golem"
 
 msgid "unnatural/base/technocracy/units/juggernaut.proto/description"
-msgstr "Assault bot. Big gun."
+msgstr "Front-line unit."
 
 msgid "unnatural/base/technocracy/units/juggernaut.proto/title"
 msgstr "Juggernaut"
 
 msgid "unnatural/base/technocracy/units/kitsune.proto/description"
-msgstr "Quick as a fox. Stealthy scout."
+msgstr "Quick as a fox.\n"
+"Stealthy scout."
 
 msgid "unnatural/base/technocracy/units/kitsune.proto/title"
 msgstr "Kitsune"
 
 msgid "unnatural/base/technocracy/units/lurker.proto/description"
-msgstr "Stealthily crawls over cliffs."
+msgstr "Cliff-walking fire support unit."
 
 msgid "unnatural/base/technocracy/units/lurker.proto/title"
 msgstr "Lurker"
 
 msgid "unnatural/base/technocracy/units/mermaid.proto/description"
-msgstr "Sneaks over water. Shoots over cliffs."
+msgstr "Amphibious fire support unit."
 
 msgid "unnatural/base/technocracy/units/mermaid.proto/title"
 msgstr "Mermaid"
 
 msgid "unnatural/base/technocracy/units/paladin.proto/description"
-msgstr "Defensive robot, can withstand a lot of beating."
+msgstr "Front-line unit with regenerative shield."
 
 msgid "unnatural/base/technocracy/units/paladin.proto/title"
 msgstr "Paladin"
 
 msgid "unnatural/base/technocracy/units/tripod.proto/description"
-msgstr "Very long range pinpoint-accurate laser ... pointer."
+msgstr "Very long range pinpoint-accurate laser ... pointer.\n"
+"Fire support unit."
 
 msgid "unnatural/base/technocracy/units/tripod.proto/title"
 msgstr "Tripod"
 
 msgid "unnatural/base/technocracy/units/twinfire.proto/description"
-msgstr "Assault vehicle with flamethrower."
+msgstr "Flanking unit with flamethrower."
 
 msgid "unnatural/base/technocracy/units/twinfire.proto/title"
 msgstr "Twinfire"
 
 msgid "unnatural/base/technocracy/units/warlord.proto/description"
-msgstr "The ultimate warmachine. Designed for breaching the thickest of fortifications."
+msgstr "The ultimate warmachine. Designed for breaching the thickest of fortifications.\n"
+"Siege unit."
 
 msgid "unnatural/base/technocracy/units/warlord.proto/title"
 msgstr "Warlord"
 
 msgid "unnatural/base/technocracy/units/yatag.proto/description"
-msgstr "Robot with antimatter gun that razes buildings in seconds."
+msgstr "Siege unit."
 
 msgid "unnatural/base/technocracy/units/yatag.proto/title"
 msgstr "Yatag"
@@ -942,6 +605,12 @@ msgstr "Big boom boy upgrade"
 msgid "unnatural/base/technocracy/upgrades/big_boom_boy.proto/title"
 msgstr "Big boom boy upgrade"
 
+msgid "unnatural/base/technocracy/upgrades/control_core.proto/description"
+msgstr "Control core upgrade"
+
+msgid "unnatural/base/technocracy/upgrades/control_core.proto/title"
+msgstr "Control core upgrade"
+
 msgid "unnatural/base/technocracy/upgrades/cyclops.proto/description"
 msgstr "Cyclops upgrade"
 
@@ -955,7 +624,7 @@ msgid "unnatural/base/technocracy/upgrades/drone.proto/title"
 msgstr "Drone upgrade"
 
 msgid "unnatural/base/technocracy/upgrades/fortification.proto/description"
-msgstr "Improves defenses of all units."
+msgstr "Improves defenses of all buildings."
 
 msgid "unnatural/base/technocracy/upgrades/fortification.proto/title"
 msgstr "Fortification"
@@ -978,6 +647,12 @@ msgstr "Kitsune upgrade"
 msgid "unnatural/base/technocracy/upgrades/kitsune.proto/title"
 msgstr "Kitsune upgrade"
 
+msgid "unnatural/base/technocracy/upgrades/landmine.proto/description"
+msgstr "Landmine upgrade"
+
+msgid "unnatural/base/technocracy/upgrades/landmine.proto/title"
+msgstr "Landmine upgrade"
+
 msgid "unnatural/base/technocracy/upgrades/lurker.proto/description"
 msgstr "Lurker upgrade"
 
@@ -996,6 +671,18 @@ msgstr "Paladin upgrade"
 msgid "unnatural/base/technocracy/upgrades/paladin.proto/title"
 msgstr "Paladin upgrade"
 
+msgid "unnatural/base/technocracy/upgrades/radar.proto/description"
+msgstr "Radar upgrade"
+
+msgid "unnatural/base/technocracy/upgrades/radar.proto/title"
+msgstr "Radar upgrade"
+
+msgid "unnatural/base/technocracy/upgrades/talos.proto/description"
+msgstr "Talos upgrade"
+
+msgid "unnatural/base/technocracy/upgrades/talos.proto/title"
+msgstr "Talos upgrade"
+
 msgid "unnatural/base/technocracy/upgrades/thor.proto/description"
 msgstr "Thor upgrade"
 
@@ -1013,6 +700,12 @@ msgstr "Twinfire upgrade"
 
 msgid "unnatural/base/technocracy/upgrades/twinfire.proto/title"
 msgstr "Twinfire upgrade"
+
+msgid "unnatural/base/technocracy/upgrades/wall.proto/description"
+msgstr "Wall upgrade"
+
+msgid "unnatural/base/technocracy/upgrades/wall.proto/title"
+msgstr "Wall upgrade"
 
 msgid "unnatural/base/technocracy/upgrades/warlord.proto/description"
 msgstr "Warlord upgrade"
