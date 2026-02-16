@@ -1635,6 +1635,9 @@ msgstr "Needed"
 msgid "unnatural/resources/updateDetailsPlayer/production"
 msgstr "Production"
 
+msgid "unnatural/restrictedInDemo"
+msgstr "Restricted in the demo"
+
 msgid "unnatural/selectedInfo/aim"
 msgstr "Aim: {0}"
 

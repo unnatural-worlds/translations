@@ -98,8 +98,7 @@ msgid "unnatural/base/biomass/buildings/spike_wall.proto/title"
 msgstr "Spike wall"
 
 msgid "unnatural/base/biomass/buildings/willow.proto/description"
-msgstr "Awakens all of biomass.\n"
-"Or contemplates life and produces algaesacks."
+msgstr "Awakens all of biomass."
 
 msgid "unnatural/base/biomass/buildings/willow.proto/title"
 msgstr "Willow"
@@ -118,12 +117,6 @@ msgstr "Extracts fertilizer from metal deposit."
 
 msgid "unnatural/base/biomass/recipes/fertilizer_oil.proto/description"
 msgstr "Extracts fertilizer from oil deposit."
-
-msgid "unnatural/base/biomass/resources/algaesack.proto/description"
-msgstr "Life ponderment neatly packaged for transportation."
-
-msgid "unnatural/base/biomass/resources/algaesack.proto/title"
-msgstr "Algaesack"
 
 msgid "unnatural/base/biomass/resources/biomass.proto/description"
 msgstr "Densely packed nutrients."
