@@ -23,8 +23,8 @@ msgstr "Antimatter"
 msgid "unnatural/base/damageTypes/corrosive"
 msgstr "Corrosive"
 
-msgid "unnatural/base/damageTypes/explosive"
-msgstr "Explosive"
+msgid "unnatural/base/damageTypes/fire"
+msgstr "Fire"
 
 msgid "unnatural/base/damageTypes/kinetic"
 msgstr "Kinetic"
@@ -51,6 +51,9 @@ msgstr "Energy shield"
 
 msgid "unnatural/base/armorTypes/invulnerable"
 msgstr "Invulnerable"
+
+msgid "unnatural/base/armorTypes/mechanical"
+msgstr "Mechanical"
 
 
 
