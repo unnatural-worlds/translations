@@ -342,38 +342,38 @@ msgstr "peace"
 msgid "unnatural/diplomacy/chatNotification/war"
 msgstr "war"
 
-msgid "unnatural/diplomacy/detailDesktop/declareWar"
+msgid "unnatural/diplomacy/detail/declareWar"
 msgstr "Declare war"
 
-msgid "unnatural/diplomacy/detailDesktop/diplomacy"
+msgid "unnatural/diplomacy/detail/diplomacy"
 msgstr "Diplomacy"
 
-msgid "unnatural/diplomacy/detailDesktop/offerAlliance"
+msgid "unnatural/diplomacy/detail/multiplier"
+msgstr "Multiplier"
+
+msgid "unnatural/diplomacy/detail/multiplierTooltip"
+msgstr "Player bonus or handicap, applies to military damage and defense."
+
+msgid "unnatural/diplomacy/detail/offerAlliance"
 msgstr "Offer alliance"
 
-msgid "unnatural/diplomacy/detailDesktop/offerPeace"
+msgid "unnatural/diplomacy/detail/offerPeace"
 msgstr "Offer peace"
+
+msgid "unnatural/diplomacy/detail/player"
+msgstr "Player"
+
+msgid "unnatural/diplomacy/detail/policy"
+msgstr "Policy"
+
+msgid "unnatural/diplomacy/detail/score"
+msgstr "Score"
 
 msgid "unnatural/diplomacy/detailDesktop/ourOffer"
 msgstr "Our offer"
 
-msgid "unnatural/diplomacy/detailDesktop/player"
-msgstr "Player"
-
-msgid "unnatural/diplomacy/detailDesktop/policy"
-msgstr "Policy"
-
-msgid "unnatural/diplomacy/detailDesktop/score"
-msgstr "Score"
-
 msgid "unnatural/diplomacy/detailDesktop/theirOffer"
 msgstr "Their offer"
-
-msgid "unnatural/diplomacy/detailObserver/player"
-msgstr "Player"
-
-msgid "unnatural/diplomacy/detailObserver/score"
-msgstr "Score"
 
 msgid "unnatural/diplomacy/diplomacy"
 msgstr "Diplomacy"
