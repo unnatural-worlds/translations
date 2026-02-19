@@ -586,10 +586,10 @@ msgstr "Siege unit."
 msgid "unnatural/base/technocracy/units/yatag.proto/title"
 msgstr "Yatag"
 
-msgid "unnatural/base/technocracy/upgrades/atv.proto/description"
+msgid "unnatural/base/technocracy/upgrades/ATV.proto/description"
 msgstr "A.T.V. upgrade"
 
-msgid "unnatural/base/technocracy/upgrades/atv.proto/title"
+msgid "unnatural/base/technocracy/upgrades/ATV.proto/title"
 msgstr "A.T.V. upgrade"
 
 msgid "unnatural/base/technocracy/upgrades/big_boom_boy.proto/description"
