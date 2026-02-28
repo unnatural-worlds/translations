@@ -1518,17 +1518,17 @@ msgstr "Solo 1 vs. AI"
 msgid "unnatural/ranked/2vsAI"
 msgstr "Coop 2 vs. AI"
 
-msgid "unnatural/ranked/disclaimer/cheatingIsForbiddenButTechnicallyPossible"
-msgstr "Cheating is forbidden, but technically possible."
+msgid "unnatural/ranked/disclaimer/cheatingIsTechnicallyPossibleButForbidden"
+msgstr "Cheating is technically possible, but forbidden."
 
 msgid "unnatural/ranked/disclaimer/ifYouNoticeSomeoneCheatingReportThemInSteam"
 msgstr "If you notice someone cheating, report them in Steam."
 
-msgid "unnatural/ranked/disclaimer/rankedGamesAreProvidedAsBestEffortOnly"
-msgstr "Ranked games are provided as 'best effort' only."
-
 msgid "unnatural/ranked/disclaimer/rankedGamesDisclaimer"
 msgstr "Ranked games disclaimer"
+
+msgid "unnatural/ranked/disclaimer/uwDoesNotUseDedicatedServers"
+msgstr "Uw does not use dedicated secure servers."
 
 msgid "unnatural/ranked/play"
 msgstr "Play"
@@ -1568,6 +1568,9 @@ msgstr "Victory"
 
 msgid "unnatural/ranked/searching"
 msgstr "Searching"
+
+msgid "unnatural/ranked/seasonsRestart"
+msgstr "At the end of a season, all ranks and match history are fully reset.\nThis opens new opportunities."
 
 msgid "unnatural/ranked/waiting"
 msgstr "Waiting"

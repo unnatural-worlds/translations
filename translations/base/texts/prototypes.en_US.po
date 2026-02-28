@@ -549,7 +549,7 @@ msgid "unnatural/base/technocracy/units/lurker.proto/title"
 msgstr "Lurker"
 
 msgid "unnatural/base/technocracy/units/mermaid.proto/description"
-msgstr "Amphibious fire support unit."
+msgstr "Amphibious artillery unit."
 
 msgid "unnatural/base/technocracy/units/mermaid.proto/title"
 msgstr "Mermaid"
