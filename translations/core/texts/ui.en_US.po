@@ -1203,6 +1203,12 @@ msgstr "Fullscreen:"
 msgid "unnatural/options/graphics/gamma"
 msgstr "Gamma:"
 
+msgid "unnatural/options/graphics/highQualityMaps"
+msgstr "High quality maps:"
+
+msgid "unnatural/options/graphics/highQualityMaps/description"
+msgstr "Show all details in the map."
+
 msgid "unnatural/options/graphics/lightsLimit"
 msgstr "Lights limit:"
 
