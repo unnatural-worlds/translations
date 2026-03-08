@@ -1986,9 +1986,6 @@ msgstr "{0} | {1} °"
 msgid "unnatural/tooltips/appliesTo"
 msgstr "Applies to"
 
-msgid "unnatural/tooltips/armorType"
-msgstr "Armor type: "
-
 msgid "unnatural/tooltips/attack"
 msgstr "Attack"
 
@@ -2046,9 +2043,6 @@ msgstr "Explosion friendly damage: "
 msgid "unnatural/tooltips/explosionRadius"
 msgstr "Explosion radius: "
 
-msgid "unnatural/tooltips/explosionType"
-msgstr "Explosion type: "
-
 msgid "unnatural/tooltips/life"
 msgstr "Life: "
 
@@ -2069,9 +2063,6 @@ msgstr "Movement"
 
 msgid "unnatural/tooltips/oneShotDamage"
 msgstr "One shot damage: "
-
-msgid "unnatural/tooltips/percentDamageTable"
-msgstr "% Damage Table"
 
 msgid "unnatural/tooltips/percents"
 msgstr "{0} %"
@@ -2151,6 +2142,12 @@ msgstr "Stacking limit: "
 msgid "unnatural/tooltips/stealth"
 msgstr "Stealth: "
 
+msgid "unnatural/tooltips/strengths"
+msgstr "Strengths"
+
+msgid "unnatural/tooltips/tags"
+msgstr "Tags"
+
 msgid "unnatural/tooltips/Upgrade"
 msgstr "Upgrade"
 
@@ -2190,8 +2187,8 @@ msgstr "Vision range: "
 msgid "unnatural/tooltips/vision"
 msgstr "Vision: "
 
-msgid "unnatural/tooltips/weaponType"
-msgstr "Weapon type: "
+msgid "unnatural/tooltips/weaknesses"
+msgstr "Weaknesses"
 
 msgid "unnatural/units/buildings"
 msgstr "Buildings"
