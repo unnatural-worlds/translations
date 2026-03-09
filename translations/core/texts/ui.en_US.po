@@ -933,6 +933,9 @@ msgstr "Custom"
 msgid "unnatural/mainMenu/menu/findMp"
 msgstr "Find MP"
 
+msgid "unnatural/mainMenu/menu/mods"
+msgstr "Mods"
+
 msgid "unnatural/mainMenu/menu/options"
 msgstr "Options"
 
@@ -1022,6 +1025,21 @@ msgstr "Size"
 
 msgid "unnatural/mapSelection/versionMismatch"
 msgstr "Version mismatch"
+
+msgid "unnatural/mods/documentation"
+msgstr "Documentation"
+
+msgid "unnatural/mods/modName"
+msgstr "Mod name"
+
+msgid "unnatural/mods/mods"
+msgstr "Mods"
+
+msgid "unnatural/mods/version"
+msgstr "Version"
+
+msgid "unnatural/mods/workshop"
+msgstr "Workshop"
 
 msgid "unnatural/options/camera"
 msgstr "Camera"
