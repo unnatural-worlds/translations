@@ -1044,14 +1044,20 @@ msgstr "Workshop"
 msgid "unnatural/options/camera"
 msgstr "Camera"
 
+msgid "unnatural/options/camera/borderPanMode/always"
+msgstr "Always"
+
+msgid "unnatural/options/camera/borderPanMode/fullscreen"
+msgstr "Fullscreen"
+
+msgid "unnatural/options/camera/borderPanMode/never"
+msgstr "Never"
+
 msgid "unnatural/options/camera/borderScrollSpeed"
 msgstr "Border scroll speed:"
 
 msgid "unnatural/options/camera/enableBorderScrolling"
 msgstr "Enable border scrolling:"
-
-msgid "unnatural/options/camera/enableBorderScrolling/description"
-msgstr "(Fullscreen only.)"
 
 msgid "unnatural/options/camera/inertia"
 msgstr "Inertia:"
