@@ -231,7 +231,7 @@ msgid "unnatural/base/biomass/units/sunbeam.proto/title"
 msgstr "Sunbeam"
 
 msgid "unnatural/base/biomass/units/toxiloon.proto/description"
-msgstr "Giant flying sack full of plasma.\n"
+msgstr "Giant flying sack full of toxic liquid.\n"
 "Suicidal flying flanking unit."
 
 msgid "unnatural/base/biomass/units/toxiloon.proto/title"
@@ -300,13 +300,13 @@ msgid "unnatural/base/technocracy/buildings/air_factory.proto/title"
 msgstr "Air factory"
 
 msgid "unnatural/base/technocracy/buildings/armory.proto/description"
-msgstr "Provides reinforced armor to all buildings."
+msgstr "Provides reinforced armor to all units and buildings."
 
 msgid "unnatural/base/technocracy/buildings/armory.proto/title"
 msgstr "Armory"
 
 msgid "unnatural/base/technocracy/buildings/arsenal.proto/description"
-msgstr "Provides additional firepower to all units."
+msgstr "Provides additional firepower to all units and buildings."
 
 msgid "unnatural/base/technocracy/buildings/arsenal.proto/title"
 msgstr "Arsenal"
@@ -318,7 +318,7 @@ msgid "unnatural/base/technocracy/buildings/bots_factory.proto/title"
 msgstr "Bots factory"
 
 msgid "unnatural/base/technocracy/buildings/control_core.proto/description"
-msgstr "Housing for all AI processors.\n"
+msgstr "Housing for AI processors.\n"
 "Keep it secret. Keep it safe."
 
 msgid "unnatural/base/technocracy/buildings/control_core.proto/title"
@@ -379,7 +379,7 @@ msgid "unnatural/base/technocracy/buildings/refinery.proto/title"
 msgstr "Refinery"
 
 msgid "unnatural/base/technocracy/buildings/smelter.proto/description"
-msgstr "Refines metals into stronger alloys."
+msgstr "Forges metals into stronger alloys."
 
 msgid "unnatural/base/technocracy/buildings/smelter.proto/title"
 msgstr "Smelter"
@@ -408,29 +408,29 @@ msgstr "Build a wall. Literally."
 msgid "unnatural/base/technocracy/buildings/wall.proto/title"
 msgstr "Wall"
 
-msgid "unnatural/base/technocracy/recipes/convert_aether_to_metal.proto/description"
-msgstr "Converts aether to metal."
-
-msgid "unnatural/base/technocracy/recipes/convert_aether_to_metal.proto/title"
-msgstr "Aether to metal"
-
 msgid "unnatural/base/technocracy/recipes/convert_aether_to_oil.proto/description"
 msgstr "Converts aether to oil."
 
 msgid "unnatural/base/technocracy/recipes/convert_aether_to_oil.proto/title"
 msgstr "Aether to oil"
 
+msgid "unnatural/base/technocracy/recipes/convert_liquids_to_metal.proto/description"
+msgstr "Converts aether together with oil to metal."
+
+msgid "unnatural/base/technocracy/recipes/convert_liquids_to_metal.proto/title"
+msgstr "Liquids to metal"
+
+msgid "unnatural/base/technocracy/recipes/convert_metal_to_aether.proto/description"
+msgstr "Converts metal to aether."
+
+msgid "unnatural/base/technocracy/recipes/convert_metal_to_aether.proto/title"
+msgstr "Metal to aether"
+
 msgid "unnatural/base/technocracy/recipes/convert_oil_to_aether.proto/description"
 msgstr "Converts oil to aether."
 
 msgid "unnatural/base/technocracy/recipes/convert_oil_to_aether.proto/title"
 msgstr "Oil to aether"
-
-msgid "unnatural/base/technocracy/recipes/convert_oil_to_metal.proto/description"
-msgstr "Converts oil to metal."
-
-msgid "unnatural/base/technocracy/recipes/convert_oil_to_metal.proto/title"
-msgstr "Oil to metal"
 
 msgid "unnatural/base/technocracy/resources/aether.proto/description"
 msgstr "Gaseous substance that defies scientific understanding."
@@ -449,6 +449,12 @@ msgstr "Advanced metal material."
 
 msgid "unnatural/base/technocracy/resources/alloy.proto/title"
 msgstr "Alloy"
+
+msgid "unnatural/base/technocracy/resources/dimara_plating.proto/description"
+msgstr "Structurally reinforced armor plates."
+
+msgid "unnatural/base/technocracy/resources/dimara_plating.proto/title"
+msgstr "Dimara plating"
 
 msgid "unnatural/base/technocracy/resources/fuel_rods.proto/description"
 msgstr "All the power ready to be exploited."

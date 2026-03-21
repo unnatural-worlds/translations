@@ -87,36 +87,6 @@ msgstr "Rock 2"
 msgid "unnatural/doodads/rocks/rock_2.proto/title"
 msgstr "Rock 2"
 
-msgid "unnatural/doodads/rocks/rock_20.proto/description"
-msgstr "Rock 20"
-
-msgid "unnatural/doodads/rocks/rock_20.proto/title"
-msgstr "Rock 20"
-
-msgid "unnatural/doodads/rocks/rock_21.proto/description"
-msgstr "Rock 21"
-
-msgid "unnatural/doodads/rocks/rock_21.proto/title"
-msgstr "Rock 21"
-
-msgid "unnatural/doodads/rocks/rock_22.proto/description"
-msgstr "Rock 22"
-
-msgid "unnatural/doodads/rocks/rock_22.proto/title"
-msgstr "Rock 22"
-
-msgid "unnatural/doodads/rocks/rock_23.proto/description"
-msgstr "Rock 23"
-
-msgid "unnatural/doodads/rocks/rock_23.proto/title"
-msgstr "Rock 23"
-
-msgid "unnatural/doodads/rocks/rock_24.proto/description"
-msgstr "Rock 24"
-
-msgid "unnatural/doodads/rocks/rock_24.proto/title"
-msgstr "Rock 24"
-
 msgid "unnatural/doodads/rocks/rock_3.proto/description"
 msgstr "Rock 3"
 

@@ -1083,6 +1083,9 @@ msgstr "Mouse roll speed:"
 msgid "unnatural/options/camera/mouseZoomSpeed"
 msgstr "Mouse zoom speed:"
 
+msgid "unnatural/options/cursorLockNotSupported"
+msgstr "Cursor lock is not supported on this system. Sorry."
+
 msgid "unnatural/options/gameplay"
 msgstr "Gameplay"
 
