@@ -405,9 +405,6 @@ msgstr "Pause"
 msgid "unnatural/diplomacy/playerFlags/winner"
 msgstr "Winner"
 
-msgid "unnatural/diplomacy/playerTooltip/ping"
-msgstr "Ping: "
-
 msgid "unnatural/diplomacy/resources"
 msgstr "Resources"
 
@@ -1200,6 +1197,12 @@ msgstr "Enable dynamic render resolution:"
 msgid "unnatural/options/graphics/enableDynamicResolution/description"
 msgstr "Automatically reduces resolution to maintain target FPS."
 
+msgid "unnatural/options/graphics/enableFogOfWar"
+msgstr "Enable fog of war:"
+
+msgid "unnatural/options/graphics/enableFogOfWar/description"
+msgstr "Partially hidden map outside vision range. Does not affect gameplay."
+
 msgid "unnatural/options/graphics/enableFxaa"
 msgstr "Enable FXAA:"
 
@@ -1216,7 +1219,7 @@ msgid "unnatural/options/graphics/enableVsync"
 msgstr "Enable v-sync:"
 
 msgid "unnatural/options/graphics/enableVsync/description"
-msgstr "Prevents screen tearing. (Requires restart.)"
+msgstr "Prevents screen tearing. Requires restart."
 
 msgid "unnatural/options/graphics/enableWrecks"
 msgstr "Enable wrecks:"
@@ -1331,6 +1334,9 @@ msgstr "Captions for 'We are under attack', etc."
 
 msgid "unnatural/options/userInterface/chatMessageDuration"
 msgstr "Chat message duration:"
+
+msgid "unnatural/options/userInterface/cursorScale"
+msgstr "Cursor scale:"
 
 msgid "unnatural/options/userInterface/detailedTooltips"
 msgstr "Detailed tooltips:"
@@ -1475,6 +1481,18 @@ msgstr "API program"
 
 msgid "unnatural/playerConnectionClassEnum/virtualReality"
 msgstr "Virtual reality player"
+
+msgid "unnatural/playerTooltip/ping"
+msgstr "Ping: "
+
+msgid "unnatural/playerTooltip/rating"
+msgstr "Rating: "
+
+msgid "unnatural/playerTooltip/steamId"
+msgstr "Steam id: "
+
+msgid "unnatural/playerTooltip/steamName"
+msgstr "Name: "
 
 msgid "unnatural/presets/controls"
 msgstr "Warning: some controls may break on different devices."
