@@ -1335,6 +1335,12 @@ msgstr "Captions for 'We are under attack', etc."
 msgid "unnatural/options/userInterface/chatMessageDuration"
 msgstr "Chat message duration:"
 
+msgid "unnatural/options/userInterface/cursorDynamic"
+msgstr "Dynamic cursor:"
+
+msgid "unnatural/options/userInterface/cursorDynamic/description"
+msgstr "Cursor reacts based on where it points."
+
 msgid "unnatural/options/userInterface/cursorScale"
 msgstr "Cursor scale:"
 
