@@ -105,6 +105,27 @@ msgstr "(VR programmer)"
 msgid "unnatural/about/website"
 msgstr "Website"
 
+msgid "unnatural/aiConfigTooltip/aggressive"
+msgstr "Aggressive:"
+
+msgid "unnatural/aiConfigTooltip/difficulty"
+msgstr "Difficulty:"
+
+msgid "unnatural/aiConfigTooltip/easy"
+msgstr "Easy"
+
+msgid "unnatural/aiConfigTooltip/expansive"
+msgstr "Expansive:"
+
+msgid "unnatural/aiConfigTooltip/hard"
+msgstr "Hard"
+
+msgid "unnatural/aiConfigTooltip/medium"
+msgstr "Medium"
+
+msgid "unnatural/aiConfigTooltip/stretching"
+msgstr "Stretching:"
+
 msgid "unnatural/announcer/approachingEnemy"
 msgstr "Approaching enemy."
 
@@ -389,21 +410,6 @@ msgstr "Enforce (un)pause"
 
 msgid "unnatural/diplomacy/military"
 msgstr "Military"
-
-msgid "unnatural/diplomacy/playerFlags/admin"
-msgstr "Admin"
-
-msgid "unnatural/diplomacy/playerFlags/defeated"
-msgstr "Defeated"
-
-msgid "unnatural/diplomacy/playerFlags/disconnected"
-msgstr "Disconnected"
-
-msgid "unnatural/diplomacy/playerFlags/pause"
-msgstr "Pause"
-
-msgid "unnatural/diplomacy/playerFlags/winner"
-msgstr "Winner"
 
 msgid "unnatural/diplomacy/resources"
 msgstr "Resources"
@@ -1266,6 +1272,12 @@ msgstr "Sharpening:"
 msgid "unnatural/options/graphics/ssaoQuality"
 msgstr "SSAO quality:"
 
+msgid "unnatural/options/graphics/transparentMemories"
+msgstr "Transparent memories:"
+
+msgid "unnatural/options/graphics/transparentMemories/description"
+msgstr "Previously seen buildings become transparent when out of sight."
+
 msgid "unnatural/options/options"
 msgstr "Options"
 
@@ -1371,6 +1383,12 @@ msgstr "Off"
 msgid "unnatural/options/userInterface/selectedInfoLevel/on"
 msgstr "On"
 
+msgid "unnatural/options/userInterface/sharedControls"
+msgstr "Shared controls:"
+
+msgid "unnatural/options/userInterface/sharedControls/description"
+msgstr "Allow toggling shared controls."
+
 msgid "unnatural/options/userInterface/showNames"
 msgstr "Show names:"
 
@@ -1452,6 +1470,9 @@ msgstr "Network (up | down):"
 msgid "unnatural/performanceTooltip/ping"
 msgstr "Ping:"
 
+msgid "unnatural/performanceTooltip/triangles"
+msgstr "Triangles:"
+
 msgid "unnatural/pingEnum/attack"
 msgstr "Attack"
 
@@ -1487,6 +1508,21 @@ msgstr "API program"
 
 msgid "unnatural/playerConnectionClassEnum/virtualReality"
 msgstr "Virtual reality player"
+
+msgid "unnatural/playerFlags/admin"
+msgstr "Admin"
+
+msgid "unnatural/playerFlags/defeated"
+msgstr "Defeated"
+
+msgid "unnatural/playerFlags/disconnected"
+msgstr "Disconnected"
+
+msgid "unnatural/playerFlags/pause"
+msgstr "Pause"
+
+msgid "unnatural/playerFlags/winner"
+msgstr "Winner"
 
 msgid "unnatural/playerTooltip/ping"
 msgstr "Ping: "
@@ -1898,18 +1934,6 @@ msgstr "No map"
 
 msgid "unnatural/sessionMap/waitForAdminToSelectMap"
 msgstr "Wait for an admin to select a map"
-
-msgid "unnatural/sessionPlayers/admin"
-msgstr "Admin"
-
-msgid "unnatural/sessionPlayers/aiDifficulty/easy"
-msgstr "Easy"
-
-msgid "unnatural/sessionPlayers/aiDifficulty/hard"
-msgstr "Hard"
-
-msgid "unnatural/sessionPlayers/aiDifficulty/medium"
-msgstr "Medium"
 
 msgid "unnatural/sessionPlayers/joinTeam"
 msgstr "Join team"

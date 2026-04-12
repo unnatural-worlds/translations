@@ -231,8 +231,8 @@ msgid "unnatural/base/biomass/units/sunbeam.proto/title"
 msgstr "Sunbeam"
 
 msgid "unnatural/base/biomass/units/toxiloon.proto/description"
-msgstr "Giant flying sack full of toxic liquid.\n"
-"Suicidal flying flanking unit."
+msgstr "Giant sack full of toxic liquid.\n"
+"Suicidal flying siege unit."
 
 msgid "unnatural/base/biomass/units/toxiloon.proto/title"
 msgstr "Toxiloon"
@@ -256,6 +256,12 @@ msgstr "Teaching the plants to speak and haste.\n"
 
 msgid "unnatural/base/biomass/upgrades/awakening.proto/title"
 msgstr "Awakening"
+
+msgid "unnatural/base/biomass/upgrades/bark.proto/description"
+msgstr "Bark"
+
+msgid "unnatural/base/biomass/upgrades/bark.proto/title"
+msgstr "Bark"
 
 msgid "unnatural/base/biomass/upgrades/fertility.proto/description"
 msgstr "Nightmare fuel."
