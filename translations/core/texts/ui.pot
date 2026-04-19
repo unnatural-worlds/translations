@@ -150,11 +150,17 @@ msgstr "Game paused."
 msgid "unnatural/announcer/gameResumed"
 msgstr "Game resumed."
 
+msgid "unnatural/announcer/ourAlliesAreUnderAttack"
+msgstr "Our allies are under attack."
+
 msgid "unnatural/announcer/ourArmyIsUnderAttack"
 msgstr "Our army is under attack."
 
 msgid "unnatural/announcer/ourBaseIsUnderAttack"
 msgstr "Our base is under attack."
+
+msgid "unnatural/announcer/ourCommandIsUnderAttack"
+msgstr "Our command is under attack."
 
 msgid "unnatural/announcer/ourTrucksAreUnderAttack"
 msgstr "Our trucks are under attack."
@@ -186,11 +192,11 @@ msgstr "We have won."
 msgid "unnatural/announcer/weNeedMoreTrucks"
 msgstr "We need more trucks."
 
+msgid "unnatural/campaign/loading"
+msgstr "Loading"
+
 msgid "unnatural/campaigns/campaigns"
 msgstr "Campaigns"
-
-msgid "unnatural/campaigns/firstEncounter"
-msgstr "First Encounter"
 
 msgid "unnatural/campaigns/madProtocol"
 msgstr "M.A.D. Protocol"
@@ -200,6 +206,9 @@ msgstr "Play"
 
 msgid "unnatural/campaigns/siliconLife"
 msgstr "Silicon Life"
+
+msgid "unnatural/campaigns/simulationCube"
+msgstr "Simulation Cube"
 
 msgid "unnatural/cancel"
 msgstr "Cancel"
@@ -758,6 +767,12 @@ msgstr "Decrease gamma"
 
 msgid "unnatural/key/screens/gammaPlus"
 msgstr "Increase gamma"
+
+msgid "unnatural/key/screens/muteMusic"
+msgstr "Mute music"
+
+msgid "unnatural/key/screens/nextMusic"
+msgstr "Next music"
 
 msgid "unnatural/key/screens/openChat"
 msgstr "Open chat"
@@ -1606,10 +1621,10 @@ msgid "unnatural/ranked/1v1"
 msgstr "1 vs. 1"
 
 msgid "unnatural/ranked/1vsAI"
-msgstr "Solo 1 vs. AI"
+msgstr "Solo vs. AI"
 
 msgid "unnatural/ranked/2vsAI"
-msgstr "Coop 2 vs. AI"
+msgstr "Coop vs. AI"
 
 msgid "unnatural/ranked/disclaimer/cheatingIsTechnicallyPossibleButForbidden"
 msgstr "Cheating is technically possible, but forbidden."
@@ -1631,9 +1646,6 @@ msgstr "Rank"
 
 msgid "unnatural/ranked/ranked"
 msgstr "Ranked"
-
-msgid "unnatural/ranked/results"
-msgstr "Results"
 
 msgid "unnatural/ranked/results/defeat"
 msgstr "Defeat"
@@ -1922,12 +1934,6 @@ msgstr "Secrets:"
 
 msgid "unnatural/sessionConfig/secrets/tooltip"
 msgstr "Hides enemy healthbars and recipes."
-
-msgid "unnatural/sessionConfig/standard"
-msgstr "Standard:"
-
-msgid "unnatural/sessionConfig/standard/tooltip"
-msgstr "Standard rules designed for tournaments and ranked matches."
 
 msgid "unnatural/sessionMap/noMap"
 msgstr "No map"
