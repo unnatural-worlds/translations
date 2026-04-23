@@ -33,3 +33,15 @@ msgstr "Lets start with basics.\n"
 
 msgid "unnatural/campaigns/simulation_cube/promotion"
 msgstr "Congratulations. You are now promoted to officer."
+
+msgid "unnatural/campaigns/simulation_cube/trucks"
+msgstr "All trucks will be autonomous from now on."
+
+msgid "unnatural/campaigns/simulation_cube/factory"
+msgstr "Place a factory and observe."
+
+msgid "unnatural/campaigns/simulation_cube/makeUnits"
+msgstr "Make 5 units."
+
+msgid "unnatural/campaigns/simulation_cube/attack"
+msgstr "And squash some bugs."

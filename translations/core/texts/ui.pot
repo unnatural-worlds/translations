@@ -981,8 +981,8 @@ msgstr "Playtest version"
 msgid "unnatural/mainMenu/playtest/thisIsNotFullVersion"
 msgstr "This is not full version of the game. Some features are restricted or omitted."
 
-msgid "unnatural/mapDescription/maxPlayers"
-msgstr "Max players: {0}"
+msgid "unnatural/mapDescription/bases"
+msgstr "Bases: {0}"
 
 msgid "unnatural/mapDescription/tiles"
 msgstr "Tiles: {0}"
