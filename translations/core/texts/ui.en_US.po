@@ -2028,6 +2028,9 @@ msgstr "See game logs to find more information."
 msgid "unnatural/statusFinish/duration"
 msgstr "Duration: {0}"
 
+msgid "unnatural/statusFinish/durationIrl"
+msgstr "({0})"
+
 msgid "unnatural/statusFinish/gameOver"
 msgstr "Game over"
 
