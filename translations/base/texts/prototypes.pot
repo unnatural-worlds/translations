@@ -354,6 +354,12 @@ msgstr "Converts high-energy resources to other substances."
 msgid "unnatural/base/technocracy/buildings/generator.proto/title"
 msgstr "Generator"
 
+msgid "unnatural/base/technocracy/buildings/guardian.proto/description"
+msgstr "Strong defensive tower."
+
+msgid "unnatural/base/technocracy/buildings/guardian.proto/title"
+msgstr "Guardian"
+
 msgid "unnatural/base/technocracy/buildings/laboratory.proto/description"
 msgstr "Mad scientist, surfing on the waves of Aether, with a microscope and large antenna, broadcasting tweaks and tunes to empower everyone."
 
@@ -391,13 +397,13 @@ msgid "unnatural/base/technocracy/buildings/smelter.proto/title"
 msgstr "Smelter"
 
 msgid "unnatural/base/technocracy/buildings/talos.proto/description"
-msgstr "Defensive tower with laser gun."
+msgstr "Cheap defensive tower."
 
 msgid "unnatural/base/technocracy/buildings/talos.proto/title"
 msgstr "Talos"
 
 msgid "unnatural/base/technocracy/buildings/thor.proto/description"
-msgstr "Stronger defensive tower with plasma gun."
+msgstr "Giant offensive long-range tower."
 
 msgid "unnatural/base/technocracy/buildings/thor.proto/title"
 msgstr "Thor"
@@ -639,6 +645,12 @@ msgstr "Golem upgrade"
 
 msgid "unnatural/base/technocracy/upgrades/golem.proto/title"
 msgstr "Golem upgrade"
+
+msgid "unnatural/base/technocracy/upgrades/guardian.proto/description"
+msgstr "Guardian upgrade"
+
+msgid "unnatural/base/technocracy/upgrades/guardian.proto/title"
+msgstr "Guardian upgrade"
 
 msgid "unnatural/base/technocracy/upgrades/juggernaut.proto/description"
 msgstr "Juggernaut upgrade"
