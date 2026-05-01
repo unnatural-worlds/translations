@@ -1107,6 +1107,12 @@ msgstr "Cursor lock is not supported on this system. Sorry."
 msgid "unnatural/options/gameplay"
 msgstr "Gameplay"
 
+msgid "unnatural/options/gameplay/addNewUnitsToFactoryGroup"
+msgstr "Add units to factory group:"
+
+msgid "unnatural/options/gameplay/addNewUnitsToFactoryGroup/description"
+msgstr "Add newly created units to selection group of the factory."
+
 msgid "unnatural/options/gameplay/color/ally"
 msgstr "Ally color:"
 

@@ -592,8 +592,7 @@ msgid "unnatural/base/technocracy/units/twinfire.proto/title"
 msgstr "Twinfire"
 
 msgid "unnatural/base/technocracy/units/warlord.proto/description"
-msgstr "The ultimate warmachine. Designed for breaching the thickest of fortifications.\n"
-"Siege unit."
+msgstr "The ultimate warmachine. Designed for annihilating the thickest of armies."
 
 msgid "unnatural/base/technocracy/units/warlord.proto/title"
 msgstr "Warlord"
