@@ -27,50 +27,11 @@ msgstr "Remove one"
 msgid "cage/keybinds/reset"
 msgstr "Reset to default"
 
-msgid "editor/mapSaved/quitAndConvert"
-msgstr "Quit editor and convert the map."
-
-msgid "editor/mapSaved/saved"
-msgstr "Saved"
-
-msgid "editor/mapSaving/pleaseWaitMoment"
-msgstr "Please wait a moment."
-
-msgid "editor/mapSaving/saving"
-msgstr "Saving"
-
 msgid "editor/mapWaitLoading/loading"
 msgstr "Loading"
 
 msgid "editor/mapWaitLoading/pleaseWaitMoment"
 msgstr "Please wait a moment."
-
-msgid "editor/mapWaitSelect/pleaseWaitMoment"
-msgstr "Please wait a moment."
-
-msgid "editor/mapWaitSelect/preparing"
-msgstr "Preparing"
-
-msgid "editor/menu/chooseMap"
-msgstr "Choose map"
-
-msgid "editor/menu/doodads"
-msgstr "Doodads"
-
-msgid "editor/menu/save"
-msgstr "Save"
-
-msgid "editor/menu/terrain"
-msgstr "Terrain"
-
-msgid "editor/menu/tilesets"
-msgstr "Tilesets"
-
-msgid "editor/tilesets/pleaseWaitMoment"
-msgstr "Changing terrain mapping here does not affect current map. It will affect future applications of the brush."
-
-msgid "editor/tilesets/tilesets"
-msgstr "Tilesets"
 
 msgid "unnatural/abort"
 msgstr "Abort"
@@ -432,6 +393,105 @@ msgstr "Abort Game"
 msgid "unnatural/diplomacy/workers"
 msgstr "Workers"
 
+msgid "unnatural/editor/brushes"
+msgstr "Brushes"
+
+msgid "unnatural/editor/convert"
+msgstr "Convert"
+
+msgid "unnatural/editor/convertingMap"
+msgstr "Converting map"
+
+msgid "unnatural/editor/decorations"
+msgstr "Decorations"
+
+msgid "unnatural/editor/decorationsWithKeybind"
+msgstr "Decorations {0}"
+
+msgid "unnatural/editor/description"
+msgstr "Description"
+
+msgid "unnatural/editor/discardChanges"
+msgstr "Discard changes"
+
+msgid "unnatural/editor/doodads"
+msgstr "Doodads"
+
+msgid "unnatural/editor/doodadsWithKeybind"
+msgstr "Doodads {0}"
+
+msgid "unnatural/editor/editor"
+msgstr "Editor"
+
+msgid "unnatural/editor/emptyWithKeybind"
+msgstr "Empty {0}"
+
+msgid "unnatural/editor/generate"
+msgstr "Generate"
+
+msgid "unnatural/editor/generateMap"
+msgstr "Generate map"
+
+msgid "unnatural/editor/generatingMap"
+msgstr "Generating map"
+
+msgid "unnatural/editor/loading"
+msgstr "Loading"
+
+msgid "unnatural/editor/mapDescription"
+msgstr "Map description"
+
+msgid "unnatural/editor/mapOptions"
+msgstr "Map options"
+
+msgid "unnatural/editor/mapSucessfullySaved"
+msgstr "Map sucessfully saved."
+
+msgid "unnatural/editor/markers"
+msgstr "Markers"
+
+msgid "unnatural/editor/markersWithKeybind"
+msgstr "Markers {0}"
+
+msgid "unnatural/editor/menuWithKeybind"
+msgstr "Menu {0}"
+
+msgid "unnatural/editor/more"
+msgstr "More"
+
+msgid "unnatural/editor/openMap"
+msgstr "Open map"
+
+msgid "unnatural/editor/play"
+msgstr "Play"
+
+msgid "unnatural/editor/playingMap"
+msgstr "Playing map"
+
+msgid "unnatural/editor/saved"
+msgstr "Saved"
+
+msgid "unnatural/editor/saveMap"
+msgstr "Save map"
+
+msgid "unnatural/editor/terrainWithKeybind"
+msgstr "Terrain {0}"
+
+msgid "unnatural/editor/theGameIsStarting"
+msgstr "The game is starting, get ready."
+
+msgid "unnatural/editor/thisMayTakeAWhile"
+msgstr "This may take a while, please wait."
+
+msgid "unnatural/editor/tilesets"
+msgstr "Tilesets"
+
+msgid "unnatural/editor/unloading"
+msgstr "Unloading"
+
+msgid "unnatural/editor/uwEditor"
+msgstr "UW Editor"
+
 msgid "unnatural/enum/unknown"
 msgstr "Unknown"
 
@@ -663,11 +723,32 @@ msgstr "Show tile neighbors"
 msgid "unnatural/key/debug/showUnitsPaths"
 msgstr "Show units paths"
 
+msgid "unnatural/key/editorScreen/decorations"
+msgstr "Decorations"
+
+msgid "unnatural/key/editorScreen/doodads"
+msgstr "Doodads"
+
+msgid "unnatural/key/editorScreen/empty"
+msgstr "Empty"
+
+msgid "unnatural/key/editorScreen/markers"
+msgstr "Markers"
+
+msgid "unnatural/key/editorScreen/openMenu"
+msgstr "Open menu"
+
+msgid "unnatural/key/editorScreen/terrain"
+msgstr "Terrain"
+
 msgid "unnatural/key/orders/cancelDrawingFormation"
 msgstr "Cancel drawing formation"
 
 msgid "unnatural/key/orders/cancelPlacement"
 msgstr "Cancel placement"
+
+msgid "unnatural/key/orders/cancelTerrainPainting"
+msgstr "Cancel terrain paitning"
 
 msgid "unnatural/key/orders/constructionPlacement"
 msgstr "Construction placement"
@@ -947,6 +1028,9 @@ msgstr "Create MP"
 
 msgid "unnatural/mainMenu/menu/custom"
 msgstr "Custom"
+
+msgid "unnatural/mainMenu/menu/editor"
+msgstr "Editor"
 
 msgid "unnatural/mainMenu/menu/findMp"
 msgstr "Find MP"
@@ -1292,6 +1376,12 @@ msgstr "Sharpening:"
 
 msgid "unnatural/options/graphics/ssaoQuality"
 msgstr "SSAO quality:"
+
+msgid "unnatural/options/graphics/terrainBrightness"
+msgstr "Terrain brightness:"
+
+msgid "unnatural/options/graphics/terrainSaturation"
+msgstr "Terrain saturation:"
 
 msgid "unnatural/options/graphics/transparentMemories"
 msgstr "Transparent memories:"
