@@ -54,6 +54,12 @@ msgstr "Violently explodes and releases flammable gas towards the intruder."
 msgid "unnatural/base/biomass/buildings/gas_trap.proto/title"
 msgstr "Gas trap"
 
+msgid "unnatural/base/biomass/buildings/hatchery.proto/description"
+msgstr "Grows combatants and servants."
+
+msgid "unnatural/base/biomass/buildings/hatchery.proto/title"
+msgstr "Hatchery"
+
 msgid "unnatural/base/biomass/buildings/incubator.proto/description"
 msgstr "Grows advanced combatants, artificially enhanced with modified genes."
 
@@ -102,12 +108,6 @@ msgstr "Awakens all of biomass."
 
 msgid "unnatural/base/biomass/buildings/willow.proto/title"
 msgstr "Willow"
-
-msgid "unnatural/base/biomass/buildings/wombtree.proto/description"
-msgstr "Grows combatants and servants."
-
-msgid "unnatural/base/biomass/buildings/wombtree.proto/title"
-msgstr "Wombtree"
 
 msgid "unnatural/base/biomass/recipes/fertilizer_aether.proto/description"
 msgstr "Extracts fertilizer from aether deposit."

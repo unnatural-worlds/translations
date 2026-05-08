@@ -984,6 +984,9 @@ msgstr "Unnatural Worlds"
 msgid "unnatural/mainMenu/bigTitle/unknown"
 msgstr "Unnatural Worlds (unknown variant)"
 
+msgid "unnatural/mainMenu/customization"
+msgstr "Customization"
+
 msgid "unnatural/mainMenu/demo/demoVersion"
 msgstr "Demo version"
 
@@ -1017,8 +1020,8 @@ msgstr "Support for macos is experimental. Please excuse potential difficulties.
 msgid "unnatural/mainMenu/menu/about"
 msgstr "About"
 
-msgid "unnatural/mainMenu/menu/campaign"
-msgstr "Campaign"
+msgid "unnatural/mainMenu/menu/campaigns"
+msgstr "Campaigns"
 
 msgid "unnatural/mainMenu/menu/controls"
 msgstr "Controls"
@@ -1029,11 +1032,11 @@ msgstr "Create MP"
 msgid "unnatural/mainMenu/menu/custom"
 msgstr "Custom"
 
-msgid "unnatural/mainMenu/menu/editor"
-msgstr "Editor"
-
 msgid "unnatural/mainMenu/menu/findMp"
 msgstr "Find MP"
+
+msgid "unnatural/mainMenu/menu/mapEditor"
+msgstr "Map editor"
 
 msgid "unnatural/mainMenu/menu/mods"
 msgstr "Mods"
@@ -1059,11 +1062,17 @@ msgstr "Replays"
 msgid "unnatural/mainMenu/menu/singlePlayer"
 msgstr "Single player"
 
+msgid "unnatural/mainMenu/multiPlayer"
+msgstr "Multiplayer"
+
 msgid "unnatural/mainMenu/playtest/playtestVersion"
 msgstr "Playtest version"
 
 msgid "unnatural/mainMenu/playtest/thisIsNotFullVersion"
 msgstr "This is not full version of the game. Some features are restricted or omitted."
+
+msgid "unnatural/mainMenu/singlePlayer"
+msgstr "Single player"
 
 msgid "unnatural/mapDescription/bases"
 msgstr "Bases: {0}"
