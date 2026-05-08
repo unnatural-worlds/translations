@@ -528,7 +528,7 @@ msgid "unnatural/base/technocracy/units/big_boom_boy.proto/title"
 msgstr "Big boom boy"
 
 msgid "unnatural/base/technocracy/units/cyclops.proto/description"
-msgstr "Flanking unit."
+msgstr "Flanking unit with splash fire."
 
 msgid "unnatural/base/technocracy/units/cyclops.proto/title"
 msgstr "Cyclops"
@@ -541,8 +541,8 @@ msgid "unnatural/base/technocracy/units/drone.proto/title"
 msgstr "Drone"
 
 msgid "unnatural/base/technocracy/units/golem.proto/description"
-msgstr "Slightly derailed robot, with a gun with splash effect.\n"
-"Fire support unit with splash."
+msgstr "Slightly derailed robot.\n"
+"Fire support cliff-walking robot with ballistic gun."
 
 msgid "unnatural/base/technocracy/units/golem.proto/title"
 msgstr "Golem"
@@ -561,7 +561,7 @@ msgid "unnatural/base/technocracy/units/kitsune.proto/title"
 msgstr "Kitsune"
 
 msgid "unnatural/base/technocracy/units/lurker.proto/description"
-msgstr "Cliff-walking fire support unit."
+msgstr "Stealthy cliff-walking fire support unit."
 
 msgid "unnatural/base/technocracy/units/lurker.proto/title"
 msgstr "Lurker"
