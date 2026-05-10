@@ -73,7 +73,8 @@ msgid "unnatural/base/biomass/buildings/lotus.proto/title"
 msgstr "Lotus"
 
 msgid "unnatural/base/biomass/buildings/mutapod.proto/description"
-msgstr "Converts biomass into genemass, with genetically enhanced properties."
+msgstr "Converts biomass into genemass, with genetically enhanced properties.\n"
+"Must be placed on aether deposit."
 
 msgid "unnatural/base/biomass/buildings/mutapod.proto/title"
 msgstr "Mutapod"

@@ -426,14 +426,32 @@ msgstr "Editor"
 msgid "unnatural/editor/emptyWithKeybind"
 msgstr "Empty {0}"
 
-msgid "unnatural/editor/generate"
-msgstr "Generate"
-
 msgid "unnatural/editor/generateMap"
 msgstr "Generate map"
 
 msgid "unnatural/editor/generatingMap"
 msgstr "Generating map"
+
+msgid "unnatural/editor/generator/bases"
+msgstr "Bases:"
+
+msgid "unnatural/editor/generator/coloring"
+msgstr "Coloring:"
+
+msgid "unnatural/editor/generator/elevation"
+msgstr "Elevation:"
+
+msgid "unnatural/editor/generator/folder"
+msgstr "Folder:"
+
+msgid "unnatural/editor/generator/generate"
+msgstr "Generate"
+
+msgid "unnatural/editor/generator/roads"
+msgstr "Roads:"
+
+msgid "unnatural/editor/generator/shape"
+msgstr "Shape:"
 
 msgid "unnatural/editor/loading"
 msgstr "Loading"
