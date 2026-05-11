@@ -396,8 +396,20 @@ msgstr "Workers"
 msgid "unnatural/editor/brushes"
 msgstr "Brushes"
 
-msgid "unnatural/editor/convert"
-msgstr "Convert"
+msgid "unnatural/editor/clearPreview"
+msgstr "Clear preview"
+
+msgid "unnatural/editor/continueEditing"
+msgstr "Continue editing"
+
+msgid "unnatural/editor/convertAndEdit"
+msgstr "Convert and edit"
+
+msgid "unnatural/editor/convertAndPlay"
+msgstr "Convert and play"
+
+msgid "unnatural/editor/convertAndQuit"
+msgstr "Convert and quit"
 
 msgid "unnatural/editor/convertingMap"
 msgstr "Converting map"
@@ -479,9 +491,6 @@ msgstr "More"
 
 msgid "unnatural/editor/openMap"
 msgstr "Open map"
-
-msgid "unnatural/editor/play"
-msgstr "Play"
 
 msgid "unnatural/editor/playingMap"
 msgstr "Playing map"
