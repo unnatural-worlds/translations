@@ -529,7 +529,7 @@ msgid "unnatural/base/technocracy/units/big_boom_boy.proto/title"
 msgstr "Big boom boy"
 
 msgid "unnatural/base/technocracy/units/cyclops.proto/description"
-msgstr "Flanking unit with splash fire."
+msgstr "Flanking unit."
 
 msgid "unnatural/base/technocracy/units/cyclops.proto/title"
 msgstr "Cyclops"
@@ -568,7 +568,7 @@ msgid "unnatural/base/technocracy/units/lurker.proto/title"
 msgstr "Lurker"
 
 msgid "unnatural/base/technocracy/units/mermaid.proto/description"
-msgstr "Amphibious artillery unit."
+msgstr "Amphibious flanking unit with splash damage."
 
 msgid "unnatural/base/technocracy/units/mermaid.proto/title"
 msgstr "Mermaid"
@@ -593,7 +593,7 @@ msgid "unnatural/base/technocracy/units/twinfire.proto/title"
 msgstr "Twinfire"
 
 msgid "unnatural/base/technocracy/units/warlord.proto/description"
-msgstr "The ultimate warmachine. Designed for annihilating the thickest of armies."
+msgstr "The ultimate warmachine. Designed for breaching the thickest of fortifications."
 
 msgid "unnatural/base/technocracy/units/warlord.proto/title"
 msgstr "Warlord"
@@ -635,7 +635,7 @@ msgid "unnatural/base/technocracy/upgrades/drone.proto/title"
 msgstr "Drone upgrade"
 
 msgid "unnatural/base/technocracy/upgrades/fortification.proto/description"
-msgstr "Improves defenses of all buildings."
+msgstr "Improves defenses of all units and buildings."
 
 msgid "unnatural/base/technocracy/upgrades/fortification.proto/title"
 msgstr "Fortification"
@@ -731,7 +731,7 @@ msgid "unnatural/base/technocracy/upgrades/warlord.proto/title"
 msgstr "Warlord upgrade"
 
 msgid "unnatural/base/technocracy/upgrades/weapons.proto/description"
-msgstr "Improves firepower of all units."
+msgstr "Improves firepower of all units and buildings."
 
 msgid "unnatural/base/technocracy/upgrades/weapons.proto/title"
 msgstr "Weapons"
