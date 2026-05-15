@@ -1374,6 +1374,9 @@ msgstr "Enable wrecks:"
 msgid "unnatural/options/graphics/enableWrecks/description"
 msgstr "Units and buildings leave temporary wrecks when killed."
 
+msgid "unnatural/options/graphics/fieldOfView"
+msgstr "FOV (field of view):"
+
 msgid "unnatural/options/graphics/fullscreen"
 msgstr "Fullscreen:"
 
