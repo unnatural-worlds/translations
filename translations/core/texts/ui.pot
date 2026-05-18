@@ -57,6 +57,9 @@ msgstr "Made by Tomáš Malý."
 msgid "unnatural/about/soundsArtist"
 msgstr "(Sounds artist)"
 
+msgid "unnatural/about/steamDiscussions"
+msgstr "Steam discussions"
+
 msgid "unnatural/about/testing"
 msgstr "(Testing)"
 
@@ -906,6 +909,15 @@ msgstr "Open units overview"
 msgid "unnatural/key/screens/pause"
 msgstr "Pause"
 
+msgid "unnatural/key/screens/toggleAlternateColorsHealthbars"
+msgstr "Toggle alternate colors (healthbars)"
+
+msgid "unnatural/key/screens/toggleAlternateColorsMinimap"
+msgstr "Toggle alternate colors (minimap)"
+
+msgid "unnatural/key/screens/toggleAlternateColorsWorld"
+msgstr "Toggle alternate colors (world)"
+
 msgid "unnatural/key/screens/toggleFullscreen"
 msgstr "Toggle fullscreen"
 
@@ -1029,9 +1041,6 @@ msgstr "It may not be representative of the final product."
 msgid "unnatural/mainMenu/developmentPreview/thisFreeVersionWasMadeAvailable"
 msgstr "This free version was made available to check for technical issues, and to collect feedback."
 
-msgid "unnatural/mainMenu/giveFeedback"
-msgstr "Give feedback (opens browser with Discord)"
-
 msgid "unnatural/mainMenu/linux/linuxVersion"
 msgstr "Linux version"
 
@@ -1100,6 +1109,9 @@ msgstr "This is not full version of the game. Some features are restricted or om
 
 msgid "unnatural/mainMenu/singlePlayer"
 msgstr "Single player"
+
+msgid "unnatural/mainMenu/socialsAndFeedback"
+msgstr "Socials and feedback"
 
 msgid "unnatural/mapDescription/bases"
 msgstr "Bases: {0}"
