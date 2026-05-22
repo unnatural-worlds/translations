@@ -300,6 +300,18 @@ msgstr "Oil deposit"
 msgid "unnatural/base/ores/oil_deposit.proto/title"
 msgstr "Oil deposit"
 
+msgid "unnatural/base/resources/credits.proto/description"
+msgstr "Pan-galactic exchange standard currency."
+
+msgid "unnatural/base/resources/credits.proto/title"
+msgstr "Credits"
+
+msgid "unnatural/base/resources/experience.proto/description"
+msgstr "Gained by killing opponents."
+
+msgid "unnatural/base/resources/experience.proto/title"
+msgstr "Experience"
+
 msgid "unnatural/base/technocracy/buildings/air_factory.proto/description"
 msgstr "Produces F/F (flying or floating) machines."
 
@@ -421,29 +433,41 @@ msgstr "Build a wall. Literally."
 msgid "unnatural/base/technocracy/buildings/wall.proto/title"
 msgstr "Wall"
 
-msgid "unnatural/base/technocracy/recipes/convert_aether_to_oil.proto/description"
-msgstr "Converts aether to oil."
+msgid "unnatural/base/technocracy/recipes/buy_metal.proto/description"
+msgstr "Buy metal"
 
-msgid "unnatural/base/technocracy/recipes/convert_aether_to_oil.proto/title"
-msgstr "Aether to oil"
+msgid "unnatural/base/technocracy/recipes/buy_metal.proto/title"
+msgstr "Buy metal"
 
-msgid "unnatural/base/technocracy/recipes/convert_liquids_to_metal.proto/description"
-msgstr "Converts aether together with oil to metal."
+msgid "unnatural/base/technocracy/recipes/buy_oil.proto/description"
+msgstr "Buy oil"
 
-msgid "unnatural/base/technocracy/recipes/convert_liquids_to_metal.proto/title"
-msgstr "Liquids to metal"
+msgid "unnatural/base/technocracy/recipes/buy_oil.proto/title"
+msgstr "Buy oil"
 
-msgid "unnatural/base/technocracy/recipes/convert_metal_to_aether.proto/description"
-msgstr "Converts metal to aether."
+msgid "unnatural/base/technocracy/recipes/sell_aether.proto/description"
+msgstr "Sell aether"
 
-msgid "unnatural/base/technocracy/recipes/convert_metal_to_aether.proto/title"
-msgstr "Metal to aether"
+msgid "unnatural/base/technocracy/recipes/sell_aether.proto/title"
+msgstr "Sell aether"
 
-msgid "unnatural/base/technocracy/recipes/convert_oil_to_aether.proto/description"
-msgstr "Converts oil to aether."
+msgid "unnatural/base/technocracy/recipes/sell_experience.proto/description"
+msgstr "Sell experience"
 
-msgid "unnatural/base/technocracy/recipes/convert_oil_to_aether.proto/title"
-msgstr "Oil to aether"
+msgid "unnatural/base/technocracy/recipes/sell_experience.proto/title"
+msgstr "Sell experience"
+
+msgid "unnatural/base/technocracy/recipes/sell_metal.proto/description"
+msgstr "Sell metal"
+
+msgid "unnatural/base/technocracy/recipes/sell_metal.proto/title"
+msgstr "Sell metal"
+
+msgid "unnatural/base/technocracy/recipes/sell_oil.proto/description"
+msgstr "Sell oil"
+
+msgid "unnatural/base/technocracy/recipes/sell_oil.proto/title"
+msgstr "Sell oil"
 
 msgid "unnatural/base/technocracy/resources/aether.proto/description"
 msgstr "Gaseous substance that defies scientific understanding."
@@ -516,10 +540,10 @@ msgstr "The key is to automate the automation itself.\n"
 msgid "unnatural/base/technocracy/technocracy.proto/title"
 msgstr "Technocracy"
 
-msgid "unnatural/base/technocracy/units/ATV.proto/description"
+msgid "unnatural/base/technocracy/units/atv.proto/description"
 msgstr "Automated transfer vehicle. Moves goods from A to B. No attack."
 
-msgid "unnatural/base/technocracy/units/ATV.proto/title"
+msgid "unnatural/base/technocracy/units/atv.proto/title"
 msgstr "A.T.V."
 
 msgid "unnatural/base/technocracy/units/big_boom_boy.proto/description"
@@ -604,10 +628,10 @@ msgstr "Siege unit."
 msgid "unnatural/base/technocracy/units/yatag.proto/title"
 msgstr "Yatag"
 
-msgid "unnatural/base/technocracy/upgrades/ATV.proto/description"
+msgid "unnatural/base/technocracy/upgrades/atv.proto/description"
 msgstr "A.T.V. upgrade"
 
-msgid "unnatural/base/technocracy/upgrades/ATV.proto/title"
+msgid "unnatural/base/technocracy/upgrades/atv.proto/title"
 msgstr "A.T.V. upgrade"
 
 msgid "unnatural/base/technocracy/upgrades/big_boom_boy.proto/description"

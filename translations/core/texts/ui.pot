@@ -438,9 +438,6 @@ msgstr "Doodads {0}"
 msgid "unnatural/editor/editor"
 msgstr "Editor"
 
-msgid "unnatural/editor/emptyWithKeybind"
-msgstr "Empty {0}"
-
 msgid "unnatural/editor/generateMap"
 msgstr "Generate map"
 
@@ -497,6 +494,9 @@ msgstr "Open map"
 
 msgid "unnatural/editor/playingMap"
 msgstr "Playing map"
+
+msgid "unnatural/editor/previewWithKeybind"
+msgstr "Preview {0}"
 
 msgid "unnatural/editor/saved"
 msgstr "Saved"
@@ -759,14 +759,14 @@ msgstr "Decorations"
 msgid "unnatural/key/editorScreen/doodads"
 msgstr "Doodads"
 
-msgid "unnatural/key/editorScreen/empty"
-msgstr "Empty"
-
 msgid "unnatural/key/editorScreen/markers"
 msgstr "Markers"
 
 msgid "unnatural/key/editorScreen/openMenu"
 msgstr "Open menu"
+
+msgid "unnatural/key/editorScreen/preview"
+msgstr "Preview"
 
 msgid "unnatural/key/editorScreen/terrain"
 msgstr "Terrain"
