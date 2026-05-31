@@ -450,6 +450,9 @@ msgstr "Bases:"
 msgid "unnatural/editor/generator/coloring"
 msgstr "Coloring:"
 
+msgid "unnatural/editor/generator/corruption"
+msgstr "Corruption:"
+
 msgid "unnatural/editor/generator/elevation"
 msgstr "Elevation:"
 
@@ -1284,6 +1287,12 @@ msgstr "Provides hints for beginners."
 msgid "unnatural/options/gameplay/healthbarsScale"
 msgstr "Healthbars scale:"
 
+msgid "unnatural/options/gameplay/maximumDistance"
+msgstr "Maximum distance:"
+
+msgid "unnatural/options/gameplay/maximumDistance/description"
+msgstr "Allow some units to automatically maintain maximum shooting distance."
+
 msgid "unnatural/options/gameplay/preventAccidentalDeselection"
 msgstr "Prevent accidental deselection:"
 
@@ -1485,6 +1494,9 @@ msgstr "Dialogue volume:"
 msgid "unnatural/options/sound/effectsVolume"
 msgstr "Effects volume:"
 
+msgid "unnatural/options/sound/environmentVolume"
+msgstr "Environment volume:"
+
 msgid "unnatural/options/sound/guiVolume"
 msgstr "GUI volume:"
 
@@ -1496,6 +1508,21 @@ msgstr "Master volume:"
 
 msgid "unnatural/options/sound/musicVolume"
 msgstr "Music volume:"
+
+msgid "unnatural/options/telemetry"
+msgstr "Telemetry"
+
+msgid "unnatural/options/telemetry/description/1"
+msgstr "I, Tomáš Malý, the developer of the game, collect logs from the game, for purpose of continued development, improvements, balance, bug fixes, performance metrics, and more."
+
+msgid "unnatural/options/telemetry/description/2"
+msgstr "The logs may contain some personal information, such as your steam used id and name, etc. See the game eula for full disclosure."
+
+msgid "unnatural/options/telemetry/disable"
+msgstr "Opt Out"
+
+msgid "unnatural/options/telemetry/enable"
+msgstr "Enable"
 
 msgid "unnatural/options/userInterface"
 msgstr "User interface"
