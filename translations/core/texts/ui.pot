@@ -156,6 +156,66 @@ msgstr "We have won."
 msgid "unnatural/announcer/weNeedMoreTrucks"
 msgstr "We need more trucks."
 
+msgid "unnatural/assetSchemeIndex/aiBuildOrder"
+msgstr "AI build order"
+
+msgid "unnatural/assetSchemeIndex/collider"
+msgstr "Collider"
+
+msgid "unnatural/assetSchemeIndex/font"
+msgstr "Font"
+
+msgid "unnatural/assetSchemeIndex/hitChancesTable"
+msgstr "Hit chances table"
+
+msgid "unnatural/assetSchemeIndex/model"
+msgstr "Model"
+
+msgid "unnatural/assetSchemeIndex/navigation"
+msgstr "Navigation"
+
+msgid "unnatural/assetSchemeIndex/pack"
+msgstr "Pack"
+
+msgid "unnatural/assetSchemeIndex/prototype"
+msgstr "Prototype"
+
+msgid "unnatural/assetSchemeIndex/raw"
+msgstr "Raw"
+
+msgid "unnatural/assetSchemeIndex/renderObject"
+msgstr "Render object"
+
+msgid "unnatural/assetSchemeIndex/scene"
+msgstr "Scene"
+
+msgid "unnatural/assetSchemeIndex/script"
+msgstr "Script"
+
+msgid "unnatural/assetSchemeIndex/shader"
+msgstr "Shader"
+
+msgid "unnatural/assetSchemeIndex/skeletalAnimation"
+msgstr "Skeletal animation"
+
+msgid "unnatural/assetSchemeIndex/skeletonRig"
+msgstr "Skeleton rig"
+
+msgid "unnatural/assetSchemeIndex/sound"
+msgstr "Sound"
+
+msgid "unnatural/assetSchemeIndex/texts"
+msgstr "Texts"
+
+msgid "unnatural/assetSchemeIndex/texture"
+msgstr "Texture"
+
+msgid "unnatural/assetSchemeIndex/tileset"
+msgstr "Tileset"
+
+msgid "unnatural/assetSchemeIndex/unknown"
+msgstr "Unknown ({0})"
+
 msgid "unnatural/campaign/loading"
 msgstr "Loading"
 
@@ -603,8 +663,14 @@ msgstr "Self"
 msgid "unnatural/game/followCamera"
 msgstr "Follow Camera"
 
-msgid "unnatural/gameMenu/continue"
-msgstr "Continue"
+msgid "unnatural/gameMenu/load"
+msgstr "Load"
+
+msgid "unnatural/gameMenu/pause"
+msgstr "Pause"
+
+msgid "unnatural/gameMenu/save"
+msgstr "Save"
 
 msgid "unnatural/groupsIcons/armyGroup"
 msgstr "Army group {0}"
@@ -1179,14 +1245,65 @@ msgstr "Size"
 msgid "unnatural/mapSelection/versionMismatch"
 msgstr "Version mismatch"
 
+msgid "unnatural/mods/author"
+msgstr "Author"
+
+msgid "unnatural/mods/authors"
+msgstr "Authors"
+
+msgid "unnatural/mods/build"
+msgstr "Build:"
+
+msgid "unnatural/mods/changesGame"
+msgstr "Changes game:"
+
+msgid "unnatural/mods/conflicts"
+msgstr "Conflicts"
+
+msgid "unnatural/mods/description"
+msgstr "Description"
+
+msgid "unnatural/mods/detectedNoConflicts"
+msgstr "Detected no conflicts."
+
 msgid "unnatural/mods/documentation"
 msgstr "Documentation"
 
-msgid "unnatural/mods/modName"
-msgstr "Mod name"
+msgid "unnatural/mods/gameChanging"
+msgstr "Game\nchanging"
 
-msgid "unnatural/mods/mods"
-msgstr "Mods"
+msgid "unnatural/mods/gameVersion"
+msgstr "Game version:"
+
+msgid "unnatural/mods/guid"
+msgstr "Guid:"
+
+msgid "unnatural/mods/loadOrder"
+msgstr "Load order"
+
+msgid "unnatural/mods/modContent"
+msgstr "Mod content"
+
+msgid "unnatural/mods/modDetails"
+msgstr "Mod details"
+
+msgid "unnatural/mods/modHasNoContent"
+msgstr "Mod has no content."
+
+msgid "unnatural/mods/modsConflicts"
+msgstr "Mods conflicts"
+
+msgid "unnatural/mods/modsList"
+msgstr "Mods list"
+
+msgid "unnatural/mods/modsLoadOrder"
+msgstr "Mods load order"
+
+msgid "unnatural/mods/modVersion"
+msgstr "Mod version:"
+
+msgid "unnatural/mods/path"
+msgstr "Path:"
 
 msgid "unnatural/mods/version"
 msgstr "Version"
@@ -1516,7 +1633,7 @@ msgid "unnatural/options/telemetry/description/1"
 msgstr "I, Tomáš Malý, the developer of the game, collect logs from the game, for purpose of continued development, improvements, balance, bug fixes, performance metrics, and more."
 
 msgid "unnatural/options/telemetry/description/2"
-msgstr "The logs may contain some personal information, such as your steam used id and name, etc. See the game eula for full disclosure."
+msgstr "The logs may contain some personal information, such as your steam user id and name, etc. See the eula for full disclosure."
 
 msgid "unnatural/options/telemetry/disable"
 msgstr "Opt Out"
@@ -1857,6 +1974,9 @@ msgstr "Waiting"
 msgid "unnatural/recipeSelection/recipe"
 msgstr "Recipe"
 
+msgid "unnatural/replay/replayLoading"
+msgstr "Replay loading"
+
 msgid "unnatural/replay/selectReplay"
 msgstr "Select replay"
 
@@ -2068,43 +2188,43 @@ msgid "unnatural/session/previewMap"
 msgstr "Preview map"
 
 msgid "unnatural/sessionConfig/assassination"
-msgstr "Assassination:"
+msgstr "Assassination"
 
 msgid "unnatural/sessionConfig/assassination/tooltip"
-msgstr "Player is eliminated with the last 'vital' building/unit.\nOtherwise, all buildings and units must be destroyed."
+msgstr "Player is eliminated with the last 'vital' building/unit lost.\nOtherwise, all buildings and units must be destroyed."
 
 msgid "unnatural/sessionConfig/automaticColors"
-msgstr "Automatic colors:"
+msgstr "Automatic colors"
 
 msgid "unnatural/sessionConfig/automaticColors/tooltip"
-msgstr "Automatically assigns colors to all players,\nensuring that teammates have similar colors,\nwhereas teams are more distinct."
+msgstr "Automatically assigns colors to all players,\nensuring that teammates have similar colors,\nwhereas opposing teams are more distinct."
 
 msgid "unnatural/sessionConfig/cheats"
-msgstr "Cheats:"
+msgstr "Cheats"
 
 msgid "unnatural/sessionConfig/cheats/tooltip"
 msgstr "Allows players to use cheat codes."
 
 msgid "unnatural/sessionConfig/diplomacy"
-msgstr "Diplomacy:"
+msgstr "Diplomacy"
 
 msgid "unnatural/sessionConfig/diplomacy/tooltip"
-msgstr "Allows proposing alliances and declaring wars freely during the whole match."
+msgstr "Allows proposing alliances and declaring wars freely during the match."
 
 msgid "unnatural/sessionConfig/fogOfWar"
-msgstr "Fog of war:"
+msgstr "Fog of war"
 
 msgid "unnatural/sessionConfig/fogOfWar/tooltip"
 msgstr "Hides enemy units that are too far, out of sight."
 
 msgid "unnatural/sessionConfig/lockedSpeed"
-msgstr "Locked speed:"
+msgstr "Locked speed"
 
 msgid "unnatural/sessionConfig/lockedSpeed/tooltip"
 msgstr "Prevents players from adjusting game speed during the match."
 
 msgid "unnatural/sessionConfig/secrets"
-msgstr "Secrets:"
+msgstr "Secrets"
 
 msgid "unnatural/sessionConfig/secrets/tooltip"
 msgstr "Hides enemy healthbars and recipes."
