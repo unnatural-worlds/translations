@@ -1284,11 +1284,17 @@ msgstr "Load order"
 msgid "unnatural/mods/modContent"
 msgstr "Mod content"
 
+msgid "unnatural/mods/modded"
+msgstr "Modded"
+
 msgid "unnatural/mods/modDetails"
 msgstr "Mod details"
 
 msgid "unnatural/mods/modHasNoContent"
 msgstr "Mod has no content."
+
+msgid "unnatural/mods/modPage"
+msgstr "Mod page"
 
 msgid "unnatural/mods/modsConflicts"
 msgstr "Mods conflicts"
@@ -1304,6 +1310,27 @@ msgstr "Mod version:"
 
 msgid "unnatural/mods/path"
 msgstr "Path:"
+
+msgid "unnatural/mods/primarySteamId"
+msgstr "Primary steam id:"
+
+msgid "unnatural/mods/secondarySteamId"
+msgstr "Secondary steam id:"
+
+msgid "unnatural/mods/statistics"
+msgstr "Statistics"
+
+msgid "unnatural/mods/totalFavorites"
+msgstr "Total favorites:"
+
+msgid "unnatural/mods/totalPlayTime"
+msgstr "Total play time:"
+
+msgid "unnatural/mods/totalSessions"
+msgstr "Total sessions:"
+
+msgid "unnatural/mods/totalSubscribers"
+msgstr "Total subscribers:"
 
 msgid "unnatural/mods/version"
 msgstr "Version"
@@ -1565,6 +1592,12 @@ msgstr "Transparent memories:"
 
 msgid "unnatural/options/graphics/transparentMemories/description"
 msgstr "Previously seen buildings become transparent when out of sight."
+
+msgid "unnatural/options/mods/automaticallySubscribe"
+msgstr "Subscribe mods:"
+
+msgid "unnatural/options/mods/automaticallySubscribe/description"
+msgstr "Automatically subscribe to missing mods in multiplayer games."
 
 msgid "unnatural/options/options"
 msgstr "Options"
