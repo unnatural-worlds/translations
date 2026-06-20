@@ -51,6 +51,9 @@ msgstr "Contributors:"
 msgid "unnatural/about/discord"
 msgstr "Discord"
 
+msgid "unnatural/about/graphicsArtist"
+msgstr "(Graphics artist)"
+
 msgid "unnatural/about/madeByTomasMaly"
 msgstr "Made by Tomáš Malý."
 
@@ -1251,6 +1254,9 @@ msgstr "Author"
 msgid "unnatural/mods/authors"
 msgstr "Authors"
 
+msgid "unnatural/mods/browseMods"
+msgstr "Browse mods"
+
 msgid "unnatural/mods/build"
 msgstr "Build:"
 
@@ -1293,6 +1299,9 @@ msgstr "Mod details"
 msgid "unnatural/mods/modHasNoContent"
 msgstr "Mod has no content."
 
+msgid "unnatural/mods/modIsIncompatibleWithThisGameVersion"
+msgstr "The mod is incompatible with this game version."
+
 msgid "unnatural/mods/modPage"
 msgstr "Mod page"
 
@@ -1334,9 +1343,6 @@ msgstr "Total subscribers:"
 
 msgid "unnatural/mods/version"
 msgstr "Version"
-
-msgid "unnatural/mods/workshop"
-msgstr "Workshop"
 
 msgid "unnatural/options/camera"
 msgstr "Camera"
@@ -1392,6 +1398,12 @@ msgstr "Add units to factory group:"
 msgid "unnatural/options/gameplay/addNewUnitsToFactoryGroup/description"
 msgstr "Add newly created units to selection group of the factory."
 
+msgid "unnatural/options/gameplay/attackRange"
+msgstr "Attack range:"
+
+msgid "unnatural/options/gameplay/attackRange/description"
+msgstr "Show approximate attack range of a selected unit."
+
 msgid "unnatural/options/gameplay/color/ally"
 msgstr "Ally color:"
 
@@ -1435,7 +1447,7 @@ msgid "unnatural/options/gameplay/maximumDistance"
 msgstr "Maximum distance:"
 
 msgid "unnatural/options/gameplay/maximumDistance/description"
-msgstr "Allow some units to automatically maintain maximum shooting distance."
+msgstr "Allow some units to automatically maintain maximum attack distance."
 
 msgid "unnatural/options/gameplay/preventAccidentalDeselection"
 msgstr "Prevent accidental deselection:"
@@ -1451,12 +1463,6 @@ msgstr "Restricted build order:"
 
 msgid "unnatural/options/gameplay/restrictedBuildOrder/description"
 msgstr "Enforces build order that helps to avoid getting stuck."
-
-msgid "unnatural/options/gameplay/shootingRange"
-msgstr "Shooting range:"
-
-msgid "unnatural/options/gameplay/shootingRange/description"
-msgstr "Show approximate shooting range of a selected unit."
 
 msgid "unnatural/options/gameplay/showHealthbarsThresholdObserver"
 msgstr "Show healthbars threshold (observer):"
@@ -2469,6 +2475,9 @@ msgstr "{0} m"
 msgid "unnatural/tooltips/metersPerSecond"
 msgstr "{0} m/s"
 
+msgid "unnatural/tooltips/minimumRange"
+msgstr "Minimum range: "
+
 msgid "unnatural/tooltips/movement"
 msgstr "Movement"
 
@@ -2514,6 +2523,9 @@ msgstr "Requirements to unlock"
 msgid "unnatural/tooltips/seconds"
 msgstr "{0} s"
 
+msgid "unnatural/tooltips/simpleCombat/attackRange"
+msgstr "Attack range"
+
 msgid "unnatural/tooltips/simpleCombat/averageDamagePerSecond"
 msgstr "Average damage per second"
 
@@ -2531,9 +2543,6 @@ msgstr "Maximum health"
 
 msgid "unnatural/tooltips/simpleCombat/movementSpeed"
 msgstr "Movement speed"
-
-msgid "unnatural/tooltips/simpleCombat/shootingRange"
-msgstr "Shooting range"
 
 msgid "unnatural/tooltips/simpleCombat/splashRadius"
 msgstr "Splash radius"
@@ -2553,14 +2562,14 @@ msgstr "Stacking limit: "
 msgid "unnatural/tooltips/stealth"
 msgstr "Stealth: "
 
-msgid "unnatural/tooltips/strengths"
-msgstr "Strengths"
-
 msgid "unnatural/tooltips/tags"
 msgstr "Tags"
 
 msgid "unnatural/tooltips/Upgrade"
 msgstr "Upgrade"
+
+msgid "unnatural/tooltips/upgrade/attackRange"
+msgstr "Shooting range: "
 
 msgid "unnatural/tooltips/upgrade/damage"
 msgstr "Damage: "
@@ -2583,9 +2592,6 @@ msgstr "Regeneration delay: "
 msgid "unnatural/tooltips/upgrade/regenerationSpeed"
 msgstr "Regeneration speed: "
 
-msgid "unnatural/tooltips/upgrade/shootingRange"
-msgstr "Shooting range: "
-
 msgid "unnatural/tooltips/upgrade/splashRadius"
 msgstr "Splash radius: "
 
@@ -2597,9 +2603,6 @@ msgstr "Vision range: "
 
 msgid "unnatural/tooltips/vision"
 msgstr "Vision: "
-
-msgid "unnatural/tooltips/weaknesses"
-msgstr "Weaknesses"
 
 msgid "unnatural/units/buildings"
 msgstr "Buildings"
