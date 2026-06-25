@@ -870,9 +870,6 @@ msgstr "Guard order (hold position)"
 msgid "unnatural/key/orders/highPriority"
 msgstr "High priority"
 
-msgid "unnatural/key/orders/invertPreference"
-msgstr "Invert preference"
-
 msgid "unnatural/key/orders/loadResource"
 msgstr "Load resource"
 
@@ -896,6 +893,9 @@ msgstr "Smart order (draw formation)"
 
 msgid "unnatural/key/orders/stopOrder"
 msgstr "Stop order"
+
+msgid "unnatural/key/orders/toggleFightRun"
+msgstr "Toggle fight / run"
 
 msgid "unnatural/key/orders/unloadResource"
 msgstr "Unload resource"
@@ -941,6 +941,9 @@ msgstr "Step back"
 
 msgid "unnatural/key/replay/stepForward"
 msgstr "Step forward"
+
+msgid "unnatural/key/screens/alternativeView"
+msgstr "Alternative view"
 
 msgid "unnatural/key/screens/closeWindow"
 msgstr "Close window"
@@ -999,9 +1002,6 @@ msgstr "Cancel selection"
 msgid "unnatural/key/selection/clearSelection"
 msgstr "Clear selection"
 
-msgid "unnatural/key/selection/invertPreference"
-msgstr "Invert preference"
-
 msgid "unnatural/key/selection/mergeWithSelection"
 msgstr "Merge with selection"
 
@@ -1028,6 +1028,9 @@ msgstr "Select same (single click)"
 
 msgid "unnatural/key/selection/subtractFromSelection"
 msgstr "Subtract from selection"
+
+msgid "unnatural/key/selection/toggleSmartSelection"
+msgstr "Toggle smart selection"
 
 msgid "unnatural/key/selection/uiFilterHalf"
 msgstr "(UI) Filter half"
@@ -1140,8 +1143,14 @@ msgstr "Create MP"
 msgid "unnatural/mainMenu/menu/custom"
 msgstr "Custom"
 
+msgid "unnatural/mainMenu/menu/findGame"
+msgstr "Find game"
+
 msgid "unnatural/mainMenu/menu/findMp"
 msgstr "Find MP"
+
+msgid "unnatural/mainMenu/menu/hostGame"
+msgstr "Host game"
 
 msgid "unnatural/mainMenu/menu/mapEditor"
 msgstr "Map editor"
