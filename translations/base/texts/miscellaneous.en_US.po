@@ -17,42 +17,42 @@ msgstr ""
 
 
 
-msgid "unnatural/base/damageTypes/antimatter"
+msgid "unnatural/base/themes/antimatter"
 msgstr "Antimatter"
 
-msgid "unnatural/base/damageTypes/corrosive"
+msgid "unnatural/base/themes/corrosive"
 msgstr "Corrosive"
 
-msgid "unnatural/base/damageTypes/fire"
+msgid "unnatural/base/themes/fire"
 msgstr "Fire"
 
-msgid "unnatural/base/damageTypes/kinetic"
+msgid "unnatural/base/themes/kinetic"
 msgstr "Kinetic"
 
-msgid "unnatural/base/damageTypes/laser"
+msgid "unnatural/base/themes/laser"
 msgstr "Laser"
 
-msgid "unnatural/base/damageTypes/plasma"
+msgid "unnatural/base/themes/plasma"
 msgstr "Plasma"
 
 
 
-msgid "unnatural/base/armorTypes/armor_plates"
+msgid "unnatural/base/themes/armor_plates"
 msgstr "Armor plates"
 
-msgid "unnatural/base/armorTypes/biological"
+msgid "unnatural/base/themes/biological"
 msgstr "Biological"
 
-msgid "unnatural/base/armorTypes/building"
+msgid "unnatural/base/themes/building"
 msgstr "Building"
 
-msgid "unnatural/base/armorTypes/energy_shield"
+msgid "unnatural/base/themes/energy_shield"
 msgstr "Energy shield"
 
-msgid "unnatural/base/armorTypes/invulnerable"
+msgid "unnatural/base/themes/invulnerable"
 msgstr "Invulnerable"
 
-msgid "unnatural/base/armorTypes/mechanical"
+msgid "unnatural/base/themes/mechanical"
 msgstr "Mechanical"
 
 

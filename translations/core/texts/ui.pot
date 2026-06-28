@@ -2578,7 +2578,7 @@ msgid "unnatural/tooltips/Upgrade"
 msgstr "Upgrade"
 
 msgid "unnatural/tooltips/upgrade/attackRange"
-msgstr "Shooting range: "
+msgstr "Attack range: "
 
 msgid "unnatural/tooltips/upgrade/damage"
 msgstr "Damage: "

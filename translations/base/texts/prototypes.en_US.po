@@ -270,6 +270,12 @@ msgstr "Nightmare fuel."
 msgid "unnatural/base/biomass/upgrades/fertility.proto/title"
 msgstr "Fertility"
 
+msgid "unnatural/base/biomass/upgrades/overlord.proto/description"
+msgstr "Overlord"
+
+msgid "unnatural/base/biomass/upgrades/overlord.proto/title"
+msgstr "Overlord"
+
 msgid "unnatural/base/biomass/upgrades/prosperity.proto/description"
 msgstr "Dig deeper, dig bigger."
 
@@ -450,12 +456,6 @@ msgstr "Sell aether"
 
 msgid "unnatural/base/technocracy/recipes/sell_aether.proto/title"
 msgstr "Sell aether"
-
-msgid "unnatural/base/technocracy/recipes/sell_experience.proto/description"
-msgstr "Sell experience"
-
-msgid "unnatural/base/technocracy/recipes/sell_experience.proto/title"
-msgstr "Sell experience"
 
 msgid "unnatural/base/technocracy/recipes/sell_metal.proto/description"
 msgstr "Sell metal"
