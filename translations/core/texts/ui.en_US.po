@@ -1986,6 +1986,9 @@ msgstr "Rank"
 msgid "unnatural/ranked/ranked"
 msgstr "Ranked"
 
+msgid "unnatural/ranked/results/date"
+msgstr "Date"
+
 msgid "unnatural/ranked/results/defeat"
 msgstr "Defeat"
 
@@ -2003,9 +2006,6 @@ msgstr "Rank"
 
 msgid "unnatural/ranked/results/rating"
 msgstr "Rating"
-
-msgid "unnatural/ranked/results/result"
-msgstr "Result"
 
 msgid "unnatural/ranked/results/victory"
 msgstr "Victory"
@@ -2288,6 +2288,9 @@ msgstr "Join team"
 
 msgid "unnatural/sessionPlayers/kickPlayer"
 msgstr "Kick player"
+
+msgid "unnatural/sessionPlayers/playerSteamProfile"
+msgstr "Player's steam profile"
 
 msgid "unnatural/sessionPlayers/randomRace"
 msgstr "Random"

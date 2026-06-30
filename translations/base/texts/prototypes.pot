@@ -264,6 +264,18 @@ msgstr "Bark"
 msgid "unnatural/base/biomass/upgrades/bark.proto/title"
 msgstr "Bark"
 
+msgid "unnatural/base/biomass/upgrades/claws.proto/description"
+msgstr "Claws"
+
+msgid "unnatural/base/biomass/upgrades/claws.proto/title"
+msgstr "Claws"
+
+msgid "unnatural/base/biomass/upgrades/energize.proto/description"
+msgstr "Energize"
+
+msgid "unnatural/base/biomass/upgrades/energize.proto/title"
+msgstr "Energize"
+
 msgid "unnatural/base/biomass/upgrades/fertility.proto/description"
 msgstr "Nightmare fuel."
 
@@ -287,6 +299,12 @@ msgstr "Flesh mending."
 
 msgid "unnatural/base/biomass/upgrades/regeneration.proto/title"
 msgstr "Regeneration"
+
+msgid "unnatural/base/biomass/upgrades/venom.proto/description"
+msgstr "Venom"
+
+msgid "unnatural/base/biomass/upgrades/venom.proto/title"
+msgstr "Venom"
 
 msgid "unnatural/base/ores/aether_deposit.proto/description"
 msgstr "Aether deposit"
