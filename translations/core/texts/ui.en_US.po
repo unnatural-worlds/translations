@@ -1011,6 +1011,9 @@ msgstr "Select all army"
 msgid "unnatural/key/selection/selectAllTrucks"
 msgstr "Select all trucks"
 
+msgid "unnatural/key/selection/selectEverything"
+msgstr "Select everything"
+
 msgid "unnatural/key/selection/selectIdleArmy"
 msgstr "Select idle army"
 
