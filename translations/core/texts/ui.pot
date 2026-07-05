@@ -369,11 +369,11 @@ msgstr "User interface"
 msgid "unnatural/createGame/create"
 msgstr "Create"
 
-msgid "unnatural/createGame/createMultiplayerGame"
-msgstr "Create multiplayer game"
-
 msgid "unnatural/createGame/gameName"
 msgstr "Game name:"
+
+msgid "unnatural/createGame/hostMultiplayerGame"
+msgstr "Host multiplayer game"
 
 msgid "unnatural/createGame/visibility"
 msgstr "Visibility:"
