@@ -2196,6 +2196,9 @@ msgstr "Vision: {0} %"
 msgid "unnatural/selectedInfo/uptime"
 msgstr "Uptime: {0} %"
 
+msgid "unnatural/selectedInfo/value"
+msgstr "Value: {0}"
+
 msgid "unnatural/serverVisibilityEnum/friends"
 msgstr "Friends"
 
