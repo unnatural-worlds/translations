@@ -610,7 +610,7 @@ msgid "unnatural/base/technocracy/units/lurker.proto/title"
 msgstr "Lurker"
 
 msgid "unnatural/base/technocracy/units/mermaid.proto/description"
-msgstr "Amphibious flanking unit with splash damage."
+msgstr "Amphibious fire support unit with splash damage."
 
 msgid "unnatural/base/technocracy/units/mermaid.proto/title"
 msgstr "Mermaid"
@@ -622,7 +622,7 @@ msgid "unnatural/base/technocracy/units/paladin.proto/title"
 msgstr "Paladin"
 
 msgid "unnatural/base/technocracy/units/tripod.proto/description"
-msgstr "Very long range pinpoint-accurate laser ... pointer.\n"
+msgstr "Accurate laser pointer.\n"
 "Fire support unit."
 
 msgid "unnatural/base/technocracy/units/tripod.proto/title"
