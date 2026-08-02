@@ -1549,7 +1549,7 @@ msgid "unnatural/options/graphics/enableVsync"
 msgstr "Enable v-sync:"
 
 msgid "unnatural/options/graphics/enableVsync/description"
-msgstr "Prevents screen tearing. Requires restart."
+msgstr "Prevents screen tearing (may increase latency)."
 
 msgid "unnatural/options/graphics/enableWrecks"
 msgstr "Enable wrecks:"
