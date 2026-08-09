@@ -736,6 +736,18 @@ msgstr "Radar upgrade"
 msgid "unnatural/base/technocracy/upgrades/radar.proto/title"
 msgstr "Radar upgrade"
 
+msgid "unnatural/base/technocracy/upgrades/range.proto/description"
+msgstr "Improves shooting range of all units and buildings."
+
+msgid "unnatural/base/technocracy/upgrades/range.proto/title"
+msgstr "Range"
+
+msgid "unnatural/base/technocracy/upgrades/speed.proto/description"
+msgstr "Improves movement speed of all units."
+
+msgid "unnatural/base/technocracy/upgrades/speed.proto/title"
+msgstr "Speed"
+
 msgid "unnatural/base/technocracy/upgrades/talos.proto/description"
 msgstr "Talos upgrade"
 
