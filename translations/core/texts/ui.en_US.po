@@ -1182,6 +1182,9 @@ msgstr "Replays"
 msgid "unnatural/mainMenu/menu/singlePlayer"
 msgstr "Single player"
 
+msgid "unnatural/mainMenu/menu/tutorial"
+msgstr "Tutorial"
+
 msgid "unnatural/mainMenu/multiPlayer"
 msgstr "Multiplayer"
 
