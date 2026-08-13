@@ -1200,6 +1200,12 @@ msgstr "Single player"
 msgid "unnatural/mainMenu/socialsAndFeedback"
 msgstr "Socials and feedback"
 
+msgid "unnatural/mainMenu/steamAppidTxtFile/description"
+msgstr "This file is intended for developers.\nIts presence may cause file corruption when the game is updated."
+
+msgid "unnatural/mainMenu/steamAppidTxtFile/detected"
+msgstr "Detected file steam_appid.txt"
+
 msgid "unnatural/mapDescription/bases"
 msgstr "Bases: {0}"
 
@@ -1359,6 +1365,9 @@ msgstr "Total subscribers:"
 msgid "unnatural/mods/version"
 msgstr "Version"
 
+msgid "unnatural/options/advanced"
+msgstr "Advanced"
+
 msgid "unnatural/options/camera"
 msgstr "Camera"
 
@@ -1464,6 +1473,12 @@ msgstr "Maximum distance:"
 msgid "unnatural/options/gameplay/maximumDistance/description"
 msgstr "Allow some units to automatically maintain maximum attack distance."
 
+msgid "unnatural/options/gameplay/observerShowsConstructions"
+msgstr "Show constructions (observer):"
+
+msgid "unnatural/options/gameplay/observerShowsConstructions/description"
+msgstr "Show all constructions when observing or in replay."
+
 msgid "unnatural/options/gameplay/preventAccidentalDeselection"
 msgstr "Prevent accidental deselection:"
 
@@ -1505,6 +1520,9 @@ msgstr "Strategic icons scale:"
 
 msgid "unnatural/options/graphics"
 msgstr "Graphics"
+
+msgid "unnatural/options/graphics/dynamicLightsLimit"
+msgstr "Dynamic lights limit:"
 
 msgid "unnatural/options/graphics/dynamicResolutionMinimumQuality"
 msgstr "Dynamic resolution - minimum quality:"
@@ -1566,6 +1584,9 @@ msgstr "FOV (field of view):"
 msgid "unnatural/options/graphics/fullscreen"
 msgstr "Fullscreen:"
 
+msgid "unnatural/options/graphics/fullscreenResolution"
+msgstr "Fullscreen resolution:"
+
 msgid "unnatural/options/graphics/gamma"
 msgstr "Gamma:"
 
@@ -1574,9 +1595,6 @@ msgstr "High quality maps:"
 
 msgid "unnatural/options/graphics/highQualityMaps/description"
 msgstr "Show all details in the map."
-
-msgid "unnatural/options/graphics/lightsLimit"
-msgstr "Lights limit:"
 
 msgid "unnatural/options/graphics/quality/high"
 msgstr "High"
@@ -1590,8 +1608,8 @@ msgstr "Medium"
 msgid "unnatural/options/graphics/quality/off"
 msgstr "Off"
 
-msgid "unnatural/options/graphics/screenResolution"
-msgstr "Screen resolution:"
+msgid "unnatural/options/graphics/renderingResolution"
+msgstr "Rendering resolution:"
 
 msgid "unnatural/options/graphics/shadowsQuality"
 msgstr "Shadows quality:"
@@ -1622,6 +1640,9 @@ msgstr "Automatically subscribe to missing mods in multiplayer games."
 
 msgid "unnatural/options/options"
 msgstr "Options"
+
+msgid "unnatural/options/performance"
+msgstr "Performance"
 
 msgid "unnatural/options/player"
 msgstr "Player"
@@ -1683,17 +1704,23 @@ msgstr "Music volume:"
 msgid "unnatural/options/telemetry"
 msgstr "Telemetry"
 
+msgid "unnatural/options/telemetry/buttonDisable"
+msgstr "Opt out"
+
+msgid "unnatural/options/telemetry/buttonEnable"
+msgstr "Enable"
+
 msgid "unnatural/options/telemetry/description/1"
-msgstr "I, Tomáš Malý, the developer of the game, collect logs from the game, for purpose of continued development, improvements, balance, bug fixes, performance metrics, and more."
+msgstr "I, Tomáš Malý, the developer of the game, collect logs from the game, for purpose of continued development, improvements, balance, bug fixes, performance metrics, etc."
 
 msgid "unnatural/options/telemetry/description/2"
-msgstr "The logs may contain some personal information, such as your steam user id and name, etc. See the eula for full disclosure."
+msgstr "The logs may contain some personal information, such as your steam user id and name. See the eula for full disclosure."
 
-msgid "unnatural/options/telemetry/disable"
-msgstr "Opt Out"
+msgid "unnatural/options/telemetry/statusDisabled"
+msgstr "Currently disabled."
 
-msgid "unnatural/options/telemetry/enable"
-msgstr "Enable"
+msgid "unnatural/options/telemetry/statusEnabled"
+msgstr "Currently enabled."
 
 msgid "unnatural/options/userInterface"
 msgstr "User interface"
@@ -1747,13 +1774,13 @@ msgid "unnatural/options/userInterface/sharedControls"
 msgstr "Shared controls:"
 
 msgid "unnatural/options/userInterface/sharedControls/description"
-msgstr "Allow toggling shared controls."
+msgstr "Allow toggling shared controls in game session."
 
-msgid "unnatural/options/userInterface/showNames"
-msgstr "Show names:"
+msgid "unnatural/options/userInterface/showIconNames"
+msgstr "Show icon names:"
 
-msgid "unnatural/options/userInterface/showNames/description"
-msgstr "Names shown over icons."
+msgid "unnatural/options/userInterface/showIconNames/description"
+msgstr "Names shown over unit/resource icons."
 
 msgid "unnatural/options/userInterface/tooltipDelay"
 msgstr "Tooltip delay:"
