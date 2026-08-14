@@ -259,31 +259,31 @@ msgid "unnatural/base/biomass/upgrades/awakening.proto/title"
 msgstr "Awakening"
 
 msgid "unnatural/base/biomass/upgrades/bark.proto/description"
-msgstr "Bark"
+msgstr "Makes the skin thicker. Improves defenses of all units and buildings."
 
 msgid "unnatural/base/biomass/upgrades/bark.proto/title"
 msgstr "Bark"
 
 msgid "unnatural/base/biomass/upgrades/claws.proto/description"
-msgstr "Claws"
+msgstr "Sharper claws improves damage of some units."
 
 msgid "unnatural/base/biomass/upgrades/claws.proto/title"
 msgstr "Claws"
 
 msgid "unnatural/base/biomass/upgrades/energize.proto/description"
-msgstr "Energize"
+msgstr "More energetic discharges increases damage of some units."
 
 msgid "unnatural/base/biomass/upgrades/energize.proto/title"
 msgstr "Energize"
 
 msgid "unnatural/base/biomass/upgrades/fertility.proto/description"
-msgstr "Nightmare fuel."
+msgstr "Faster units production."
 
 msgid "unnatural/base/biomass/upgrades/fertility.proto/title"
 msgstr "Fertility"
 
 msgid "unnatural/base/biomass/upgrades/overlord.proto/description"
-msgstr "Overlord"
+msgstr "Makes the overlord ready for combat."
 
 msgid "unnatural/base/biomass/upgrades/overlord.proto/title"
 msgstr "Overlord"
@@ -295,13 +295,13 @@ msgid "unnatural/base/biomass/upgrades/prosperity.proto/title"
 msgstr "Prosperity"
 
 msgid "unnatural/base/biomass/upgrades/regeneration.proto/description"
-msgstr "Flesh mending."
+msgstr "Flesh mending. Provides faster healing to all units and buildings."
 
 msgid "unnatural/base/biomass/upgrades/regeneration.proto/title"
 msgstr "Regeneration"
 
 msgid "unnatural/base/biomass/upgrades/venom.proto/description"
-msgstr "Venom"
+msgstr "More toxic chemicals to improve damage of some units."
 
 msgid "unnatural/base/biomass/upgrades/venom.proto/title"
 msgstr "Venom"
@@ -736,18 +736,6 @@ msgstr "Radar upgrade"
 msgid "unnatural/base/technocracy/upgrades/radar.proto/title"
 msgstr "Radar upgrade"
 
-msgid "unnatural/base/technocracy/upgrades/range.proto/description"
-msgstr "Improves shooting range of all units and buildings."
-
-msgid "unnatural/base/technocracy/upgrades/range.proto/title"
-msgstr "Range"
-
-msgid "unnatural/base/technocracy/upgrades/speed.proto/description"
-msgstr "Improves movement speed of all units."
-
-msgid "unnatural/base/technocracy/upgrades/speed.proto/title"
-msgstr "Speed"
-
 msgid "unnatural/base/technocracy/upgrades/talos.proto/description"
 msgstr "Talos upgrade"
 
@@ -784,11 +772,17 @@ msgstr "Warlord upgrade"
 msgid "unnatural/base/technocracy/upgrades/warlord.proto/title"
 msgstr "Warlord upgrade"
 
-msgid "unnatural/base/technocracy/upgrades/weapons.proto/description"
-msgstr "Improves firepower of all units and buildings."
+msgid "unnatural/base/technocracy/upgrades/weapons_damage.proto/description"
+msgstr "Improves damage of all units and buildings."
 
-msgid "unnatural/base/technocracy/upgrades/weapons.proto/title"
-msgstr "Weapons"
+msgid "unnatural/base/technocracy/upgrades/weapons_damage.proto/title"
+msgstr "Weapons damage"
+
+msgid "unnatural/base/technocracy/upgrades/weapons_range.proto/description"
+msgstr "Improves shooting range of all units and buildings."
+
+msgid "unnatural/base/technocracy/upgrades/weapons_range.proto/title"
+msgstr "Weapons range"
 
 msgid "unnatural/base/technocracy/upgrades/yatag.proto/description"
 msgstr "Yatag upgrade"
