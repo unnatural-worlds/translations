@@ -139,14 +139,14 @@ msgstr "Genemass"
 
 msgid "unnatural/base/biomass/units/blazepup.proto/description"
 msgstr "Flamethrower mounted on a hound.\n"
-"Flanking unit."
+"Front-line unit."
 
 msgid "unnatural/base/biomass/units/blazepup.proto/title"
 msgstr "Blazepup"
 
 msgid "unnatural/base/biomass/units/crysthide.proto/description"
 msgstr "Skin hardened with metal and carbon.\n"
-"Front-line unit."
+"Flanking unit."
 
 msgid "unnatural/base/biomass/units/crysthide.proto/title"
 msgstr "Crysthide"
@@ -331,7 +331,7 @@ msgid "unnatural/base/resources/credits.proto/title"
 msgstr "Credits"
 
 msgid "unnatural/base/resources/experience.proto/description"
-msgstr "Gained by killing opponents."
+msgstr "Obtained from own units dying in a heroic assaults."
 
 msgid "unnatural/base/resources/experience.proto/title"
 msgstr "Experience"
@@ -456,6 +456,12 @@ msgstr "Build a wall. Literally."
 
 msgid "unnatural/base/technocracy/buildings/wall.proto/title"
 msgstr "Wall"
+
+msgid "unnatural/base/technocracy/recipes/buy_ai_shard.proto/description"
+msgstr "Buy ai shard"
+
+msgid "unnatural/base/technocracy/recipes/buy_ai_shard.proto/title"
+msgstr "Buy ai shard"
 
 msgid "unnatural/base/technocracy/recipes/buy_metal.proto/description"
 msgstr "Buy metal"
