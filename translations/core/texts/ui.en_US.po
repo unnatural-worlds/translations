@@ -237,9 +237,6 @@ msgstr "Silicon Life"
 msgid "unnatural/campaigns/simulationCube"
 msgstr "Simulation Cube"
 
-msgid "unnatural/cancel"
-msgstr "Cancel"
-
 msgid "unnatural/chat/chat"
 msgstr "Chat"
 
@@ -260,9 +257,6 @@ msgstr "Everyone (*)"
 
 msgid "unnatural/chat/target/observers"
 msgstr "Observers"
-
-msgid "unnatural/close"
-msgstr "Close"
 
 msgid "unnatural/closeWindowTooltip"
 msgstr "Close {0}"
@@ -302,24 +296,6 @@ msgstr "Resources overview {0}"
 
 msgid "unnatural/commonGame/unitsOverview"
 msgstr "Units overview {0}"
-
-msgid "unnatural/commonGame/uwTitle1"
-msgstr "Unnatural"
-
-msgid "unnatural/commonGame/uwTitle2"
-msgstr "Worlds"
-
-msgid "unnatural/commonGame/vr/build"
-msgstr "Build"
-
-msgid "unnatural/commonGame/vr/diplomacy"
-msgstr "Diplomacy"
-
-msgid "unnatural/commonGame/vr/resources"
-msgstr "Resources"
-
-msgid "unnatural/commonGame/vr/selection"
-msgstr "Selection"
 
 msgid "unnatural/controls/camera"
 msgstr "Camera"
@@ -420,11 +396,11 @@ msgstr "Offer peace"
 msgid "unnatural/diplomacy/detail/player"
 msgstr "Player"
 
-msgid "unnatural/diplomacy/detail/policy"
-msgstr "Policy"
-
 msgid "unnatural/diplomacy/detail/score"
 msgstr "Score"
+
+msgid "unnatural/diplomacy/detail/status"
+msgstr "Status"
 
 msgid "unnatural/diplomacy/detailDesktop/ourOffer"
 msgstr "Our offer"
@@ -452,9 +428,6 @@ msgstr "Resources"
 
 msgid "unnatural/diplomacy/upgrades"
 msgstr "Upgrades"
-
-msgid "unnatural/diplomacy/vr/abortGame"
-msgstr "Abort Game"
 
 msgid "unnatural/diplomacy/workers"
 msgstr "Workers"
@@ -594,8 +567,8 @@ msgstr "Unknown"
 msgid "unnatural/findGame/address"
 msgstr "Address"
 
-msgid "unnatural/findGame/connectToLobbyWithIdFromClipboard"
-msgstr "Connect to lobby with ID from clipboard"
+msgid "unnatural/findGame/connectToLobbyWithIdInClipboard"
+msgstr "Connect to lobby with ID in clipboard"
 
 msgid "unnatural/findGame/findMultiplayerGame"
 msgstr "Find multiplayer game"
@@ -662,6 +635,9 @@ msgstr "None"
 
 msgid "unnatural/foreignPolicyEnum/self"
 msgstr "Self"
+
+msgid "unnatural/game/constructions"
+msgstr "Constructions {0}"
 
 msgid "unnatural/game/followCamera"
 msgstr "Follow Camera"
@@ -1140,17 +1116,11 @@ msgstr "Campaigns"
 msgid "unnatural/mainMenu/menu/controls"
 msgstr "Controls"
 
-msgid "unnatural/mainMenu/menu/createMp"
-msgstr "Create MP"
-
 msgid "unnatural/mainMenu/menu/custom"
 msgstr "Custom"
 
 msgid "unnatural/mainMenu/menu/findGame"
 msgstr "Find game"
-
-msgid "unnatural/mainMenu/menu/findMp"
-msgstr "Find MP"
 
 msgid "unnatural/mainMenu/menu/hostGame"
 msgstr "Host game"
@@ -1178,9 +1148,6 @@ msgstr "Ranked"
 
 msgid "unnatural/mainMenu/menu/replays"
 msgstr "Replays"
-
-msgid "unnatural/mainMenu/menu/singlePlayer"
-msgstr "Single player"
 
 msgid "unnatural/mainMenu/menu/tutorial"
 msgstr "Tutorial"
@@ -2247,8 +2214,14 @@ msgstr "Public"
 msgid "unnatural/session/addAi"
 msgstr "Add AI"
 
+msgid "unnatural/session/chat"
+msgstr "Chat"
+
 msgid "unnatural/session/chooseMap"
 msgstr "Choose map"
+
+msgid "unnatural/session/gameOptions"
+msgstr "Game options"
 
 msgid "unnatural/session/gameSession"
 msgstr "Game session"
@@ -2610,8 +2583,8 @@ msgstr "Stacking limit: "
 msgid "unnatural/tooltips/stealth"
 msgstr "Stealth: "
 
-msgid "unnatural/tooltips/tags"
-msgstr "Tags"
+msgid "unnatural/tooltips/traits"
+msgstr "Traits"
 
 msgid "unnatural/tooltips/Upgrade"
 msgstr "Upgrade"
@@ -2678,4 +2651,22 @@ msgstr "Recenter head position"
 
 msgid "unnatural/vrControls/sitComfortablyAndLookForward"
 msgstr "Sit or stand comfortably and look straight forward"
+
+msgid "unnatural/vrgame/chat"
+msgstr "Chat"
+
+msgid "unnatural/vrgame/constructions"
+msgstr "Constructions"
+
+msgid "unnatural/vrgame/diplomacy"
+msgstr "Diplomacy"
+
+msgid "unnatural/vrgame/resources"
+msgstr "Resources"
+
+msgid "unnatural/vrgame/selection"
+msgstr "Selection"
+
+msgid "unnatural/vrgame/units"
+msgstr "Units"
 
