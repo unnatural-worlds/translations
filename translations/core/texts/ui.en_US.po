@@ -2016,6 +2016,15 @@ msgstr "Searching"
 msgid "unnatural/ranked/seasonsRestart"
 msgstr "At the end of a season, all ranks and match history are fully reset.\nThis opens new opportunities."
 
+msgid "unnatural/ranked/uwapi_1v1"
+msgstr "Uwapi 1 vs. 1"
+
+msgid "unnatural/ranked/uwapi_1vsAI"
+msgstr "Uwapi Solo vs. AI"
+
+msgid "unnatural/ranked/uwapi_2vsAI"
+msgstr "Uwapi Coop vs. AI"
+
 msgid "unnatural/ranked/waiting"
 msgstr "Waiting"
 
