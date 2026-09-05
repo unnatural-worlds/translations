@@ -1812,6 +1812,9 @@ msgstr "Game objects:"
 msgid "unnatural/performanceTooltip/gameSpeed"
 msgstr "Game speed:"
 
+msgid "unnatural/performanceTooltip/gpuMemory"
+msgstr "GPU memory:"
+
 msgid "unnatural/performanceTooltip/gpuTimeAvgPeak"
 msgstr "GPU time (avg | peak):"
 
