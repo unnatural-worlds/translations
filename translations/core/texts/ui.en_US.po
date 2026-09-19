@@ -612,11 +612,17 @@ msgstr "Kills"
 msgid "unnatural/finishPlayers/losses"
 msgstr "Losses"
 
+msgid "unnatural/finishPlayers/ratio"
+msgstr "Ratio"
+
 msgid "unnatural/finishPlayers/score"
 msgstr "Score"
 
 msgid "unnatural/finishPlayers/undecided"
 msgstr "Undecided"
+
+msgid "unnatural/finishPlayers/value"
+msgstr "Value"
 
 msgid "unnatural/finishPlayers/winners"
 msgstr "Winners"
@@ -1800,8 +1806,8 @@ msgstr "Searching"
 msgid "unnatural/performanceTooltip/dynamicResolution"
 msgstr "Dynamic resolution:"
 
-msgid "unnatural/performanceTooltip/engineObjectsAvgPeak"
-msgstr "Engine objects (avg | peak):"
+msgid "unnatural/performanceTooltip/engineObjects"
+msgstr "Engine objects:"
 
 msgid "unnatural/performanceTooltip/frameTimeAvgPeak"
 msgstr "Frame time (avg | peak):"
@@ -2399,6 +2405,9 @@ msgstr "({0})"
 
 msgid "unnatural/statusFinish/gameOver"
 msgstr "Game over"
+
+msgid "unnatural/statusFinish/level"
+msgstr "Level: {0}"
 
 msgid "unnatural/statusPreparation/getReady"
 msgstr "Get ready"
