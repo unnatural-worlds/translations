@@ -603,28 +603,52 @@ msgstr "Searching..."
 msgid "unnatural/findGame/serverIpOrAddress"
 msgstr "Server IP or address"
 
-msgid "unnatural/finishPlayers/defeated"
+msgid "unnatural/finishResults/defeated"
 msgstr "Defeated"
 
-msgid "unnatural/finishPlayers/kills"
+msgid "unnatural/finishResults/duration"
+msgstr "Duration: {0}"
+
+msgid "unnatural/finishResults/durationIrl"
+msgstr "({0})"
+
+msgid "unnatural/finishResults/experienceProgress"
+msgstr "Experience: {0} / {1}"
+
+msgid "unnatural/finishResults/gainedExperience"
+msgstr "+{0} xp"
+
+msgid "unnatural/finishResults/gainedLevel"
+msgstr "Level up!"
+
+msgid "unnatural/finishResults/gameOver"
+msgstr "Game over"
+
+msgid "unnatural/finishResults/kills"
 msgstr "Kills"
 
-msgid "unnatural/finishPlayers/losses"
+msgid "unnatural/finishResults/level"
+msgstr "Level: {0}"
+
+msgid "unnatural/finishResults/losses"
 msgstr "Losses"
 
-msgid "unnatural/finishPlayers/ratio"
+msgid "unnatural/finishResults/ratio"
 msgstr "Ratio"
 
-msgid "unnatural/finishPlayers/score"
+msgid "unnatural/finishResults/score"
 msgstr "Score"
 
-msgid "unnatural/finishPlayers/undecided"
+msgid "unnatural/finishResults/undecided"
 msgstr "Undecided"
 
-msgid "unnatural/finishPlayers/value"
+msgid "unnatural/finishResults/value"
 msgstr "Value"
 
-msgid "unnatural/finishPlayers/winners"
+msgid "unnatural/finishResults/Victory"
+msgstr "Victory"
+
+msgid "unnatural/finishResults/winners"
 msgstr "Winners"
 
 msgid "unnatural/foreignPolicyEnum/ally"
@@ -2397,17 +2421,8 @@ msgstr "An error has occurred."
 msgid "unnatural/statusError/seeGameLogsToFindMoreInformation"
 msgstr "See game logs to find more information."
 
-msgid "unnatural/statusFinish/duration"
-msgstr "Duration: {0}"
-
-msgid "unnatural/statusFinish/durationIrl"
-msgstr "({0})"
-
 msgid "unnatural/statusFinish/gameOver"
 msgstr "Game over"
-
-msgid "unnatural/statusFinish/level"
-msgstr "Level: {0}"
 
 msgid "unnatural/statusPreparation/getReady"
 msgstr "Get ready"
