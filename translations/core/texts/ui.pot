@@ -231,11 +231,11 @@ msgstr "M.A.D. Protocol"
 msgid "unnatural/campaigns/play"
 msgstr "Play"
 
+msgid "unnatural/campaigns/provingGrounds"
+msgstr "Proving Grounds"
+
 msgid "unnatural/campaigns/siliconLife"
 msgstr "Silicon Life"
-
-msgid "unnatural/campaigns/simulationCube"
-msgstr "Simulation Cube"
 
 msgid "unnatural/chat/chat"
 msgstr "Chat"
@@ -468,8 +468,35 @@ msgstr "Discard changes"
 msgid "unnatural/editor/doodads"
 msgstr "Doodads"
 
+msgid "unnatural/editor/doodadsAmount"
+msgstr "Amount: "
+
+msgid "unnatural/editor/doodadsHealth"
+msgstr "Health: "
+
+msgid "unnatural/editor/doodadsMana"
+msgstr "Mana: "
+
+msgid "unnatural/editor/doodadsMarker"
+msgstr "Marker: "
+
+msgid "unnatural/editor/doodadsMarker/tooltip"
+msgstr "Typically used in scripts for assigning the doodad to a force.\n1 - own player\n2 - 6 - enemies\n7 - 9 - allies"
+
+msgid "unnatural/editor/doodadsProperties"
+msgstr "Doodads properties"
+
+msgid "unnatural/editor/doodadsRecipe"
+msgstr "Recipe: "
+
+msgid "unnatural/editor/doodadsSelector"
+msgstr "Doodads selector"
+
 msgid "unnatural/editor/doodadsWithKeybind"
 msgstr "Doodads {0}"
+
+msgid "unnatural/editor/edit"
+msgstr "Edit"
 
 msgid "unnatural/editor/editor"
 msgstr "Editor"
@@ -837,6 +864,9 @@ msgstr "Decorations"
 msgid "unnatural/key/editorScreen/doodads"
 msgstr "Doodads"
 
+msgid "unnatural/key/editorScreen/doodadsProperties"
+msgstr "Doodads properties"
+
 msgid "unnatural/key/editorScreen/markers"
 msgstr "Markers"
 
@@ -848,6 +878,9 @@ msgstr "Preview"
 
 msgid "unnatural/key/editorScreen/terrain"
 msgstr "Terrain"
+
+msgid "unnatural/key/orders/assignMarker"
+msgstr "Assign marker {0}"
 
 msgid "unnatural/key/orders/cancelDrawingFormation"
 msgstr "Cancel drawing formation"
@@ -1361,6 +1394,9 @@ msgstr "Total subscribers:"
 
 msgid "unnatural/mods/version"
 msgstr "Version"
+
+msgid "unnatural/objectivesList/objectives"
+msgstr "Objectives: "
 
 msgid "unnatural/options/advanced"
 msgstr "Advanced"
