@@ -222,8 +222,17 @@ msgstr "Unknown ({0})"
 msgid "unnatural/campaign/loading"
 msgstr "Loading"
 
+msgid "unnatural/campaigns/additionalMissionsAvailableInFullVersion"
+msgstr "Additional missions\navailable\nin full version"
+
 msgid "unnatural/campaigns/campaigns"
 msgstr "Campaigns"
+
+msgid "unnatural/campaigns/complete"
+msgstr "Complete"
+
+msgid "unnatural/campaigns/demo"
+msgstr "Demo"
 
 msgid "unnatural/campaigns/madProtocol"
 msgstr "M.A.D. Protocol"
@@ -236,6 +245,9 @@ msgstr "Proving Grounds"
 
 msgid "unnatural/campaigns/siliconLife"
 msgstr "Silicon Life"
+
+msgid "unnatural/campaigns/unsuccessful"
+msgstr "Unsuccessful"
 
 msgid "unnatural/chat/chat"
 msgstr "Chat"
@@ -1550,6 +1562,12 @@ msgstr "Strategic icons distance:"
 
 msgid "unnatural/options/gameplay/strategicIconsScale"
 msgstr "Strategic icons scale:"
+
+msgid "unnatural/options/gameplay/targetBonusDamage"
+msgstr "Target bonus damage:"
+
+msgid "unnatural/options/gameplay/targetBonusDamage/description"
+msgstr "Units will automatically prioritize targets with bonus damage."
 
 msgid "unnatural/options/graphics"
 msgstr "Graphics"
