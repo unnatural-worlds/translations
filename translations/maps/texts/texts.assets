@@ -1,0 +1,8 @@
+[]
+scheme = pack
+texts.pack
+
+[]
+scheme = texts
+scripts.pot
+translations.pot

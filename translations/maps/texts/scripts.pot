@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: unnatural-worlds\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI\n"
+"Last-Translator: translations <translations@unnatural-worlds.com>\n"
+"Language-Team: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_US\n"
+"X-Crowdin-SourceKey: msgstr\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: unnatural-worlds\n"
+"X-Crowdin-Project-ID: 677934\n"
+"X-Crowdin-Language: en\n"
+
+msgid "unnatural/maps/proving_grounds/brainfryer/brainfryerConstruction"
+msgstr "Brainfryer construction: {0} %"
+
+msgid "unnatural/maps/proving_grounds/brainfryer/brainfryerIsDone"
+msgstr "The Brainfryer is done for. Now lets finish the job."
+
+msgid "unnatural/maps/proving_grounds/brainfryer/brainfryerIsHalfComplete"
+msgstr "The Brainfryer is half complete. We should hurry."
+
+msgid "unnatural/maps/proving_grounds/brainfryer/destroyBrainfryer"
+msgstr "Destroy the Brainfryer and all Control cores."
+
+msgid "unnatural/maps/proving_grounds/brainfryer/destroyControlCores"
+msgstr "Destroy all Control cores."
+
+msgid "unnatural/maps/proving_grounds/brainfryer/itIsNotCompleteYet"
+msgstr "It is not complete yet, we can destroy it."
+
+msgid "unnatural/maps/proving_grounds/brainfryer/otherBasesAreProvidingSupplies"
+msgstr "The other bases are providing supplies, we should intercept them."
+
+msgid "unnatural/maps/proving_grounds/brainfryer/technocracyIsBuildingBrainfryer"
+msgstr "The technocracy is building a massive Brainfryer in the center.\nThat does not look good for us."
+
+msgid "unnatural/maps/proving_grounds/brainfryer/youTurnBackToCabbage"
+msgstr "You turn back to cabbage now!"
+
+msgid "unnatural/maps/proving_grounds/disturbed_core/biomassHadStolenEquipment"
+msgstr "Biomass had stolen some equipment from our factories,\nand is integrating it in their genetic strain."
+
+msgid "unnatural/maps/proving_grounds/disturbed_core/destroyAllInhibitors"
+msgstr "Destroy all Inhibitors and Overlords."
+
+msgid "unnatural/maps/proving_grounds/disturbed_core/emRadiationInEffect"
+msgstr "EM radiation in effect."
+
+msgid "unnatural/maps/proving_grounds/disturbed_core/inhibitorsCharge"
+msgstr "Inhibitors charge: {0} %"
+
+msgid "unnatural/maps/proving_grounds/disturbed_core/inhibitorsChargeDepleted"
+msgstr "The inhibitors charge has depleted.\nWe have control again."
+
+msgid "unnatural/maps/proving_grounds/disturbed_core/inhibitorsReachedFullCharge"
+msgstr "The inhibitors have reached full charge and are emiting EM radiation.\nWe have lost control of our units!"
+
+msgid "unnatural/maps/proving_grounds/disturbed_core/theyHaveErectedInhibitor"
+msgstr "They have erected an Inhibitor. It is charging up.\nEven the mighty Chip knows not what that will do."
+
+msgid "unnatural/maps/proving_grounds/fertile_grounds/captureAllEnemyBuildings"
+msgstr "Capture all enemy buildings."
+
+msgid "unnatural/maps/proving_grounds/fertile_grounds/thisPlanetsSoilSoFertile"
+msgstr "This planet's soil is so fertile, all buildings\nhave all the resources they need for production."
+
+msgid "unnatural/maps/proving_grounds/fertile_grounds/unfortunatelySoilStretchedThin"
+msgstr "Unfortunately, the soil is stretched so thin, that more buildings would collapse the ecosystem."
+
+msgid "unnatural/maps/proving_grounds/fertile_grounds/weCannotBuild"
+msgstr "We cannot build, but we can capture them instead."
+
+msgid "unnatural/maps/proving_grounds/surrounded/biomassLaunchedOffensive"
+msgstr "Biomass has launched a quick offensive on our mining colony."
+
+msgid "unnatural/maps/proving_grounds/surrounded/destroyAllEnemyOverlords"
+msgstr "Destroy all enemy Overlords."
+
+msgid "unnatural/maps/proving_grounds/surrounded/weHaveSomeDefenses"
+msgstr "We have managed to build some defenses. It will hold them for a time."
+
+msgid "unnatural/maps/proving_grounds/surrounded/weMustStrikeBack"
+msgstr "But we must strike back, or they will overrun us eventually."
+
+msgid "unnatural/maps/proving_grounds/tea_brewing/brewedTea"
+msgstr "Brewed tea: {0} / 1,000"
+
+msgid "unnatural/maps/proving_grounds/tea_brewing/destroyAllEnemyGranaries"
+msgstr "Destroy all enemy Granaries and Control core."
+
+msgid "unnatural/maps/proving_grounds/tea_brewing/destroyedGranaries"
+msgstr "Destroyed granaries: {0} / {1}"
+
+msgid "unnatural/maps/proving_grounds/tea_brewing/goodPutAnEnd"
+msgstr "Good. Put an end to the tea drinking."
+
+msgid "unnatural/maps/proving_grounds/tea_brewing/patheticSoSlow"
+msgstr "Pathetic. So slow. So inefficient."
+
+msgid "unnatural/maps/proving_grounds/tea_brewing/teaFarmsRidiculous"
+msgstr "Tea farms? Ridiculous. Inneficient!"
+
+msgid "unnatural/maps/proving_grounds/tea_brewing/weMustEradicateTreachery"
+msgstr "We must eradicate this treachery."
+

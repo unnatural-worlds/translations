@@ -15,20 +15,5 @@ msgstr ""
 "X-Crowdin-Project-ID: 677934\n"
 "X-Crowdin-Language: en\n"
 
-msgid "head.proto/title"
-msgstr "Head"
-
-msgid "head.proto/description"
-msgstr "Eyes, mouth, and brain of the snake."
-
-msgid "tail.proto/title"
-msgstr "Tail"
-
-msgid "tail.proto/description"
-msgstr "The collected treasure following you."
-
-msgid "coin.proto/title"
-msgstr "Coin"
-
-msgid "coin.proto/description"
-msgstr "Collect these coins and become the wealthiest snake in the world."
+msgid "unnatural/maps/proving_grounds/dummy/dummy"
+msgstr "dummy"
