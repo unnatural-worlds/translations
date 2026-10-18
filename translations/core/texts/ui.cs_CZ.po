@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: unnatural-worlds\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI\n"
-"PO-Revision-Date: 2026-10-17 23:22\n"
+"PO-Revision-Date: 2026-10-18 00:47\n"
 "Last-Translator: translations <translations@unnatural-worlds.com>\n"
 "Language-Team: Czech\n"
 "MIME-Version: 1.0\n"
@@ -281,7 +281,7 @@ msgid "unnatural/closeWindowX"
 msgstr "X"
 
 msgid "unnatural/commonGame/chat"
-msgstr "Chat {0}"
+msgstr "Zprávy {0}"
 
 msgid "unnatural/commonGame/defeated"
 msgstr "Poražený"
@@ -320,7 +320,7 @@ msgid "unnatural/controls/cinematicMode"
 msgstr "Kinematický režim"
 
 msgid "unnatural/controls/constructions"
-msgstr "Konstrukce"
+msgstr "Stavby"
 
 msgid "unnatural/controls/controls"
 msgstr "Ovládání"
@@ -365,7 +365,7 @@ msgid "unnatural/createGame/gameName"
 msgstr "Jméno hry:"
 
 msgid "unnatural/createGame/hostMultiplayerGame"
-msgstr "Hostujte hru pro více hráčů"
+msgstr "Založit hru pro více hráčů"
 
 msgid "unnatural/createGame/visibility"
 msgstr "Viditelnost:"
@@ -650,7 +650,7 @@ msgid "unnatural/findGame/serverIpOrAddress"
 msgstr "IP nebo adresa serveru"
 
 msgid "unnatural/finishResults/defeated"
-msgstr "Poražený"
+msgstr "Poražení"
 
 msgid "unnatural/finishResults/duration"
 msgstr "Trvání: {0}"
@@ -659,7 +659,7 @@ msgid "unnatural/finishResults/durationIrl"
 msgstr "({0})"
 
 msgid "unnatural/finishResults/experienceProgress"
-msgstr "Zkušenost: {0} / {1}"
+msgstr "Zkušenosti: {0} / {1}"
 
 msgid "unnatural/finishResults/gainedExperience"
 msgstr "+{0} xp"
@@ -782,10 +782,10 @@ msgid "unnatural/key/camera/moveRight"
 msgstr "Pohyb doprava"
 
 msgid "unnatural/key/camera/rollLeft"
-msgstr "Překlopit doleva"
+msgstr "Otočit doleva"
 
 msgid "unnatural/key/camera/rollRight"
-msgstr "Překlopit doprava"
+msgstr "Otočit doprava"
 
 msgid "unnatural/key/camera/zoomIn"
 msgstr "Přiblížit"
@@ -851,7 +851,7 @@ msgid "unnatural/key/constructions/cancelMenu"
 msgstr "Zrušit nabídku"
 
 msgid "unnatural/key/constructions/constructionsMenu"
-msgstr "Konstrukční menu"
+msgstr "Menu staveb"
 
 msgid "unnatural/key/debug/enableProfiling"
 msgstr "Povolit profilování"
@@ -920,10 +920,10 @@ msgid "unnatural/key/orders/enqueueOrder"
 msgstr "Přidá příkaz do fronty"
 
 msgid "unnatural/key/orders/fightOrderAttackMove"
-msgstr "Bojovat (útočný pohyb)"
+msgstr "Příkaz boje"
 
 msgid "unnatural/key/orders/guardOrderHoldPosition"
-msgstr "Chránit (držet pozici)"
+msgstr "Příkaz chránit (držet pozici)"
 
 msgid "unnatural/key/orders/highPriority"
 msgstr "Vysoká priorita"
@@ -1019,10 +1019,10 @@ msgid "unnatural/key/screens/nextMusic"
 msgstr "Další skladba"
 
 msgid "unnatural/key/screens/openChat"
-msgstr "Otevřít chat"
+msgstr "Otevřít zprávy"
 
 msgid "unnatural/key/screens/openChatEnter"
-msgstr "Otevřít chat (enter)"
+msgstr "Otevřít zprávy (enter)"
 
 msgid "unnatural/key/screens/openDiplomacy"
 msgstr "Otevřít diplomacii"
@@ -1058,7 +1058,7 @@ msgid "unnatural/key/selection/cancelSelection"
 msgstr "Zrušit výběr"
 
 msgid "unnatural/key/selection/clearSelection"
-msgstr "Smazat výběr"
+msgstr "Zrušit výběr"
 
 msgid "unnatural/key/selection/mergeWithSelection"
 msgstr "Sloučit s výběrem"
@@ -1067,7 +1067,7 @@ msgid "unnatural/key/selection/selectAllArmy"
 msgstr "Vybrat všechnu armádu"
 
 msgid "unnatural/key/selection/selectAllTrucks"
-msgstr "Vybrat všechny tahače"
+msgstr "Vybrat všechny kamiony"
 
 msgid "unnatural/key/selection/selectEverything"
 msgstr "Vybrat vše"
@@ -1076,7 +1076,7 @@ msgid "unnatural/key/selection/selectIdleArmy"
 msgstr "Vybrat nečinnou armádu"
 
 msgid "unnatural/key/selection/selectIdleTrucks"
-msgstr "Vybrat nečinné tahače"
+msgstr "Vybrat nečinné kamiony"
 
 msgid "unnatural/key/selection/selectionSphere"
 msgstr "Výběr"
@@ -1220,13 +1220,13 @@ msgid "unnatural/mainMenu/menu/presets"
 msgstr "Předvolby"
 
 msgid "unnatural/mainMenu/menu/quickVsAi"
-msgstr "Rychlé vs. AI"
+msgstr "Rychlá vs. AI"
 
 msgid "unnatural/mainMenu/menu/quit"
 msgstr "Ukončit"
 
 msgid "unnatural/mainMenu/menu/ranked"
-msgstr "Žebříček"
+msgstr "Žebříčky"
 
 msgid "unnatural/mainMenu/menu/replays"
 msgstr "Záznamy"
@@ -1244,7 +1244,7 @@ msgid "unnatural/mainMenu/playtest/thisIsNotFullVersion"
 msgstr "Toto není plná verze hry. Některé funkce jsou omezeny nebo vynechány."
 
 msgid "unnatural/mainMenu/singlePlayer"
-msgstr "Pro jednoho hráče"
+msgstr "Hra jednoho hráče"
 
 msgid "unnatural/mainMenu/socialsAndFeedback"
 msgstr "Sociální sítě a zpětná vazba"
@@ -1443,7 +1443,7 @@ msgid "unnatural/options/camera/inertia"
 msgstr "Setrvačnost:"
 
 msgid "unnatural/options/camera/invertMousePanning"
-msgstr "Převrátit tahání myší:"
+msgstr "Otočit směr tažení myší:"
 
 msgid "unnatural/options/camera/keyboardPanningSpeed"
 msgstr "Rychlost posouvání na klávesnici:"
@@ -1497,7 +1497,7 @@ msgid "unnatural/options/gameplay/color/inMinimap"
 msgstr "Alternativní barvy (minimapa):"
 
 msgid "unnatural/options/gameplay/color/inMinimap/description"
-msgstr "Používejte barvy definované níže v minimapě."
+msgstr "Používejte níže definované barvy v minimapě."
 
 msgid "unnatural/options/gameplay/color/inWorld"
 msgstr "Alternativní barvy (svět):"
@@ -1605,7 +1605,7 @@ msgid "unnatural/options/graphics/enableDynamicResolution"
 msgstr "Povolit dynamické rozlišení:"
 
 msgid "unnatural/options/graphics/enableDynamicResolution/description"
-msgstr "Automaticky sníží rozlišení aby dosáhl céleného fps."
+msgstr "Automaticky sníží rozlišení aby dosáhl cílového fps."
 
 msgid "unnatural/options/graphics/enableFogOfWar"
 msgstr "Povolit mlhu války:"
@@ -1728,10 +1728,10 @@ msgid "unnatural/options/ranked/searchRegionDistance/default"
 msgstr "Výchozí"
 
 msgid "unnatural/options/ranked/searchRegionDistance/far"
-msgstr "Daleké"
+msgstr "Daleko"
 
 msgid "unnatural/options/ranked/searchRegionDistance/worldwide"
-msgstr "Celosvětové"
+msgstr "Celý svět"
 
 msgid "unnatural/options/sound"
 msgstr "Zvuky"
@@ -1800,7 +1800,7 @@ msgid "unnatural/options/userInterface/cursorDynamic/description"
 msgstr "Kurzor reaguje na to, kde se nachází."
 
 msgid "unnatural/options/userInterface/cursorScale"
-msgstr "Měřítko kurzoru:"
+msgstr "Zvětšení kurzoru:"
 
 msgid "unnatural/options/userInterface/detailedTooltips"
 msgstr "Podrobné popisky:"
@@ -1809,7 +1809,7 @@ msgid "unnatural/options/userInterface/detailedTooltips/description"
 msgstr "Dodatečné informace o jednotkách."
 
 msgid "unnatural/options/userInterface/guiScale"
-msgstr "Měřítko GUI:"
+msgstr "Zvětšení GUI:"
 
 msgid "unnatural/options/userInterface/language"
 msgstr "Jazyk:"
@@ -1818,7 +1818,7 @@ msgid "unnatural/options/userInterface/minimapSize"
 msgstr "Velikost minimapy:"
 
 msgid "unnatural/options/userInterface/selectedInfoLevel"
-msgstr "Úroveň informací pro výběr:"
+msgstr "Úroveň informací o výběru:"
 
 msgid "unnatural/options/userInterface/selectedInfoLevel/extra"
 msgstr "Extra"
@@ -2079,7 +2079,7 @@ msgid "unnatural/ranked/rank"
 msgstr "Pořadí"
 
 msgid "unnatural/ranked/ranked"
-msgstr "Žebříček"
+msgstr "Žebříčky"
 
 msgid "unnatural/ranked/results/date"
 msgstr "Datum"
@@ -2287,7 +2287,7 @@ msgid "unnatural/selectedInfo/upgradeShootingRange"
 msgstr "Dostřel: {0} %"
 
 msgid "unnatural/selectedInfo/upgradeSplashRadius"
-msgstr "Poloměr splashe: {0}%"
+msgstr "Plošný rozsah: {0}%"
 
 msgid "unnatural/selectedInfo/upgradeStealth"
 msgstr "Plížení: {0} %"
@@ -2308,7 +2308,7 @@ msgid "unnatural/serverVisibilityEnum/lan"
 msgstr "LAN"
 
 msgid "unnatural/serverVisibilityEnum/localhost"
-msgstr "Místní host"
+msgstr "Místní pc"
 
 msgid "unnatural/serverVisibilityEnum/private"
 msgstr "Soukromý"
@@ -2320,7 +2320,7 @@ msgid "unnatural/session/addAi"
 msgstr "Přidat AI"
 
 msgid "unnatural/session/chat"
-msgstr "Chat"
+msgstr "Zprávy"
 
 msgid "unnatural/session/chooseMap"
 msgstr "Vybrat mapu"
@@ -2562,7 +2562,7 @@ msgid "unnatural/tooltips/detector"
 msgstr "Detektor"
 
 msgid "unnatural/tooltips/dps"
-msgstr "Poškození:"
+msgstr "Průměrné poškození: "
 
 msgid "unnatural/tooltips/duration"
 msgstr "Trvání: "
@@ -2667,16 +2667,16 @@ msgid "unnatural/tooltips/simpleCombat/movementSpeed"
 msgstr "Rychlost pohybu"
 
 msgid "unnatural/tooltips/simpleCombat/splashRadius"
-msgstr "Dosah výbuchu"
+msgstr "Plošný rozsah"
 
 msgid "unnatural/tooltips/splashEdgeDamage"
-msgstr "Poškozené cáknutí na hraně: "
+msgstr "Poškození na okraji plošného útoku: "
 
 msgid "unnatural/tooltips/splashFriendlyDamage"
-msgstr "Poškození přátel cáknutím: "
+msgstr "Poškození přátel plošným útokem: "
 
 msgid "unnatural/tooltips/splashRadius"
-msgstr "Poloměr splashe: "
+msgstr "Plošný rozsah: "
 
 msgid "unnatural/tooltips/stackingLimit"
 msgstr "Limit zásobníku: "
@@ -2715,10 +2715,10 @@ msgid "unnatural/tooltips/upgrade/regenerationSpeed"
 msgstr "Rychlost regenerace: "
 
 msgid "unnatural/tooltips/upgrade/splashRadius"
-msgstr "Poloměr splashe: "
+msgstr "Plošný rozsah: "
 
 msgid "unnatural/tooltips/upgrade/stealthRange"
-msgstr "Rádius plížení: "
+msgstr "Dosah plížení: "
 
 msgid "unnatural/tooltips/upgrade/visionRange"
 msgstr "Dohled: "
@@ -2730,7 +2730,7 @@ msgid "unnatural/units/buildings"
 msgstr "Budovy"
 
 msgid "unnatural/units/constructions"
-msgstr "Konstrukce"
+msgstr "Stavby"
 
 msgid "unnatural/units/units"
 msgstr "Jednotky"
@@ -2742,7 +2742,7 @@ msgid "unnatural/unitsStats/idleTotalMilitary"
 msgstr "Nicnedělající / celková armáda"
 
 msgid "unnatural/unitsStats/idleTotalWorkers"
-msgstr "Nicnedělající / celkový dělníci"
+msgstr "Nicnedělající / celkový kamiony"
 
 msgid "unnatural/vrControls/pressBOnLeftController"
 msgstr "Stiskněte B na levém ovladači"
@@ -2754,7 +2754,7 @@ msgid "unnatural/vrControls/sitComfortablyAndLookForward"
 msgstr "Seď nebo stůj pohodlně, a dívej se zpříma dopředu"
 
 msgid "unnatural/vrgame/chat"
-msgstr "Chat"
+msgstr "Zprávy"
 
 msgid "unnatural/vrgame/constructions"
 msgstr "Stavby"
