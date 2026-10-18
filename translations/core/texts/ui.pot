@@ -424,10 +424,10 @@ msgid "unnatural/diplomacy/diplomacy"
 msgstr "Diplomacy"
 
 msgid "unnatural/diplomacy/forceTooltip/kills"
-msgstr "Kills: "
+msgstr "Kills:"
 
 msgid "unnatural/diplomacy/forceTooltip/losses"
-msgstr "Losses: "
+msgstr "Losses:"
 
 msgid "unnatural/diplomacy/forceUnPause"
 msgstr "Enforce (un)pause"
@@ -481,16 +481,16 @@ msgid "unnatural/editor/doodads"
 msgstr "Doodads"
 
 msgid "unnatural/editor/doodadsAmount"
-msgstr "Amount: "
+msgstr "Amount:"
 
 msgid "unnatural/editor/doodadsHealth"
-msgstr "Health: "
+msgstr "Health:"
 
 msgid "unnatural/editor/doodadsMana"
-msgstr "Mana: "
+msgstr "Mana:"
 
 msgid "unnatural/editor/doodadsMarker"
-msgstr "Marker: "
+msgstr "Marker:"
 
 msgid "unnatural/editor/doodadsMarker/tooltip"
 msgstr "Typically used in scripts for assigning the doodad to a force.\n1 - own player\n2 - 6 - enemies\n7 - 9 - allies"
@@ -499,7 +499,7 @@ msgid "unnatural/editor/doodadsProperties"
 msgstr "Doodads properties"
 
 msgid "unnatural/editor/doodadsRecipe"
-msgstr "Recipe: "
+msgstr "Recipe:"
 
 msgid "unnatural/editor/doodadsSelector"
 msgstr "Doodads selector"
@@ -1408,7 +1408,7 @@ msgid "unnatural/mods/version"
 msgstr "Version"
 
 msgid "unnatural/objectivesList/objectives"
-msgstr "Objectives: "
+msgstr "Objectives:"
 
 msgid "unnatural/options/advanced"
 msgstr "Advanced"
@@ -1966,16 +1966,16 @@ msgid "unnatural/playerFlags/winner"
 msgstr "Winner"
 
 msgid "unnatural/playerTooltip/ping"
-msgstr "Ping: "
+msgstr "Ping:"
 
 msgid "unnatural/playerTooltip/rating"
-msgstr "Rating: "
+msgstr "Rating:"
 
 msgid "unnatural/playerTooltip/steamId"
-msgstr "Steam id: "
+msgstr "Steam id:"
 
 msgid "unnatural/playerTooltip/steamName"
-msgstr "Name: "
+msgstr "Name:"
 
 msgid "unnatural/presets/controls"
 msgstr "Warning: some controls may break on different devices."
@@ -2158,16 +2158,16 @@ msgid "unnatural/resources/resources"
 msgstr "Resources"
 
 msgid "unnatural/resources/resourceTooltip/available"
-msgstr "Available: "
+msgstr "Available:"
 
 msgid "unnatural/resources/resourceTooltip/consumption"
-msgstr "Consumption: "
+msgstr "Consumption:"
 
 msgid "unnatural/resources/resourceTooltip/needed"
-msgstr "Needed: "
+msgstr "Needed:"
 
 msgid "unnatural/resources/resourceTooltip/production"
-msgstr "Production: "
+msgstr "Production:"
 
 msgid "unnatural/resources/updateDetailsPlayer/available"
 msgstr "Available"
@@ -2517,6 +2517,9 @@ msgstr "Applies to"
 msgid "unnatural/tooltips/attack"
 msgstr "Attack"
 
+msgid "unnatural/tooltips/attackRange"
+msgstr "Attack range:"
+
 msgid "unnatural/tooltips/availableUpgrades"
 msgstr "Available upgrades"
 
@@ -2533,16 +2536,16 @@ msgid "unnatural/tooltips/construction"
 msgstr "Construction"
 
 msgid "unnatural/tooltips/constructionTime"
-msgstr "Construction time: "
+msgstr "Construction time:"
 
 msgid "unnatural/tooltips/consumedBy"
 msgstr "Consumed by"
 
 msgid "unnatural/tooltips/damage"
-msgstr "Damage: "
+msgstr "Damage:"
 
 msgid "unnatural/tooltips/damageAtLowLife"
-msgstr "Damage at low life: "
+msgstr "Damage at low life:"
 
 msgid "unnatural/tooltips/defense"
 msgstr "Defense"
@@ -2551,34 +2554,34 @@ msgid "unnatural/tooltips/detector"
 msgstr "Detector"
 
 msgid "unnatural/tooltips/dps"
-msgstr "DPS: "
+msgstr "DPS:"
 
 msgid "unnatural/tooltips/duration"
-msgstr "Duration: "
+msgstr "Duration:"
 
 msgid "unnatural/tooltips/elevation"
-msgstr "Elevation: "
+msgstr "Elevation:"
 
 msgid "unnatural/tooltips/explosionDamage"
-msgstr "Explosion damage: "
+msgstr "Explosion damage:"
 
 msgid "unnatural/tooltips/explosionEdgeDamage"
-msgstr "Explosion edge damage: "
+msgstr "Explosion edge damage:"
 
 msgid "unnatural/tooltips/explosionFriendlyDamage"
-msgstr "Explosion friendly damage: "
+msgstr "Explosion friendly damage:"
 
 msgid "unnatural/tooltips/explosionRadius"
-msgstr "Explosion radius: "
+msgstr "Explosion radius:"
 
 msgid "unnatural/tooltips/life"
-msgstr "Life: "
+msgstr "Life:"
 
 msgid "unnatural/tooltips/magic"
 msgstr "Magic"
 
 msgid "unnatural/tooltips/mana"
-msgstr "Mana: "
+msgstr "Mana:"
 
 msgid "unnatural/tooltips/meters"
 msgstr "{0} m"
@@ -2587,13 +2590,13 @@ msgid "unnatural/tooltips/metersPerSecond"
 msgstr "{0} m/s"
 
 msgid "unnatural/tooltips/minimumRange"
-msgstr "Minimum range: "
+msgstr "Minimum range:"
 
 msgid "unnatural/tooltips/movement"
 msgstr "Movement"
 
 msgid "unnatural/tooltips/oneShotDamage"
-msgstr "One shot damage: "
+msgstr "One-shot damage:"
 
 msgid "unnatural/tooltips/percents"
 msgstr "{0} %"
@@ -2605,16 +2608,13 @@ msgid "unnatural/tooltips/perSecond"
 msgstr "{0}/s"
 
 msgid "unnatural/tooltips/processingSpeed"
-msgstr "Processing speed: "
+msgstr "Processing speed:"
 
 msgid "unnatural/tooltips/producedIn"
 msgstr "Produced in"
 
-msgid "unnatural/tooltips/range"
-msgstr "Range: "
-
 msgid "unnatural/tooltips/rateOfFire"
-msgstr "Rate of fire: "
+msgstr "Rate of fire:"
 
 msgid "unnatural/tooltips/recipe"
 msgstr "Recipe"
@@ -2623,10 +2623,10 @@ msgid "unnatural/tooltips/recipes"
 msgstr "Recipes"
 
 msgid "unnatural/tooltips/regeneration"
-msgstr "Regeneration: "
+msgstr "Regeneration:"
 
 msgid "unnatural/tooltips/regenerationDelay"
-msgstr "Regeneration delay: "
+msgstr "Regeneration delay:"
 
 msgid "unnatural/tooltips/requirementsToUnlock"
 msgstr "Requirements to unlock"
@@ -2637,8 +2637,8 @@ msgstr "{0} s"
 msgid "unnatural/tooltips/simpleCombat/attackRange"
 msgstr "Attack range"
 
-msgid "unnatural/tooltips/simpleCombat/averageDamagePerSecond"
-msgstr "Average damage per second"
+msgid "unnatural/tooltips/simpleCombat/averageDamage"
+msgstr "Average damage"
 
 msgid "unnatural/tooltips/simpleCombat/deathExplosionDamage"
 msgstr "Death explosion damage"
@@ -2659,19 +2659,19 @@ msgid "unnatural/tooltips/simpleCombat/splashRadius"
 msgstr "Splash radius"
 
 msgid "unnatural/tooltips/splashEdgeDamage"
-msgstr "Splash edge damage: "
+msgstr "Splash edge damage:"
 
 msgid "unnatural/tooltips/splashFriendlyDamage"
-msgstr "Splash friendly damage: "
+msgstr "Splash friendly damage:"
 
 msgid "unnatural/tooltips/splashRadius"
-msgstr "Splash radius: "
+msgstr "Splash radius:"
 
 msgid "unnatural/tooltips/stackingLimit"
-msgstr "Stacking limit: "
+msgstr "Stacking limit:"
 
-msgid "unnatural/tooltips/stealth"
-msgstr "Stealth: "
+msgid "unnatural/tooltips/stealthRange"
+msgstr "Stealth range:"
 
 msgid "unnatural/tooltips/traits"
 msgstr "Traits"
@@ -2680,40 +2680,40 @@ msgid "unnatural/tooltips/Upgrade"
 msgstr "Upgrade"
 
 msgid "unnatural/tooltips/upgrade/attackRange"
-msgstr "Attack range: "
+msgstr "Attack range:"
 
 msgid "unnatural/tooltips/upgrade/damage"
-msgstr "Damage: "
+msgstr "Damage:"
 
 msgid "unnatural/tooltips/upgrade/defense"
-msgstr "Defense: "
+msgstr "Defense:"
 
 msgid "unnatural/tooltips/upgrade/movementSpeed"
-msgstr "Movement speed: "
+msgstr "Movement speed:"
 
 msgid "unnatural/tooltips/upgrade/percent"
 msgstr "{0} %"
 
 msgid "unnatural/tooltips/upgrade/processingSpeed"
-msgstr "Processing speed: "
+msgstr "Processing speed:"
 
 msgid "unnatural/tooltips/upgrade/regenerationDelay"
-msgstr "Regeneration delay: "
+msgstr "Regeneration delay:"
 
 msgid "unnatural/tooltips/upgrade/regenerationSpeed"
-msgstr "Regeneration speed: "
+msgstr "Regeneration speed:"
 
 msgid "unnatural/tooltips/upgrade/splashRadius"
-msgstr "Splash radius: "
+msgstr "Splash radius:"
 
 msgid "unnatural/tooltips/upgrade/stealthRange"
-msgstr "Stealth range: "
+msgstr "Stealth range:"
 
 msgid "unnatural/tooltips/upgrade/visionRange"
-msgstr "Vision range: "
+msgstr "Vision range:"
 
-msgid "unnatural/tooltips/vision"
-msgstr "Vision: "
+msgid "unnatural/tooltips/visionRange"
+msgstr "Vision range:"
 
 msgid "unnatural/units/buildings"
 msgstr "Buildings"
