@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: unnatural-worlds\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI\n"
-"PO-Revision-Date: 2026-10-18 00:47\n"
+"PO-Revision-Date: 2026-10-18 01:26\n"
 "Last-Translator: translations <translations@unnatural-worlds.com>\n"
 "Language-Team: Czech\n"
 "MIME-Version: 1.0\n"
@@ -2528,6 +2528,9 @@ msgstr "Vztahuje se na"
 msgid "unnatural/tooltips/attack"
 msgstr "Útok"
 
+msgid "unnatural/tooltips/attackRange"
+msgstr "Dosah útoku:"
+
 msgid "unnatural/tooltips/availableUpgrades"
 msgstr "Dostupná vylepšení"
 
@@ -2621,9 +2624,6 @@ msgstr "Rychlost zpracování: "
 msgid "unnatural/tooltips/producedIn"
 msgstr "Vyrobeno v"
 
-msgid "unnatural/tooltips/range"
-msgstr "Dostřel: "
-
 msgid "unnatural/tooltips/rateOfFire"
 msgstr "Rychlost střelby: "
 
@@ -2648,8 +2648,8 @@ msgstr "{0} s"
 msgid "unnatural/tooltips/simpleCombat/attackRange"
 msgstr "Dosah útoku"
 
-msgid "unnatural/tooltips/simpleCombat/averageDamagePerSecond"
-msgstr "Průměrné poškození za sekundu"
+msgid "unnatural/tooltips/simpleCombat/averageDamage"
+msgstr "Průměrné poškození"
 
 msgid "unnatural/tooltips/simpleCombat/deathExplosionDamage"
 msgstr "Poškození výbuchem po smrti"
@@ -2681,8 +2681,8 @@ msgstr "Plošný rozsah: "
 msgid "unnatural/tooltips/stackingLimit"
 msgstr "Limit zásobníku: "
 
-msgid "unnatural/tooltips/stealth"
-msgstr "Plížení: "
+msgid "unnatural/tooltips/stealthRange"
+msgstr "Dosah plížení:"
 
 msgid "unnatural/tooltips/traits"
 msgstr "Značky"
@@ -2723,8 +2723,8 @@ msgstr "Dosah plížení: "
 msgid "unnatural/tooltips/upgrade/visionRange"
 msgstr "Dohled: "
 
-msgid "unnatural/tooltips/vision"
-msgstr "Dohled: "
+msgid "unnatural/tooltips/visionRange"
+msgstr "Dohled:"
 
 msgid "unnatural/units/buildings"
 msgstr "Budovy"
