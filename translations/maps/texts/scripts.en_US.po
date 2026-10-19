@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: unnatural-worlds\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI\n"
-"PO-Revision-Date: 2026-10-18 01:26\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI\n"
 "Last-Translator: translations <translations@unnatural-worlds.com>\n"
 "Language-Team: English\n"
 "MIME-Version: 1.0\n"
@@ -14,8 +14,30 @@ msgstr ""
 "X-Crowdin-Project: unnatural-worlds\n"
 "X-Crowdin-Project-ID: 677934\n"
 "X-Crowdin-Language: en\n"
-"X-Crowdin-File: /maps/texts/scripts.pot\n"
-"X-Crowdin-File-ID: 139\n"
+
+msgid "unnatural/maps/proving_grounds/aether_must_flow/advancedResearchHasCompleted"
+msgstr "Advanced research has concluded too.\nWe implanted a microchip in their brains."
+
+msgid "unnatural/maps/proving_grounds/aether_must_flow/aetherSuppliesMustNotInterrupt"
+msgstr "Aether supplies must not be interuppted.\nDefend the trucks."
+
+msgid "unnatural/maps/proving_grounds/aether_must_flow/basicResearchHasCompleted"
+msgstr "Basic research has succeeded. We have cracked their stealth.\nUse these scouts mounted with detectors to destroy the biomass base."
+
+msgid "unnatural/maps/proving_grounds/aether_must_flow/biomassInfectionBrokeOut"
+msgstr "Biomass infection broke out nearby,\nand is threteaning our research."
+
+msgid "unnatural/maps/proving_grounds/aether_must_flow/destroyBiomassHatcheries"
+msgstr "Destroy biomass hatcheries."
+
+msgid "unnatural/maps/proving_grounds/aether_must_flow/ensureAetherIsDelivered"
+msgstr "Ensure aether is delivered."
+
+msgid "unnatural/maps/proving_grounds/aether_must_flow/hereAreSomeReinforcements"
+msgstr "Here are some reinforcements for you."
+
+msgid "unnatural/maps/proving_grounds/aether_must_flow/research"
+msgstr "Research: {0} %"
 
 msgid "unnatural/maps/proving_grounds/brainfryer/brainfryerConstruction"
 msgstr "Brainfryer construction: {0} %"
@@ -39,15 +61,13 @@ msgid "unnatural/maps/proving_grounds/brainfryer/otherBasesAreProvidingSupplies"
 msgstr "The other bases are providing supplies, we should intercept them."
 
 msgid "unnatural/maps/proving_grounds/brainfryer/technocracyIsBuildingBrainfryer"
-msgstr "The technocracy is building a massive Brainfryer in the center.\n"
-"That does not look good for us."
+msgstr "The technocracy is building a massive Brainfryer in the center.\nThat does not look good for us."
 
 msgid "unnatural/maps/proving_grounds/brainfryer/youTurnBackToCabbage"
 msgstr "You turn back to cabbage now!"
 
 msgid "unnatural/maps/proving_grounds/disturbed_core/biomassHadStolenEquipment"
-msgstr "Biomass had stolen some equipment from our factories,\n"
-"and is integrating it in their genetic strain."
+msgstr "Biomass had stolen some equipment from our factories,\nand is integrating it in their genetic strain."
 
 msgid "unnatural/maps/proving_grounds/disturbed_core/destroyAllInhibitors"
 msgstr "Destroy all Inhibitors and Overlords."
@@ -59,23 +79,19 @@ msgid "unnatural/maps/proving_grounds/disturbed_core/inhibitorsCharge"
 msgstr "Inhibitors charge: {0} %"
 
 msgid "unnatural/maps/proving_grounds/disturbed_core/inhibitorsChargeDepleted"
-msgstr "The inhibitors charge has depleted.\n"
-"We have control again."
+msgstr "The inhibitors charge has depleted.\nWe have control again."
 
 msgid "unnatural/maps/proving_grounds/disturbed_core/inhibitorsReachedFullCharge"
-msgstr "The inhibitors have reached full charge and are emiting EM radiation.\n"
-"We have lost control of our units!"
+msgstr "The inhibitors have reached full charge and are emiting EM radiation.\nWe have lost control of our units!"
 
 msgid "unnatural/maps/proving_grounds/disturbed_core/theyHaveErectedInhibitor"
-msgstr "They have erected an Inhibitor. It is charging up.\n"
-"Even the mighty Chip knows not what that will do."
+msgstr "They have erected an Inhibitor. It is charging up.\nEven the mighty Chip knows not what that will do."
 
 msgid "unnatural/maps/proving_grounds/fertile_grounds/captureAllEnemyBuildings"
 msgstr "Capture all enemy buildings."
 
 msgid "unnatural/maps/proving_grounds/fertile_grounds/thisPlanetsSoilSoFertile"
-msgstr "This planet's soil is so fertile, all buildings\n"
-"have all the resources they need for production."
+msgstr "This planet's soil is so fertile, all buildings\nhave all the resources they need for production."
 
 msgid "unnatural/maps/proving_grounds/fertile_grounds/unfortunatelySoilStretchedThin"
 msgstr "Unfortunately, the soil is stretched so thin, that more buildings would collapse the ecosystem."
@@ -96,7 +112,7 @@ msgid "unnatural/maps/proving_grounds/surrounded/weMustStrikeBack"
 msgstr "But we must strike back, or they will overrun us eventually."
 
 msgid "unnatural/maps/proving_grounds/tea_brewing/brewedTea"
-msgstr "Brewed tea: {0} / 1,000"
+msgstr "Brewed tea: {0} / 1000"
 
 msgid "unnatural/maps/proving_grounds/tea_brewing/destroyAllEnemyGranaries"
 msgstr "Destroy all enemy Granaries and Control core."

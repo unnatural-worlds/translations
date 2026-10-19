@@ -15,6 +15,30 @@ msgstr ""
 "X-Crowdin-Project-ID: 677934\n"
 "X-Crowdin-Language: en\n"
 
+msgid "unnatural/maps/proving_grounds/aether_must_flow/advancedResearchHasCompleted"
+msgstr "Advanced research has concluded too.\nWe implanted a microchip in their brains."
+
+msgid "unnatural/maps/proving_grounds/aether_must_flow/aetherSuppliesMustNotInterrupt"
+msgstr "Aether supplies must not be interuppted.\nDefend the trucks."
+
+msgid "unnatural/maps/proving_grounds/aether_must_flow/basicResearchHasCompleted"
+msgstr "Basic research has succeeded. We have cracked their stealth.\nUse these scouts mounted with detectors to destroy the biomass base."
+
+msgid "unnatural/maps/proving_grounds/aether_must_flow/biomassInfectionBrokeOut"
+msgstr "Biomass infection broke out nearby,\nand is threteaning our research."
+
+msgid "unnatural/maps/proving_grounds/aether_must_flow/destroyBiomassHatcheries"
+msgstr "Destroy biomass hatcheries."
+
+msgid "unnatural/maps/proving_grounds/aether_must_flow/ensureAetherIsDelivered"
+msgstr "Ensure aether is delivered."
+
+msgid "unnatural/maps/proving_grounds/aether_must_flow/hereAreSomeReinforcements"
+msgstr "Here are some reinforcements for you."
+
+msgid "unnatural/maps/proving_grounds/aether_must_flow/research"
+msgstr "Research: {0} %"
+
 msgid "unnatural/maps/proving_grounds/brainfryer/brainfryerConstruction"
 msgstr "Brainfryer construction: {0} %"
 
@@ -88,7 +112,7 @@ msgid "unnatural/maps/proving_grounds/surrounded/weMustStrikeBack"
 msgstr "But we must strike back, or they will overrun us eventually."
 
 msgid "unnatural/maps/proving_grounds/tea_brewing/brewedTea"
-msgstr "Brewed tea: {0} / 1,000"
+msgstr "Brewed tea: {0} / 1000"
 
 msgid "unnatural/maps/proving_grounds/tea_brewing/destroyAllEnemyGranaries"
 msgstr "Destroy all enemy Granaries and Control core."
