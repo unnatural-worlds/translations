@@ -228,14 +228,35 @@ msgstr "Additional missions\navailable\nin full version"
 msgid "unnatural/campaigns/campaigns"
 msgstr "Campaigns"
 
-msgid "unnatural/campaigns/complete"
-msgstr "Complete"
-
 msgid "unnatural/campaigns/demo"
 msgstr "Demo"
 
 msgid "unnatural/campaigns/madProtocol"
 msgstr "M.A.D. Protocol"
+
+msgid "unnatural/campaigns/missions/complete"
+msgstr "Complete"
+
+msgid "unnatural/campaigns/missions/duration"
+msgstr "Duration:"
+
+msgid "unnatural/campaigns/missions/kills"
+msgstr "Kills:"
+
+msgid "unnatural/campaigns/missions/losses"
+msgstr "Losses:"
+
+msgid "unnatural/campaigns/missions/score"
+msgstr "Score:"
+
+msgid "unnatural/campaigns/missions/totalAttempts"
+msgstr "Total attempts:"
+
+msgid "unnatural/campaigns/missions/totalDuration"
+msgstr "Total duration:"
+
+msgid "unnatural/campaigns/missions/unsuccessful"
+msgstr "Unsuccessful"
 
 msgid "unnatural/campaigns/play"
 msgstr "Play"
@@ -245,9 +266,6 @@ msgstr "Proving Grounds"
 
 msgid "unnatural/campaigns/siliconLife"
 msgstr "Silicon Life"
-
-msgid "unnatural/campaigns/unsuccessful"
-msgstr "Unsuccessful"
 
 msgid "unnatural/chat/chat"
 msgstr "Chat"
@@ -1835,6 +1853,12 @@ msgstr "Names shown over unit/resource icons."
 
 msgid "unnatural/options/userInterface/tooltipDelay"
 msgstr "Tooltip delay:"
+
+msgid "unnatural/options/userInterface/topbarCenter"
+msgstr "Topbar center:"
+
+msgid "unnatural/options/userInterface/topbarCenter/description"
+msgstr "Moves panel with menu and resources to center of screen."
 
 msgid "unnatural/orderTypeEnum/fight"
 msgstr "Fight"
