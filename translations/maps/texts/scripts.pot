@@ -87,8 +87,14 @@ msgstr "The inhibitors have reached full charge and are emiting EM radiation.\nW
 msgid "unnatural/maps/proving_grounds/disturbed_core/theyHaveErectedInhibitor"
 msgstr "They have erected an Inhibitor. It is charging up.\nEven the mighty Chip knows not what that will do."
 
-msgid "unnatural/maps/proving_grounds/fertile_grounds/captureAllEnemyBuildings"
-msgstr "Capture all enemy buildings."
+msgid "unnatural/maps/proving_grounds/fertile_grounds/captureAllHatcheries"
+msgstr "Capture all hatcheries."
+
+msgid "unnatural/maps/proving_grounds/fertile_grounds/enemy"
+msgstr "Enemy: {0}"
+
+msgid "unnatural/maps/proving_grounds/fertile_grounds/own"
+msgstr "Own: {0}"
 
 msgid "unnatural/maps/proving_grounds/fertile_grounds/thisPlanetsSoilSoFertile"
 msgstr "This planet's soil is so fertile, all buildings\nhave all the resources they need for production."

@@ -1629,12 +1629,6 @@ msgstr "Enable FXAA:"
 msgid "unnatural/options/graphics/enableFxaa/description"
 msgstr "Fast approximate anti-aliasing (reduces jagged edges)."
 
-msgid "unnatural/options/graphics/enableParticles"
-msgstr "Enable particles:"
-
-msgid "unnatural/options/graphics/enableParticles/description"
-msgstr "Shooting, bleeding, and explosions effects."
-
 msgid "unnatural/options/graphics/enableVsync"
 msgstr "Enable v-sync:"
 
@@ -1664,6 +1658,9 @@ msgstr "High quality maps:"
 
 msgid "unnatural/options/graphics/highQualityMaps/description"
 msgstr "Show all details in the map."
+
+msgid "unnatural/options/graphics/particlesQuality"
+msgstr "Particles quality:"
 
 msgid "unnatural/options/graphics/quality/high"
 msgstr "High"
