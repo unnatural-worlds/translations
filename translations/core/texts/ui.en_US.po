@@ -1926,6 +1926,9 @@ msgstr "GPU time (avg | peak):"
 msgid "unnatural/performanceTooltip/mainThreadUtilization"
 msgstr "Main thread utilization:"
 
+msgid "unnatural/performanceTooltip/networkQuality"
+msgstr "Network quality:"
+
 msgid "unnatural/performanceTooltip/networkUpDown"
 msgstr "Network (up | down):"
 
