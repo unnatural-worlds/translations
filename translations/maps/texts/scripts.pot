@@ -129,6 +129,9 @@ msgstr "Destroyed granaries: {0} / {1}"
 msgid "unnatural/maps/proving_grounds/tea_brewing/goodPutAnEnd"
 msgstr "Good. Put an end to the tea drinking."
 
+msgid "unnatural/maps/proving_grounds/tea_brewing/iSuspectTheyWillNotice"
+msgstr "I suspect they will notice that some tea is missing soon."
+
 msgid "unnatural/maps/proving_grounds/tea_brewing/patheticSoSlow"
 msgstr "Pathetic. So slow. So inefficient."
 
